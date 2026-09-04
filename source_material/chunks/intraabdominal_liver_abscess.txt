@@ -1,0 +1,882 @@
+# TOPIC: intraabdominal_liver_abscess
+
+--- [WHO AWaRe Antibiotic Book (2022) | 30. Intra-abdominal infections - pyogenic liver abscess | p.430-449 | audience=general] ---
+414The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+30. Intra-abdominal infections – 
+pyogenic liver abscess
+Key messages
+• In clinically stable patients, targeted antibiotic treatment based on the results of 
+microbiology tests (cultures of abscess material, blood cultures) is always preferable.
+• Early source control (i.e. drainage of the abscess) is usually required when feasible in 
+addition to antibiotic treatment, especially for large abscesses > 5 cm in diameter.
+• The intravenous route is preferred for initial treatment.
+• Consider the possibility of an amoebic abscess and hydatid disease in the differential 
+diagnosis because these diagnoses require different management.
+Definition
+A pyogenic liver abscess is defined as a collection of pus within the liver.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+415
+HOSPITAL FACILITY 
+30. Intra-abdominal infections – pyogenic liver abscess
+Pyogenic liver abscess
+Intra-abdominal infection • Page 1 of 2
+A collec tion of pus within the liv er
+De/g246nition
+Classi/g246cation based on severity:
+•: Not critically ill with no signs of sepsis or septic shockMild
+•: Critically ill with signs of sepsis or septic shockSevere
+Diagnosis
+Clinical Presentation
+Fe v er (≥ 38.0 °C ) and abdominal pain (mostly localized in
+the right upper abdominal quadrant) +/- v omiting , nausea,
+anor exia, malaise and jaundic e
+•Blood cultur es (ideally befor e star ting antibiotics)
+•M icr oscopy and cultur e of abscess /g248uid material (if this
+can be drained) to adjust empiric antibiotic tr eatmen t
+•T ests fo r: Entamoeba histolytica
+-A ntigen or nucleic acid ampli/g246cation tests of abscess
+aspirate material
+-S er ology (ho we ve ri n endemic settings , ser ology can
+r emain positiv ef or months/y ears afte rr esolution of
+infec tion)
+Microbiology Tests
+Determine disease severity and help identify a
+bacterial infection:W hite blood cell count, C-r eac tiv e
+pr otein and/or pr ocalcitonin
+Assess liver function: AST , bilirubin and alk aline
+phosphatase
+•I f sepsis is suspec ted consider additional laborator y tests
+(see sepsis infographic)
+Other LaboratoryTests
+•A bdominal ultrasound to con/g246rm the diagnosis
+•C onsider a CT scan of the abdomen especially if
+complications ar e suspec ted or diagnosis is uncer tain
+Imaging
+In fec tions ar e often polymicr obial
+Bacteria:
+•E nterobacterales (mostly ,,Escherichia coli Klebsiella pneumoniae
+Enterobacter spp .) including multidrug-r esistant strains
+• (mostly Southeast Asia and nor thernBurkholderia pseudomallei
+Australia)
+• spp .Staphylococcus
+• spp . (e .g . of the group)Streptococcus S. anginosus
+• spp .Enterococcus
+•A naer obes (mostly spp .)Bacteroides
+Fungi:
+•M ostly (not a cause of "py ogenic" abscess butCandida albicans
+consider in immunocompr omised patients or re cent course of
+antibiotics)
+Parasites (consider in endemic settings):
+• (not a cause of “p y ogenic ”abscess butEntamoeba histolytica
+consider in the diffe re ntial diagnosis)
+Most Likely Pathogens
+Treatment (Section 1 of 2)
+Clinical Considerations
+•Drainage of the abscess remains the main approach
+to eliminate the source of infection (especially for large
+abscesses >5 cm with higher risk of ruptur e)
+•Drainage is also impor tant to identify the causativ e
+pathogen and its r esistance pr o/g246le
+•Mild:T argeted antibiotic tr eatment pr eferr ed (risk of
+infec tion due to Enter obac terales producing ESBL or
+carbapenemases)
+•Severe: Empiric tr eatment considering local pr evalence of
+r esistance (par ticularly of isolates of Enter obac terales
+pr oducing ESBL or carbapenemases) and individual risk
+fac tors for r esistant pathogens
+Important:
+•Simplify empiric tr eatment to a mor e narr owspec trum antibiotic based on cultur e r esults or rapid
+clinical impr ovement if culture results unavailable
+•Step down to oral treatment is based on
+impr ovement of symptoms, signs of infec tion and the
+ability to take oral antibiotics
+•If signs and symptoms persist, abdominal imaging
+is suggested , or an alternativ e ex tra-abdominal sour ce
+of infec tion should be consider ed
+416
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+30. Intra-abdominal infections – pyogenic liver abscess
+Pyogenic liver abscess
+Intra-abdominal infection • Page 2 of 2
+All dosages are for normal renal function
+Amoebic Abscess
+Treatment (Section 2 of 2)
+Antibiotic Treatment Duration
+Amoxicillin+clavulanic acid 1 g+200 mg q8h IV
+OR 875 mg+125 mg q8h ORAL
+----------------------------------- -----------------------------------OR
+First Choice
+Mild Cases
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+----------------------------- -----------------------------OR
+Cefotaxime 2 g q8h IV
+Ceftriaxone 2 g q24h IV
+---------------------- ----------------------COMBINED WITH
+Metronidazole 500 mg q8h IV/ORAL
+---------------------- ----------------------COMBINED WITH
+Metronidazole 500 mg q8h IV/ORAL
+Cipro/g248oxacin 500 mg q12h ORAL
+Second Choice
+Cipro/g248oxacin and metronidazole have excellent oral
+bioavailability and the IV route should be reserved for
+patients with impaired gastrointestinal function
+First Choice
+Severe Cases
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+----------------------------- -----------------------------OR
+Cefotaxime 2 g q8h IV
+Ceftriaxone 2 g q24h IV
+---------------------- ----------------------COMBINED WITH
+Metronidazole 500 mg q8h IV/ORAL
+----------------------------------- -----------------------------------OR
+Piperacillin+tazobactam 4 g + 500 mg q6h IV
+Second Choice
+Meropenem 1 g q8h IV
+Consider meropenem only in complicated cases if there is a
+high risk of infection with ESBL-producing Enterobacterales
+------------------------ ------------------------FOLLOWED BY
+Paromomycin 25-35 mg/kg divided in
+3 doses ORAL
+Metronidazole 750 mg q8h ORAL
+•Usually long (at least 4 weeks) depending on adequate
+source control with drainage procedures
+•Longer treatment in case of Burkholderia pseudomallei
+infection (months)
+•Follow up imaging can help de/g246ning antibiotic treatment
+duration
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+417
+HOSPITAL FACILITY 
+30. Intra-abdominal infections – pyogenic liver abscess
+Pyogenic liver abscess
+Intra-abdominal infection • Page 1 of 3
+A collec tion of pus within the liv er
+De/g246nition
+Classi/g246cation based on severity:
+•: Not critically ill with no signs of sepsis or septic shockMild
+•: Critically ill with signs of sepsis or septic shockSevere
+Diagnosis
+Clinical Presentation
+Fe v er (≥ 38.0 °C ) and abdominal pain (mostly localized in
+the right upper abdominal quadrant) +/- v omiting , nausea,
+anor exia, malaise and jaundic e
+•Blood cultur es (ideally befor e star ting antibiotics)
+•M icr oscopy and cultur e of abscess /g248uid material (if this
+can be drained) to adjust empiric antibiotic tr eatmen t
+•T ests fo r: Entamoeba histolytica
+-A ntigen or nucleic acid ampli/g246cation tests of abscess
+aspirate material
+-S er ology (ho we ve ri n endemic settings , ser ology can
+r emain positiv ef or months/y ears afte rr esolution of
+infec tion)
+Microbiology Tests
+Determine disease severity and help identify a
+bacterial infection:W hite blood cell count, C-r eac tiv e
+pr otein and/or pr ocalcitonin
+Assess liver function: AST , bilirubin and alk aline
+phosphatase
+•I f sepsis is suspec ted consider additional laborator y tests
+(see sepsis infographic)
+Other LaboratoryTests
+•A bdominal ultrasound to con/g246rm the diagnosis
+•C onsider a CT scan of the abdomen especially if
+complications ar e suspec ted or diagnosis is uncer tain
+Imaging
+In fec tions ar e often polymicr obial
+Bacteria:
+•E nterobacterales (mostly ,,Escherichia coli Klebsiella pneumoniae
+Enterobacter spp .) including multidrug-r esistant strains
+• (mostly Southeast Asia and nor thernBurkholderia pseudomallei
+Australia)
+• spp .Staphylococcus
+• spp . (e .g . of the group)Streptococcus S. anginosus
+• spp .Enterococcus
+•A naer obes (mostly spp .)Bacteroides
+Fungi:
+•M ostly (not a cause of "py ogenic" abscess butCandida albicans
+consider in immunocompr omised patients or re cent course of
+antibiotics)
+Parasites (consider in endemic settings):
+• (not a cause of “p y ogenic ”abscess butEntamoeba histolytica
+consider in the diffe re ntial diagnosis)
+Most Likely Pathogens
+Treatment (Section 1 of 3)
+Clinical Considerations
+•Drainage of the abscess remains the main approach
+to eliminate the source of infection (especially for large
+abscesses >5 cm with higher risk of ruptur e)
+•Drainage is also impor tant to identify the causativ e
+pathogen and its r esistance pr o/g246le
+•Mild:T argeted antibiotic tr eatment pr eferr ed (risk of
+infec tion due to Enter obac terales producing ESBL or
+carbapenemases)
+•Severe: Empiric tr eatment considering local pr evalence of
+r esistance (par ticularly of isolates of Enter obac terales
+pr oducing ESBL or carbapenemases) and individual risk
+fac tors for r esistant pathogens
+Important:
+•Simplify empiric tr eatment to a mor e narr owspec trum antibiotic based on cultur e r esults or rapid
+clinical impr ovement if culture results unavailable
+•Step down to oral treatment is based on
+impr ovement of symptoms, signs of infec tion and the
+ability to take oral antibiotics
+•If signs and symptoms persist, abdominal imaging
+is suggested , or an alternativ e ex tra-abdominal sour ce
+of infec tion should be consider ed
+418
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+30. Intra-abdominal infections – pyogenic liver abscess
+Pyogenic liver abscess
+Intra-abdominal infection • Page 2 of 3
+Treatment (Section 2 of 3)
+•Usually long (at least 4 weeks) depending on adequate
+source control with drainage procedures
+•Longer treatment in case of Burkholderia pseudomallei
+infection (months)
+•Follow up imaging can help de/g246ning antibiotic treatment
+duration
+Antibiotic Treatment Duration
+Mild Cases
+See the following page for treatment recommendations
+Severe Cases
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+First Choice
+Ampicillin IV
+•1st week of life: 50 mg/kg/dose q12h
+•> 1st week of life: 50 mg/kg/dose q8h
+Gentamicin IV
+•Neonates: 5 mg/kg q24h
+•Children: 7.5 mg/kg q24h
+---------------------- ----------------------COMBINED WITH
+---------------------- ----------------------COMBINED WITH
+Metronidazole IV/ORAL
+•Neonates: 7.5 mg/kg/dose q12h (for IV
+loading dose: 15 mg/kg)
+•Children: 7.5 mg/kg/dose q8h
+•:Oral weight bands
+3-<6 kg 30 mg q8h
+6-<10 kg 50 mg q8h
+10-<15 kg 100 mg q8h
+15-<20 kg 150 mg q8h
+20-<30 kg 200 mg q8h
+≥30 kg 500 mg q8h
+----------------------------------- -----------------------------------OR
+Piperacillin+tazobactam 100 mg/kg/dose of
+piperacillin component q8h IV
+Second Choice
+Meropenem 20 mg/kg/dose q8h IV
+Consider meropenem only in complicated cases if there is a
+high risk of infection with ESBL-producing Enterobacterales
+Metronidazole 10-15 mg/kg/dose q8h ORAL
+Amoebic Abscess
+All dosages are for normal renal function
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+419
+HOSPITAL FACILITY 
+30. Intra-abdominal infections – pyogenic liver abscess
+Pyogenic liver abscess
+Intra-abdominal infection • Page 3 of 3
+Cipro/g248oxacin 15 mg/kg/dose q12h
+IV/ORAL
+•:Oral weight bands
+3-<6 kg 50 mg q12h
+6-<10 kg 100 mg q12h
+10-<15 kg 150 mg q12h
+15-<20 kg 200 mg q12h
+20-<30 kg 300 mg q12h
+≥30 kg 500 mg q12h
+Mild Cases
+Treatment (Section 3 of 3)
+----------------------------- -----------------------------OR
+Cefotaxime 50 mg/kg/dose q8h IV
+Ceftriaxone 80 mg/kg/dose q24h IV
+---------------------- ----------------------COMBINED WITH
+Metronidazole IV/ORAL
+•Neonates: 7.5 mg/kg/dose q12h (for IV
+loading dose: 15 mg/kg)
+•Children: 7.5 mg/kg/dose q8h
+•:Oral weight bands
+3-<6 kg 30 mg q8h
+6-<10 kg 50 mg q8h
+10-<15 kg 100 mg q8h
+15-<20 kg 150 mg q8h
+20-<30 kg 200 mg q8h
+≥30 kg 500 mg q8h
+Second Choice
+---------------------- ----------------------COMBINED WITH
+Metronidazole IV/ORAL
+•Neonates: 7.5 mg/kg/dose q12h (for IV
+loading dose: 15 mg/kg)
+•Children: 7.5 mg/kg/dose q8h
+•:Oral weight bands
+3-<6 kg 30 mg q8h
+6-<10 kg 50 mg q8h
+10-<15 kg 100 mg q8h
+15-<20 kg 150 mg q8h
+20-<30 kg 200 mg q8h
+≥30 kg 500 mg q8h
+Cipro/g248oxacin and metronidazole have excellent oral
+bioavailability and the IV route should be reserved for patients
+with impaired gastrointestinal function
+Amoxicillin+clavulanic acid
+IV:
+•1st week of life: 50 mg/kg/dose of amoxicillin
+component q12h
+•> 1st week of life: 50 mg/kg/dose of
+amoxicillin component q8h
+ORAL: 80-90 mg/kg/day of amoxicillin
+component
+•:Oral weight bands
+3-<6 kg 250 mg of amox/dose q12h
+6-<10 kg 375 mg of amox/dose q12h
+10-<15 kg 500 mg of amox/dose q12h
+15-<20 kg 750 mg of amox/dose q12h
+≥20 kg 500 mg of amox/dose q8h or
+1 g of amox/dose q12h
+First Choice
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+----------------------------------- -----------------------------------OR
+Amox = amoxicillin
+Oral liquid must be refrigerated after reconstitution
+Ampicillin IV
+•1st week of life: 50 mg/kg/dose q12h
+•> 1st week of life: 50 mg/kg/dose q8h
+Gentamicin IV
+•Neonates: 5 mg/kg q24h
+•Children: 7.5 mg/kg q24h
+---------------------- ----------------------COMBINED WITH
+---------------------- ----------------------COMBINED WITH
+Metronidazole IV/ORAL
+•Neonates: 7.5 mg/kg/dose q12h (for IV
+loading dose: 15 mg/kg)
+•Children: 7.5 mg/kg/dose q8h
+•:Oral weight bands
+3-<6 kg 30 mg q8h
+6-<10 kg 50 mg q8h
+10-<15 kg 100 mg q8h
+15-<20 kg 150 mg q8h
+20-<30 kg 200 mg q8h
+≥30 kg 500 mg q8h
+----------------------------------- -----------------------------------OR
+420The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+30. Intra-abdominal infections – pyogenic liver abscess
+Pathophysiology
+A pyogenic liver abscess develops when a biliary infection spreads directly to the liver 
+or when a complicated intra-abdominal infection spreads to the liver via the portal 
+circulation. In cases of systemic infection, the infection may also spread to the liver via 
+the bloodstream.
+Epidemiology
+Pyogenic liver abscess is the most common type of visceral abscess (305). It is frequently 
+associated with male sex and diabetes. Pyogenic liver abscess is more common in 
+South-East Asia (306) probably due to the different epidemiology of certain causative 
+pathogens, such as Klebsiella pneumoniae. Underlying hepatobiliary or pancreatic diseases 
+(e.g. malignancy, cirrhosis, recent abdominal or biliary surgery) are common risk factors. 
+Abscess rupture is a rare but severe complication associated with a high mortality if not 
+treated immediately.
+Most likely pathogens
+Most cases of liver abscess are caused by enteric Gram-negative bacteria and anaerobes 
+and most cases involve more than one pathogen (Table 30.1) (307). A hypervirulent 
+strain of Klebsiella pneumoniae is an increasingly common cause of liver abscess in Asia 
+(308,309). Burkholderia pseudomallei (a Gram-negative bacterium found in soil and water 
+and transmitted by inhalation or ingestion or inoculation) is also a cause of liver abscess in 
+endemic countries, mostly in South-East Asia and in Australia.
+Parasites, notably Entamoeba histolytica (acquired by ingestion of contaminated 
+food or water), are another frequent cause of liver abscess in endemic settings: Indian 
+subcontinent, Africa, and Central and South America (310,311).
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book421
+HOSPITAL FACILITY 
+30. Intra-abdominal infections – pyogenic liver abscess
+Table 30.1 – Pathogens most frequently associated with liver abscess (in 
+descending order of frequency)
+Bacteria Parasites Fungi
+Enterobacterales (mostly Escherichia 
+coli, Klebsiella pneumoniaea, Enterobacter 
+spp.) including multidrug-resistant 
+strains such as those producing ESBL and 
+carbapenemases
+Staphylococcus spp.
+Streptococcus spp. (e.g. of the Streptococcus 
+anginosus group – old name: Streptococcus 
+milleri) 
+Enterococcus spp. 
+Anaerobes (mostly Bacteroides spp.)
+In endemic settings consider
+Burkholderia pseudomalleib
+Entamoeba 
+histolyticac 
+Candida spp.d
+ESBL: extended-spectrum beta-lactamases.
+a In Asia, Klebsiella pneumoniae is currently the main cause of liver abscess.
+b Burkholderia pseudomallei is an important cause of liver abscess in South-East Asia and northern Australia.
+c This pathogen is not a cause of pyogenic abscess but needs to be considered in the differential diagnosis, 
+especially in patients who live in or have travelled to settings where Entamoeba histolytica is endemic.
+d This pathogen is not a cause of pyogenic abscess and is infrequent in immunocompetent individuals but should 
+be considered in the context of immunosuppression. Often it is in combination with bacteria.
+Clinical presentation
+Pyogenic liver abscess should be considered in all cases of fever (≥ 38.0 °C) and abdominal 
+pain, mostly localized in the right upper abdominal quadrant. Vomiting, nausea, anorexia, 
+malaise and jaundice are other common symptoms.
+Laboratory tests 
+Patient microbiology tests
+Whenever possible, a microbiology sample should be obtained (see Table 30.2) to guide 
+antibiotic treatment. Ideally, the sample should be obtained before antibiotic treatment 
+is started. The reason for doing microbiology tests is to determine the type of pathogen 
+causing infection and its resistance profile in order to provide adequate treatment (312).
+422The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+30. Intra-abdominal infections – pyogenic liver abscess
+Table 30.2 – Microbiology tests to consider when a liver abscess is suspected 
+(including testing for Entamoeba histolytica) as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Blood cultures and 
+antimicrobial susceptibility 
+testing
+To detect bacterial bloodstream 
+infections
+Health care facilities with 
+clinical laboratories
+Microscopy, culture and 
+antimicrobial susceptibility 
+testing of abscess or pus 
+aspirate
+Initial step to detect and identify 
+bacterial and fungal species 
+for selection of appropriate 
+antimicrobial regimens
+Health care facilities with 
+clinical laboratories
+Microscopy of stool sample 
+for Entamoeba histolytica
+To diagnose Entamoeba 
+histolyticaa
+Health care facilities with 
+clinical laboratories
+Antigen or nucleic acid 
+amplification test (i.e. 
+polymerase chain reactionb) 
+of abscess aspirate material 
+for Entamoeba histolytica
+To diagnose Entamoeba 
+histolyticaa
+–c
+Serology for Entamoeba 
+histolyticad
+To diagnose Entamoeba 
+histolyticaa
+–c
+EDL: Model List of Essential In Vitro Diagnostics.
+a Entamoeba histolytica is not a cause of pyogenic abscess but a cause of liver abscess that needs to be considered 
+in the differential diagnosis in endemic settings. However, patients with amoebic liver abscess usually have no 
+bowel symptoms; therefore, stool testing (microscopy or antigen) has a low sensitivity and is of limited usefulness 
+for diagnosis.
+b Antigen or nucleic acid amplification testing of abscess aspirate material for Entamoeba histolytica could be 
+considered where available. Diagnosis is often difficult in low- and middle-income countries due to limited 
+laboratory resources and the fact that most patients present after a failed course of antibiotic treatment for 
+pyogenic abscess; therefore the yield of any microbiology tests is lower (311,312).
+c This test is not in the WHO EDL (6).
+d Serology is a useful test in the diagnosis of invasive amoebiasis and is positive in more than 90% of patients with 
+the disease. A positive serology combined with a compatible clinical presentation suggests active disease. However, 
+in endemic settings, a positive result is more difficult to interpret since serology can remain positive for months and 
+even years after resolution of the infection. Therefore, past and current infections become difficult to distinguish. With 
+negative results, if the clinical suspicion of invasive amoebiasis is still strong, serology could be repeated after 1 week.
+Other tests
+Laboratory tests can be used to complement the clinical examination and medical history even 
+though they are not specific for the diagnosis. Table 30.3 indicates tests that could be considered 
+in the patient’s initial assessment. Please also refer to the chapter on sepsis if suspected.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book423
+HOSPITAL FACILITY 
+30. Intra-abdominal infections – pyogenic liver abscess
+Table 30.3 – Laboratory tests (other than microbiology) to consider if pyogenic 
+liver abscess is suspected as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+White blood count To help in the diagnosis of 
+infections
+Health care facilities with 
+clinical laboratories
+Aspartate 
+aminotransferase
+To assess liver function Health care facilities with 
+clinical laboratories
+Alanine 
+aminotransferase
+To assess liver function Health care facilities with 
+clinical laboratories
+Bilirubin To detect or monitor liver disease Community settings and 
+health facilities without 
+laboratoriesa
+Direct and indirect 
+bilirubin
+To detect or monitor liver disease, 
+bile duct disorders and haemolytic 
+anaemia, and to differentiate 
+between these causes of jaundice
+Health care facilities with 
+clinical laboratories
+Alkaline phosphatase To aid in the diagnosis of 
+hepatobiliary diseases
+Health care facilities with 
+clinical laboratories
+EDL: Model List of Essential In Vitro Diagnostics.
+a Community and health settings without laboratories are settings such as health posts and centres, doctors’ offices, 
+outreach clinics and ambulatory care. These tests are also assumed to be available at health care facilities with laboratories.
+Using microbiology surveillance data
+There is no role for routine surveillance to inform empiric guidance. 
+Imaging
+Imaging is very helpful in the diagnosis of pyogenic liver abscess. An abdominal ultrasound 
+should always be considered when this condition is suspected. In settings where it is 
+available, a CT scan of the abdomen may also be considered, especially if complications are 
+suspected or the diagnosis is uncertain. 
+Treatment
+Early control of the source of infection through drainage of the abscess is usually required 
+when feasible in addition to antibiotic treatment, especially for large (> 5 cm) abscesses. 
+Drainage is recommended because larger abscesses have a higher risk of rupture.
+424The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+30. Intra-abdominal infections – pyogenic liver abscess
+Drainage techniques include:
+• Percutaneous drainage (image-guided procedure that is usually performed by an 
+interventional radiologist where available). A drain – usually a pigtail catheter – is 
+inserted through the skin into the abscess and left in place until the collection is 
+drained. 
+• Surgical drainage. This is done either as a conventional open procedure (i.e. 
+laparotomy) or by laparoscopy.
+In both cases, the drainage procedure is also important for diagnostic purposes 
+to identify the type of pathogen causing the abscess and its resistance profile. Abscess 
+material should therefore be obtained for culture when the drain is placed or the abscess 
+is surgically removed.
+Antibiotic treatment
+In patients who are clinically stable, targeted treatment based on the results of microbiology 
+tests is always preferred. In particular, infections caused by Enterobacterales producing ESBL 
+or carbapenemases need to be considered in patients with history of hospitalization or 
+previously colonized or infected with these resistant pathogens as their prevalence varies 
+greatly in different settings.
+In more severe cases, empiric treatment is given, taking into account the most 
+probable type of causative pathogen (including the possibility of Entamoeba histolytica 
+infection) and local prevalence of resistance, especially for ESBL- and carbapenemaseproducing isolates (see Table 30.4). Individual risk factors for resistant pathogens (e.g. 
+recent antibiotic treatment, colonization or previous infections with resistant isolates) 
+should also considered. 
+The total duration of treatment is usually long (weeks) and depends on whether 
+control of the source of infection is achieved and on the causative pathogen. Therefore, 
+early control of the source of infection and identification of the causative pathogen are 
+encouraged. In most cases, at least 4 weeks of antibiotic treatment are needed with followup imaging (if available) to monitor response and define treatment duration.
+Longer duration of treatment is required in cases of liver abscess caused by 
+Burkholderia pseudomallei – usually 2 weeks of intravenous treatment followed by > 3 
+months of oral treatment with sulfamethoxazole+trimethoprim to eradicate the infection 
+and prevent relapse or recurrence. In cases of amoebic liver abscess, a 10-day course of 
+treatment (with oral metronidazole) is usually adequate.
+Simplify empiric treatment to a more narrow-spectrum antibiotic (often also called 
+de-escalation) based on culture results (targeted treatment) or based on rapid clinical
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book425
+HOSPITAL FACILITY 
+30. Intra-abdominal infections – pyogenic liver abscess
+improvement when no microbiology test results are available. In general, the intravenous 
+route is preferred for the initial phase of treatment.
+Step-down to oral treatment is based on improvement of symptoms and signs 
+of infection and the ability to take oral antibiotics allowing discharge of the patient home 
+when clinically appropriate.
+Oral step-down therapy can be considered quickly for mild cases after adequate 
+drainage and confirmed microbiology and susceptibility.
+If signs and symptoms persist, abdominal imaging is suggested, or an alternative 
+extra-abdominal source of infection should be considered.
+426The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+30. Intra-abdominal infections – pyogenic liver abscessTable 30.4 – Empiric antibiotic treatment for pyogenic or amoebic liver abscess
+Note
+In clinically stable patients, targeted treatment based on the results of microbiology tests is preferred.
+Mild cases are defined as patients who are not critically ill with no signs of sepsis or septic shock.
+Severe cases are defined as patients who are critically ill with signs of sepsis or septic shock.
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical order and they should be considered equal 
+treatment options, unless otherwise indicated.
+Condition Adults Children Total treatment 
+duration
+Mild cases 
+of pyogenic 
+liver 
+abscess
+First choice
+ Amoxicillin+clavulanic acid 
+IV: 1g + 200 mg given every 8 hours
+Oral: 875 + 125 mg given every 8 hours 
+OR
+ Cefotaxime (IV): 2 g given every 8 hours
+AND Metronidazole (IV/oral): 500 mg 
+given every 8 hours 
+OR
+ Ceftriaxone (IV): 2 g given once a day
+AND Metronidazole (IV/oral): 500 mg 
+given every 8 hours
+ Amoxicillin+clavulanic acid b:
+IV: 
+First week of life: 50 mg/kg of amoxicillin/dose given every 
+12 hours 
+Beyond first week of life: 50 mg/kg of amoxicillin/dose given 
+every 8 hours
+Oral: 80–90 mg/kg/day of amoxicillin component
+Oral weight bands
+3–< 6 kg: 250 mg of amoxicillin/dose given every 12 hours
+6–< 10 kg: 375 mg of amoxicillin/dose given every 12 hours
+10–< 15 kg: 500 mg of amoxicillin/dose given every 12 hours
+15–< 20 kg: 750 mg of amoxicillin/dose given every 12 hours
+≥ 20 kg: 500 mg of amoxicillin/dose given every 8 hours or 1 g 
+of amoxicillin/dose given every 12 hours
+At least 4 weeks if 
+adequate control 
+of the source 
+of infection is 
+achieved (followup imaging is 
+usually performed 
+to guide treatment 
+duration)
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book427
+HOSPITAL FACILITY 
+30. Intra-abdominal infections – pyogenic liver abscess
+Table 30.4 continued
+Condition Adults Children Total treatment 
+duration
+Mild cases 
+of pyogenic 
+liver 
+abscess
+Second choice
+ Ciprofloxacin a (oral): 500 mg given
+every 12 hours AND 
+ Metronidazole (IV/oral): 500 mg given 
+every 8 hours
+(Ciprofloxacin and metronidazole have 
+excellent oral bioavailability and the IV 
+route should be reserved for patients with 
+impaired gastrointestinal function)
+OR
+ Ampicillin (IV):
+• First week of life: 50 mg/kg/dose given every 12 hours
+• Beyond first week of life: 50 mg/kg/dose given every 8 
+hours
+AND
+ Gentamicin (IV):
+• Neonates: 5 mg/kg given once daily
+• Children: 7.5 mg/kg given once daily
+AND
+ Metronidazole (IV/oral): 
+• Neonates: 7.5 mg/kg/dose given every 12 hours (for IV 
+starting with a loading dose of 15 mg/kg)
+• Children: 7.5 mg/kg/dose given every 8 hours
+Oral weight bands
+3–< 6 kg: 30 mg given every 8 hours
+6–< 10 kg: 50 mg given every 8 hours
+10–< 15 kg: 100 mg given every 8 hours
+15–< 20 kg: 150 mg given every 8 hours
+20–< 30 kg: 200 mg given every 8 hours
+≥ 30 kg: use adult dose
+OR
+continues
+428The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+30. Intra-abdominal infections – pyogenic liver abscessTable 30.4 continued
+Condition Adults Children Total treatment 
+duration
+Mild cases 
+of pyogenic 
+liver 
+abscess
+ Cefotaxime (IV): 50 mg/kg/dose given every 8 hours
+AND
+ Metronidazole (IV/oral): 
+• Neonates: 7.5 mg/kg/dose given every 12 hours (for IV 
+starting with a loading dose of 15 mg/kg)
+• Children: 7.5 mg/kg/dose given every 8 hours
+Oral weight bands
+3–< 6 kg: 30 mg given every 8 hours
+6–< 10 kg: 50 mg given every 8 hours
+10–< 15 kg: 100 mg given every 8 hours
+15–< 20 kg: 150 mg given every 8 hours
+20–< 30 kg: 200 mg given every 8 hours
+≥ 30 kg: use adult dose
+OR
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book429
+HOSPITAL FACILITY 
+30. Intra-abdominal infections – pyogenic liver abscess
+Table 30.4 continued
+Condition Adults Children Total treatment 
+duration
+Mild cases 
+of pyogenic 
+liver 
+abscess
+ Ceftriaxone (IV): 80 mg/kg/dose given once a day
+AND
+ Metronidazole (IV/oral): 
+• Neonates: 7.5 mg/kg/dose given every 12 hours (for IV 
+starting with a loading dose of 15 mg/kg)
+• Children: 7.5 mg/kg/dose given every 8 hours
+Oral weight bands
+3–< 6 kg: 30 mg given every 8 hours
+6–< 10 kg: 50 mg given every 8 hours
+10–< 15 kg: 100 mg given every 8 hours
+15–< 20 kg: 150 mg given every 8 hours
+20–< 30 kg: 200 mg given every 8 hours
+≥ 30 kg: use adult dose
+continues
+430The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+30. Intra-abdominal infections – pyogenic liver abscessTable 30.4 continued
+Condition Adults Children Total treatment 
+duration
+Mild cases 
+of pyogenic 
+liver 
+abscess
+Second choice
+ Ciprofloxacin (IV/oral): 15 mg/kg/dose, given every 
+12 hours
+Oral weight bands
+3–< 6 kg: 50 mg given every 12 hours
+6–< 10 kg: 100 mg given every 12 hours
+10–< 15 kg: 150 mg given every 12 hours
+15–< 20 kg: 200 mg given every 12 hours
+20–< 30 kg: 300 mg given every 12 hours
+≥ 30 kg: use adult dose
+AND
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book431
+HOSPITAL FACILITY 
+30. Intra-abdominal infections – pyogenic liver abscess
+Table 30.4 continued
+Condition Adults Children Total treatment 
+duration
+Mild cases 
+of pyogenic 
+liver 
+abscess
+ Metronidazole (IV/oral): 
+• Neonates: 7.5 mg/kg/dose given every 12 hours (for IV 
+starting with a loading dose of 15 mg/kg)
+• Children: 7.5 mg/kg/dose given every 8 hours
+Oral weight bands
+3–< 6 kg: 30 mg given every 8 hours
+6–< 10 kg: 50 mg given every 8 hours
+10–< 15 kg: 100 mg given every 8 hours
+15–< 20 kg: 150 mg given every 8 hours
+20–< 30 kg: 200 mg given every 8 hours
+≥ 30 kg: use adult dose
+(Ciprofloxacin and metronidazole have excellent oral 
+bioavailability and the IV route should be reserved for 
+patients with impaired gastrointestinal function)
+continues
+432The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+30. Intra-abdominal infections – pyogenic liver abscessTable 30.4 continued
+Condition Adults Children Total treatment 
+duration
+Severe 
+cases of 
+pyogenic 
+liver 
+abscess
+First choice
+ Cefotaxime (IV): 2 g given every 8 hours
+AND Metronidazole (IV/oral): 500 mg 
+given every 8 hours
+OR
+ Ceftriaxone (IV): 2 g given once a day
+AND Metronidazole (IV/oral): 500 mg 
+given every 8 hours
+OR
+ Piperacillin+tazobactam c (IV): 
+4 g + 500 mg given every 6 hours
+Second choice
+ Meropenem d (IV): 1 g given every 
+8 hours
+First choice
+ Ampicillin (IV):
+• First week of life: 50 mg/kg/dose given every 12 hours
+• Beyond first week of life: 50 mg/kg/dose given every 
+8 hours
+AND
+ Gentamicin (IV):
+• Neonates: 5 mg/kg given once daily
+• Children: 7.5 mg/kg given once daily
+AND
+ Metronidazole (IV/oral)
+• Neonates: 7.5 mg/kg/dose given every 12 hours (for IV 
+starting with a loading dose of 15 mg/kg)
+• Children: 7.5 mg/kg/dose given every 8 hours
+Oral weight bands
+3–< 6 kg: 30 mg given every 8 hours
+6–< 10 kg: 50 mg given every 8 hours
+10–< 15 kg: 100 mg given every 8 hours
+15–< 20 kg: 150 mg given every 8 hours
+20–< 30 kg: 200 mg given every 8 hours
+≥ 30 kg: use adult dose
+OR
+At least 4 weeks if 
+adequate control 
+of the source 
+of infection is 
+achieved (followup imaging is 
+usually performed 
+to guide treatment 
+duration)
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book433
+HOSPITAL FACILITY 
+30. Intra-abdominal infections – pyogenic liver abscess
+Table 30.4 continued
+Condition Adults Children Total treatment 
+duration
+Severe 
+cases of 
+pyogenic 
+liver 
+abscess
+ Piperacillin+tazobactam (IV): 100 mg/kg/dose of 
+piperacillin component given every 8 hours
+Second choice
+ Meropenem d (IV): 20 mg/kg/dose given every 8 hours
+Amoebic 
+liver 
+abscess
+ Metronidazole (orale): 750 mg given 
+every 8 hours, followed by paromomycin 
+(oral): 25–35 mg/kg divided in 3 doses (to 
+eradicate colonic colonization)
+ Metronidazole (orale): 10–15 mg/kg/dose given every 8 
+hours
+10 days of 
+metronidazole, 
+followed by 7 days 
+of paromomycin
+EML: Model List of Essential Medicines; EMLc: Model List of Essential Medicines for children; IV: intravenous.
+Note. All dosages are for normal renal and hepatic function.
+The EML and EMLc currently does not have specific recommendations for antibiotic treatment of pyogenic or amoebic liver abscess; therefore the options presented in 
+the table are extrapolated from the recommended treatment for complicated intra-abdominal infections.
+a The use of fluoroquinolones (such as ciprofloxacin) can be associated with important side-effects including: (i) mental health disturbances such as disorientation, 
+agitation; nervousness, memory impairment and delirium; (ii) serious blood sugar disturbances such as hypoglycaemic coma; (iii) increased risk of tendinitis and tendon 
+rupture; (iv) worsening symptoms in those with myasthenia gravis; and (v) potential irreversible neuropathy (serious nerve damage).
+b Oral liquid formulations must be refrigerated after reconstitution as clavulanic acid is rapidly metabolized in high ambient temperatures.
+c Of note, piperacillin+tazobactam offers anti-Enterococcus coverage, which the other options listed for adults do not. Ampicillin would be another appropriate option, 
+but it was not listed in this table as it is not currently in the EML for this indication, while it is listed for children.
+d Meropenem should not be considered for routine use in all severe cases but only in complicated cases in settings with a high prevalence of extended-spectrum 
+beta-lactamase-producing Enterobacterales or in patients with known prior colonization, treated with multiple antibiotic courses or at risk of infections with pathogens 
+resistant to the first choice option. Empiric use of a Reserve antibiotic could be considered exceptionally in very select cases of seriously ill patients failing to respond 
+to carbapenems or who have previously been treated for infections caused by carbapenem-resistant pathogens or who are known to be colonized with multidrugresistant Gram-negative bacteria known to be susceptible to the selected Reserve antibiotic. Please refer to the chapter on Reserve antibiotics for the definition and list of 
+Reserve antibiotics included in the EML and EMLc. When Burkholderia pseudomallei is suspected, empiric use of meropenem or imipenem could be considered, although 
+the preferred option is ceftazidime.
+e If the patient is unable to tolerate oral treatment or in severe infections, IV metronidazole should be given: dose in adults: 500 mg every 8 hours.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.

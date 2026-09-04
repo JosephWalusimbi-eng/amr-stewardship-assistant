@@ -1,0 +1,959 @@
+# TOPIC: wound_bite_infections
+
+--- [WHO AWaRe Antibiotic Book (2022) | 18. Wound and bite-related infections | p.231-245 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book215
+PRIMARY HEALTH CARE 
+18. Wound and bite-related infections
+Note
+This chapter does not include severe infections, surgical wounds and management of bites 
+from poisonous animals or arthropods (insects, ticks, mites).
+Please refer to the specific chapters about other skin and soft tissue infections – burn wounds, 
+impetigo/erysipelas/cellulitis, necrotizing fasciitis, pyomyositis, if these infections are suspected.
+Key messages
+• In general, uninfected wounds do not require antibiotic treatment except in very select cases.
+• Skin wounds predispose to infection (e.g. cellulitis) but not every wound becomes infected. 
+In fact, only a minority of wounds become infected in immunocompetent people.
+• Adequate cleaning and debridement of the skin wound are the cornerstone of initial 
+treatment.
+• Need for post-exposure prophylaxis for certain infectious diseases (e.g. tetanus, rabies) 
+should always be evaluated on a case-by-case basis.
+• The presence of signs of invasive infection should always be carefully evaluated. 
+Other relevant WHO resources (please check regularly for updates)
+• Prevention and management of wound infections, 2013 (174).
+• Pocket book of hospital care for children: guidelines for the management of common 
+childhood illnesses, 2013 (31).
+• Snakebite envenoming – health topic (175).
+• Snakebite envenoming: a strategy for prevention and control, 2019 (176).
+• Global status report on road safety, 2018 (177).
+• Tetanus vaccines: WHO position paper – February 2017 (178).
+• Rabies vaccines: WHO position paper – April 2018 (179).
+• Hepatitis B vaccines: WHO position paper – July 2017 (180).
+• Consolidated guidelines on HIV prevention, testing, treatment, service delivery and 
+monitoring: recommendations for a public health approach, 2021 update (181).
+216The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+18. Wound and bite-related infections
+Definition
+Skin wounds include any traumatic injury characterized by damage to and exposure of 
+deeper skin tissue. Examples of skin wounds include those caused by human or animal 
+bites or burns, road traffic injuries, and gunshot and stab wounds. The severity of the clinical 
+findings can vary from mild wounds with no systemic involvement to severe infections 
+including tetanus (infection by Clostridium tetani ) and gas gangrene (infection by gasproducing bacteria such as Clostridium perfringens).
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+217
+PRIMARY HEALTH CARE 
+18. Wound and bite-related infections
+Wound and bite-related infections
+Page 1 of 2
+Any traumatic skin injury characterized by damage and
+exposure of deeper skin tissue
+De/g246nition
+Diagnosis
+Clinical Presentation
+Routine imaging not necessary
+•May be considered in selected cases based on extent and
+depth of lesion
+Imaging
+Infection may or may not be present at time of clinical
+evaluation
+•: Symptoms of cellulitis (redness,Super/g246cial infections
+swelling, warmth, lymphangitis, pain around wound)
+•: Change in wound colour, signs ofInvasive wound infection
+sepsis (should be carefully monitored)
+Infection commonly polymicrobial (mix of human skin and
+animal oral microbiota, and environmental organisms)
+Most Likely PathogensThis guidance excludes severe infections, surgical wounds and
+management of bites from arthropods and poisonous animals
+Routine testing not needed in mild cases with no signs of
+systemic infection
+LaboratoryTests
+Wounds
+Most cases:
+• spp.Streptococcus
+• (including MRSA)Staphylococcus aureus
+More rarely:
+•Anaerobes
+•Enterobacterales
+• spp.Enterococcus
+• (soil contaminant)Clostridium tetani
+Bites
+Human:
+•Anaerobes
+• spp.Streptococcus
+•Staphylococcus aureus
+Dog:
+•Anaerobes
+•Capnocytophaga canimorsus
+•Pasteurella multocida
+•Staphylococcus aureus
+Reptile:
+•Anaerobes
+•Enterobacterales
+•Pseudomonas aeruginosa
+Cat:
+•Anaerobes
+•Pasteurella multocida
+•Staphylococcus aureus
+Monkey:
+•Anaerobes
+• spp.Streptococcus
+•Staphylococcus aureus
+Rodent:
+•Pasteurella multocida
+218
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+18. Wound and bite-related infections
+Wound and bite-related infections
+Page 2 of 2
+Treatment
+Treat for 5 days
+Antibiotic Treatment Duration
+•In the absenceo fs ystemicsigns of infection avoid
+antibioticsto prevent infections in otherwise healthyp atients
+•No clear evidence that antibiotics can prevent the infection
+•Consider in selected cases (e.g. severely
+immunocompromised patients) and/or high-risk clinical
+areas (face, hands, near joints)
+•Duration: 3 days
+Prophylactic AntibioticsClinical Considerations
+•: Thorough washing and /g248ushing ofRapidly after injury
+the wound (~15 minutes), with soap or detergent and
+copious amounts of water followed by debridement and
+immobilization
+•: Quickly evaluate need toRisk of tetanus and rabies
+provide adequate post-exposure prophylaxis
+•: Empiric treatment shouldSigns/symptoms of infection
+include antibiotics with good activity against most likely
+pathogens spp. and spp. and(Staphylococcus Streptococcus
+anaerobes)
+•: Empiric treatment against bothAnimal/human bites
+aerobic and anaerobic bacteria required; empiric treatment
+against community-acquired MRSA usually not required
+WHO Guidance
+•Rabies: https://apps.who.int/iris/handle/10665/272372
+•Tetanus:https://apps.who.int/iris/handle/10665/254583
+Only infected wounds should be treated
+All dosages are for normal renal function
+Bite-related wounds
+Amoxicillin+clavulanic acid 500 mg+125 mg
+q8h ORAL
+Amoxicillin+clavulanic acid is the preferred treatment option
+for bite wound infections because of its activity against
+anaerobic bacteria.
+Only infected wounds should be treated
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Not bite-related wounds
+Amoxicillin+clavulanic acid 500 mg+125 mg
+q8h ORAL
+Cefalexin 500 mg q8h ORAL
+----------------------------------- -----------------------------------OR
+Cloxacillin 500 mg q6h ORAL
+----------------------------------- -----------------------------------OR
+Cloxacillin and cefalexin have a narrower spectrum of
+antibacterial activity compared to amoxicillin+clavulanic acid
+with good effic acy in other cases of mild skin and soft tissue
+infections. Therefore, from an antibiotic stewardship
+perspective, these would be the preferred options whenever
+possible (except for bite wounds)
+If cloxacillin is unavailable, dicloxacillin or /g248ucloxacillin could
+be used
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+219
+PRIMARY HEALTH CARE 
+18. Wound and bite-related infections
+Wound and bite-related infections
+Page 1 of 2
+Any traumatic skin injury characterized by damage and
+exposure of deeper skin tissue
+De/g246nition
+Diagnosis
+Clinical Presentation
+Routine imaging not necessary
+•May be considered in selected cases based on extent and
+depth of lesion
+Imaging
+Infection may or may not be present at time of clinical
+evaluation
+•: Symptoms of cellulitis (redness,Super/g246cial infections
+swelling, warmth, lymphangitis, pain around wound)
+•: Change in wound colour, signs ofInvasive wound infection
+sepsis (should be carefully monitored)
+Infection commonly polymicrobial (mix of human skin and
+animal oral microbiota, and environmental organisms)
+Most Likely PathogensThis guidance excludes severe infections, surgical wounds and
+management of bites from arthropods and poisonous animals
+Routine testing not needed in mild cases with no signs of
+systemic infection
+LaboratoryTests
+Wounds
+Most cases:
+• spp.Streptococcus
+• (including MRSA strains)Staphylococcus aureus
+More rarely:
+•Anaerobes
+•Enterobacterales
+• spp.Enterococcus
+• (soil contaminant)Clostridium tetani
+Bites
+Human:
+•Anaerobes
+• spp.Streptococcus
+•Staphylococcus aureus
+Dog:
+•Anaerobes
+•Capnocytophaga canimorsus
+•Pasteurella multocida
+•Staphylococcus aureus
+Reptile:
+•Anaerobes
+•Enterobacterales
+•Pseudomonas aeruginosa
+Cat:
+•Anaerobes
+•Pasteurella multocida
+•Staphylococcus aureus
+Monkey:
+•Anaerobes
+• spp.Streptococcus
+•Staphylococcus aureus
+Rodent:
+•Pasteurella multocida
+220
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+18. Wound and bite-related infections
+Wound and bite-related infections
+Page 2 of 2
+•In the absenceo fs ystemicsigns of infection avoid
+antibioticsto prevent infections in otherwise healthyp atients
+•No clear evidence that antibiotics can prevent the infection
+•Consider in selected cases (e.g. severely
+immunocompromised patients) and/or high-risk clinical
+areas (face, hands, near joints)
+•Duration: 3 days
+Prophylactic Antibiotics
+Not bite-related wounds
+----------------------------------- -----------------------------------OR
+Amoxicillin+clavulanic acid 80-90 mg/kg/day
+of amoxicillin component ORAL
+•:Oral weight bands
+3-<6 kg 250 mg of amox/dose q12h
+6-<10 kg 375 mg of amox/dose q12h
+10-<15 kg 500 mg of amox/dose q12h
+15-<20 kg 750 mg of amox/dose q12h
+≥20 kg 500 mg of amox/dose q8h or
+1 g of amox/dose q12h
+Amox = amoxicillin
+Oral liquid must be refrigerated after reconstitution
+Cefalexin 25 mg/kg/dose q12h ORAL
+•:Oral weight bands
+3-<6 kg 125 mg q12h
+6-<10 kg 250 mg q12h
+10-<15 kg 375 mg q12h
+15-<20 kg 500 mg q12h
+20-<30 kg 625 mg q12h
+≥30 kg 500 mg q8h
+----------------------------------- -----------------------------------OR
+Cloxacillin15 mg/kg/dose q6h ORAL
+•:Oral weight bands
+3-<6 kg 62.5 mg q6h
+6-<10 kg 125 mg q6h
+10-<15 kg 250 mg q6h
+15-<20 kg 375 mg q6h
+≥20 kg 500 mg q6h
+Cloxacillin and cefalexin have a narrower spectrum of
+antibacterial activity compared to amoxicillin+clavulanic acid
+with good effic acy in other cases of mild skin and soft tissue
+infections. Therefore, from an antibiotic stewardship
+perspective, these would be the preferred options whenever
+possible (except for bite wounds)
+If cloxacillin is unavailable, dicloxacillin or /g248ucloxacillin could
+be used
+Only infected wounds should be treated
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Treatment
+Treat for 5 days
+Antibiotic Treatment DurationClinical Considerations
+•: Thorough washing and /g248ushing ofRapidly after injury
+the wound (~15 minutes), with soap or detergent and
+copious amounts of water followed by debridement and
+immobilization
+•: Quickly evaluate need toRisk of tetanus and rabies
+provide adequate post-exposure prophylaxis
+•: Empiric treatment shouldSigns/symptoms of infection
+include antibiotics with good activity against most likely
+pathogens spp. and spp. and(Staphylococcus Streptococcus
+anaerobes)
+•: Empiric treatment against bothAnimal/human bites
+aerobic and anaerobic bacteria required; empiric treatment
+against community-acquired MRSA usually not required
+WHO Guidance
+•Rabies: https://apps.who.int/iris/handle/10665/272372
+•Tetanus:https://apps.who.int/iris/handle/10665/254583
+Bite-related wounds
+Amoxicillin+clavulanic acid 80-90 mg/kg/day
+of amoxicillin component ORAL
+•:Oral weight bands
+3-<6 kg 250 mg of amox/dose q12h
+6-<10 kg 375 mg of amox/dose q12h
+10-<15 kg 500 mg of amox/dose q12h
+15-<20 kg 750 mg of amox/dose q12h
+≥20 kg 500 mg of amox/dose q8h or
+1 g of amox/dose q12h
+Amox = amoxicillin
+Oral liquid must be refrigerated after reconstitution
+Amoxicillin+clavulanic acid is the preferred treatment option
+for bite wound infections because of its activity against
+anaerobic bacteria.
+Only infected wounds should be treated
+All dosages are for normal renal function
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book221
+PRIMARY HEALTH CARE 
+18. Wound and bite-related infections
+Pathophysiology
+Skin wounds predispose to infection because they facilitate entry of pathogens from the 
+patient’s own skin microbiota and the environment into the wound. With bites, pathogens 
+from the oral cavity of the biting animal can also penetrate the skin.
+Epidemiology
+Traumatic wounds
+Road traffic injuries occur worldwide but the majority of deaths (> 90%) occur in low- and 
+middle-income countries. Overall each year about 1.3 million people die as a result of road 
+traffic incidents with many more suffering from non-fatal injuries (between 20 and 50 million 
+people) (177,182). In people younger than 30 years, this is the leading cause of death. 
+In 2016, the Global Burden of Disease study reported about 251 000 deaths from 
+firearm injuries globally (outside of war settings), the majority caused by homicides (64%), 
+followed by suicides (27%) and unintentional firearm deaths (9%). Overall, the global agestandardized rate of firearm deaths decreased by about 0.9% a year between 1990 and 2016 
+with differences between countries. Most firearm injury deaths occur among people aged 
+20 to 24 years (183).
+Bite wounds
+Human and animal bites occur worldwide; most cases are caused by animals (dogs in > 90% 
+of cases) (184). Less frequently, bites are caused by other mammals such as cats, rodents 
+(e.g. rats, mice) and bats. In certain countries (e.g. in Africa and in South-East Asia), snake 
+and monkey bites are also frequently reported. Children are more likely to have animal bites 
+(185). The risk of developing a bacterial infection from a dog bite is unclear and depends on 
+many different factors related to the patient (i.e. the person bitten), the characteristics of 
+the bite (depth, location) and the initial management of the bite. However, available data 
+suggest that in 10–20% of cases of dog bites, the wound will become infected (185,186). 
+In comparison, wounds caused by cat bites have a higher risk of becoming infected (up to 
+50%) because of the deeper penetration of their teeth (185,186).
+Animal bites are a significant risk factor for transmission of rabies, especially in 
+settings where prophylaxis with rabies vaccine in domestic and wild animals is not routinely 
+given. The Global Burden of Disease study estimated 13 400 new cases of rabies worldwide 
+in 2017 (44). Deaths from rabies and dog bites are a problem mostly in low- and middleincome countries where post-exposure treatment and appropriate access to health care 
+may be lacking (184).
+222The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+18. Wound and bite-related infections
+Small rodents are vectors of numerous pathogens and are a reservoir for many 
+zoonotic diseases. Rodents (mostly rats) are also responsible for an appreciable proportion 
+of bites to humans (187). Rat bites primarily affect people (mostly children < 5 years) living 
+in poorer conditions in rat-infested environments, including in high-income countries. Most 
+bites occur on the face and hands and usually occur at night while sleeping. Although 
+rare, rat bites can cause severe infections, such as rat-bite fever, caused by Streptobacillus 
+moniliformis or Spirillum minus. Tetanus infection can also be caused by bites and it should 
+be considered in patients who have not been immunized against the infection. In 2019, 
+almost 15 000 cases of tetanus were reported globally (188).
+Most likely pathogens
+Traumatic wounds
+In most cases, infections from traumatic wounds are polymicrobial with a mix of human skin 
+microbiota and environmental organisms (Table 18.1).
+Table 18.1 – Pathogens most frequently associated with traumatic skin wounds (in 
+descending order of frequency), except bites, see Table 18.2
+Most casesa More rarely 
+Streptococcus spp.
+Staphylococcus aureus (including 
+MRSA)
+Anaerobes
+Enterobacterales 
+Enterococcus spp.
+Clostridium tetani (soil contaminant)
+MRSA: methicillin-resistant Staphylococcus aureus.
+a Mostly Gram-positive pathogens from the skin microbiota.
+Bite wounds
+In infections from bites, causative pathogens may also be from the animal/human oral 
+microbiota with differences among species (Table 18.2) (187).
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book223
+PRIMARY HEALTH CARE 
+18. Wound and bite-related infections
+Table 18.2 – Pathogens most frequently associated with bites
+Species causing the bite Pathogens
+Human Common bacterial pathogens
+Anaerobes from the oral microbiota such as Prevotella and 
+Fusobacterium spp.
+Streptococcus spp.
+Staphylococcus aureus
+Non-bacterial pathogens 
+Hepatitis B virus
+Hepatitis C virus
+HIV 
+Cat Common bacterial pathogens
+Anaerobes such as Bacteroides spp., Cutibacterium spp., 
+Fusobacterium spp., Peptostreptococcus spp. and Prevotella spp.
+Pasteurella multocida
+Staphylococcus aureus
+Other bacterial pathogens 
+Bartonella henselae (agent of cat-scratch disease)
+Francisella tularensis (agent of tularaemia)
+Non-bacterial pathogens 
+Rabies virus
+Soil contaminants
+Clostridium tetani (agent of tetanus)
+Dog Common bacterial pathogens
+Anaerobes such as Bacteroides spp., Cutibacterium spp., 
+Fusobacterium spp., Peptostreptococcus spp. and Prevotella spp.
+Capnocytophaga canimorsus
+Pasteurella multocida
+Staphylococcus aureus
+Other bacterial pathogens 
+Francisella tularensis (agent of tularaemia)
+Leptospira spp. (agent of leptospirosis)
+Non-bacterial pathogens
+Rabies virus
+Soil contaminants
+Clostridium tetani (agent of tetanus)
+continues
+224The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+18. Wound and bite-related infections
+Table 18.2 continued
+Species causing the bite Pathogens
+Monkey Bacterial pathogens
+Anaerobes such as Bacteroides spp., Cutibacterium spp., 
+Fusobacterium spp., Peptostreptococcus spp. and Prevotella spp.
+Streptococcus spp.
+Staphylococcus aureus
+Non-bacterial pathogens 
+Hepatitis B virus (macaques)
+Herpes B virus
+Monkeypox virus
+Rabies virus
+Soil contaminants
+Clostridium tetani (agent of tetanus)
+Rodent (e.g. mice, rats) Bacterial pathogens 
+Francisella tularensis (agent of tularaemia)
+Leptospira spp. (agent of leptospirosis)
+Pasteurella multocida
+Spirillum minor (agent of rat-bite fever in Asia)
+Streptobacillus moniliformis (agent of rat-bite fever in North 
+America)
+Non-bacterial pathogens 
+Rabies virus
+Monkeypox virus
+Soil contaminants
+Clostridium tetani (agent of tetanus)
+Reptile (e.g. crocodiles, 
+lizards, snakes, turtles)
+Bacterial pathogens
+Anaerobes such as Prevotella and Fusobacterium spp.
+Enterobacterales 
+Pseudomonas aeruginosa
+Non-typhoidal Salmonella spp.
+Soil contaminants
+Clostridium tetani (agent of tetanus)
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book225
+PRIMARY HEALTH CARE 
+18. Wound and bite-related infections
+Clinical presentation (only mild cases are covered)
+Wounds range in severity from minor superficial abrasions to deep wounds with 
+involvement and destruction of the deep tissues. An infection may or may not be present at 
+the time of clinical evaluation. Usually, signs and symptoms of infection appear > 12 hours 
+after the injury. Superficial infections may manifest with signs and symptoms of cellulitis 
+characterized by redness, swelling, warmth, lymphangitis and pain of the area surrounding 
+the wound. Fever (≥ 38.0 °C) may be present. Patients should also be carefully monitored 
+for signs of invasive infection, for example, change in colour of the wound due to necrosis 
+and signs of sepsis.
+Laboratory tests 
+Patient microbiology tests
+In mild cases with no signs of systemic infection, routine testing, including wound cultures, is 
+not required. These tests are not needed because identifying the causative pathogen in mild 
+cases is rare even when microbiology tests are performed, most infections are polymicrobial 
+and microbiology results will not affect management of the condition in most cases. 
+Other tests
+Routine testing in mild cases with no signs of systemic infection is not required.
+Using microbiology surveillance data
+Routine surveillance is not helpful in informing empiric guidance. 
+Imaging
+Routine imaging is not required. Imaging may be considered in certain cases based on the 
+size and depth of the wound, particularly if a complication, such as development of an 
+abscess or necrotizing infection, is suspected.
+No antibiotic care
+Initial management of wounds
+It is important to provide rapid and appropriate treatment of a wound after an injury has 
+occurred to minimize the risk of infection. For prevention and management of wound 
+infections, please refer to the 2013 WHO guidance publication (174).
+226The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+18. Wound and bite-related infections
+Adequate cleaning and debridement are the cornerstone of initial treatment. It 
+is important to thoroughly wash and flush the wound for about 15 minutes with soap 
+or detergent and a lot of clean water, followed by debridement and immobilization of 
+the wound. 
+Post-exposure prophylaxis
+Traumatic wounds
+After any wound, the risk of tetanus needs to be promptly evaluated to provide adequate 
+post-exposure prophylaxis by vaccination with or without passive immunization using 
+tetanus immunoglobulin when needed according to local/international recommendations.
+For tetanus post-exposure prophylaxis, please refer to the WHO tetanus vaccines 
+position paper (178). 
+Bite wounds
+With animal bites, in addition to the risk of tetanus, the risk of rabies needs also to be rapidly 
+evaluated based on the exposure category to provide adequate post-exposure prophylaxis 
+when needed (Table 18.3). 
+For rabies post-exposure prophylaxis, please refer to the WHO rabies vaccines 
+position paper (179).
+With human bites, the risk of hepatitis B and C virus and HIV transmission also needs 
+to be evaluated and post-exposure prophylaxis offered when applicable (180,181). 
+Table 18.3 – Risk of rabies exposure according to the type of contact with the 
+animal suspected of having rabies (179)
+Categorya Type of contact Risk of exposure
+I Touching or feeding animals, animal licks on intact skin No exposure
+II Nibbling of uncovered skin, minor scratches or 
+abrasions without bleeding
+Exposure
+III Single or multiple transdermal bites or scratches, 
+contamination of mucous membrane or broken skin 
+with saliva from animal licks, exposures due to direct 
+contact with bats
+Severe exposure
+a The category of exposure determines the indicated post-exposure prophylaxis procedure.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book227
+PRIMARY HEALTH CARE 
+18. Wound and bite-related infections
+Preventive antibiotic use 
+Routine use of antibiotics to prevent infection of the wound is not required in most cases 
+(unless there are systemic signs of infection in which case antibiotics would be used as 
+treatment and not as prophylaxis) and should be discouraged. 
+Preventive antibiotic use may be considered in very few specific cases where the 
+potential risk of infection is judged to outweigh the risk of overusing antibiotics. 
+These cases include:
+• Wounds in high-risk clinical areas (e.g. face, hands, areas near a joint)
+• Severely immunocompromised patients.
+However, there is no clear evidence that use of antibiotics can prevent infection after 
+a wound has occurred, including bite wounds. In addition, such use exposes the patient to 
+the negative effects of antibiotics, for example, alteration of the intestinal microbiota, and 
+selection of resistant microorganisms. 
+Antibiotic treatment
+If signs and symptoms of infection are present, empiric treatment should include antibiotics 
+with good activity against the most likely pathogens, Staphylococcus aureus and Streptococcus 
+spp. and anaerobic organisms. With animal bites, the type of animal should also be considered 
+(see Table 18.2), but in general, empiric treatment against both aerobic and anaerobic 
+bacteria is required, since most infections are caused by multiple pathogens (polymicrobial 
+infections). Empiric treatment against community-acquired MRSA is usually not required. If 
+cellulitis around the wound develops, refer to the chapter on bacterial impetigo, erysipelas 
+and cellulitis. Antibiotic options for empiric treatment are given in Table 18.4.
+Note
+Only infected wounds should be treated with antibiotics.
+228The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+18. Wound and bite-related infections
+Table 18.4 – Empiric antibiotic treatment for mild infections from traumatic wounds 
+and bites
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Note
+Amoxicillin+clavulanic acid is the preferred treatment option for bite wound infections 
+because of its activity against anaerobic bacteria.
+Cloxacillin and cefalexin have a narrower spectrum of antibacterial activity compared to 
+amoxicillin+clavulanic acid with good efficacy in other cases of mild skin and soft tissue 
+infections. Therefore, from an antibiotic stewardship perspective, these would be the preferred 
+options whenever possible, except for bite wounds.
+Adults Children Total treatment 
+duration
+ Amoxicillin+clavulanic 
+ acid (oral): 500 mg + 125 mg 
+given every 8 hours
+OR
+ Cefalexin (oral): 500 mg 
+given every 8 hours
+OR
+ Cloxacillin a (oral): 500 mg 
+given every 6 hours
+ Amoxicillin+clavulanic acid b 
+(oral): 80–90 mg/kg/day of amoxicillin 
+component
+Oral weight bands:
+3–< 6 kg: 250 mg of amoxicillin/dose 
+given every 12 hours
+6–< 10 kg: 375 mg of amoxicillin/dose 
+given every 12 hours
+10–< 15 kg: 500 mg of amoxicillin/dose 
+given every 12 hours
+15–< 20 kg: 750 mg of amoxicillin/dose 
+given every 12 hours
+≥ 20 kg: 500 mg of amoxicillin/dose 
+given every 8 hours or 1 g of amoxicillin/
+dose given every 12 hours
+OR
+3 days 
+(preventive 
+treatment of 
+wounds at high 
+risk of infection)
+5 days (treatment 
+of infected 
+wounds)
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book229
+PRIMARY HEALTH CARE 
+18. Wound and bite-related infections
+Table 18.4 continued
+Adults Children Total treatment 
+duration
+ Cefalexin (oral): 25 mg/kg/dose given 
+every 12 hours
+Oral weight bands:
+3–< 6 kg: 125 mg given every 12 hours
+6–< 10 kg: 250 mg given every 12 hours
+10–< 15 kg: 375 mg given every 12 hours
+15–< 20 kg: 500 mg given every 12 hours
+20–< 30 kg: 625 mg given every 12 hours
+≥ 30 kg: use adult dose
+OR
+ Cloxacillin a (oral): 15 mg/kg/dose 
+given every 6 hours
+Oral weight bands: 
+3–< 6 kg: 62.5 mg given every 6 hours
+6–< 10 kg: 125 mg given every 6 hours
+10–< 15 kg: 250 mg given every 6 hours
+15–< 20 kg: 375 mg given every 6 hours
+≥ 20 kg: 500 mg given every 6 hours
+Note. All dosages are for normal renal and hepatic function.
+a If cloxacillin is unavailable, dicloxacillin or flucloxacillin could be used.
+b Oral liquid formulations must be refrigerated after reconstitution as clavulanic acid is rapidly metabolized in high 
+ambient temperatures.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 1.2.1.3 Animal and Human Bites | p.100-101 | audience=general] ---
+Clinical features
+~ Teeth marks or scratches, lacerations
+~ Puncture wounds (especially cats)
+~ Complications: bleeding, lesions of deep structures, wound
+infection (by mixed flora, anaerobs), tissue necrosis, transmission of diseases (tetanus, rabies, others)
+MANAGEMENT LOC
+First aid
+- Immediately clean the wound thoroughly with plenty of
+clean water and soap to remove any dirt or foreign bodies
+HC2
+34
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+MANAGEMENT LOC
+- Stop excessive bleeding where necessary by applying
+pressure
+- Rinse the wound and allow to dry
+- Apply an antiseptic: Chlorhexidine solution 0.05% or
+povidone iodine solution 10%
+- Soak punture wounds in antiseptic for 15 minutes
+- Thorough cleaning, exploration and debridement (under
+local anesthesia if possible)
+As a general rule
+DO NOT SUTURE BITE WOUNDS
+- Refer wounds on hands and face, deep wounds, wounds
+with tissue defects to hospital for surgical management
+Tetanus prophylaxis
+- Give TT immunisation (tetanus toxoid, TT 0.5 ml) if not
+previously immunised within the last 10 years
+HC2
+HC4
+Prophylactic antibiotics
+- Indicated in the following situations:
+- Deep puncture wounds (especially Cats)
+- Human bites
+- Severe (deep, extensive) wounds
+- Wounds on face, genitalia, hands
+- Wounds in immunicompromised hosts
+- Amoxicillin 500 mg every 8 hours for 5-7 days
+Child: 15 mg/kg per dose
+- Plus Metronidazole 400 mg every 12 hours
+Child: 10-12.5 mg/kg per dose
+HC2
+Note
+- Do not use routine antibiotics for small uncomplicated dog
+bites/wounds
+35
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 1.2.1.4 Rabies Post Exposure Prophylaxis | p.102-107 | audience=general] ---
+Z20.3, Z23
+Post exposure prophylaxis effectively prevents the development of rabies
+after the contact with saliva of infected animals, through bites, scratches,
+licks on broken skin or mucous membranes. For further details refer to
+Rabies Post-Exposure Treatment Guidelines, Veterinary Public Health
+Unit, Community Health Dept, Ministry of Health, September 2001
+General management
+Dealing with the animal
+TREATMENT LOC
+If the animal can be identified and caught
+- If domestic, confirm rabies vaccination
+- If no information on rabies vaccination or
+HC2
+If the animal can be identified and caught
+- If domestic, confirm rabies vaccination
+- If no information on rabies vaccination or
+wild: quarantine for 10 days (only dogs, cats or endangered
+species) or kill humanely andsend the head to the veterinary
+Department for analysis
+- If no signs of rabies infection shown within 10
+- days: release the animal, stop immunisation
+- If it shows signs of rabies infection: kill the animal,
+remove its head, and send to the Veterinary
+Department for verification of the infection
+If animal cannot be identified
+- Presume animal infected and patient at risk
+HC2
+Notes
+- Consumption of properly cooked rabid meat is not harmful
+- Animals at risk: dogs, cats, bats, other wild carnivores
+- Non-mammals cannot harbour rabies
+36
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+Dealing with the patient
+~ The combin ation of local wound treatment plus passive
+immunisation with rabies immunoglobulin (RIG) plus vaccination with rabies vaccine (RV) is recommended for all
+suspected exposures to rabies
+~ if the RI is not available, the patient should still be vaccinated with the Rabies Vaccine alone
+~ Since prolonged rabies incubation periods are possible,
+persons who present for evaluation and treatment even
+months after having been bitten should be treated in the
+same way as if the contact occurred recently
+~ Administration of Rabies IG and vaccine depends on the
+type of exposure and the animal’s condition
+TREATMENT LOC
+- LOCAL WOUND TREATMENT: Prompt and thorough
+local treatment is an effective method to reduce risk of
+infection
+- For mucous mebranes contact, rinse throroughly with
+water or normal saline
+~ if the wound is deep Tetanus Toxoid (TT) should
+be given as well to prevent tetanus
+HC2
+- Local cleansing is indicated even if the patient presents late
+- DO NOT SUTURE THE WOUND
+If Veterinary Department confirms rabies infection or if
+animal cannot be identified/tested
+- Give rabies vaccine+/- rabies immunoglobulin human
+as per the recommendations in the next table.
+H
+37
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+Recommendations for Rabies Vaccination/Serum
+Condition Of Animal
+Nature Of
+Exposure
+At Time Of
+Exposure
+10 Days
+Later
+Recommended
+Action
+Saliva in contact
+with skin but no
+skin lesion
+Healthy Healthy Do not vaccinate
+Rabid Vaccinate
+Suspect/
+Unknown
+Healthy Do not vaccinate
+Rabid Vaccinate
+Unknown Vaccinate
+Saliva in
+contact with
+skin that has
+lesions, minor
+bites on trunk
+or proximal
+limbs
+Healthy Healthy Do not vaccinate
+Rabid Vaccinate
+Suspect/
+unknown
+Healthy Vaccinate; but
+stop course if
+animal healthy
+after 10 days
+Rabid Vaccinate
+Unknown Vaccinate
+Saliva in contact
+with mucosae,
+serious bites
+(face, head, fingers or multiple
+bites)
+Domestic or
+wild rabid animal or suspect
+Suspect Vaccinate and give
+antirabies immunoglobulin
+Domestic or
+wild rabid animal or Suspect
+Vaccinate but
+stop course if
+animal healthy
+after 10 days
+Prevention
+~ Vaccinate all domestic animals against rabies e.g. dogs,
+cats and others
+38
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+Administration of Rabies Vaccine (RV)
+The following schedules use Purified VERO Cell Culture Rabies Vaccine
+(PVRV), which contains one intramuscular immunising dose (at least 2.5
+IU) in 0.5 ml of reconstituted vaccine.
+RV and RIG are both very expensive and should only be used
+when there is an absolute indication
+Post-Exposure Vaccination in Non-Previously Vaccinated Patients
+Give RV to all patients unvaccinated against rabies together with local
+wound treatment. In severe cases, also give rabies immunoglobulin
+The 2-1-1 intramuscular regimen
+This induces an early antibody response and may be particularly effective when post-exposure treatment does not include administration
+of rabies immunoglobulins
+- Day 0: One dose (0.5 ml) in right arm + one dose in left arm
+- Day 7: One dose
+- Day 21: One dose
+Notes on IM doses
+- Doses are given into the deltoid muscle of the arm. In young
+children, the anterolateral thigh may also be used
+- Never use the gluteal area (buttock) as fat deposits may interfere
+with vaccine uptake making it less effective.
+Alternative: 2-site intradermal (ID) regimen
+- This uses PVRV intradermal (ID) doses of 0.1 ml (i.e. one fifth
+of the 0.5 ml IM dose of PVRV)
+- Day 0: one dose of 0.1 ml in each arm (deltoid)
+- Day 3: one dose of 0.1 ml in each arm
+39
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+- Day 3: one dose of 0.1 ml in each arm
+- Day 7: one dose of 0.1 ml in each arm
+- Day 28: one dose of 0.1 ml in each arm
+Notes on ID regime
+- Much cheaper as it requires less vaccine
+- Requires special staff training in ID technique using 1 ml syringes
+and short needles
+- Compliance with the Day 28 is vital but may be difficult to
+achieve
+- Patients must be followed up for at least 6-18 months to confirm
+the outcome of treatment
+- If on malaria chemoprophylaxis, do NOT use.
+Post-exposure immunisation in previously vaccinated patients
+In persons known to have previously received full pre- or post-exposure
+rabies vaccination within the last 3 years
+Intramuscular regimen
+- Day 0: One booster dose IM
+- Day 3: One booster dose IM
+Intradermal regimen
+- Day 0: One booster dose ID
+- Day 3: One booster dose ID
+Note
+- If incompletely vaccinated or immunosuppressed: give full post
+exposure regimen.
+Passive immunisation with rabies immunoglobulin (RIG) Give in all high-risk rabies cases irrespective of the time between exposure and start of treatment
+BUT within 7 days of first vaccine.DO NOT USE in patient previously immunised.
+40
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+Human rabies immunoglobulin (HRIG)
+- HRIG 20 IU/kg (do not exceed)
+- Infiltrate as much as possible of this dose around the wound/s
+(if multiple wounds and insufficient quantity, dilute it 2 to 3
+fold with normal saline)
+- Give the remainder IM into gluteal muscle
+- Follow this with a complete course of rabies vaccine
+- The first dose of vaccine should be given at the same time
+as the immunoglobulin, but at a site as far away as possible
+from the site where the vaccine was injected. If the bite is at
+or near the upper arm, do not infiltrate the wound with the
+immunoglobulin unless the vaccine won’t be injected in the
+deltoid muscle of that arm. If the wound near the deltoid is
+infiltrated with the immunoglobulin, use the deltoid muscle of
+the opposite arm for the vaccine”.
+Notes
+- If RIG not available at first visit, its administration can be delayed
+up to 7 days after the first dose of vaccine.
+Pre-exposure immunisation
+Offer rabies vaccine to persons at high risk of exposure such as:
+- Laboratory staff working with rabies virus
+- Veterinarians
+- Animal handlers
+- Zoologists/wildlife officers
+- Any other persons considered to be at high risk
+- Day 0: One dose IM or ID
+- Day 7: One dose IM or ID
+- Day 28: One dose IM or ID
+41
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 1.2.4 Wounds | p.118-120 | audience=general] ---
+Any break in the continuity of the skin or mucosa or disruption in the
+integrity of tissue due to injury.
+Causes
+~ Sharp objects, e.g. knife, causing cuts, punctures
+~ Blunt objects causing bruises, abrasions, lacerations
+~ Infections, e.g. abscess
+~ Bites, e.g. insect, animal, human
+~ Missile and blast injury, e.g. gunshot, mines, exlosives,
+landmines
+~ Crush injury, e.g. RTA, building collapse
+Clinical features
+~ Raw area of broken skin or mucous membrane
+~ Pain, swelling, bleeding, discharge
+52
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+~ Reduced use of affected part
+~ Cuts: sharp edges
+~ Lacerations: Irregular edges
+~ Abrasions: loss of surface skin
+~ Bruises: subcutaneous bleeding e.g. black eye
+Management
+TREATMENT LOC
+Minor cuts and bruises
+- First aid, tetanus prophylaxis, dressing and pain management
+- Antibiotics are not usually required but if the wound is
+grossly contaminated, give
+- Cloxacillin or amoxicillin 500 mg every 6 hours
+- as empiric treatment
+Child: 125-250 mg every 6 hours
+HC2
+Deep and/or extensive
+- Identify the cause of the wound or injury if possible
+- Wash affected part and wound with plenty of water or
+saline solution
+- (you can also clean with chlorhexidine 0.05%
+- or hydrogen peroxide 6% diluted with equal
+amount of saline to 3% if wound is contaminated)
+- Explore the wound under local anesthesia to ascertain the
+extent of the damage and remove foreign bodies
+- Surgical toilet: carry out debridement to freshen the wound
+- Tetanus prophylaxis, pain management, immobilization
+HC4
+53
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+TREATMENT LOC
+If wound is clean and fresh (<8 hours)
+- Carry out primary closure by suturing under local anaesthetic
+- Use lignocaine hydrochloride 2% (dilute to 1% with
+equal volume of water for injection)
+HC3
+If wound is >8 hours old or dirty
+- Clean thoroughly and dress daily f Check the state of
+the wound for 2-3 days f Carry out delayed primary
+closure if clean
+- Use this for wounds up to 2-4 days old
+If wound >4 days old or deep pucture wound, contaminated
+wounds, bite/gunshot wounds, abscess cavity
+- Let it heal by secondary closure (granulation tissue)
+- Dress daily if contaminated/dirty, every other day if clean
+- Pack cavities (e.g. abscesses) with saline-soaked gauzes
+In case of extensive/deep wound
+- Consider closure with skin graft/flap
+Note
+~ Use SOP for collection of wound discharge, or
+deep tissue, submit to lab
+~ Start on treatment, change treatment when results return
+~ If MDR, gramnegative or MRSA or VRE impleme
+the respective transmission-based precautions.
+~ Where can, use chlorine release for environmental decontamination or alternate fumigation (not
+formaldehyde)
+54
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma

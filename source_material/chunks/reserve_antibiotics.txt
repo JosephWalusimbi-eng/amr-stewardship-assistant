@@ -1,0 +1,1954 @@
+# TOPIC: reserve_antibiotics
+
+--- [WHO AWaRe Antibiotic Book (2022) | 41. Overview | p.593-597 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book577
+RESERVE ANTIBIOTICS 
+41. Overview
+Key messages
+• Reserve antibiotics are antibiotics that retain activity against some of the multidrug-resistant 
+bacteria listed in the WHO priority pathogen list.
+• Countries should consider developing formal methods to monitor and control the use of 
+Reserve antibiotics.
+• The AWaRe classification and the list of Reserve antibiotics is updated every 2 years by the EML 
+Expert Committee considering the availability of new antibiotics, new efficacy/effectiveness 
+and safety data, updates of the WHO priority pathogen list or changing epidemiology.
+• The list of Reserve antibiotics on the EML is closely aligned with the WHO list of critically 
+important antimicrobials and WHO analysis of the clinical antibacterial pipeline.
+Other relevant WHO resources (please check regularly for updates)
+• WHO Antibiotic characterization – AWaRe portal (11).
+• WHO AWaRe classification of antibiotics, 2021 (10).
+The Reserve group of antibiotics includes antibiotics that still have relevant levels of activity 
+against some of the multidrug-resistant bacteria listed in the WHO priority pathogen list, 
+including bacteria which are resistant to most or all of the EML antibiotics in the Access and 
+Watch groups (Table 41.1). 
+In addition, all Reserve antibiotics are categorized as either high priority or highest 
+priority in the WHO list of critically important antimicrobials for human medicine (382). 
+This list is intended for public health and animal health authorities who should ensure that 
+critically important antibiotics for humans are also used sensibly in veterinary medicine. Use 
+of any Reserve antibiotics in animals should be avoided wherever possible.
+Reserve antibiotics can either be older off-patent antibiotics that have been 
+reintroduced into clinical practice (e.g. polymyxin B, colistin, fosfomycin) or new antibiotics that 
+have been recently licensed for the treatment of multidrug-resistant bacteria. It is important 
+to note that not all antibiotics that have activity against strains of multidrug-resistant bacteria 
+have been included in the EML (8). Between 2017 and 2021, the list of Reserve antibiotics was 
+updated and some antibiotics were removed and others added to this group. Only antibiotics 
+listed on the EML and EMLc are considered essential for all health systems.
+578The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+41. Overview
+The EML needs to be continually updated as more evidence on the antibiotics in 
+the list and new antibiotics become available. The list of Reserve antibiotics in the 2021 EML 
+is closely aligned with the WHO analysis of the clinical antibacterial pipeline (383), which 
+assesses how antibacterial drugs in the development pipeline address the WHO priority 
+pathogens list. Ideally an antibiotic under development will progress through the pipeline 
+and, after licensing, would be considered for listing in the EML as a Reserve antibiotic.
+The overarching principle for listing an antibiotic as a Reserve antibiotic in the EML is 
+evidence of its usefulness to effectively treat a severe clinical infection for which the currently 
+available treatment options are very limited, indicating a clear unmet global public health 
+need. Other important considerations are strong evidence that the antibiotic has: better 
+efficacy, safety and durability (low likelihood of selection of resistance on treatment) than 
+comparable medicines; low impact on the microbiome; and simplicity of administration. 
+There is therefore likely to be a range of Reserve antibiotics that cover different serious 
+clinical infections. These antibiotics would include, for example, systemic antibiotics targeted 
+at particular multidrug-resistant phenotypes (e.g. carbapenem-resistant organisms) or 
+targeted at important pathogens (e.g. Pseudomonas spp. or Acinetobacter spp.). Equally, 
+there is an important unmet clinical need for active oral drugs that can be used as targeted 
+treatment of multidrug-resistant pathogens (e.g. Klebsiella spp.). This focus on public health 
+emphasizes the importance for Reserve antibiotics to have phenotypic and genotypic 
+activity that is globally relevant. For example, Reserve antibiotics that are active against 
+carbapenem-resistant pathogens should ideally also have activity against the most common 
+genetic types identified in low- and middle-income countries, e.g. metallo-beta-lactamases.
+Reserve antibiotics are considered the so-called last-resort antibiotics which are 
+still effective for the treatment of specific patient populations. There is a complex balance 
+between using Reserve antibiotics effectively in sick patients where needed and their 
+overuse potentially leading to a rapid decline in their effectiveness. The great majority of 
+Reserve antibiotics are intravenous and used in the hospital facility setting. There is wider 
+use of Reserve antibiotics in high-income countries than in low- and middle-income 
+countries, raising concerns about equity of access to Reserve antibiotics which are generally 
+more expensive than Access or Watch antibiotics. 
+Therefore, these antibiotics should be available for clinical care when needed but 
+used only in certain situations where their use is likely to have clear clinical benefits. Reserve 
+antibiotics are ideally used for targeted treatment once multidrug-resistant bacteria are 
+confirmed; for example, following laboratory identification of the pathogen from a blood 
+culture and susceptibility testing demonstrating wide multidrug resistance but sensitivity to 
+a Reserve antibiotic. However, high quality rapid culture and sensitivity data are often not 
+available in many settings and identification of a pathogen may not always be feasible even 
+with access to state-of-the-art microbiologic techniques. The AWaRe book focuses on empiric 
+treatment when diagnostic test results, including microbiological cultures, are not available.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book579
+RESERVE ANTIBIOTICS 
+41. Overview
+Reserve antibiotics could be considered for empiric therapy in very select cases where a 
+multidrug-resistant pathogen as the cause of the infection can be strongly suspected based 
+on the clinical infection, local microbiology, previous treatment or known colonization with a 
+multidrug-resistant pathogen. 
+Reserve antibiotics are not listed as first- or second-choice options for any of the 
+infections included in the AWaRe book. However, to help with the appropriate use of Reserve 
+antibiotics, a comment about their potential role for empiric therapy has been added to 
+specific chapters where they are most likely to be used, for example, for severe hospitalacquired infections or severe infections in patients who have received multiple antibiotic 
+treatments in the recent past. The risks and benefits of treatment need to be carefully 
+considered in high-risk patient populations with multidrug-resistant infections that have 
+a high associated mortality. Some antibiotics on the Reserve list have substantial toxicity 
+but may still be used for treatment if there are no or few other treatment options and the 
+risk of death or permanent sequelae due to the infection are high. Ensuring the optimal 
+use of Reserve antibiotics is complex and difficult at both a patient and country level, but 
+control of the use of Reserve antibiotics is critical to maintaining their future effectiveness. 
+For example, colistin in South Africa is only authorized for use if specific criteria are met and 
+with approval from the Medicines Control Council, as in section 21 of the Medicines and 
+Related Substances Act 101 of 1965 (384). 
+The need for stewardship of Reserve antibiotics and what countries should do to 
+contribute to good stewardship are outlined in Box 41.1.
+Box 41.1 – Reserve antibiotic stewardship
+• Preserving the effectiveness of Reserve antibiotics (i.e. preventing the development of 
+resistance to these antibiotics in the future) is key to maintaining their longevity in clinical 
+use. 
+• Therefore, all efforts should be made to ensure careful use of Reserve antibiotics within local 
+and national stewardship strategies, which should include routine local and/or national 
+monitoring and reporting of their use.
+• Countries should consider developing formal guidance on and control of the use of Reserve 
+antibiotics at a national and local level, including through medicines regulation.
+Prescribers need to recognize the very limited data available on the clinical 
+efficacy of most Reserve antibiotics in treating multidrug-resistant infections. Regulatory 
+approval is usually obtained through non-inferiority trials (usually trials on complicated 
+UTI and/or complicated intraabdominal infections) containing few high-risk patients 
+with multidrug-resistant infections. Vulnerable patient populations at particular risk for 
+infections by multidrug-resistant pathogens such as the very young, the very old and
+580The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+41. Overview
+immunocompromised individuals are often underrepresented in these trials. Therefore, the 
+effectiveness of these new molecules on multidrug-resistant isolates is often based on in vitro 
+data or case reports and retrospective observational studies with a high inherent risk of bias. 
+Furthermore, recruitment of patients with carbapenem-resistant pathogens into pathogenfocused or limited-population trials has been difficult, which has led to estimates of clinical 
+efficacy based on small studies. Strategic comparative public health-focused (rather than 
+regulatory) trials for multidrug-resistant infections that directly compare multiple agents in 
+high-risk populations for clinical efficacy, toxicity, resistance and health economic outcomes 
+are urgently needed to inform the serious unmet public health priorities in this critical area.
+The expected activity of Reserve antibiotics against beta-lactamase-producing 
+bacteria are shown in Table 41.1.
+Table 41.1 – Expected activity of Reserve antibiotics against third-generation 
+cephalosporin- and carbapenem-resistant bacteria based on the type of betalactamase produced
+Type of betalactamase 
+ESBLa KPCb NDM, VIM, 
+IMPb
+AmpC OXA-48b Non-fermentersc
+Ambler classd Ae Ae B
+(MBLs)
+Ce De NA
+Cefiderocol + + + + + +f
+Ceftazidime+ 
+avibactam
++ + – + + –
+Acinetobacter 
+baumannii
++
+Pseudomonas 
+aeruginosa
+Fosfomycin (IV)
+(consider 
+using only in 
+combination 
+therapy) 
++ +/– +/– + +/– –
+Acinetobacter 
+baumannii
++/–
+Pseudomonas 
+aeruginosa
+Meropenem+ 
+vaborbactam
++ + – + – +/–
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book581
+RESERVE ANTIBIOTICS 
+41. Overview
+Type of betalactamase 
+ESBLa KPCb NDM, VIM, 
+IMPb
+AmpC OXA-48b Non-fermentersc
+Plazomicin + + +/– + + –
+Polymyxin B 
+and colistin
++ + + + + +
+AmpC: ampicillinase C; ESBL: extended-spectrum beta-lactamases; IMP: imipenemase; IV: intravenous; KPC: 
+Klebsiella pneumoniae carbapenemase; MBLs: metallo-beta-lactamases; NA: not applicable; NDM: New Delhi 
+metallo-beta-lactamase; OXA-48: oxacillinase-48; VIM: Verona integron-encoded metallo-beta-lactamase.
+Expected activity: + active; +/– possibly active; – not or insufficiently active.
+a ESBL are a group of different beta-lactamases conferring resistance to most beta-lactam antibiotics (with the 
+notable exception of carbapenems). 
+b Carbapenemases.
+c Non-fermenters refer to bacteria that cannot catabolize glucose and thus are unable to ferment. The most relevant 
+in this context are Acinetobacter baumannii and Pseudomonas aeruginosa . Please note when using this table, 
+always consider that even when activity of a certain Reserve antibiotic is reported against carbapenem-resistant 
+non-fermenters, this activity ultimately depends on the type of carbapenemase produced and the resistance 
+mechanism. For plazomicin, some in vitro studies have shown activity against Pseudomonas aeruginosa similar to 
+amikacin (426).
+d The Ambler classification of beta-lactamases is the most widely used classification. According to this classification 
+beta-lactamases are divided into four classes (A, B, C and D) based upon similarities in their amino acid sequence.
+e Ambler class A, C and D are serine beta-lactamases.
+f Higher mortality has been reported with carbapenem-resistant Acinetobacter baumannii infections.
+Table 41.1 continued
+
+--- [WHO AWaRe Antibiotic Book (2022) | 42. Cefiderocol | p.598-604 | audience=general] ---
+582The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+42. Cefiderocol
+Key messages
+• The primary use of cefiderocol is for the treatment of infections caused by metallo-betalactamases (MBL)-producing carbapenem-resistant Enterobacterales. 
+• There is very limited evidence for the use of cefiderocol in children.
+• Caution is needed with the use of cefiderocol for Acinetobacter baumannii infections 
+because it was reported to have higher mortality than the best available alternative therapy 
+in one clinical trial.
+Cefiderocol is the first clinically available siderophore cephalosporin. Siderophore-antibiotic 
+conjugates exploit the ability of siderophores to bind extracellular free iron and use 
+iron transporters to cross bacterial cell membranes (in the case of cefiderocol the outer 
+membrane of aerobic Gram-negative bacteria), which results in active accumulation of the 
+antibiotic at the site of action. In addition, cefiderocol can also enter the bacterial cell by 
+passively diffusing through porin channels similar to other beta-lactams.
+Cefiderocol has been licensed for the treatment of complicated UTIs, hospitalacquired bacterial pneumonia and ventilator-associated bacterial pneumonia in patients 
+18 years or older. Its indications include severe infections caused by certain strains of 
+carbapenem-resistant Enterobacterales, Pseudomonas aeruginosa and Acinetobacter 
+baumannii depending on the type of carbapenemase produced and the resistance 
+mechanism in patients with limited treatment options.
+The primary use of cefiderocol is for the treatment of infections caused by metallobeta-lactamases-producing carbapenem-resistant Enterobacterales for which alternative 
+treatment options are very limited (at the time of publication of the AWaRe book).
+Particular caution is needed in patients with Acinetobacter baumannii infections 
+because of concerning data from a randomized clinical trial that reported higher mortality 
+with cefiderocol in this patient population (385,386).
+Its current indications in the EML and EMLc (8,9) include infections caused by certain 
+strains of carbapenem-resistant Enterobacterales and Pseudomonas aeruginosa depending 
+on the type of carbapenemase produced and the resistance mechanism.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+583
+RESERVE ANTIBIOTICS 
+42. Cefiderocol
+Cefiderocol
+•Tr eatment duration varies accor ding to indication and
+should be as shor t as possible
+•Usually betw een 7-14 days
+Antibiotic Treatment Duration
+•Sider ophor e cephalosporin
+•: Inhibition of bac terial enz ymesMechanism of action
+r esponsible for cell-wall synthesis
+Pharmacology
+Indications for Use
+•O nly in ve ry selec ted cases of seriously ill patients (e .g .
+sepsis/septic shock):
+- who ha ve not r esponded to carbapenems if other causes
+of tr eatment failur e ha ve been ex cluded /g246rst and ther e is
+str ong suspicion that the infec tion is caused by a
+carbapenem-r esistant pathogen (especially in settings
+with a high pr evalence of MBL -pr oducing pathogens)
+- who ha ve pr eviously been tr eated for infec tions caused
+by carbapenem-resistant pathogens susceptible to
+ce/g246derocol
+- who ar ek nown to be coloniz ed with carbapenemr esistant pathogens susceptible to ce/g246derocol
+Empiric Use
+Spectrum of Activity
+•:Active against
+-A er obic Gram-negativ e bac teria including man y carbapenem
+r esistant Enter obac terales, andPseudomonas aeruginosa
+Acinetobacter baumannii
+·C arbapenemases: KPC, OX A-48 and MBLs
+· ESBL and AmpC β-lac tamases
+•:Not active against
+-G ram-positiv e bac teria and anaer obes
+•Emerging resistance to ce/g246derocol in Enterobacterales,
+A. baumanii P. aeruginosaand :
+-T he pr opor tion of isolates r esistant to ce/g246der ocol is low but
+data is ve ry limited
+Targeted Treatment
+•S ev er ei nfec tions caused by laborato ry -c on/g246rmed
+carbapenem-r esistan tE nterobac terales and/o r P.aeruginosa
+(par ticularly infe ct ions caused by MBL -pr oducing pathogens)
+-C aution needed with infec tions because ofA. baumannii
+higher mor tality than best available alternativ e therap y
+described in a clinical trial
+(https://pubmed .ncbi.nlm.nih.gov/33058795/)
+•E fficac y demonstrated in clinical trials for empiric use fo r
+complicated UTI, V AP/HAP , BSI and sepsis in adults
+•V er y limited evidence for other infec tions and use in
+childr en
+Important Considerations
+•P owder for intravenous infusion: 1 g/vial
+Formulations
+W ell tolerated with side effec ts similar to other beta-lac tams
+(mostly gastr ointestinal)
+Toxicity
+Dose
+Adults
+Dosage is for normal renal function; dose adjustment required
+in case of renal impairment
+Ce /g246der ocol 2 g q8h IV
+Children or Neonates
+No data for children or neonates
+584The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+42. Cefiderocol
+Administration
+Cefiderocol is currently available as powder for intravenous infusion (1 g/vial). It is 
+administered by intravenous infusion over 3 hours. 
+Mechanism of action
+Cefiderocol acts by inhibiting bacterial enzymes responsible for cell-wall synthesis, primarily 
+penicillin-binding proteins. This leads to cell lysis and death.
+Spectrum of activity
+Cefiderocol is only active against aerobic Gram-negative bacteria (Table 42.1). Specifically, 
+it is active against many carbapenem-resistant Enterobacterales, Pseudomonas aeruginosa 
+and Acinetobacter baumannii clinical isolates. Cefiderocol has no, or only limited, activity 
+against Gram-positive bacteria or anaerobes.
+In vitro, cefiderocol is not degraded by ESBL and by certain types of carbapenemase, 
+in particular Klebsiella pneumoniae carbapenemases, oxacillinase-48 (OXA-48) betalactamases and metallo-beta-lactamases such as New Delhi metallo-beta-lactamases, 
+Verona integron-encoded, or imipenemase metallo-beta-lactamases. 
+Of note, cefiderocol is one of the few Reserve antibiotics with reported 
+activity against metallo-beta-lactamases. The other such antibiotics are colistin/
+polymyxin B, fosfomycin and aztreonam combined with avibactam, in the form of 
+ceftazidime+avibactam.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book585
+RESERVE ANTIBIOTICS 
+42. Cefiderocol
+Table 42.1 – Expected activity of cefiderocol against third-generation cephalosporin 
+and carbapenem-resistant bacteria based on the type of beta-lactamase produced
+Type of betalactamase 
+ESBLa KPCb NDM, VIM, 
+IMPb
+AmpC OXA-48b Non-fermentersc
+Ambler classd Ae Ae B
+(MBLs)
+Ce De NA
+Expected 
+activity of 
+cefiderocol
++ + + + + +f
+AmpC: ampicillinase C; ESBL: extended-spectrum beta-lactamases; IMP: imipenemase; KPC: Klebsiella pneumoniae 
+carbapenemase; MBLs: metallo-beta-lactamases; NA: not applicable; NDM: New Delhi metallo-beta-lactamase; 
+OXA-48: oxacillinase-48; VIM: Verona integron-encoded metallo-beta-lactamase.
+Expected activity: + active.
+a ESBL are a group of different beta-lactamases.
+b Carbapenemases.
+c Non-fermenters refer to bacteria that cannot catabolize glucose and thus are unable to ferment. The most relevant 
+in this context are Acinetobacter baumannii and Pseudomonas aeruginosa. When using this table, always consider 
+that even when activity of a certain Reserve antibiotic is reported against carbapenem-resistant non-fermenters, 
+this ultimately depends on the type of carbapenemase produced and the resistance mechanism.
+d The Ambler classification of beta-lactamases is the most widely used classification. According to this classification 
+beta-lactamases are divided into four classes (A, B, C and D) based upon similarities in their amino acid sequence.
+e Ambler class A, C and D are serine beta-lactamases.
+f Higher mortality has been reported with carbapenem-resistant Acinetobacter baumannii infections.
+Clinical efficacy
+At the time of publication of the AWaRe book, three randomized clinical trials had assessed 
+the efficacy and safety of cefiderocol in adults (385,387,388). The results of these trials provide 
+evidence that cefiderocol is not inferior to carbapenems for the treatment of infections 
+caused by Gram-negative bacteria (not specifically multidrug-resistant) particularly for 
+complicated UTIs, HAP including VAP and bloodstream infections or sepsis.
+One study that enrolled 150 patients with confirmed carbapenem-resistant Gramnegative infection and compared cefiderocol to the best available therapy reported higher 
+mortality in the cefiderocol group, which appeared to be driven by a worse outcome in 
+the subgroup of patients with Acinetobacter baumannii infections (385). Mortality at day 
+28 was 24.8% (25/101) in the cefiderocol group versus 18.4% (9/49) in the best available 
+therapy group (difference 6.4%, 95% confidence interval (CI): −8.6% to 19.2%). The 
+statistically significant difference persisted at day 49: 34/101 (33.7%) in the cefiderocol 
+group versus 10/49 (20.4%) in the best available therapy group; difference 13.3%, 95% CI: 
+−2.5% to 26.9%.
+586The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+42. Cefiderocol
+A possible explanation given by the authors for this difference was that, despite 
+randomization, a higher mortality risk was present at the time of randomization in the 
+cefiderocol group; for example, more patients were in the intensive care unit or had 
+experienced shock in the month preceding randomization. The increase in mortality remains, 
+however, a major concern in this patient population and requires further investigation in 
+clinical trials.
+Although very small numbers of patients with metallo-beta-lactamase-producing 
+Enterobacterales were included in these trials, outcomes in this group of patients were 
+favourable. 
+At the time of publication of the AWaRe book, cefiderocol is being assessed in phase 
+II trials (i.e. trials that assess safety and effectiveness in small groups of patients) in children 
+and good evidence about its efficacy and safety in the paediatric setting is lacking.
+Toxicity
+Cefiderocol has a good safety profile similar to other beta-lactams and is well tolerated. In 
+clinical trials, side-effects were described in proportions similar to those experienced by 
+patients in control groups. Gastrointestinal effects (e.g. diarrhoea) are the most commonly 
+reported side-effects.
+Dose 
+Cefiderocol requires dose adjustments in cases of renal impairment (Table 42.2). Renal function 
+should be closely monitored and doses adjusted accordingly. Dose adjustments are not 
+covered in the AWaRe book. Please also refer to the chapter on dosing for more information.
+Table 42.2 – Cefiderocol suggested doses
+Dose in adults Dose in children Dose in neonates
+2 g given every 8 hours There are no data for 
+children or neonates
+There are no data for 
+children or neonates
+Note. All dosages are for normal renal and hepatic function.
+Indication for the use as a Reserve antibiotic
+Targeted treatment
+Cefiderocol could be considered as a last-resort option for the targeted treatment of 
+severe invasive infections (e.g. positive blood culture) caused by laboratory-confirmed
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book587
+RESERVE ANTIBIOTICS 
+42. Cefiderocol
+carbapenem-resistant Enterobacterales and Pseudomonas aeruginosa , particularly if the 
+resistance is caused by metallo-beta-lactamases. The use of cefiderocol should be limited to 
+situations where no other adequate therapeutic options are available. Given the increased 
+mortality observed in the trial mentioned before (385), cefiderocol should be used with 
+caution in patients with Acinetobacter baumannii infection.
+To preserve its effectiveness (i.e. to prevent the development of resistance), 
+cefiderocol should not be used to treat infections caused by isolates only producing ESBLs 
+when there are other options available.
+Empiric treatment
+Cefiderocol could be considered for empiric use exceptionally in very select cases of seriously 
+ill patients with invasive infections (e.g. patients with sepsis/septic shock) including the 
+following patients.
+• Patients who have not responded to carbapenems if: (i) other causes of treatment 
+failure have been excluded first, and (ii) there is a strong suspicion that the 
+infection is caused by carbapenem-resistant bacteria, especially in settings 
+with a high prevalence of metallo-beta-lactamase-producing Enterobacterales. 
+However, if a patient is not improving, antibiotic failure is not the only possible 
+cause to consider. Alternative reasons include: alternative diagnosis; development 
+of complications (e.g. an abscess); inadequate control of the source of infection; 
+suboptimal dose of the antibiotic; or impossibility for the antibiotic to reach an 
+adequate concentration at the site of infection. These possible causes of the lack 
+of improvement in a patient are always important to consider before changing or 
+adding new antibiotics.
+• Patients who have previously been treated for infections caused by carbapenemresistant bacteria that are susceptible only to cefiderocol.
+• Patients who are known to be colonized with carbapenem-resistant bacteria 
+found to be susceptible only to cefiderocol.
+To help prescribers identify clinical scenarios where empiric use of Reserve antibiotics 
+could exceptionally be considered, suggestions are given in the relevant chapters of the 
+AWaRe book for certain infections – only for infections where empiric use could potentially 
+be adequate on a case-by-case basis.
+588The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+42. Cefiderocol
+Emerging resistance in Enterobacterales, 
+Pseudomonas aeruginosa and Acinetobacter 
+baumannii
+Most Gram-negative bacteria are susceptible to cefiderocol. However, at the time of 
+publication of the AWaRe book, few data were available about resistance. Most evidence 
+comes from two laboratory surveillance studies that tested the in vitro activity of cefiderocol 
+in more than 30 000 Gram-negative aerobic isolates (years 2014–2017) and showed that 
+cefiderocol was effective at low minimum inhibitory concentrations for more than 99% 
+of isolates (389,390). An increase in minimum inhibitory concentrations to cefiderocol has 
+emerged on treatment in a small proportion of patients in trials. 
+Data on resistance to cefiderocol are currently not reported by the GLASS.
+Duration
+Treatment duration varies according to indication and should be as short as possible, usually 
+between 7 and 14 days.
+
+--- [WHO AWaRe Antibiotic Book (2022) | 43. Ceftazidime+avibactam | p.605-610 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book589
+RESERVE ANTIBIOTICS 
+43. Ceftazidime+avibactam
+Key messages
+• Ceftazidime+avibactam has activity against many carbapenem-resistant Enterobacterales 
+and Pseudomonas aeruginosa, but not strains producing metallo-beta-lactamases.
+• When used to treat complicated intra-abdominal infections it should be given with 
+metronidazole due to its inconsistent activity against anaerobes.
+Ceftazidime+avibactam is a combination of a third-generation cephalosporin (ceftazidime) 
+in clinical use since the 1980s and a new non-beta-lactam beta-lactamase inhibitor 
+(avibactam). Its current indications in the EML and EMLc (8,9) include infections caused 
+by certain strains of carbapenem-resistant Enterobacterales and Pseudomonas aeruginosa 
+depending on the type of carbapenemase produced and the resistance mechanism. Its 
+activity against Acinetobacter baumannii is limited.
+Administration
+Ceftazidime+avibactam is currently available as powder for intravenous infusion (2 g + 0.5 g 
+in vial). It is administered by intravenous infusion over 2 hours. 
+Mechanism of action
+Ceftazidime acts by inhibiting bacterial enzymes responsible for cell-wall synthesis, primarily 
+penicillin binding protein 3. Avibactam targets the site of certain serine beta-lactamases 
+and inactivates them, thus protecting ceftazidime from degradation.
+590
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+42. Cefiderocol
+Ceftazidime+avibactam
+•C ombination of a thir d- generation cephalosporin (ceftazidime)
+and a nov el non-β-lac tam β-lac tamase inhibitor (avibac tam)
+•:Mechanism of action
+-C eftazidime inhibits bac terial enz ymes r esponsible for cell
+wall synthesis
+-A vibac tam inac tivates cer tain serine β-lac tamases , pr otec ting
+cef tazidime fr om degradation
+Pharmacology
+Indications for Use
+•O nly in ve ry selec t cases of seriously ill patients (e .g .
+patients with sepsis/septic shock):
+- who ha ve not r esponded to carbapenems if other causes
+of tr eatment failur e ha ve been ex cluded /g246rst and ther e is
+str ong suspicion that the infec tion is caused by a
+carbapenem-r esistant pathogen
+- who ha ve pr eviously been tr eate df or infec tions caused by
+carbapenem-r esistan tp athogens susceptible to CAZ- AV I
+- who ar ek nown to be coloniz ed with carbapenemr esistant pathogens susceptible to CAZ- AV I
+Empiric Use
+Spectrum of Activity
+Targeted Treatment
+•S ev er e infec tions caused by laborator y- con/g246rmed
+carbapenem-r esistant Enter obac terales or P. aeruginosa
+(not ) susceptible to ceftazidime+avibac tamA. baumannii
+( CAZ -A VI)
+•W hen used to tr eat complicated intra-abdominal
+infec tions CAZ- A VI should be giv en with metr onidazole due
+to its unpredic table ac tivity against anaer obes
+•Since it is not ac tiv e against MBLs , it is impor tant to kn ow
+the local epidemiology of the most pr evalent genotypes fo r
+aer obic Gram-negativ e bac teria
+Important Considerations
+•P owder for intravenous infusion: 2 g + 500 mg in vial
+Formulations
+•Side effec ts ar e similar to those pr eviously r epor ted fo r
+cef tazidime alone
+•T he most fr equent ar e diarrhoea, nausea and v omiting
+Toxicity
+•:Active against
+-A er obic Gram-negativ e bac teria including cef tazidimer esistant and man y carbapenem-r esistant Enter obac terales
+and Pseudomonas aeruginosa
+· Carbapenemases: KPC and OX A-48
+· ESBL and AmpC β-lac tamases
+•:Variable activity against
+- spp .Streptococcus
+- spp .Staphylococcus
+-A naer obes
+•:Not active against
+- MBL -pr oducing Gram-negativ e bac teria (inac tiv e against
+NDM, VIM, IMP carbapenemases unless co -pr escribed with
+aztr eonam)
+- spp .Enterococcus
+- spp .Acinetobacter
+•Emerging resistance to CAZ-AVI in Enterobacterales and
+Pseudomonas aeruginosa:
+-T he pr opor tion of isolates r esistant to CA Z- A VI is low (higher
+fo r) with geographical variabilit yP. aeruginosa
+•Tr eatment duration varies accor ding to indication and
+should be as shor t as possible
+•Usually betw een 7-14 days
+Antibiotic Treatment Duration
+Dose
+Adults
+Dosage is for normal renal function; dose adjustment required
+in case of renal impairment
+Ce ftazidime+avibac tam 2.5 g (2 g ceftazidime
++ 500 mg avibac tam) q8h IV
+Dosage is for normal renal function; dose adjustment required
+in case of renal impairment
+Children
+Ce ftazidime+a vibac tam 62.5 mg/kg/dose q8 h IV
+(50 mg/kg/dose ceftazidime + 12.5 mg/kg/dose
+avibac tam)
+Max: 2 g ceftazidime + 500 mg avibac tam per
+dose
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book591
+RESERVE ANTIBIOTICS 
+43. Ceftazidime+avibactam
+Spectrum of activity
+Ceftazidime+avibactam is mainly active against aerobic Gram-negative bacteria. Specifically, 
+it is active against ceftazidime-resistant and many carbapenem-resistant Enterobacterales and 
+Pseudomonas aeruginosa clinical isolates, but its activity against Acinetobacter spp. is limited.
+Avibactam inhibits the activity of ESBLs, AmpC beta-lactamases, Klebsiella pneumoniae 
+carbapenemases and OXA-48 beta-lactamases (Table 43.1), and so preserves the activity of 
+ceftazidime against many multidrug-resistant Gram-negative bacteria. However, avibactam 
+does not inhibit the activity of metallo-beta-lactamases such as New Delhi metallo-betalactamase, Verona integron-encoded, or imipenemase metallo-beta-lactamases and 
+therefore ceftazidime is inactive against strains expressing these beta-lactamases.
+Ceftazidime+avibactam also has some antistreptococcal activity, very limited 
+antistaphylococcal activity and no antienterococcal activity. Its activity against anaerobes 
+varies: Clostridium spp. are resistant and Bacteroides spp. show unpredictable susceptibility.
+Table 43.1 – Expected activity of ceftazidime+avibactam against third-generation 
+cephalosporin- and carbapenem-resistant bacteria based on the type of betalactamase produced
+Type of betalactamase 
+ESBLa KPCb NDM, VIM, 
+IMPb
+AmpC OXA-48b Non-fermentersc
+Ambler classd Ae Ae B
+(MBLs)
+Ce De NA
+Expected 
+activity of 
+ceftazidime+ 
+avibactamf
++ + – + + –
+Acinetobacter 
+baumannii
++
+Pseudomonas 
+aeruginosa
+AmpC: ampicillinase C; ESBL: extended-spectrum beta-lactamases; IMP: imipenemase; KPC: Klebsiella pneumoniae 
+carbapenemase; MBLs: metallo-beta-lactamases; NA: not applicable; NDM: New Delhi metallo-beta-lactamase; 
+OXA-48: oxacillinase-48; VIM: Verona integron-encoded metallo-beta-lactamase.
+Expected activity: + active; – not or insufficiently active.
+a ESBL are a group of different beta-lactamases.
+b Carbapenemases.
+c Non-fermenters refer to bacteria that cannot catabolize glucose and thus are unable to ferment. The most relevant 
+in this context are Acinetobacter baumannii and Pseudomonas aeruginosa. When using this table, always consider 
+that even when activity of a certain Reserve antibiotic is reported against carbapenem-resistant non-fermenters, 
+this ultimately depends on the type of carbapenemase produced and the resistance mechanism.
+continues
+592The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+43. Ceftazidime+avibactam
+d The Ambler classification of beta-lactamases is the most widely used classification. According to this classification 
+beta-lactamases are divided into four classes (A, B, C and D) based upon similarities in their amino acid sequence.
+e Ambler class A, C and D are serine beta-lactamases.
+f Ceftazidime+avibactam co-prescribed with aztreonam retains activity against metallo-beta-lactamase-producing 
+bacteria, however aztreonam is not currently listed in the WHO EML and EMLc.
+Clinical efficacy
+Several clinical trials have assessed the efficacy and safety of ceftazidime+avibactam in 
+adults and provide evidence that it is not inferior to carbapenems for the treatment of 
+infections caused by Gram-negative bacteria particularly for: complicated UTIs (391,392); 
+complicated intra-abdominal infections in combination with metronidazole (392–394); and 
+HAP (395). Of note, in the majority of trials, the infection being caused by multidrug-resistant 
+organisms was not an inclusion criterion. In children, at the time of publication of the AWaRe 
+book, ceftazidime+avibactam has been assessed in phase II trials (i.e. trials that assess 
+safety and effectiveness in small groups of patients) for the treatment of complicated UTIs, 
+compared with cefepime (396), and in combination with metronidazole for the treatment of 
+complicated intra-abdominal infections, compared with meropenem (397).
+In both studies, ceftazidime+avibactam was well tolerated with a safety profile 
+similar to that of ceftazidime alone and appeared effective in children with complicated 
+urinary or intra-abdominal infections caused by Gram-negative pathogens.
+Toxicity
+Ceftazidime+avibactam is well tolerated and has side-effects similar to those previously reported 
+for ceftazidime alone. The most frequent side-effects are diarrhoea, nausea and vomiting.
+Dose 
+Ceftazidime+avibactam requires dose adjustments in cases of renal impairment (Table 
+43.2). Renal function should be closely monitored, and doses adjusted accordingly. Please 
+also refer to the chapter on dosing for more information.
+Table 43.1 continued
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book593
+RESERVE ANTIBIOTICS 
+43. Ceftazidime+avibactam
+Table 43.2 – Ceftazidime+avibactam suggested doses
+Dose in adults Dose in children
+IV: 2.5 g (2 g ceftazidime + 500 mg 
+avibactam) given every 8 hours
+IV: 62.5 mg/kg/dose (50 mg/kg/dose ceftazidime + 
+12.5 mg/kg/dose avibactam); given every 8 hours
+Max: 2 g ceftazidime + 500 mg avibactam per dose
+IV: intravenous.
+Note. All dosages are for normal renal and hepatic function.
+Indication for use as a Reserve antibiotic
+Targeted treatment
+Ceftazidime+avibactam could be considered as a last-resort option for the targeted 
+treatment of severe invasive infections (e.g. septic shock with positive blood culture) 
+caused by laboratory-confirmed carbapenem-resistant Enterobacterales or Pseudomonas 
+aeruginosa (not Acinetobacter baumannii), including infections caused by strains producing 
+certain carbapenemases that have tested susceptible to this antibiotic.
+Ceftazidime+avibactam is not indicated for infections caused by strains producing 
+metallo-beta-lactamases. Sometimes ceftazidime+avibactam is combined with aztreonam 
+for these strains but the evidence remains limited. 
+If ceftazidime+avibactam is used to treat intra-abdominal infections, it should 
+be used as part of a combination treatment because it lacks activity against anaerobic 
+organisms – therefore it is usually used in combination with metronidazole. 
+To preserve its effectiveness (i.e. to prevent the development of resistance), 
+ceftazidime+avibactam should not be used to treat infections caused by isolates only 
+producing ESBLs or by ceftazidime-resistant bacteria when there are other options available.
+Empiric treatment
+Ceftazidime+avibactam could be considered for empiric use exceptionally in very select 
+cases of seriously ill patients with invasive infections (e.g. patients with sepsis/septic 
+shock without microbiological test results) suspected to be caused by a multidrugresistant pathogen (e.g. severe hospital-acquired infections or infections in patients who 
+have received multiple antibiotic treatments in the recent past), such as in the following 
+situations.
+• Patients who have not responded to carbapenems if other causes of treatment 
+failure have been excluded first and there is a strong suspicion that the infection
+594The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+43. Ceftazidime+avibactam
+is caused by carbapenem-resistant bacteria. Since ceftazidime+avibactam 
+is not active against metallo-beta-lactamases conveying carbapenem 
+resistance, it is important to know the most prevalent genotypic variants 
+that are circulating of aerobic Gram-negative bacteria in the setting where 
+the patient acquired the infection. However, if a patient is not improving, 
+antibiotic failure is not the only possible cause to consider. Alternative reasons 
+include, for example: alternative diagnosis; development of complications (e.g. 
+an abscess); inadequate source control; sub-optimal dose of the antibiotic; 
+or impossibility for the antibiotic to reach an adequate concentration at the 
+site of infection. Alternative reasons are always important to consider before 
+changing or adding new antibiotics.
+• Patients who have previously been treated for infections caused by carbapenemresistant bacteria.
+• Patients who are known to be colonized with carbapenem-resistant bacteria 
+found to be susceptible to ceftazidime+avibactam. 
+To help prescribers identify clinical situations where empiric use of Reserve antibiotics 
+could exceptionally be considered, suggestions are given in the relevant chapters of the 
+AWaRe book for selected infections (only for infections where empiric use could potentially 
+be adequate on a case-by-case basis).
+Emerging resistance in Enterobacterales and 
+Pseudomonas aeruginosa
+Most Klebsiella pneumoniae carbapenemase-producing Enterobacterales and Pseudomonas 
+aeruginosa are still susceptible to ceftazidime+avibactam. The proportion of isolates resistant 
+to ceftazidime+avibactam is low (higher for Pseudomonas aeruginosa ) with variability 
+across geographical regions (398,399). Data on resistance to ceftazidime+avibactam are 
+currently not reported by the GLASS. Resistance is often associated with previous exposure 
+to ceftazidime+avibactam (400).
+Duration
+Treatment duration varies according to indication and should be as short as possible, usually 
+between 7 and 14 days.
+
+--- [WHO AWaRe Antibiotic Book (2022) | 44. Fosfomycin (intravenous) | p.611-616 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book595
+RESERVE ANTIBIOTICS 
+44. Fosfomycin (intravenous)
+Key messages
+• Fosfomycin has activity against methicillin-resistant Staphylococcus aureus, vancomycinresistant enterococci and many carbapenem-resistant Enterobacterales. 
+• Fosfomycin is usually used as part of combination treatments because of concerns about 
+the emergence of resistance.
+• There is very limited evidence on the use of fosfomycin in children.
+• The optimal dose of fosfomycin is not clearly defined.
+Fosfomycin is an antibiotic belonging to the class of phosphonic antibiotics discovered at 
+the end of the 1960s. Its current indications in the EML and EMLc include infections caused 
+by carbapenem-resistant Enterobacterales (8,9). For Pseudomonas aeruginosa, the activity of 
+fosfomycin is variable.
+Administration
+Fosfomycin is available as powder for intravenous infusion (2 g; 4 g (as sodium) in vial). 
+Fosfomycin has to be administered by slow intravenous infusion. Intramuscular use is 
+discouraged by the European Medicines Agency because of insufficient data confirming 
+benefits to patients (401). Oral formulations (fosfomycin trometamol and fosfomycin 
+calcium) mostly used for the treatment of lower UTIs are not currently included in the EML 
+and EMLc (8,9) and therefore they are not covered in this chapter.
+Mechanism of action
+Fosfomycin acts by inhibiting bacterial enzymes responsible for cell-wall synthesis, primarily 
+pyruvyl transferase, an enzyme necessary for the synthesis of peptidoglycan.
+596
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+44. Fosfomycin (intravenous)
+Fosfomycin
+Dosage is for normal renal function; dose adjustment required
+in case of renal impairment
+F osfom y cin 6 g q8h IV
+•T otal daily dose may va ry : range 12-24 g
+depending on indication and r enal func tion
+•G enerally w ell tolerated
+•C onsider risk of :
+-S odium ov erload in patients with hear t failur e (r elated to the
+sodium salt formulation)
+-H ypok alaemia (need to monitor potassium lev els r egularly)
+Toxicity
+Pharmacology
+Indications for Use
+•O nly in ve ry selec t cases of seriously ill patients (e .g .
+sepsis/septic shock):
+- who ha ve not r esponded to carbapenems if other causes
+of tr eatment failur e ha ve been ex cluded and ther e is
+str ong suspicion that the infec tion is caused by a
+carbapenem-r esistant pathogen
+- who ha ve pr eviously been tr eated for infec tions caused
+by carbapenem-resistant pathogens susceptible to
+fosfom y cin
+- who ar ek nown to be coloniz ed with carbapenemr esistan tp athogens susceptible to f osfom y cin
+Empiric Use
+Spectrum of Activity
+•:Active against
+- ESBL and AmpC β-lac tamases-pr oducing Enter obac terales
+-G ram-positiv e bac teria including MRSA, VRE and S. epidermidis
+•:Variable activity against
+- Pseudomonas aeruginosa
+-A er obic Gram-negativ e bac teria including man y carbapenemr esistant Enter obac terales
+·C arbapenemases: KPC, OX A-48 and metallo -β-lac tamases (MBL)
+•:Not active against
+- Acinetobacter baumannii
+•:Emerging resistance to fosfomycin in Enterobacterales
+-R ar e in clinical prac tice ev en though it can rapidly dev elop in
+vitro
+Targeted Treatment
+•S ev er e infec tions caused by laborator y- con/g246rmed
+carbapenem-r esistant Enter obac terales or Pseudomonas
+aeruginosa susceptible to fosfom y cin
+•S alvage therapy for other wise untr eatable infec tions
+caused by MRSA and vancom y cin-r esistan t Enterococcus
+( VRE) susceptible to fosfom y cin
+•U sually giv en in combination with other antibiotics due to
+concerns about the rapid emergence of r esistance when
+used alone
+•V er y limited data fr om clinical trials about efficac y and
+safety (childr en and adults)
+Important Considerations
+•P owder for intravenous infusion: 2 g/vial or 4 g/vial (as sodium)
+Formulations
+•Tr eatment duration varies accor ding to indication and
+should be as shor t as possible
+•Usually betw een 7-14 days
+Antibiotic Treatment Duration
+Dose
+This infographic only addresses the IV formulation of fosfomycin.
+Oral formulations are not currently included in the EML/EMLc
+Dosage is for normal renal function
+Children
+Adults
+F osfom y cin 200-400 mg/kg/day divided
+q8-12h IV
+•B elongs to the phosphonic acid class of antibiotics
+•: Inhibition of bac terial enz ymesMechanism of action
+r esponsible for cell-wall synthesis
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book597
+RESERVE ANTIBIOTICS 
+44. Fosfomycin (intravenous)
+Spectrum of activity
+Fosfomycin is active against several Gram-positive and Gram-negative bacteria but not as a 
+single agent against Streptococcus spp., or Acinetobacter spp. or anaerobic bacteria. Specifically, 
+it is usually active against Enterococcus spp. (including vancomycin-resistant strains), 
+Staphylococcus aureus (including methicillin-resistant strains) and Staphylococcus epidermidis. 
+It is also active against Gram-negative Enterobacterales (including ESBL-producing strains); 
+however, activity against carbapenem-resistant or carbapenemases-producing strains is 
+variable (Table 44.1). Fosfomycin’s activity against Pseudomonas aeruginosa is variable.
+Table 44.1 – Expected activity of intravenous fosfomycin against third-generation 
+cephalosporin and carbapenem-resistant bacteria based on the type of betalactamase produced
+Type of betalactamase 
+ESBLa KPCb NDM, VIM, 
+IMPb
+AmpC OXA-48b Non-fermentersc
+Ambler classd Ae Ae B
+(MBLs)
+Ce De NA
+Expected 
+activity of IV 
+fosfomycin
+(Consider 
+using only in 
+combination 
+therapy)
++ +/– +/– + +/– –
+Acinetobacter 
+baumannii
++/–
+Pseudomonas 
+aeruginosa
+AmpC: ampicillinase C; ESBL: extended-spectrum beta-lactamases; IMP: imipenemase; IV: intravenous; KPC: 
+Klebsiella pneumoniae carbapenemase; MBLs: metallo-beta-lactamases; NA: not applicable; NDM: New Delhi 
+metallo-beta-lactamase; OXA-48: oxacillinase-48; VIM: Verona integron-encoded metallo-beta-lactamase.
+Expected activity: + active; +/– possibly active; – not or insufficiently active.
+a ESBL are a group of different beta-lactamases.
+b Carbapenemases.
+c Non-fermenters refer to bacteria that cannot catabolize glucose and thus are unable to ferment. The most relevant 
+in this context are Acinetobacter baumannii and Pseudomonas aeruginosa. When using this table, always consider 
+that even when activity of a certain Reserve antibiotic is reported against carbapenem-resistant non-fermenters, 
+this ultimately depends on the type of carbapenemase produced and the resistance mechanism.
+d The Ambler classification of beta-lactamases is the most widely used classification. According to this classification 
+beta-lactamases are divided into four classes (A, B, C and D) based upon similarities in their amino acid sequence.
+e Ambler class A, C and D are serine beta-lactamases.
+598The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+44. Fosfomycin (intravenous)
+Clinical efficacy
+Intravenous fosfomycin could be considered for the treatment of certain severe infections 
+when other antibiotics cannot be used or are not effective. It is usually used as part of 
+combination treatments, mostly because of concerns about the emergence of resistance 
+when used alone. The benefits of combination treatment compared with monotherapy in 
+terms of better clinical efficacy are unclear as there is limited clinical evidence (402,403).
+Few clinical trials have assessed the efficacy and safety of fosfomycin (intravenous) 
+in adults. Fosfomycin has been assessed for the treatment of complicated UTIs and the 
+results showed that fosfomycin was not inferior to piperacillin+tazobactam (404). Another 
+non-inferiority trial which compared fosfomycin with meropenem and ceftriaxone has 
+recently been completed (405). Fosfomycin has also been evaluated for the treatment of 
+MRSA bacteraemia and endocarditis in combination with daptomycin and this combination 
+was more effective than daptomycin alone (406). 
+Other evidence in support of the use of fosfomycin for difficult-to-treat 
+Staphylococcus aureus infections (including MRSA) exists but it is anecdotal and inconclusive. 
+This evidence is mostly from observational and in-vitro studies, including results from a 
+clinical trial comparing fosfomycin (in combination with imipenem) to vancomycin alone 
+for the treatment of complicated MRSA bacteraemia and endocarditis; however, this study 
+failed to reach an adequate sample size (407).
+In children, the evidence is even more limited. One pharmacokinetic and safety trial 
+has recently been completed of fosfomycin as an empiric treatment in neonatal sepsis (408).
+The use of fosfomycin for other indications (e.g. bone and joint infections, hospitalacquired pneumonia, meningitis and abdominal infections) relies on evidence from case 
+reports or other observational and in vitro studies which is therefore less robust.
+Toxicity
+Fosfomycin is well tolerated. However, use of the intravenous formulation can be associated 
+with sodium overload related to the sodium salt formulation (this could be of concern 
+in patients with heart failure) and hypokalaemia (therefore potassium levels should be 
+regularly monitored).
+Dose 
+The optimal intravenous dose still needs to be clearly defined (Table 44.2). Usually, doses 
+vary with the severity of the disease and the patient’s renal function. Dose adjustments are 
+necessary in cases of renal impairment. Please also refer to the chapter on dosing for more 
+information.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book599
+RESERVE ANTIBIOTICS 
+44. Fosfomycin (intravenous)
+Table 44.2 – Fosfomycin suggested doses
+Dose in adults Dose in children
+IV: 6 g given every 8 hours
+(Note. Total daily dose may vary depending on the 
+indication and may range between 12 g and 24 g 
+per day divided every 8 to 12 hours.)
+IV: 200–400 mg/kg/day divided every 
+8 to 12 hours
+IV: intravenous.
+Note. All dosages are for normal renal and hepatic function.
+Indication for use as a Reserve antibiotic
+Targeted treatment
+Fosfomycin (usually as part of combination therapy to reduce the risk of the development of 
+resistance) could be considered in the following cases.
+• As a last-resort option for the targeted treatment of severe infections caused by 
+laboratory-confirmed carbapenem-resistant Enterobacterales or Pseudomonas 
+aeruginosa (including strains producing carbapenemases) that have been shown 
+to be susceptible to this antibiotic. Caution is needed with infections caused by 
+Pseudomonas aeruginosa because the activity of fosfomycin against this pathogen 
+is variable. 
+• As a last-resort option for difficult-to-treat infections caused by Staphylococcus 
+aureus (including MRSA) and Enterococcus spp., including vancomycin-resistant 
+strains. However, the 2021 version of the EML and EMLc does not include this use.
+Empiric treatment
+Usually as part of combination therapy, fosfomycin could be considered for empiric use 
+in selected cases of seriously ill patients with invasive infections (e.g. patients with sepsis/
+septic shock) suspected to be caused by a multidrug-resistant pathogen (e.g. severe 
+hospital-acquired infections or infections in patients who have received multiple antibiotic 
+treatments in the recent past) such as in the following situations.
+• Patients who have not responded to carbapenems if other causes of treatment 
+failure have been excluded first and there is a strong suspicion that the 
+infection is caused by a carbapenem-resistant Enterobacterales – fosfomycin 
+does not reliably treat Acinetobacter spp. and its activity against Pseudomonas
+600The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+44. Fosfomycin (intravenous)
+aeruginosa is variable. However, if a patient is not improving, antibiotic failure 
+is not the only possible cause to consider. Alternative reasons include, for 
+example: alternative diagnosis, development of complications (e.g. an abscess), 
+inadequate source control, sub-optimal dose of the antibiotic or impossibility 
+for the antibiotic to reach an adequate concentration at the site of infection. 
+Alternative reasons are always important to consider before changing or 
+adding new antibiotics.
+• Patients who have previously been treated for infections caused by carbapenemresistant Enterobacterales. In certain settings Klebsiella pneumoniae may be 
+resistant to fosfomycin; therefore, local knowledge of susceptibility profiles for 
+aerobic Gram-negative bacteria is crucial (409). Fosfomycin does not reliably treat 
+Acinetobacter spp. and its activity against Pseudomonas aeruginosa is variable.
+• Patients who are known to be colonized with carbapenem-resistant pathogens 
+found to be susceptible to fosfomycin.
+To help prescribers identify clinical scenarios where empiric use of Reserve antibiotics 
+could exceptionally be considered, suggestions are given in the relevant chapters of the 
+AWaRe book for selected infections (only for infections where empiric use could potentially 
+be adequate on a case-by-case basis).
+Emerging resistance in Enterobacterales
+Cross-resistance is uncommon because of the unique structure and mechanism of action 
+of fosfomycin. Both chromosomal-mediated and plasmid-mediated (i.e. transmissible) 
+resistance can occur. Resistance can rapidly develop in vitro, but in clinical practice resistance 
+is still uncommon, although it is increasing (410).
+Data on resistance to fosfomycin are currently not reported by the GLASS.
+Duration
+Treatment duration varies according to indication and should be as short as possible, usually 
+between 7 and 14 days.
+
+--- [WHO AWaRe Antibiotic Book (2022) | 45. Linezolid | p.617-621 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book601
+RESERVE ANTIBIOTICS 
+45. Linezolid
+Key messages
+• Linezolid has activity against most strains of vancomycin-resistant Enterococcus spp. and 
+methicillin-resistant Staphylococcus aureus.
+• Linezolid has good oral bioavailability.
+• Prolonged use (> 4 weeks) of linezolid is associated with increased incidence of toxicity 
+(myelosuppression, neuropathy) and should be avoided if possible.
+Linezolid is a synthetic antibiotic of the oxazolidinone class which has been in clinical use 
+since the early 2000s for the treatment of infections caused by Gram-positive bacteria 
+resistant to other antibiotics. Its current indications in the EML and EMLc include infections 
+caused by MRSA, vancomycin-resistant Staphylococcus aureus and vancomycin-resistant 
+Enterococcus spp. and multi-drug resistant Mycobacterium tuberculosis (8,9).
+602
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+45. Linezolid
+Linezolid
+•G enerally w ell tolerated , risks incr ease with pr olonged use
+(>4 w eeks)
+•C onsider risk of :
+-M y elosuppr ession (mostly thr omboc ytopenia)
+· Monitor complete blood cell count ev er y w eek
+-S ev er e optic neur opath y and peripheral neur opath y (both rare )
+Toxicity
+Indications for Use
+•O nly in ve ry selec ted cases of seriously ill patients with
+in vasiv e infec tions who ar e kn own to be colonized with VRE
+or VRSA
+Empiric Use
+•S ynthetic antibiotic of the o xazolidinone class
+•: Inhibition of bac terial pr otein synthesisMechanism of action
+Pharmacology
+Spectrum of Activity
+Targeted Treatment
+•MRSA infec tions in selec ted situations:
+-S ev er e r enal impairmen t
+-H ypersensitivity to vancom y cin
+- Need to use oral tr eatment and other cheaper oral
+options ar e unavailable or not indicate d
+•VRSA or VRE infec tions
+•M yc obac terial infec tions , including ex tensiv ely drugr esistant (second-line option)M. tuberculosis
+The high oral bioavailability of linezolid allows initiation
+with oral tr eatment as an alternativ e to intrav enous
+tr eatmen t
+Important Considerations
+•S olution for intrav enous infusion: 2 mg/mL in 300 mL bag
+•O ral formulations:
+-T ablet: 400 mg; 600 mg
+-T ablet (dispersible): 150 mg
+-P owder for oral liquid: 100 mg/5 mL
+Formulations
+Tr eatment duration varies accor ding to indication and
+should be as shor t as possible (incr eased risk of side effec ts
+if used for >4 w eeks)
+Antibiotic Treatment Duration
+Dose
+•:Active against
+-G ram-positive bac teria including MRSA, VRE and penicillin
+non-susceptible pneumococci
+- including ex tensiv ely drug-Mycobacterium tuberculosis
+r esistant strains
+•:Not active against
+-G ram-negative bac teria
+-A naer obes
+•:Emerging resistance to linezolid in MRSA, VRSA, VRE
+-R epor ted but r emains lo w
+Adults
+Dosage is for normal renal function; no need to adjust the
+dose in case of renal impairment
+Linezolid 600 mg q12h IV/ORAL
+Dosage is for normal renal function; no need to adjust the
+dose in case of renal impairment
+Linezolid 10 mg/kg/dose q8h IV/ORAL
+Children
+Dosage is for normal renal function; no need to adjust the
+dose in case of renal impairment
+Linezolid IV/ORAL
+•1st w eek of life: 10 mg/kg/dose q12h
+•>1st w eek of life: 10 mg/kg/dose q8h
+Neonates
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book603
+RESERVE ANTIBIOTICS 
+45. Linezolid
+Administration
+Linezolid is currently available as a solution for intravenous infusion (2 mg/mL in 300 mL 
+bag) administered by intravenous infusion over 30–120 minutes, and as an oral formulation 
+(tablet: 400 mg; 600 mg). A neonatal or paediatric formulation is also available (powder for 
+oral liquid: 100 mg/5 mL). The high oral bioavailability of linezolid allows initiation with oral 
+treatment as an alternative to intravenous treatment.
+Generic versions of linezolid are available.
+Mechanism of action
+Linezolid acts by binding to the 50S unit of the bacterial ribosome, inhibiting the synthesis 
+of bacterial proteins. 
+Spectrum of activity
+Linezolid is mainly active against aerobic Gram-positive bacteria. In particular against 
+most clinical isolates of vancomycin-resistant Enterococcus spp., MRSA and penicillin nonsusceptible pneumococci. In addition, linezolid has some bactericidal activity against 
+Mycobacterium tuberculosis including extensively drug-resistant strains and certain nontuberculous mycobacteria. 
+Linezolid is not indicated for the treatment of Gram-negative infections. Even 
+though linezolid has some in vitro activity against certain Gram-negative and anaerobic 
+bacteria, clinical data are limited and its use is not recommended for the treatment of these 
+pathogens.
+Clinical efficacy
+Several clinical trials have assessed the efficacy and safety of linezolid compared to 
+vancomycin for the treatment of MRSA infections in general (411) and for skin and soft tissue 
+infections in particular, including those caused by MRSA (412). Linezolid was associated 
+with better short-term survival compared to daptomycin for the treatment of bloodstream 
+infections caused by vancomycin-resistant Enterococcus spp. (413–415). However, linezolid’s 
+overall superiority to daptomycin is less clear because a large cohort study showed greater 
+treatment failure and short-term mortality with linezolid than daptomycin (416). With 
+health care-associated pneumonia, the results of a systematic review and meta-analysis did 
+not show a clear benefit of linezolid for clinical cure or microbiological eradication when 
+compared to vancomycin or teicoplanin, and linezolid was associated with more sideeffects (417).
+604The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+45. Linezolid
+Linezolid can also be used as part of a longer regimen (longer than the standard TB 
+treatment duration) for the treatment of patients with multidrug- and rifampicin-resistant 
+TB as indicated in WHO guidelines for treatment of drug-resistant TB (418).
+Toxicity
+Linezolid is generally well tolerated; however, it can cause myelosuppression (mostly 
+thrombocytopenia but also anaemia or leukopenia), which is usually reversible when 
+linezolid is stopped. Therefore, a complete blood cell count should be done weekly, especially 
+in high-risk patients, such as those with pre-existing myelosuppression or concomitant use 
+of medicines that cause bone marrow suppression. As with any other medicine, interactions 
+with other medicines should be checked before prescribing linezolid; this topic is, however, 
+not addressed in the AWaRe book. Severe optic neuropathy can occur rarely, particularly if 
+linezolid is used for more than 28 days. Patients should be advised to report all new visual 
+symptoms. Peripheral neuropathy is also rarely associated with the (prolonged) use of 
+linezolid. The risk of side-effects increases with prolonged use (usually > 4 weeks), which 
+should be avoided unless there are no alternatives.
+Dose 
+Linezolid does not require dose adjustments in case of renal impairment (Table 45.1). Please 
+also refer to the chapter on dosing for more information.
+Table 45.1 – Linezolid suggested doses
+Dose in adults Dose in children Dose in neonates
+600 mg given every 12 hours 10 mg/kg/dose given every 
+8 hours
+10 mg/kg/dose given every 
+12 hours (first week of life) 
+or every 8 hours (> first 
+week of life)
+Note. All dosages are for normal renal and hepatic function.
+Indication for use as a Reserve antibiotic
+Linezolid can be considered in the following situations.
+• Oral treatment for MRSA is necessary and other less expensive oral alternatives 
+to linezolid are not indicated or are likely to be ineffective due to resistance or 
+toxicity concerns.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book605
+RESERVE ANTIBIOTICS 
+45. Linezolid
+ - Oral treatment may be necessary when maintaining access to parenteral 
+treatment is difficult or for switching from intravenous to oral treatment when 
+the patient could be discharged from hospital before the planned treatment 
+course is completed.
+ - In case of documented hypersensitivity to vancomycin. 
+• In case of severe renal impairment.
+• In case of infections caused by vancomycin-resistant Enterococcus spp. or 
+Staphylococcus aureus.
+• In very select cases of seriously ill patients with invasive infections that are known to 
+be colonized with vancomycin-resistant Enterococcus spp. or Staphylococcus aureus.
+• As a second-line option for the treatment of mycobacterial infections, including 
+extensively drug-resistant Mycobacterium tuberculosis as recommended in WHO 
+guidelines (418). 
+When using linezolid, the risk of side-effects (mostly thrombocytopenia), especially 
+with prolonged use, should always be taken into account. Because of this and because of 
+the risk of emergence of resistance, linezolid use as Reserve antibiotic should be limited to 
+well defined patient populations and be as short as possible.
+Emerging resistance in Gram-positive bacteria
+Resistance to linezolid in usually susceptible Gram-positive bacteria most commonly arises 
+through mutations in the bacterial 23S ribosomal RNA, but it can also be transmitted 
+through plasmids. Resistance can develop in the absence of prior treatment with linezolid 
+and also after short periods of exposure to the antibiotic and should be carefully monitored.
+Resistant isolates of enterococci, staphylococci and streptococci have been reported 
+worldwide but their proportion remains low and in general; most Gram-positive bacteria are 
+still susceptible to linezolid (419). Selection for resistance could be favoured by suboptimal 
+dosing of the antibiotic, especially in severely ill patients where volumes of distribution may 
+be higher leading to low plasma levels (420).
+Data on resistance to linezolid are currently not reported by the GLASS.
+Duration
+Treatment duration varies according to indication and should be as short as possible. 
+Prolonged treatment (> 4 weeks) should be avoided whenever possible because of 
+increased risk of toxicity (see toxicity section).
+
+--- [WHO AWaRe Antibiotic Book (2022) | 46. Meropenem+vaborbactam | p.622-626 | audience=general] ---
+606The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+46. Meropenem+vaborbactam
+Key messages
+• Meropenem+vaborbactam has activity against many carbapenem-resistant 
+Enterobacterales, especially those producing Klebsiella pneumoniae carbapenemases, but 
+not strains producing metallo-beta-lactamases and oxacillinase-48 (OXA-48).
+• Meropenem+vaborbactam is currently not licenced for use in children.
+Meropenem+vaborbactam is a combination of a carbapenem (meropenem) and a new 
+non-beta-lactam beta-lactamase inhibitor (vaborbactam). Its current indications in the 
+EML include infections caused by certain strains of carbapenem-resistant Enterobacterales, 
+Acinetobacter baumannii and Pseudomonas aeruginosa (8). Its activity varies depending on 
+the type of carbapenemase produced and the resistance mechanism.
+However, for most strains of Acinetobacter baumannii and Pseudomonas aeruginosa, 
+the addition of vaborbactam to meropenem has no additional advantage over meropenem 
+alone because of the presence of different resistance mechanisms. Therefore, activity of 
+meropenem + vaborbactam against these pathogens is limited.
+Administration
+Meropenem+vaborbactam is currently available as powder for intravenous infusion (1 g + 1 g 
+in vial). It should be administered by intravenous infusion over 3 hours.
+Mechanism of action
+Meropenem+vaborbactam acts by inhibiting bacterial enzymes responsible for cell wall 
+synthesis, primarily penicillin-binding proteins. Vaborbactam targets the site of certain 
+serine beta-lactamases (Ambler class B) and inactivates them, thus protecting meropenem 
+from degradation.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+607
+RESERVE ANTIBIOTICS 
+46. Meropenem+vaborbactam
+Meropenem+vaborbactam
+•C ombination of a carbapenem (mer openem) and a nov el non-
+β-lac tam β-lac tamase inhibitor (vaborbac tam)
+•:Mechanism of action
+-M er openem inhibits bac terial enz ymes r esponsible for cell
+wall synthesis
+-V aborbac tam inac tivates cer tain serine β-lac tamases , thus
+pr otec ting mer openem fr om degradation
+Pharmacology
+Indications for Use
+•O nly in ve ry selec ted cases of seriously ill patients (e .g .
+sepsis/septic shock):
+- who ha ve not r esponded to carbapenems if other causes
+of tr eatment failur e ha ve been ex cluded and ther e is
+str ong suspicion that the infec tion is caused by a
+carbapenem-r esistant pathogen
+- who ha ve pr eviously been tr eate df or infec tions caused by
+carbapenem-r esistan tp athogens susceptible to
+mer openem+vaborbac tam
+- who ar ek nown to be coloniz ed with carbapenemr esistan tp athogens susceptible to
+mer openem+vaborbac tam
+Empiric Use
+Spectrum of Activity
+•:Active against
+-A er obic Gram-negativ e bac teria including man y carbapenemr esistan tE nterobacterales
+· KPC carbapenemases
+· ESBL and AmpC β-lac tamases
+-A er obic Gram-positiv e bac teria
+-A naer obes
+•:Variable activity against
+- Acinetobacter baumannii
+- Pseudomonas aeruginosa
+•:Not active against
+-G ram-negativ e bac teria pr oducing metallo -β-lac tamases
+(NDM, VIM, IMP) or Ambler class D carbapenemases (such as
+OX A-48)
+•Emerging resistance to meropenem+vaborbactam in
+Enterobacterales:
+-V er y ra re in clinical prac tic e
+Targeted Treatment
+•S ev er e infec tions caused by laborator y- con/g246rmed KPC-
+pr oducing Enter obac terales, including bac teria r esistant to
+cef tazidime+avibac tam but susceptible to
+mer openem+vaborbac tam
+•Since it is not ac tiv e against metallo -β-lac tamases (A mbler
+class B) or class D carbapenemases (such as OX A-48), it is
+impor tant to kn ow the local epidemiology of the most
+pr evalent genotypic variants for aer obic Gram-negativ e
+bac teria
+Important Considerations
+•P owder for intravenous infusion: 1 g + 1 g in vial
+Formulations
+•Tr eatment duration varies accor ding to indication and
+should be as shor t as possible
+•Usually betw een 7-14 days
+Antibiotic Treatment Duration
+Dose
+Adults
+Dosage is for normal renal function; dose adjustment required
+in case of renal impairment
+Mer openem+vaborbac tam 4 g (2 g
+mer openem + 2 g vaborbac tam) q8h IV
+Currently not licensed for use in children or neonates
+Children or Neonates
+•G enerally w ell tolerated
+•Side effec ts similar to mer openem alone
+Toxicity
+608The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+46. Meropenem+vaborbactam
+Spectrum of activity
+Meropenem+vaborbactam has a broad-spectrum of action including Gram-positive 
+aerobic bacteria, Gram-negative aerobic bacteria and anaerobic bacteria. In particular, 
+vaborbactam inhibits the activity of ESBLs, AmpC beta-lactamases and Klebsiella pneumoniae 
+carbapenemases, and thus preserves the activity of meropenem against many multidrugresistant Gram-negative bacteria (Table 46.1). However, vaborbactam does not inhibit the 
+activity of metallo-beta-lactamases and OXA-48 beta-lactamases and therefore meropenem 
+is not active against strains expressing these beta-lactamases (Table 46.1).
+Table 46.1 – Expected activity of meropenem+vaborbactam against thirdgeneration cephalosporin and carbapenem-resistant bacteria based on the type 
+of beta-lactamase produced
+Type of betalactamase 
+ESBLa KPCb NDM, VIM, 
+IMPb
+AmpC OXA-48b Non-fermentersc
+Ambler classd Ae Ae B
+(MBLs)
+Ce De NA
+Expected 
+activity of 
+meropenem+ 
+vaborbactam
++ + – + – +/–
+AmpC: ampicillinase C; ESBL: extended-spectrum beta-lactamases; IMP: imipenemase; KPC: Klebsiella pneumoniae 
+carbapenemase; MBLs: metallo-beta-lactamases; NA: not applicable; NDM: New Delhi metallo-beta-lactamase; 
+OXA-48: oxacillinase-48; VIM: Verona integron-encoded metallo-beta-lactamase.
+Expected activity: + active; +/– possibly active; – not or insufficiently active.
+a ESBL are a group of different beta-lactamases.
+b Carbapenemases.
+c Non-fermenters refer to bacteria that cannot catabolize glucose and thus are unable to ferment. The most relevant 
+in this context are Acinetobacter baumannii and Pseudomonas aeruginosa. When using this table, always consider 
+that even when activity of a certain Reserve antibiotic is reported against carbapenem-resistant non-fermenters, 
+this ultimately depends on the type of carbapenemase produced and the resistance mechanism.
+d The Ambler classification of beta-lactamases is the most widely used classification. According to this classification 
+beta-lactamases are divided into four classes (A, B, C and D) based upon similarities in their amino acid sequence.
+e Ambler class A, C and D are serine beta-lactamases.
+Clinical efficacy
+The TANGO I trial demonstrated that the efficacy and safety of meropenem+vaborbactam 
+in adults was non-inferior to piperacillin+tazobactam for the treatment of complicated UTIs 
+(421). The TANGO II trial (77 patients) demonstrated improved clinical cure and decreased
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book609
+RESERVE ANTIBIOTICS 
+46. Meropenem+vaborbactam
+short-term mortality and nephrotoxicity than the best-available therapy for the treatment 
+of infections caused by proven or suspected carbapenem-resistant Enterobacterales (422).
+Toxicity
+Meropenem+vaborbactam is well tolerated and has side-effects similar to those previously 
+reported for meropenem alone. However, meropenem+vaborbactam is less damaging to 
+the kidneys than other antibiotics used to treat infections caused by carbapenem-resistant 
+Enterobacterales.
+Dose 
+Dose adjustments are required in cases of renal impairment (Table 46.2). In children, 
+the optimal dose is unknown because of limited paediatric-specific pharmacokinetics 
+and pharmacodynamic data (423). Please also refer to the chapter on dosing for more 
+information.
+Table 46.2 – Meropenem+vaborbactam suggested doses
+Dose in adults Dose in children Dose in neonates
+IV: 4 g (2 g meropenem + 2 g 
+vaborbactam) given every 
+8 hours
+Currently not licensed for 
+children
+Currently not licensed for 
+neonates
+IV: intravenous.
+Note. All dosages are for normal renal and hepatic function.
+Indication for use as a Reserve antibiotic
+Targeted treatment
+Meropenem+vaborbactam could be considered in the following situations.
+• As a last-resort option for the targeted treatment of severe infections caused 
+by laboratory-confirmed Klebsiella pneumoniae carbapenemase-producing 
+Enterobacterales. It is not indicated in cases of metallo-beta-lactamases and OXA-
+48 production.
+• For treatment of infections caused by bacteria resistant to ceftazidime+avibactam, 
+unless resistance to ceftazidime+avibactam is due to the production of metallobeta-lactamases.
+610The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+46. Meropenem+vaborbactam
+• Based on the results of available trials, meropenem+vaborbactam could be 
+considered in cases of severe complicated urinary tract and intra-abdominal 
+infections and for HAP when other antibiotics cannot be used or are not effective.
+Empiric treatment
+Meropenem+vaborbactam could be considered for empiric use exceptionally in very select 
+cases of seriously ill patients with invasive infections (e.g. patients with sepsis/septic shock) 
+suspected to be caused by a multidrug-resistant pathogen (e.g. severe hospital-acquired 
+infections or infections in patients who have received multiple antibiotic treatments in the 
+recent past), such as in the following situations.
+• Patients who have not responded to carbapenems if other causes of treatment 
+failure have been excluded first and there is a strong suspicion that the infection 
+is caused by a carbapenem-resistant pathogen. However, if a patient is not 
+improving, antibiotic failure is not the only possible cause to consider. Alternative 
+reasons include, for example: alternative diagnosis, development of complications 
+(e.g. an abscess), inadequate source control, sub-optimal dose of the antibiotic or 
+impossibility for the antibiotic to reach an adequate concentration at the site of 
+infection. Alternative reasons are always important to consider before changing 
+or adding new antibiotics.
+• Patients who have previously been treated for infections caused by carbapenemresistant pathogens.
+• Patients who are known to be colonized with carbapenem-resistant pathogens 
+found to be susceptible to meropenem+vaborbactam.
+To help prescribers identify these specific situations where empiric use of 
+meropenem+vaborbactam could exceptionally be considered, suggestions are given in 
+the relevant chapters of the AWaRe book for selected infections (only for infections where 
+empiric use could be considered on a case-by-case basis).
+Emerging resistance in Enterobacterales
+Most Klebsiella pneumoniae carbapenemase-producing Enterobacterales are still susceptible 
+to meropenem+vaborbactam with very few reports of resistant strains (424).
+Data on resistance to meropenem+vaborbactam are currently not reported by 
+the GLASS.
+Duration
+Treatment duration varies according to indication and should be as short as possible, usually 
+between 7 and 14 days.
+
+--- [WHO AWaRe Antibiotic Book (2022) | 47. Plazomicin | p.627-632 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book611
+RESERVE ANTIBIOTICS 
+47. Plazomicin
+Key messages
+• Plazomicin has activity against many carbapenem-resistant Enterobacterales such as 
+those producing Klebsiella pneumoniae carbapenemases and oxacillinase-48 (OXA-48) 
+carbapenemases, but not strains producing metallo-beta-lactamases.
+• Side-effects of plazomicin are similar to other aminoglycosides, usually kidney and inner ear.
+• Plazomicin is currently not licensed for use in children.
+Plazomicin is a new semisynthetic aminoglycoside derived from sisomicin, an older 
+aminoglycoside (425). Its current indications in the EML include infections caused by 
+carbapenem-resistant Enterobacterales (8,9).
+Administration
+Plazomicin has been developed as injection for intravenous use (500 mg/10 mL). It is 
+administered by intravenous infusion over 30 minutes.
+Mechanism of action
+Plazomicin acts by binding to the 30S unit of the bacterial ribosome, thus inhibiting the start 
+of the synthesis of bacterial proteins.
+612
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+47. Plazomicin
+Plazomicin
+•New semisynthetic aminogly coside
+•: Inhibition of bac terial pr otein synthesisMechanism of action
+Pharmacology
+Indications for Use
+•O nly in ve ry selec ted cases of seriously ill patients (e.g .
+sepsis/septic shock caused by urinar y trac t infe ct ions if used
+as monotherapy - for other infec tions aminogl yco sides ar e
+usually used in combination with other antibiotics):
+- who ha ve not r esponded to carbapenems if other causes
+of tr eatment failur e ha ve been ex cluded /g246rst and ther e is
+str ong suspicion that the infec tion is caused by a
+carbapenem-r esistant pathogen
+- who ha ve pr eviously been tr eate df or infec tions caused by
+carbapenem-r esistan tp a thogens susceptible to plazomicin
+- who ar e kn own to be colonized with carbapenemr esistant pathogens susceptible to plazomicin
+Empiric Use
+Spectrum of Activity
+•:Active against
+-A er obic Gram-negativ e bac teria including man y carbapenemr esistan tE nterobacterales
+· Carbapenemases: KPC and OX A-48
+· ESBL and AmpC β-lac tamases
+-B ac teria pr oducing aminogly coside -modifying enz ymes
+•:Variable activity against
+-S trains pr oducing metallo -β-lac tamases
+•:Not active against
+- Acinetobacter baumannii
+- Pseudomonas aeruginosa
+•:Emerging resistance to plazomicin in Enterobacterales
+-V er y limited data
+Targeted Treatment
+•S ev er e infec tions caused by laborator y- con/g246rmed
+carbapenem-r esistant Enter obac terales susceptible to
+plazomicin (not or )P. aeruginosa A. baumannii
+•I nfec tions caused by Gram-negativ e bac teria r esistant to
+other aminogly cosides if non-Reser ve antibiotic options
+cannot be used
+•E fficac y demonstrated in clinical trials only fo r complicated
+urinar y trac t infe ct ions in adults
+•V er y limited evidence for other infec tions and use in
+childr en
+Important Considerations
+•I ntravenous injec tion: 500 mg/10 mL
+Formulations
+•Tr eatment duration varies accor ding to indication and
+should be as shor t as possible
+•Usually betw een 7-14 days
+Antibiotic Treatment Duration
+Dose
+Adults
+Weight-based once-daily dosing is used; dosage is for normal
+renal function
+No data for children or neonates
+Children or Neonates
+•Side effec ts similar to other aminogly cosides
+•T he most fr equent ar e:
+-K idney damage (monitor cr eatinine lev els r egularly)
+- Hearing loss and v estibular to xicit y
+Toxicity
+Plazomicin 15 mg/kg q24h IV
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book613
+RESERVE ANTIBIOTICS 
+47. Plazomicin
+Spectrum of activity
+Plazomicin is mainly active against Gram-negative aerobic bacteria, including ESBL-
+producing Enterobacterales, carbapenem-resistant (including carbapenemase-producing) 
+Enterobacterales (Table 47.1) and bacteria producing aminoglycoside-modifying enzymes. 
+Table 47.1 – Expected activity of plazomicin against third-generation cephalosporin 
+and carbapenem-resistant bacteria based on the type of beta-lactamase produced
+Type of betalactamase 
+ESBLa KPCb NDM, VIM, 
+IMPb
+AmpC OXA-48b Non-fermentersc
+Ambler classd Ae Ae B
+(MBLs)
+Ce De NA
+Expected 
+activity of 
+plazomicin
++ + +/– f + + –
+AmpC: ampicillinase C; ESBL: extended-spectrum beta-lactamases; IMP: imipenemase; KPC: Klebsiella pneumoniae 
+carbapenemase; MBLs: metallo-beta-lactamases; NA: not applicable; NDM: New Delhi metallo-beta-lactamase; 
+OXA-48: oxacillinase-48; VIM: Verona integron-encoded metallo-beta-lactamase.
+Expected activity: + active; +/– possibly active; – not or insufficiently active.
+a ESBL are a group of different beta-lactamases.
+b Carbapenemases.
+c Non-fermenters refer to bacteria that cannot catabolize glucose and thus are unable to ferment. The most relevant 
+in this context are Acinetobacter baumannii and Pseudomonas aeruginosa. When using this table, always consider 
+that even when activity of a certain Reserve antibiotic is reported against carbapenem-resistant non-fermenters, 
+this ultimately depends on the type of carbapenemase produced and the resistance mechanism. For plazomicin, 
+some in vitro studies have shown activity against Pseudomonas aeruginosa similar to amikacin (426).
+d The Ambler classification of beta-lactamases is the most widely used classification. According to this classification 
+beta-lactamases are divided into four classes (A, B, C and D) based upon similarities in their amino acid sequence.
+e Ambler class A, C and D are serine beta-lactamases.
+f Susceptibility to plazomicin among strains producing metallo-beta-lactamases can be > 50%.
+614The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+47. Plazomicin
+Clinical efficacy
+Plazomicin can be considered as salvage therapy for otherwise untreatable carbapenem- 
+resistant Gram-negative infections.
+Efficacy has been demonstrated only for the treatment of complicated UTIs in adults 
+where plazomicin showed non-inferiority to meropenem (427).
+Very limited evidence exists for the treatment of other types of infections 
+and for its use in children. Plazomicin has also been compared with colistin as part of 
+combination therapy for the treatment of severe infections caused by carbapenem-resistant 
+Enterobacterales, such as bacteraemia and hospital-acquired pneumonia (428). The results 
+of the study indicated that plazomicin reduced short-term mortality and disease-related 
+complications, but the trial was stopped early because of major difficulties with enrolling 
+patients. The study therefore provides only descriptive statistics and findings; as such its 
+results are inconclusive.
+Toxicity
+Plazomicin can cause damage to the kidneys and ears, similar to other aminoglycosides. The 
+risk of nephrotoxicity is higher in older patients (> 65 years) and in patients with pre-existing 
+renal impairment; therefore, creatinine levels should be monitored regularly.
+Dose 
+Weight-based, once-daily dosing is used (Table 47.2). Dose adjustments are required in 
+cases of renal impairment. No paediatric dosing is currently available. Please also refer to the 
+chapter on dosing for more information.
+Table 47.2 – Plazomicin suggested doses
+Dose in adults Dose in children Dose in neonates
+IV: 15 mg/kg given once daily Currently not licensed for 
+children
+Currently not licensed for 
+neonates
+IV: intravenous.
+Note. All dosages are for normal renal and hepatic function.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book615
+RESERVE ANTIBIOTICS 
+47. Plazomicin
+Indication for use as a Reserve antibiotic
+Targeted treatment
+Plazomicin could be considered in the following situations.
+• As a last-resort option for the targeted treatment of severe infections (mostly 
+UTIs) caused by laboratory-confirmed carbapenem-resistant Enterobacterales, 
+including infections caused by strains producing carbapenemases that have been 
+shown to be susceptible to this antibiotic. 
+ - An important advantage of plazomicin is that it only needs to be given once 
+a day, while other Reserve antibiotics that have a comparable spectrum of 
+activity require multiple daily doses.
+ - To preserve its effectiveness (i.e. to prevent the development of resistance), it 
+should not be used to treat Enterobacterales isolates that only produce ESBLs 
+when other choices are available.
+• For infections caused by Gram-negative bacteria resistant to other aminoglycosides 
+such as gentamicin or amikacin if non-Reserve antibiotic options cannot be used.
+Empiric treatment
+Plazomicin could be considered for empiric use exceptionally in very select cases of 
+seriously ill patients with invasive infections (e.g. patients with sepsis/septic shock caused 
+by infections of the urinary tract if used as monotherapy; in other situations, plazomicin, like 
+other aminoglycosides, would most likely be used in combination with other antibiotics) 
+suspected to be caused by a multidrug-resistant pathogen (e.g. severe hospital-acquired 
+infections or infections in patients who have received multiple antibiotic treatments in the 
+recent past), such as in the following situations.
+• Patients who have not responded to carbapenems if other causes of treatment 
+failure have been excluded first and there is a strong suspicion that the infection is 
+caused by carbapenem-resistant bacteria. However, if a patient is not improving, 
+antibiotic failure is not the only possible cause to consider. Alternative reasons 
+include: alternative diagnosis; development of complications (e.g. abscess); 
+inadequate source control; suboptimal dosing of the antibiotic; or impossibility 
+for the antibiotic to reach an adequate concentration at the site of infection. 
+Alternative reasons are always important to consider before changing or adding 
+new antibiotics.
+616The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+47. Plazomicin
+• Patients who have previously been treated for infections caused by carbapenemresistant bacteria.
+• Patients who are known to be colonized with carbapenem-resistant bacteria 
+found to be susceptible to plazomicin.
+To help prescribers identify clinical situations where empiric use of Reserve antibiotics 
+could exceptionally be considered, suggestions are given in the relevant chapters of the 
+AWaRe book for selected infections (only for infections where empiric use could potentially 
+be adequate on a case-by-case basis).
+Emerging resistance in Enterobacterales
+The main mechanisms of resistance overlap with some of those for other aminoglycosides. 
+In particular, ribosomal modifications of the target site within the ribosome can prevent 
+plazomicin from binding to its target, and alterations to uptake and efflux pumps 
+can decrease the antibiotic concentration at the site of action. However, unlike other 
+aminoglycosides, plazomicin maintains activity against most aminoglycoside-modifying 
+enzymes – enzymes that can reduce the affinity of the antibiotic for its ribosomal target 
+through a mechanism that is different from ribosomal modifications. Plasmid-mediated 
+resistance (i.e. transmissible resistance) has also been described.
+Data on resistance to plazomicin are currently not reported by the GLASS.
+Duration
+Treatment duration varies according to indication and should be as short as possible, usually 
+between 7 and 14 days.
+
+--- [WHO AWaRe Antibiotic Book (2022) | 48. Polymyxin B and colistin (polymyxin E) | p.633-642 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book617
+RESERVE ANTIBIOTICS 
+48. Polymyxin B and colistin 
+(polymyxin E)
+Key messages
+• Polymyxin B and colistin have the same spectrum of activity that includes many strains 
+of multidrug-resistant Gram-negative bacteria including Pseudomonas aeruginosa and 
+Acinetobacter baumannii.
+• Polymyxin B and colistin are usually used as part of combination treatments; however, the 
+only currently available randomized clinical trial did not show superiority over monotherapy.
+• Great care must be taken to avoid dosing errors since doses can be given in different units 
+on labels and an initial loading dose is always necessary.
+• The main side-effect of polymyxin B and colistin is kidney damage, caused more often by 
+colistin than polymyxin B.
+Polymyxin B and colistin are polypeptides belonging to the polymyxin class of antibiotics. 
+These antibiotics became available for clinical use in the 1960s but were replaced by other 
+classes because of their unfavourable safety profile, notably nephrotoxicity. They have, 
+however, been rediscovered in recent years because they retain activity against many 
+strains of multidrug-resistant Gram-negative bacteria, including carbapenemase-producing 
+strains. Polymyxin B and colistin have very similar chemical structures; however, polymyxin 
+B is administered directly as the active antibiotic, while colistin is administered as inactive 
+prodrug (sodium salt of colistin methane sulfonate also known as colistimethate). Since 
+colistimethate is produced by chemical modification of colistin molecules through addition 
+of methanesulfonate moieties, there are many different partially methanesulfonated 
+derivatives in a given product, which results in batch-to-batch (and brand-to-brand) 
+variation of the exact composition. Furthermore, there is important patient-to-patient 
+variation in the metabolism of colistimethate, making the pharmacokinetics of colistin 
+difficult to predict (429). 
+The current indications for polymyxins B and colistin in the EML and EMLc include 
+infections caused by carbapenem-resistant Enterobacterales, Acinetobacter baumannii and 
+Pseudomonas aeruginosa (8,9).
+618
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+48. Polymyxin B and colistin (polymyxin E)
+Polymyxin B and colistin (polymyxin E)
+Page 1 of 2
+•P olym yxin B and colistin ar e polypeptides belonging to the
+polym yxin class of antibiotics
+•P olym yxin B and colistin ha ve ve ry similar chemical struc tur es ,
+ho we ve r:
+-P olym yxin B is administer ed dir ec tly as the ac tiv e antibiotic
+-C olistin is administer ed as inac tiv e pr odrug (colistimethate
+sodium)
+•: P olym yxin B and colistin ac t byMechanism of action
+disrupting the bac terial cell membrane , leading to cell lysis
+Pharmacology Indications for Use
+•O nly in ve ry selec ted cases of seriously ill patients (e.g .
+patients with sepsis/septic shock) :
+-w ho ha ve not r esponded to carbapenems if other causes
+of tr eatment failu re ha ve been ex cluded /g246rst and ther e is
+a stro ng suspicion that the infec tion is caused by a
+carbapenem-r esistant pathogen
+-w ho ha ve pr eviously been tr eated for infec tions caused
+by carbapenem-resistant pathogens susceptible to
+polymy xins
+-w ho ar e known to be coloniz ed with carbapenemr esistant pathogens susceptible to polym yxins
+Empiric Use
+Targeted Treatment
+•S ev er e infec tions caused by laborator y- con/g246 rmed
+carbapenem-r esistan tG ram-negativ e bac t eria susceptible to
+polym yxins (including infec tions caused by carbapenemasepr oducing strains susceptible to polym yxins)
+•I f both ar e available , poly my xin B is usually pr eferr ed to
+colistin (: ex cept fo r urinar y trac t infe ct ions)important
+because it has better pharmacok inetic charac teristics and
+less potential to cause k idney damag e
+•U sually gi ve n as par t of combination therapy depending
+on the type of infec tion ev en though cur re ntly there is no
+evidence fr om randomized clinical trials that combination
+therapy is superior to colistin monotherapy fo r sho rt -term
+clinical succes s–a t least fo r inf ec tions caused by
+ex tensiv ely drug-r esistant spp .Acinetobacter
+Important Considerations
+Spectrum of Activity
+•P olym yxin B and colistin ha ve the same antibac terial spec trum
+-: Active against
+·A er obic Gram-negativ e bac teria (including man y multidrugr esistant isolates)
+-: Not active against
+·A naer obes
+·G ram-positiv e bac teria
+·G ram-negativ e cocci (e .g . spp .)Neisseria
+•Emerging resistance to polymyxins in Enterobacterales,
+Acinetobacter baumannii Pseudomonas aeruginosaand :
+-R esistance can be due to chr omosomal mutations leading to
+changes in the bac terial membrane that impair the ability of
+polym yxin B and colistin to bind to their target
+-T ransmissible r esistance due to mobilized colistin r esistanc e
+(mcr) genes is also being incr easingly described
+•P olym yxin B and colistin can cause k idney damage (colistin >
+polym yxin B) and , more rar ely , neur oto xicity (e .g . par esthesia)
+•Side effec ts ar e re v ersible in most cases and ar e associated with
+the cumulativ e dose and duration of therap y
+Toxicity
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+619
+RESERVE ANTIBIOTICS 
+48. Polymyxin B and colistin (polymyxin E)
+Polymyxin B and colistin (polymyxin E)
+Page 2 of 2
+Dose
+•Treatment duration varies according to indication and
+should be as short as possible
+•Usually between 7-14 days
+Antibiotic Treatment Duration
+Polymyxin B:
+•Powder for intravenous infusion: 50 mg (500 000 IU) in vial
+Colistin:
+•Powder for intravenous infusion: 1 million IU (as
+colistimethate sodium) in vial (equivalent to 34 mg colistin
+base activity)
+Formulations
+Clinical Considerations
+•Great care must be takent oa void dosing errorsw ith
+polymyxinBa nd colistin; errorsc an arise because dosesc an
+be giveni nd iffer ent units on labels
+• can be expressed in:Polymyxin B doses
+-m g
+-I nternational Units (IU)
+•1 mg of polymyxin B corresponds to 10 000 IU
+• can be expressed in:Colistin (polymyxin E) doses
+-I nternationalUnits (IU) of colistimethatesodium(CMS)
+- mg of colistimethate sodium
+- mg of colistin base activity (CBA)
+•34 mg of colistin base activity corresponds to:
+-1 million IU of colistimethate sodium
+- 80 mg of colistimethate sodium
+•When using polymyxins, it is crucial to start therapy with a
+loading dose (to achieve more rapidly effec tive plasma
+concentrations) followed by maintenance dose after
+12-24 hours
+•For colistin (but not for polymyxin B), dose adjustments
+are necessary in cases of renal impairment
+Adults
+All dosages are for normal renal function
+Polymyxin B IV
+•Loading dose: 2.5 mg/kg (25 000 IU/kg)
+•Maintenance dose: 1.5 mg/kg/dose
+(15 000 IU/kg/dose) q12h
+Colistin IV
+•Loading dose: 300 mg CBA( 9 million IU CMS)
+•Maintenance dose: 150 mg CBA
+(4.5 million IU CMS) q12h
+Polymyxin B
+Colistin
+All dosages are for normal renal function
+Few data are available for dosing in children; doses approved
+by regulatory agencies may be suboptimal for many children
+due to interpatient variability
+Children
+Polymyxin B IV
+•Loading dose: 2.5 mg/kg (25 000 IU/kg)
+•Maintenance dose:
+-: 0.75-2.25 mg/kg/doseChildren <2 years
+(7 500–22 500 IU/kg/dose) q12h
+-: 1.5 mg/kg/doseChildren ≥2 years
+(15 000 IU/kg/dose) q12h
+Polymyxin B
+Colistin IV
+•Loading dose: insufficient data
+•0.625-1.25 mg/kg/dose CBA
+(18 750-37 500 IU/kg/dose CMS) q6h
+OR
+•1.25-2.5 mg/kg/dose CBA
+(37 500-75 000 IU/kg/dose CMS) q12h
+Colistin
+Neonates
+All dosages are for normal renal function
+Polymyxin B IV
+•Loading dose: 2.5 mg/kg (25 000 IU/kg)
+•Maintenance dose: 0.75-2.25 mg/kg/dose
+(7 500-22 500 IU/kg/dose) q12h
+Polymyxin B
+Colistin
+Colistin IV
+•Loading dose: insufficient data
+•0.625-1.25 mg/kg/dose CBA
+(18 750-37 500 IU/kg/dose CMS) q6h
+OR
+•1.25-2.5 mg/kg/dose CBA
+(37 500-75 000 IU/kg/dose CMS) q12h
+620The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+48. Polymyxin B and colistin (polymyxin E)
+Administration
+Polymyxin B and colistin are available as powder for intravenous injection formulations 
+(polymyxin B: 500 000 IU in vial; colistin: 1 million IU (as colistemethate sodium) in vial). 
+They are administered by intravenous infusion over 60 to 90 minutes. There are important 
+geographical differences in the availability of these antibiotics; polymyxin B, for example, 
+is not available in many countries. The oral non-absorbable formulation of colistin (colistin 
+sulfate) is not currently included in the EML and EMLc (8,9) and therefore is not covered in 
+this chapter.
+Mechanism of action
+Polymyxin B and colistin act by disrupting the bacterial cell membrane through interaction 
+with lipopolysaccharides present in the membranes of Gram-negative bacteria which thus 
+leads to cell lysis. However, the exact mechanism is unknown. 
+Spectrum of activity
+Polymyxin B and colistin have the same antibacterial spectrum and both are active only against 
+aerobic Gram-negative bacteria with no activity against anaerobes, Gram-positive bacteria and 
+Gram-negative cocci, for example, Neisseria spp.. Polymyxins are active against many clinical 
+isolates of carbapenem-resistant Enterobacterales, Acinetobacter spp. and Pseudomonas 
+aeruginosa, including many of the isolates producing carbapenemases (Table 48.1).
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book621
+RESERVE ANTIBIOTICS 
+48. Polymyxin B and colistin (polymyxin E)
+Table 48.1 – Expected activity of polymyxins against third-generation cephalosporin 
+and carbapenem-resistant bacteria based on the type of beta-lactamase produced
+Type of betalactamase 
+ESBLa KPCb NDM, VIM, 
+IMPb
+AmpC OXA-48b Non-fermentersc
+Ambler classd Ae Ae B
+(MBLs)
+Ce De NA
+Expected 
+activity of 
+polymyxin B 
+and colistin
++ + + + + +
+AmpC: ampicillinase C; ESBL: extended-spectrum beta-lactamases; IMP: imipenemase; KPC: Klebsiella pneumoniae 
+carbapenemase; MBLs: metallo-beta-lactamases; NA: not applicable; NDM: New Delhi metallo-beta-lactamase; 
+OXA-48: oxacillinase-48; VIM: Verona integron-encoded metallo-beta-lactamase.
+Expected activity: + active.
+a ESBL are a group of different beta-lactamases.
+b Carbapenemases.
+c Non-fermenters refer to bacteria that cannot catabolize glucose and thus are unable to ferment. The most relevant 
+in this context are Acinetobacter baumannii and Pseudomonas aeruginosa. When using this table, always consider 
+that even when activity of a certain Reserve antibiotic is reported against carbapenem-resistant non-fermenters, 
+this ultimately depends on the type of carbapenemase produced and the resistance mechanism.
+d The Ambler classification of beta-lactamases is the most widely used classification. According to this classification 
+beta-lactamases are divided into four classes (A, B, C and D) based upon similarities in their amino acid sequence.
+e Ambler class A, C and D are serine beta-lactamases.
+Clinical efficacy
+Polymyxin B and colistin can be considered as salvage therapy for otherwise untreatable 
+infections caused by carbapenem-resistant Gram-negative bacteria.
+For severe infections, they are usually given as part of combination therapy often 
+with high doses of carbapenems (but only if the minimum inhibitory concentration of 
+carbapenems is ≤ 8–16 mg/L) or in combination with other antibiotics depending on the 
+type of infection and in vitro susceptibility (430). 
+However, the only currently available randomized clinical trial did not show that 
+combination therapy was superior to colistin monotherapy for short-term clinical success 
+– at least for infections caused by extensively drug-resistant Acinetobacter spp. It is unclear 
+whether this also applies to carbapenemase-producing Enterobacterales (431). Evidence 
+from observational studies is available but should be interpreted with caution due to the 
+inherent methodological limitations (432,433).
+Polymyxin B and colistin were approved for use decades ago and were therefore not 
+subjected to the same development process that would be required for the approval of a
+622The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+48. Polymyxin B and colistin (polymyxin E)
+new antibiotic today. This point should be kept in mind when interpreting data about their 
+efficacy and safety, for example, current products of polymyxins may be less nephrotoxic 
+than those initially used (434). There are recently licensed Reserve group beta-lactam/betalactamase inhibitor combinations (ceftazidime+avibactam, meropenem+vaborbactam) 
+or siderophore-antibiotics (cefiderocol) available that some experts consider preferable to 
+polymyxins because of their better safety profile and potentially better efficacy. However, 
+the evidence of their superiority is weak and access and affordability of these new antibiotics 
+is a major issue in many low- and middle-income settings.
+Toxicity
+The use of polymyxin B and colistin can cause kidney damage (colistin is more likely to 
+cause damage than polymyxin B) and, more rarely, neurotoxicity (e.g. paraesthesia). The 
+side-effects are reversible in most cases and are associated with the cumulative dose and 
+duration of therapy and use of concomitant medicines with similar toxicities.
+Dose 
+Great care must be taken to avoid dosing errors with polymyxin B and colistin (Table 48.2 
+and Table 48.3). Errors can arise because doses can be given in different units on labels 
+(435–437).
+Polymyxin B doses can be given in international units (IU) or milligrams. For example, 
+a dose of 1 million IU corresponds to 100 mg. 
+Colistin doses can be given in: IU of colistimethate sodium; mg of colistimethate 
+sodium; or mg of colistin base activity. For example, a dose of 1 million IU of colistimethate 
+sodium corresponds to 80 mg of colistimethate sodium and to 34 mg of colistin base activity.
+When using polymyxins, it is crucial to start therapy with a loading dose followed 
+by maintenance dose after 12–24 hours. The reason is to more rapidly achieve plasma 
+concentrations that may be effective. In addition, for colistin (but not for polymyxin B), dose 
+adjustments are necessary in cases of renal impairment (438).
+Few data are available for dosing in children. Current evidence suggests that doses 
+approved by regulatory agencies may be suboptimal for many children due to interpatient 
+variability (438).
+Please also refer to the chapter on dosing for more information.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book623
+RESERVE ANTIBIOTICS 
+48. Polymyxin B and colistin (polymyxin E)
+Table 48.2 – Polymyxin B suggested doses
+Dose in adults Dose in children Dose in neonates
+Loading dose 2.5 mg/kg 
+(25 000 IU/kg)
+2.5 mg/kg 
+(25 000 IU/kg)
+2.5 mg/kg 
+(25 000 IU/kg)
+Maintenance 
+dose
+(start 12 hours 
+after the 
+loading dose)
+1.5 mg/kg/dose 
+(15 000 IU/kg/dose) 
+given every 12 hours
+Higher doses up to 
+2.5 –3 mg/kg/dose 
+(25 000–30 000 IU/kg/ 
+dose) can be used but 
+the maximum daily 
+dose should not exceed 
+200 mg (2 000 000 IU)
+1.5 mg/kg/dose 
+(15 000 IU/kg/dose) 
+given every 12 hours
+In children < 2 years 
+of age 
+0.75–2.25 mg/kg/dose 
+(7 500 –22 500 IU/kg/
+dose) given every 
+12 hours
+0.75–2.25 mg/kg/dose 
+(7 500 – 22 500 IU/kg/
+dose) given every 
+12 hours
+Note. All dosages are for normal renal and hepatic function.
+IU: international units.
+Table 48.3 – Colistin suggested doses
+Note
+Doses are expressed in mg of CBA and in IU of colistimethate sodiuma
+Dose in adults Dose in children Dose in neonates
+Loading dose 300 mg CBA (9 million 
+IU colistimethate 
+sodium)
+Insufficient data Insufficient data
+Maintenance 
+dose
+(start 12 hours 
+after the 
+loading dose)
+150 mg CBA 
+(4.5 million IU 
+colistimethate 
+sodium) given every 
+12 hours
+Maximum daily dose 
+should not exceed 
+300-400 mg CBA 
+or 9–12 million IU 
+colistimethate sodium
+0.625–1.25 mg/kg/dose 
+CBA (18 750–37 500 IU/
+kg/dose colistimethate 
+sodium) given every 
+6 hours
+OR
+1.25–2.5 mg/kg/dose 
+CBA (37 500–75 000 IU/
+kg/dose colistimethate 
+sodium) given every 
+12 hours
+0.625–1.25 mg/kg/dose 
+CBA (18 750–37 500 IU/
+kg/dose colistimethate 
+sodium) given every 
+6 hours
+OR
+1.25–2.5 mg/kg/dose 
+CBA (37 500–75 000 IU/
+kg/dose colistimethate 
+sodium) given every 
+12 hours
+CBA: colistin base activity; IU: international units.
+Note. All dosages are for normal renal and hepatic function.
+a 34 mg of CBA corresponds to 1 million IU of colistimethate sodium and to 80 mg of colistimethate sodium.
+624The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ RESERVE ANTIBIOTICS
+48. Polymyxin B and colistin (polymyxin E)
+Indication for use as a Reserve antibiotic
+Targeted treatment
+Polymyxin B or colistin could be considered, usually as part of a combination therapy, as 
+a last-resort option for the targeted treatment of severe infections caused by laboratoryconfirmed carbapenem-resistant Gram-negative bacteria, including infections caused 
+by carbapenemase-producing strains that have been found to be susceptible to these 
+antibiotics.
+If available, polymyxin B is usually preferred to colistin because it has better 
+pharmacokinetic characteristics and less potential to cause kidney damage. 
+The only situation where the use of colistin is preferred is for the treatment of UTIs 
+because colistin reaches higher concentrations in urine compared to polymyxin B. The 
+prodrug colistimethate is excreted primarily by the kidneys, while polymyxin B is mainly 
+eliminated through non-renal pathways; however the fraction of colistimethate being 
+converted to colistin in the urine remains unclear (439).
+Empiric treatment
+Polymyxin B or colistin should only be considered for empiric use exceptionally in selected 
+cases of seriously ill patients with invasive infections (e.g. patients with sepsis/septic shock) 
+suspected to be caused by a multidrug-resistant pathogen (e.g. severe hospital-acquired 
+infections or infections in patients who have received multiple antibiotic treatments in the 
+recent past), such as in the following situations.
+• Patients who have not responded to carbapenems if other causes of treatment 
+failure have been excluded first and there is a strong suspicion that the infection 
+is caused by a carbapenem-resistant pathogen. However, if a patient is not 
+improving, antibiotic failure is not the only possible cause to consider. Alternative 
+reasons include for example: alternative diagnosis, development of complications 
+(e.g. an abscess), inadequate source control, sub-optimal dose of the antibiotic or 
+impossibility for the antibiotic to reach an adequate concentration at the site of 
+infection. Alternative reasons are always important to consider before changing 
+or adding new antibiotics.
+• Patients who have previously been treated for infections caused by carbapenemresistant pathogens susceptible to polymyxins.
+• Patients who are known to be colonized with carbapenem-resistant pathogens 
+found to be susceptible to polymyxins.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book625
+RESERVE ANTIBIOTICS 
+48. Polymyxin B and colistin (polymyxin E)
+To help prescribers identify clinical scenarios where empiric use of Reserve antibiotics 
+could exceptionally be considered, suggestions are given in the relevant chapters of the 
+AWaRe book for selected infections (only for infections where empiric use could potentially 
+be adequate on a case-by-case basis).
+Emerging resistance in Enterobacterales, 
+Pseudomonas aeruginosa and Acinetobacter 
+baumannii
+Some technical challenges exist to identify resistance to polymyxin B and colistin. For 
+example, polymyxins diffuse poorly in diffusion-based assays, such as disk-diffusion tests. 
+Broth microdilution, which is the recommended method, is impractical and rarely used 
+in most laboratories (440). Resistance can be related to chromosomal mutations that lead 
+to changes in the bacterial membrane that impair the ability of polymyxin B and colistin 
+to bind to their target. Plasmid-mediated resistance (i.e. transmissible resistance) due to 
+mobilized colistin resistance (mcr) genes is also being increasingly described (441,442).
+Data on resistance to colistin and polymyxin B are currently not reported by the GLASS.
+Duration
+Treatment duration varies according to indication and should be as short as possible, usually 
+between 7 and 14 days.
+626The WHO AWaRe (Access, Watch, Reserve) antibiotic book

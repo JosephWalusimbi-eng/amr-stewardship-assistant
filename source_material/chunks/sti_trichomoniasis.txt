@@ -1,0 +1,470 @@
+# TOPIC: sti_trichomoniasis
+
+--- [WHO AWaRe Antibiotic Book (2022) | 22. Sexually transmitted infections - trichomoniasis | p.287-293 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book271
+PRIMARY HEALTH CARE 
+22. Sexually transmitted infections 
+– trichomoniasis
+Note
+In general this chapter applies to adults and young people older than 12 years. In children, 
+specialist advice should be sought where possible. Consideration should be given that an STI in 
+a child may be due to child sexual abuse.
+Key messages
+• Trichomoniasis is the most common curable sexually transmitted infection (STI) and in 
+women it can manifest as a vaginal discharge; men are usually asymptomatic.
+• Asymptomatic people should also be treated because they can transmit the infection to 
+others and all people with trichomoniasis should also be evaluated for other STIs.
+• Preventive services should be offered (e.g. condoms, brief sexuality education, human 
+immunodeficiency virus (HIV) pre-exposure prophylaxis to people at high risk of HIV 
+infection) and sexual partners should be informed and treated
+• Reporting of this infection to health authorities is encouraged according to local regulations.
+Other relevant WHO resources (please check regularly for updates)
+• Sexually transmitted infections (STIs) – fact sheets (189).
+• WHO guidelines for the management of symptomatic sexually transmitted infections (191).
+• Laboratory diagnosis of sexually transmitted infections including human immunodeficiency 
+virus (192).
+• Global progress report on HIV, viral hepatitis and sexually transmitted infections, 2021 (193).
+Definition
+Trichomoniasis is an STI caused by the protozoan Trichomonas vaginalis.
+272
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+22. Sexually transmitted infections – trichomoniasis
+Trichomoniasis
+Sexually transmitted infection
+In general this guidance applies to adults and young people aged
+over 12 years. In children, specialist advice should be sought where
+possible. Consideration should be given that an STI in a child may
+be due to child sexual abuse
+A sexually transmitted infection (STI) caused by Trichomonas
+vaginalis
+De/g246nition
+Trichomonas vaginalis is an anaerobe /g248agellated protozoan
+Pathogen
+Important elements of prevention include:
+•Sexuality education
+•Promoting consistent use of condoms
+•Pre- and post-test counselling
+•Safe sex and risk reduction counselling
+•Interventions targeting high-risk groups
+Prevention
+Important:
+•Sexual partners should be informed of the disease and
+treated
+•Reporting of this infection to health authorities is
+encouraged according to local regulations
+Diagnosis
+Clinical Presentation
+Microbiology Tests
+Usually not needed
+Other LaboratoryTests
+Usually not needed
+Imaging
+•Most persons have mild symptoms or remain
+asymptomatic (especially men) though they can still
+transmit the infection
+Symptomatic infection:
+•: acuteonsetof vaginalin/g248ammationand dischargeIn women
+(frothy and withabad smell),dysuriaand pelvicpain
+•: urethral discharge, dysuria and testicularIn men
+discomfort or pain; rarely epididymitis and prostatitis can
+be present
+•See WHO guidance “Laboratory diagnosis of sexually
+transmitted infections”
+https://apps.who.int/iris/handle/10665/85343
+•: all patients with suspectedImportant
+trichomoniasis should also be tested for other STIs
+(e.g. HIV, syphilis, gonococcal infection)
+Tests to consider:
+•Wet mount microscopy (easy and inexpensive but should
+be read within 10 minutes of sample collection)
+•Nucleic acid ampli/g246cation tests for( very goodT. vaginalis
+sensitivity; preferred if available)
+•Culture (good sensitivity but requires long incubation)
+•Samples that can be used: Urethral, endocervical, and
+vaginal swabs
+Treatment
+Clinical Considerations
+Since treatment duration varies, please refer to the
+corresponding antibiotic section for treatment duration
+•Evidence supports better cure rates with 7-day course
+(consider if treatment adherence is not an issue)
+Antibiotic Treatment Duration
+Treatmenti s aligned with the WHO 2021 guidelines
+for the managemento f symptomatic sexually
+transmitted infections
+(https://apps.who.int/iris/handle/10665/342523)
+Treatment is always indicated when infection is diagnosed,
+including in asymptomatic persons because they can
+transmit the infection to others
+All dosages are for normal renal function
+Antibiotic Treatment
+Metronidazole 2 g ORAL
+Treatment duration: single dose
+----------------------------------- -----------------------------------OR
+Metronidazole 400 or 500 mg q12h ORAL
+Treatment duration: 7 days
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book273
+PRIMARY HEALTH CARE 
+22. Sexually transmitted infections – trichomoniasis
+Pathogen
+Trichomoniasis is caused by Trichomonas vaginalis, an anaerobe flagellated protozoan. 
+Pathophysiology
+Trichomonas vaginalis infects the mucosa of the urogenital tract during sexual contact and 
+produces a local inflammatory response that causes vaginal or urethral discharge.
+Epidemiology
+Trichomoniasis is the most prevalent STI worldwide with an estimated 156 million new 
+cases in 2020 as reported by WHO (193). 
+The infection most commonly affects women older than 40 years. As with other STIs, the 
+risk of acquiring or transmitting HIV is higher in cases of trichomoniasis and the infection 
+is associated with adverse outcomes in pregnancy, such as preterm delivery, premature 
+rupture of membranes and low birth weight (220). If left untreated, trichomoniasis can 
+persist for months or years and in pregnant women, it can be transmitted to the baby during 
+delivery. Common risk factors for infection include multiple sex partners, a history of having 
+other STIs (e.g. HIV infection) and substance abuse.
+Clinical presentation
+Most cases of trichomoniasis are asymptomatic, especially in men, or have mild symptoms. 
+In women, symptoms include acute onset of vaginal inflammation and discharge (usually 
+characterized by a bad smell and with a frothy appearance), dysuria and pelvic pain. In 
+men, symptomatic infection usually presents with urethral discharge, dysuria, and testicular 
+discomfort or pain. Epididymitis and prostatitis can also occur in a minority of cases.
+Laboratory tests 
+For more comprehensive information on the diagnosis of trichomoniasis, please refer to the 
+most recent (2013) WHO guideline on the laboratory diagnosis of STIs (192). Please check 
+the WHO website regularly for possible updates.
+Patient microbiology tests
+All people with trichomoniasis are also usually evaluated for other STIs, such as chlamydial 
+infection, gonococcal infection, hepatitis B and hepatitis C, HIV infection and syphilis.
+274The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+22. Sexually transmitted infections – trichomoniasis
+Tests to consider when trichomoniasis is suspected are indicated in Table 22.1.
+Molecular assays such as nucleic acid amplification tests have the highest sensitivity 
+of all diagnostic methods to detect Trichomonas vaginalis but they are not currently widely 
+available as rapid point-of-care tests. However, if available, they should be used. Vaginal 
+swabs are the samples of choice, but endocervical samples and urine can be used for some 
+assays. 
+Historically, trichomoniasis has been diagnosed by performing wet mount 
+microscopy. Although this is not the gold standard technique, a wet mount is frequently 
+used because it is quick, inexpensive and easy to perform. However, to have a good chance 
+of successfully identifying the motile trichomonads, the slide should be read within 10 
+minutes of collection of the sample since trichomonads quickly lose their motility. Nonmotile cells cannot be diagnosed as trichomonads due to possible misidentification; for 
+example, a non-motile trichomonad is difficult to differentiate from the nucleus of a vaginal 
+epithelial cell.
+Culture of Trichomonas vaginalis, which has a higher sensitivity than the wet mount 
+microscopic examination, was the cornerstone for detecting this organism before the 
+advent of point-of-care antigen tests and nucleic acid amplification tests. Although a culture 
+medium is commercially available, cultures of samples from women with trichomoniasis are 
+usually positive in the first 3 days of inoculation, but they have to be incubated for up to 7 
+days to rule out infection. Routine culture methods detecting Trichomonas vaginalis are no 
+longer widely performed.
+Additional tests for other STIs that could be considered when trichomoniasis is 
+confirmed or suspected are shown in Table 22.2.
+Table 22.1 – Microbiology tests to consider when trichomoniasis is suspected as 
+indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Microscopya,b To assess microbial morphology 
+and presence or absence of 
+white blood cells
+Health care facilities with 
+clinical laboratories
+Cultureb Initial step to detect and identify 
+bacterial species for selection of 
+appropriate antibiotic regimens
+Health care facilities with 
+clinical laboratories
+EDL: Model List of Essential In Vitro Diagnostics.
+a If available, nucleic acid amplification tests for Trichomonas vaginalis could be considered, especially if the 
+microscopy examination is negative. Nucleic acid tests for trichomoniasis are not listed in the third version of the EDL.
+b Possible specimens are urethral swabs, endocervical swabs and vaginal swabs.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book275
+PRIMARY HEALTH CARE 
+22. Sexually transmitted infections – trichomoniasis
+Table 22.2 – Additional tests for other sexually transmitted infections to consider in 
+patients with confirmed or suspected trichomoniasis as indicated in the WHO EDL (6)
+Infection Diagnostic test Purpose of the test Settings where the test 
+should be available
+Chlamydial 
+urogenital 
+infection and 
+gonococcal 
+infection
+Qualitative test 
+for Chlamydia 
+trachomatis and 
+Neisseria gonorrhoeae 
+infections (NAAT)
+To diagnose 
+chlamydial and/
+or gonorrhoeal 
+urogenital disease and 
+extragenital infection
+Health care facilities with 
+clinical laboratories
+HIV Anti-HIV-1 and -HIV-2 
+antibody (RDT)
+Self-testing to screen 
+for HIV
+Community settings and 
+health facilities without 
+laboratoriesa
+HIV Anti-HIV-1 and -HIV-2 
+antibody (RDT and 
+immunoassay)
+To screen for HIV 
+infection
+Community settings and 
+health facilities without 
+laboratoriesa (RDT)
+Health care facilities 
+with clinical laboratories 
+(immunoassay)
+HIV Combined anti-
+HIV-1/HIV-2 antibody 
+and p24 antigen (RDT 
+and immunoassay)
+To screen for HIV 
+infection
+Community settings and 
+health facilities without 
+laboratoriesa (RDT)
+Health care facilities 
+with clinical laboratories 
+(immunoassay)
+Hepatitis B Hepatitis B virus 
+surface antigen (RDT, 
+immunoassay)
+To screen for acute 
+and chronic hepatitis 
+B virus infection in 
+people > 12 months
+Community settings and 
+health facilities without 
+laboratoriesa (RDT)
+Health care facilities 
+with clinical laboratories 
+(immunoassay)
+Hepatitis B IgM-specific 
+antibodies 
+to hepatitis B 
+core antigen 
+(immunoassay)
+To aid in the diagnosis 
+of acute HBV infection 
+in the context of 
+outbreak investigation
+Health care facilities with 
+clinical laboratories
+continues
+276The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+22. Sexually transmitted infections – trichomoniasis
+Table 22.2 continued
+Infection Diagnostic test Purpose of the test Settings where the test 
+should be available
+Hepatitis C Anti-hepatitis C 
+antibody (RDT, 
+immunoassay)
+To screen for hepatitis 
+C virus infection in 
+people > 18 months
+Community settings and 
+health facilities without 
+laboratoriesa (RDT)
+Health care facilities 
+with clinical laboratories 
+(immunoassay)
+Syphilis Antibodies to 
+Treponema pallidumb 
+(RDT)
+To diagnose or help to 
+diagnose Treponema 
+pallidum
+Community settings and 
+health facilities without 
+laboratoriesa
+Syphilis and 
+HIV combined 
+test
+Combined antibodies 
+to Treponema pallidum 
+and HIV-1/HIV-2 (RDT)
+To diagnose or help to 
+diagnose HIV and/or 
+Treponema pallidum
+Community settings and 
+health facilities without 
+laboratoriesa
+EDL: Model List of Essential In Vitro Diagnostics; HIV: human immunodeficiency virus; NAAT: nucleic acid 
+amplification test; RDT: rapid diagnostic test.
+a Community and health settings without laboratories are facilities such as health posts and centres, doctors’ offices, 
+outreach clinics, ambulatory care and home-based and self-testing. These tests are also assumed to be available at 
+health care facilities with laboratories.
+b Usually a non-treponemal test, such as rapid plasma reagin, Venereal Disease Research Laboratory test, is used for 
+screening. Please refer to the chapter on syphilis for more details on testing.
+Other tests
+When trichomoniasis is suspected, laboratory tests (other than microbiology) are not usually 
+needed.
+Using microbiology surveillance data
+Routine surveillance is not helpful to inform empiric guidance. 
+Imaging
+When trichomoniasis is suspected, imaging is not usually needed.
+Antibiotic treatment
+Antibiotic treatment is always indicated when trichomoniasis is diagnosed (Table 22.3), 
+including in asymptomatic patients, to stop transmission. Sexual partners should also be 
+tested and treated if infected.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book277
+PRIMARY HEALTH CARE 
+22. Sexually transmitted infections – trichomoniasis
+Table 22.3 – Antibiotic treatment for trichomoniasis as indicated in the 2021 WHO 
+guidelines for the management of symptomatic sexually transmitted infections (191)
+Please check the WHO website regularly for possible updates
+Treatment Total treatment duration
+ Metronidazole (oral): 2 g
+OR
+ Metronidazole (oral): 400 or 500 mg given 
+every 12 hoursa
+Single dose 
+7 days
+Note. All dosages are for normal renal and hepatic function.
+a If compliance is not a problem, consider giving 500 mg (oral) every 12 hours for 7 days. Evidence supports better 
+cure rates with a 7-day course of treatment compared with a single dose (221). 
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+Prevention
+No effective vaccine against Trichomonas vaginalis is available. Prevention of infection 
+is therefore a key strategy. Important elements of prevention include counselling and 
+behavioural approaches including comprehensive sexuality education, pre- and posttest counselling, safe sex and risk reduction counselling, and promoting consistent use 
+of condoms. Interventions targeting high-risk groups (e.g. men who have sex with men, 
+transgender people, sex workers and people who inject drugs) may be considered. Offering 
+HIV pre-exposure prophylaxis to people at high risk of HIV infection may be considered.
+Sexual partners should always be informed of the infection and treated (189). 
+Reporting of this infection to health authorities according to local regulations should also 
+be done.
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 3.2.2 Abnormal Vaginal Discharge Syndrome | p.345-349 | audience=general] ---
+ICD10 CODE: N76
+Often the first evidence of genital infection al, though absence of abnormal vaginal discharge does not mean absence
+of infection. Normal discharge is small in quantity and white to colourless.
+Not all vaginal infections are sexually transmitted diseases.
+Causes
+~ Can be a variety and often mixture of organisms
+~ Vaginitis: by Candida albicanis, Trichomonas vaginalis or
+bacterial vaginosis (by Gardnerella vaginalis, Mycoplasma
+hominis)
+~ Cervicitis: commonly due to gonorrhoea and chlamydia:
+usually asymptomatic and rarely a cause of abnormal vaginal discharge.
+~ Clinical features
+~ Increased quantity of discharge, abnormal colour and odour
+~ Lower abdominal pain, itching and pain at sexual intercourse may be present
+~ In Candida albicans vaginitis: very itchy thick or lumpy
+white discharge, red inflamed vulva
+~ Trichomonas vaginalis: itchy greenish-yellow frothy discharge with offensive smell
+~ Bacterial vaginosis: thin discharge with a fishy smell from
+the vagina
+279
+Uganda Clinical Guidelines 2023CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
+Candida vaginitis and bacterial vaginosis are NOT sexually transmitted
+diseases, even though sexual activity is a risk factor.
+~ Gonorrhoea causes cervicitis and rarely vaginitis. Thereis a
+purulent thin mucoid slightly yellow pus discharge with no
+smell and non-itchy
+~ Chlamydia causes cervicitis which may present with a nonitchy, thin, colourless discharge
+Differential diagnosis
+~ Cancer of the cervix (blood-stained smelly discharge)
+~ Intra-vaginal use of detergents, chemicals, physical agents
+and herbs, chronic tampon use, allergic vaginitis
+Investigations
+- Speculum examination
+- Pus swab: microscopy, Gram stain, C&S
+- PH, KOH
+- Blood: syphilis tests (RPR/VDRL)
+- HIV Testing
+280
+Uganda Clinical Guidelines 2023CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
+NO
+NO
+YES
+YES
+Take history and examine
+for gen tal ulcers and
+abdominal tenderness.
+Perform speculum examin
+tion for cervical lesions.If there are ulcers,
+treat as genital
+ulcers
+On speculum examin
+tion, are signs of
+cancer of the cervix
+Refer to Gynaecologist immediately
+Check for erythema
+excoriations or thrush
+Fluconazole 150 mg-200mg plus
+Metronidazole tablets, 2 g single
+dose.
+If pregnant replace Fluconazole
+with Clotrimazole pessary 100 mg
+once for 6 days and add Metronidazole only after 1st trimester
+Cexfixime 400 mg stat plus
+Doxycycline 100 mg 12 hourly
+for 7 days plus Metronidazole
+2 g single dose. Treat sexual
+partners. If pregnant replace
+Doxycycline with Erythromycin
+500 mg 6 hourly for 7 days
+If discharge persists
+beyond 7 days
+If discharge persists beyond
+7 days and partners were
+treated, refer for specialist’s
+management
+Give cefixime 400 mg stat plus
+doxycycline 100 mg 12 hourly for 7
+days and if pregnant give Erythromycin 500 mg 6 hourly for 7 days
+and treat sexual partners.
+If discharge persists beyond 7
+days and partners were treated,
+refer for specialist’s management
+If there is abdominal
+tenderness, treat as
+lower abdominal
+281
+Uganda Clinical Guidelines 2023CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
+Management
+TREATMENT LOC
+- Take history and examine for genital ulcers, abdominal
+tenderness
+- Perform speculum examination for cervical lesions
+- Assess risk for sexually transmitted disease
+If there is lower abdominal tenderness and sexually active:
+- Treat as in PID (see section 14.1.2)
+If no lower abdominal pain and discharge is thick and lumpy, vagina
+is itchy and erythema or excoriations are present: likely Candida
+- Give clotrimazole pessaries 100 mg; insert high in
+vagina once daily before bedtime for 6 days or twice
+daily for 3 days
+- Or fluconazole 200 mg tablets single dose, orally
+- ± Metronidazole 2 g stat dose
+HC2
+If abundant/smelly discharge/vaginosis: possible trichomonas
+or vaginosis
+- Metronidazole 2 g stat
+HC2
+If purulent discharge, or high risk of STD, or previous treatment
+non effective: treat for gonorrhea, and chlamydia, and trichomonas
+- Give cefixime 400 mg stat or ceftriaxone 1g
+IV stat
+- Plus doxycycline 100 mg 12 hourly for 7 days
+Plus metronidazole 2 g stat
+HC3
+282
+Uganda Clinical Guidelines 2023CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
+TREATMENT LOC
+However if client is pregnant
+- Replace doxycycline with erythromycin 500 mg 6
+hourly for 7 days or
+- Azithromycin 1 g stat
+- Treat the partner
+If discharge or dysuria still persists and partners treated:
+- Refer for further management
+HC3

@@ -1,0 +1,897 @@
+# TOPIC: intraabdominal_cholecystitis
+
+--- [WHO AWaRe Antibiotic Book (2022) | 29. Intra-abdominal infections - acute cholecystitis and cholangitis | p.412-429 | audience=general] ---
+396The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+29. Intra-abdominal infections – 
+acute cholecystitis and cholangitis
+Key messages
+Cholecystitis
+• If cholecystectomy is performed, antibiotics should be stopped once the gallbladder is 
+removed and there is good clinical recovery unless the patient had a severe presentation.
+• Antibiotics should be chosen based on the severity of symptoms (mild or severe) with 
+broader-spectrum agents for severe cases. The antibiotics should also be active against 
+anaerobes as these pathogens are often involved in intra-abdominal infections.
+Cholangitis
+• Biliary drainage is the basis of treatment for obstructive cholangitis.
+• Antibiotics should be chosen based on the severity of symptoms (mild or severe) with 
+broader-spectrum agents for severe cases and given until drainage procedures are done. 
+They should be continued for a total of 5 days once control of the source of infection has 
+been achieved.
+Other relevant WHO resources (please check regularly for updates)
+• Pocket book of hospital care for children: guidelines for the management of common 
+childhood illnesses, 2013 (31).
+Definition
+Acute cholecystitis is an acute inflammation of the gallbladder and acute cholangitis is an 
+acute inflammation in the bile duct system. Both conditions are classified as uncomplicated 
+when there is no involvement of the peritoneal cavity and the inflammation is confined 
+to the organ involved, that is no perforation, no abscess and no diffuse peritonitis. The 
+conditions are classified as complicated when the inflammation extends to the peritoneal 
+cavity with subsequent peritonitis or when an abscess is present.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+397
+HOSPITAL FACILITY 
+29. Intra-abdominal infections – acute cholecystitis and cholangitis
+Acute cholecystitis & cholangitis
+Intra-abdominal infection • Page 1 of 2
+Diagnosis
+Clinical Presentation
+Acute cholecystitis:
+•A cute abdominal pain especially in the right upper
+quadrant with nausea and vo miting; fev er (≥ 38.0 °C ) ma y
+be absen t
+Acute cholangitis:
+•A bdominal pain with fev er (≥ 38.0 °C ) and jaundice +/-
+nausea and v omiting
+Mild uncomplicated cases:
+•Not usually needed
+Severe cases:
+•Blood cultur es (ideally befor e star ting antibiotics)
+•M icr oscopy and cultur e of abdominal /g248uid material and
+bile (if they can be drained) to adjust empiric antibiotic
+tr eatmen t
+Microbiology Tests
+Determine disease severity and help identify a
+bacterial infection:W hite blood cell count, C-r eac tiv e
+pr otein and/or pr ocalcitonin
+Assess liver function: AST , bilirubin and alk aline
+phosphatase
+•I f sepsis is suspec ted consider additional laborator y tests
+(see sepsis infographic)
+Other LaboratoryTests
+•A bdominal ultrasound to con/g246rm the diagnosis
+•C onsider doing a CT scan of the abdomen if complications
+suspec ted or diagnosis uncer tain
+Imaging
+Acute cholecystitis: A cute in/g248ammation of the gallbladder
+•A gallstone obstruc ting the cy stic duc t for pr olonged periods of
+time is the most fr equent cause
+Acute cholangitis: A cute in/g248ammation in the bile duc t system
+•A gallstone obstruc ting the common bile duc t and malignan t
+obstruc tion by tumours are the most common causes
+De/g246nition
+In fec tions ar e often polymicr obial
+Bacteria:
+•E nterobacterales (mostly ) and other Gram-Escherichia coli
+negativ e bacilli (including multidrug-r esistant strains)
+• spp . (e .g . of the group)Streptococcus S. anginosus
+• spp .Enterococcus
+•A naer obes (mostly spp .)Bacteroides
+Fungi (consider if recent course of antibiotics):
+•M ostly Candida albicans
+Most Likely Pathogens
+Classi/g246cation based on complexity:
+•: No in v olv ement of the peritoneal cavit yUncomplicated
+and no abscess
+•: In v olv ement of the peritoneal cavity and/orComplicated
+abscess
+Classi/g246cation based on severity:
+•: Not critically ill with no signs of sepsis or septic shockMild
+•: Critically ill with signs of sepsis or septic shockSevere
+Important:
+•C onsider peritonitis if ther e is sev er e pain, diffuse
+r ebound tenderness upon sudden r elease of pr essur e
+on the abdomen and abdominal muscular tensing
+•H ypotension and signs of organ h ypoper fusion (e .g .
+r educed urine output) ar e potential signs of
+sepsis/septic shock that need urgent tr eatmen t
+398
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+29. Intra-abdominal infections – acute cholecystitis and cholangitis
+Acute cholecystitis & cholangitis
+Intra-abdominal infection • Page 2 of 2
+Treatment
+Acute cholecystitis:
+•Uncomplicated cases: Antibiotics can be stopped once
+gallbladder is removed
+•Complicated cases:i s adequate in most cases with5 days
+good clinical recovery and source control
+Acute cholangitis:
+•All cases: Give antibiotics until biliary drainage procedures
+are performed and continue for a total of after5 days
+successful source control
+Antibiotic Treatment Duration
+Amoxicillin+clavulanic acid 1 g+200 mg q8h IV
+OR 875 mg+125 mg q8h ORAL
+----------------------------------- -----------------------------------OR
+First Choice
+Mild Cases
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+----------------------------- -----------------------------OR
+Cefotaxime 2 g q8h IV
+Ceftriaxone 2 g q24h IV
+---------------------- ----------------------COMBINED WITH
+Metronidazole 500 mg q8h IV/ORAL
+---------------------- ----------------------COMBINED WITH
+Metronidazole 500 mg q8h IV/ORAL
+Cipro/g248oxacin 500 mg q12h ORAL
+Second Choice
+Cipro/g248oxacin and metronidazole have excellent oral
+bioavailability and the IV route should be reserved for patients
+with impaired gastrointestinal function
+Clinical Considerations
+•Cholecystectomy (for acute cholecystitis) and biliary
+drainage (for acute cholangitis) remain the main
+approaches to eliminate the source of infection
+•In both conditions empiric antibiotic treatment
+should be guided by:T he severity of symptoms,
+considering local prevalence of resistance (particularly of
+isolates of Enterobacterales producing ESBL) and individual
+risk factors for resistant pathogens
+Important for both conditions:
+•Simplify empiric treatment to a more narrowspectrum antibiotic based on culture results or rapid
+clinical improvement if culture results unavailable
+•Step down to oral treatment is based on
+improvement of symptoms, signs of infection and the
+ability to take oral antibiotics
+•If signs and symptoms persist, abdominal imaging
+is suggested or an alternative extra-abdominal source
+of infection should be considered
+First Choice
+Severe Cases
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+----------------------------- -----------------------------OR
+Cefotaxime 2 g q8h IV
+Ceftriaxone 2 g q24h IV
+---------------------- ----------------------COMBINED WITH
+Metronidazole 500 mg q8h IV/ORAL
+----------------------------------- -----------------------------------OR
+Piperacillin+tazobactam 4 g + 500 mg q6h IV
+Second Choice
+Meropenem 1 g q8h IV
+Consider meropenem only in complicated cases if there is a
+high risk of infection with ESBL-producing Enterobacterales
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+399
+HOSPITAL FACILITY 
+29. Intra-abdominal infections – acute cholecystitis and cholangitis
+Acute cholecystitis & cholangitis
+Intra-abdominal infection • Page 1 of 3
+Diagnosis
+Clinical Presentation
+Acute cholecystitis:
+•Acute abdominal pain especially in the right upper
+quadrant with nausea and vomiting
+Acute cholangitis:
+•Abdominal pain with fever and jaundice +/- nausea and
+vomiting
+Mild uncomplicated cases:
+•Not usually needed
+Severe cases:
+•Blood cultures (ideally before starting antibiotics)
+•Microscopy and culture of abdominal /g248uid material and
+bile (if they can be drained) to adjust empiric antibiotic
+treatment
+Microbiology Tests
+Determine disease severity and help identify a
+bacterial infection:W hite blood cell count, C-reactive
+protein and/or procalcitonin
+Assess liver function: AST, bilirubin and alkaline
+phosphatase
+•If sepsis is suspected consider additional laboratory tests
+(see sepsis infographic)
+Other LaboratoryTests
+•Abdominal ultrasound to con/g246rm the diagnosis
+•Consider doing a CT scan of the abdomen if complications
+suspected or diagnosis uncertain
+Imaging
+Acute cholecystitis: Acute in/g248ammation of the gallbladder
+•A gallstone obstructing the cystic duct for prolonged periods of
+time is the most frequent cause
+Acute cholangitis: Acute in/g248ammation in the bile duct system
+•A gallstone obstructing the common bile duct and malignant
+obstruction by tumours are the most common causes
+De/g246nition
+Infections are often polymicrobial
+Bacteria:
+•Enterobacterales (mostly ) and other Gram-Escherichia coli
+negative bacilli (including multidrug-resistant strains)
+• spp. (e.g. of the group)Streptococcus S. anginosus
+• spp.Enterococcus
+•Anaerobes (mostly spp.)Bacteroides
+Fungi (consider if recent course of antibiotics):
+•Mostly Candida albicans
+Most Likely Pathogens
+Classi/g246cation based on complexity:
+•: No involvement of the peritoneal cavityUncomplicated
+and no abscess
+•: Involvement of the peritoneal cavity and/orComplicated
+abscess
+Classi/g246cation based on severity:
+•: Not critically ill with no signs of sepsis or septic shockMild
+•: Critically ill with signs of sepsis or septic shockSevere
+Important:
+•Consider peritonitis if there is severe pain, diffuse
+rebound tenderness upon sudden release of pressure
+on the abdomen and abdominal muscular tensing
+•Hypotension and signs of organ hypoperfusion (e.g.
+reduced urine output) are potential signs of sepsis
+/septic shock that need urgent treatment
+400
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+29. Intra-abdominal infections – acute cholecystitis and cholangitis
+Acute cholecystitis & cholangitis
+Intra-abdominal infection • Page 2 of 3
+Treatment (Section 1 of 2)
+Acute cholecystitis:
+•Uncomplicated cases: Antibiotics can be stopped once
+gallbladder is removed
+•Complicated cases:i s adequate in most cases with5 days
+good clinical recovery and source control
+Acute cholangitis:
+•All cases: Give antibiotics until biliary drainage procedures
+are performed and continue for a total of after5 days
+successful source control
+Antibiotic Treatment Duration
+Severe CasesClinical Considerations
+•Cholecystectomy (for acute cholecystitis) and biliary
+drainage (for acute cholangitis) remain the main
+approaches to eliminate the source of infection
+•In both conditions empiric antibiotic treatment
+should be guided by:T he severity of symptoms,
+considering local prevalence of resistance (particularly of
+isolates of Enterobacterales producing ESBL) and individual
+risk factors for resistant pathogens
+Important for both conditions:
+•Simplify empiric treatment to a more narrowspectrum antibiotic based on culture results or rapid
+clinical improvement if culture results unavailable
+•Step down to oral treatment is based on
+improvement of symptoms, signs of infection and the
+ability to take oral antibiotics
+•If signs and symptoms persist, abdominal imaging
+is suggested or an alternative extra-abdominal source
+of infection should be considered
+Mild Cases
+See the following page for treatment recommendations
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+First Choice
+Ampicillin IV
+•1st week of life: 50 mg/kg/dose q12h
+•> 1st week of life: 50 mg/kg/dose q8h
+Gentamicin IV
+•Neonates: 5 mg/kg q24h
+•Children: 7.5 mg/kg q24h
+---------------------- ----------------------COMBINED WITH
+---------------------- ----------------------COMBINED WITH
+Metronidazole IV/ORAL
+•Neonates: 7.5 mg/kg/dose q12h (for IV
+loading dose: 15 mg/kg)
+•Children: 7.5 mg/kg/dose q8h
+•:Oral weight bands
+3-<6 kg 30 mg q8h
+6-<10 kg 50 mg q8h
+10-<15 kg 100 mg q8h
+15-<20 kg 150 mg q8h
+20-<30 kg 200 mg q8h
+≥30 kg 500 mg q8h
+----------------------------------- -----------------------------------OR
+Piperacillin+tazobactam 100 mg/kg/dose of
+piperacillin component q8h IV
+Second Choice
+Meropenem 20 mg/kg/dose q8h IV
+Consider meropenem only in complicated cases if there is a
+high risk of infection with ESBL-producing Enterobacterales
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+401
+HOSPITAL FACILITY 
+29. Intra-abdominal infections – acute cholecystitis and cholangitis
+Acute cholecystitis & cholangitis
+Intra-abdominal infection • Page 3 of 3
+Cipro/g248oxacin 15 mg/kg/dose q12h
+IV/ORAL
+•:Oral weight bands
+3-<6 kg 50 mg q12h
+6-<10 kg 100 mg q12h
+10-<15 kg 150 mg q12h
+15-<20 kg 200 mg q12h
+20-<30 kg 300 mg q12h
+≥30 kg 500 mg q12h
+Mild Cases
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Treatment (Section 2 of 2)
+----------------------------- -----------------------------OR
+Cefotaxime 50 mg/kg/dose q8h IV
+Ceftriaxone 80 mg/kg/dose q24h IV
+---------------------- ----------------------COMBINED WITH
+Metronidazole IV/ORAL
+•Neonates: 7.5 mg/kg/dose q12h (for IV
+loading dose: 15 mg/kg)
+•Children: 7.5 mg/kg/dose q8h
+•:Oral weight bands
+3-<6 kg 30 mg q8h
+6-<10 kg 50 mg q8h
+10-<15 kg 100 mg q8h
+15-<20 kg 150 mg q8h
+20-<30 kg 200 mg q8h
+≥30 kg 500 mg q8h
+Second Choice
+---------------------- ----------------------COMBINED WITH
+Metronidazole IV/ORAL
+•Neonates: 7.5 mg/kg/dose q12h (for IV
+loading dose: 15 mg/kg)
+•Children: 7.5 mg/kg/dose q8h
+•:Oral weight bands
+3-<6 kg 30 mg q8h
+6-<10 kg 50 mg q8h
+10-<15 kg 100 mg q8h
+15-<20 kg 150 mg q8h
+20-<30 kg 200 mg q8h
+≥30 kg 500 mg q8h
+Cipro/g248oxacin and metronidazole have excellent oral
+bioavailability and the IV route should be reserved for patients
+with impaired gastrointestinal function
+First Choice
+Amoxicillin+clavulanic acid
+IV:
+•1st week of life: 50 mg/kg/dose of amoxicillin
+component q12h
+•> 1st week of life: 50 mg/kg/dose of
+amoxicillin component q8h
+ORAL: 80-90 mg/kg/day of amoxicillin
+component
+•:Oral weight bands
+3-<6 kg 250 mg of amox/dose q12h
+6-<10 kg 375 mg of amox/dose q12h
+10-<15 kg 500 mg of amox/dose q12h
+15-<20 kg 750 mg of amox/dose q12h
+≥20 kg 500 mg of amox/dose q8h or
+1 g of amox/dose q12h
+----------------------------------- -----------------------------------OR
+Amox = amoxicillin
+Oral liquid must be refrigerated after reconstitution
+Ampicillin IV
+•1st week of life: 50 mg/kg/dose q12h
+•> 1st week of life: 50 mg/kg/dose q8h
+Gentamicin IV
+•Neonates: 5 mg/kg q24h
+•Children: 7.5 mg/kg q24h
+---------------------- ----------------------COMBINED WITH
+---------------------- ----------------------COMBINED WITH
+Metronidazole IV/ORAL
+•Neonates: 7.5 mg/kg/dose q12h (for IV
+loading dose: 15 mg/kg)
+•Children: 7.5 mg/kg/dose q8h
+•:Oral weight bands
+3-<6 kg 30 mg q8h
+6-<10 kg 50 mg q8h
+10-<15 kg 100 mg q8h
+15-<20 kg 150 mg q8h
+20-<30 kg 200 mg q8h
+≥30 kg 500 mg q8h
+----------------------------------- -----------------------------------OR
+402The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+29. Intra-abdominal infections – acute cholecystitis and cholangitis
+Pathophysiology
+In acute cholecystitis, a gallstone obstructing the cystic duct for prolonged periods of time 
+and causing inflammation of the gallbladder is the most frequent cause (> 90%). Acalculous 
+cholecystitis, where there is no evidence of gallstones or cystic duct obstruction, is 
+uncommon, especially in adults. Rarely, certain parasites (e.g. the worm Ascaris lumbricoides) 
+can also cause gallbladder perforation.
+In acute cholangitis, the most common cause is choledocholithiasis (i.e. gallstones in 
+the bile duct). Infection occurs when bacteria travel up the biliary tract from the intestine or 
+via the portal venous system. Another cause may be obstruction by tumours (e.g. pancreatic 
+cancer) or parasites (e.g. the liver fluke Fasciola hepatica) (295). In addition, congenital biliary 
+strictures or strictures following inflammation or infection can cause acute cholangitis.
+In both cholecystitis and cholangitis, if bacterial contamination or chemical irritation 
+(usually due to leakage of sterile fluids that are irritants to the peritoneum, for example, bile 
+or blood) of the peritoneal cavity occur, peritonitis develops. Abdominal abscesses (i.e. the 
+presence of a collection of infected fluid in the peritoneal cavity) can also form as a result of 
+a complicated infection. 
+Epidemiology 
+Acute cholecystitis is a common surgical emergency worldwide. The incidence of acute 
+cholecystitis is declining where cholecystectomy (surgical removal of the gallbladder) has 
+become a common procedure in cases of recurrent attacks of biliary colic, that is, intermittent 
+pain in the upper abdomen, usually on the right side. Acute cholecystitis mostly affects 
+adults; children are rarely affected. The disease is more prevalent in men and elderly people. 
+Obesity and diabetes are also well known risk factors (296,297). Short-term 30-day mortality 
+is about 5% in severe cases and 1% in mild cases (298).
+Acute cholangitis is a condition associated with high mortality if left untreated. 
+Choledocholithiasis and malignant obstruction by tumours are the most common causes of 
+cholangitis and their risk factors overlap (299).
+Most likely pathogens
+The most common pathogens involved in acute cholecystitis or cholangitis are Gramnegative bacilli and anaerobic bacteria from the intestinal microbiota (Table 29.1). Infections 
+are often caused by more than one pathogen and may include fungal pathogens, especially 
+in patients who have recently received antibiotic treatment. Certain parasites ( Ascaris 
+lumbricoides, Fasciola hepatica) need to be considered in endemic settings as they may 
+cause biliary obstruction leading to bacterial complications.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book403
+HOSPITAL FACILITY 
+29. Intra-abdominal infections – acute cholecystitis and cholangitis
+Table 29.1 – Pathogens most frequently associated with acute cholecystitis and 
+cholangitis (in descending order of frequency)
+Bacteria Fungi
+Enterobacterales (mostly Escherichia coli) and other 
+Gram-negative bacteria such as Pseudomonas 
+aeruginosa and Acinetobacter baumannii (including 
+multidrug-resistant strains such as those producing 
+ESBL and carbapenemases)
+Streptococcus spp. (e.g. of the Streptococcus 
+anginosus group – old name: Streptococcus milleri)
+Enterococcus spp.
+Anaerobes (mostly Bacteroides spp.)
+Mostly Candida albicans
+ESBL: extended-spectrum beta-lactamases.
+Clinical presentation
+Acute cholecystitis should be considered as a possible diagnosis in all cases of acute 
+abdominal pain, especially if the pain is predominantly located in the right upper quadrant.
+Acute cholangitis should be considered a possible diagnosis in all cases presenting 
+with abdominal pain, fever and jaundice, that is, yellow skin colour and sclera due to 
+increased levels of bilirubin.
+Fever (≥ 38.0 °C), chills, nausea and vomiting may be present, mostly in complicated 
+infections. Severe pain, diffuse rebound tenderness on sudden release of pressure on the 
+abdomen and abdominal muscular defence are usually present in cases of peritonitis. 
+Hypotension and signs of organ hypoperfusion (e.g. reduced urine output) may be present 
+in cases of organ failure and are a medical and/or surgical emergency. Please also refer to 
+the chapter on sepsis if suspected.
+Laboratory tests 
+Patient microbiology tests
+In mild cases, routine microbiology tests are not usually needed and basing antibiotic 
+treatment on pathogens cultured from the abdominal cavity at the time of operation is not 
+recommended. Blood cultures and other microbiology tests could be considered in severely 
+ill patients in order to adjust empiric antibiotic treatment once the results of susceptibility 
+tests are available (see Table 29.2).
+404The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+29. Intra-abdominal infections – acute cholecystitis and cholangitis
+Table 29.2 – Microbiology tests to consider in severe cases of acute cholecystitis or 
+cholangitis as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Blood cultures 
+and antimicrobial 
+susceptibility testing
+To detect bacterial bloodstream 
+infections
+Health care facilities with 
+clinical laboratories
+Microscopy, culture 
+and antimicrobial 
+susceptibility testing 
+of fluid material or bile 
+when these can be 
+drained
+Initial step to detect and 
+identify bacterial and fungal 
+species for selection of 
+appropriate antimicrobial 
+regimens
+Health care facilities with 
+clinical laboratories
+EDL: Model List of Essential In Vitro Diagnostics.
+Other tests
+Laboratory tests can be used to complement the clinical examination and medical history. 
+Based on availability, Table 29.3 indicates tests that could be considered in the patient’s 
+initial assessment and to help guide the duration of antibiotic treatment.
+Table 29.3 – Laboratory tests (other than microbiology) that may help assess the 
+severity of disease and identify a bacterial infection as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+White blood cell count To help in the diagnosis of 
+infections
+Health care facilities with 
+clinical laboratories
+Aspartate 
+aminotransferase
+To assess liver function Health care facilities with 
+clinical laboratories
+Bilirubin To detect or monitor liver 
+disease, bile duct disorders and 
+red cell destruction
+Health care facilities with 
+clinical laboratories
+Alkaline phosphatase To aid in diagnosis of 
+hepatobiliary diseases
+Health care facilities with 
+clinical laboratories
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book405
+HOSPITAL FACILITY 
+29. Intra-abdominal infections – acute cholecystitis and cholangitis
+Table 29.3 continued
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+C-reactive protein To detect inflammation as an 
+indicator of various conditions 
+(e.g. sepsis)
+Health care facilities with 
+clinical laboratories
+Procalcitonin To guide antibiotic therapy or 
+discontinuation in sepsis 
+Only in tertiary care facilities
+EDL: Model List of Essential In Vitro Diagnostics.
+Using microbiology surveillance data
+Routine surveillance of pathogens cultured from the abdominal cavity is not recommended.
+Empiric guidance given by the AWaRe book could be reviewed and adapted based 
+on local clinically relevant microbiology surveillance data. For example, clinically relevant 
+isolates for this infection would be blood culture data from patients on surgical wards with 
+intra-abdominal infections. 
+Imaging
+Imaging is helpful to confirm cholecystitis and cholangitis. An abdominal ultrasound should 
+always be considered when these conditions are suspected. Where available, a CT scan of 
+the abdomen may also be considered, especially if complications are suspected or the 
+diagnosis is uncertain. 
+Treatment of acute cholecystitis
+Patients with suspected or confirmed acute cholecystitis should be promptly referred for 
+surgical consultation. Eliminating the source of infection and the ongoing contamination of 
+the peritoneal cavity (e.g. in case of perforation) is the most important surgical intervention. 
+Cholecystectomy (i.e. removal of the gallbladder) is the only definitive treatment and 
+an antibiotic should be given until the gallbladder is removed (300). After surgery, in 
+uncomplicated cases, antibiotic treatment can be stopped provided the source of infection 
+was adequately controlled and there is good clinical recovery. In severe cases (i.e. critically 
+ill patients), 5 days of antibiotic treatment are usually adequate, provided there is good 
+clinical recovery and the source of infection was adequately controlled and eliminated with 
+surgery (301).
+406The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+29. Intra-abdominal infections – acute cholecystitis and cholangitis
+Treatment of acute cholangitis
+Biliary drainage is the main surgical intervention for acute cholangitis and antibiotic 
+treatment should be given in all cases irrespective of severity. Antibiotic treatment should 
+be given until drainage procedures are done and continued for a total of 5 days once control 
+of the source of infection has been achieved (301). Shorter courses of antibiotics (e.g. 3 
+days) have been evaluated in observational studies (and in a systematic review) and were 
+not associated with a higher occurrence of complications; however, this practice remains 
+controversial because the evidence is not strong (302,303). 
+Antibiotic treatment
+Empiric antibiotic treatment should be chosen based on the severity of symptoms, mild 
+or severe (Table 29.4), considering local prevalence of resistance, particularly isolates 
+producing ESBLs since the prevalence can vary greatly in different settings (304). Individual 
+risk factors for resistant pathogens (e.g. recent antibiotic treatment, colonization with 
+resistant pathogens) should also be considered. 
+Simplify empiric treatment to a more narrow-spectrum antibiotic (often also called 
+de-escalation) based on culture results (targeted treatment) or based on rapid clinical 
+improvement when no microbiology test results are available.
+Step-down to oral treatment is based on improvement of symptoms and signs 
+of infection and the ability to take oral antibiotics allowing discharge of the patient home 
+when clinically appropriate.
+If signs and symptoms persist, abdominal imaging is suggested, or an alternative 
+extra-abdominal source of infection should be considered.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book407
+HOSPITAL FACILITY 
+29. Intra-abdominal infections – acute cholecystitis and cholangitis
+Table 29.4 – Empiric antibiotic treatment for acute cholecystitis or cholangitis
+Note
+Mild cases are defined as patients who are not critically ill with no signs of sepsis or septic shock. 
+Severe cases are defined as patients who are critically ill with signs of sepsis or septic shock.
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical order and they should be considered equal 
+treatment options, unless otherwise indicated.
+Severity Adults Children Total treatment 
+duration
+Mild cases First choice
+ Amoxicillin+clavulanic acid 
+IV: 1g + 200 mg given every 8 hours
+Oral: 875 + 125 mg given every 8 hours 
+OR
+ Cefotaxime (IV): 2 g given every 8 hours
+AND Metronidazole (IV/oral): 500 mg 
+given every 8 hours 
+OR
+ Ceftriaxone (IV): 2 g given once a day
+AND Metronidazole (IV/oral): 500 mg 
+given every 8 hours
+ Amoxicillin+clavulanic acid b
+IV: 
+First week of life: 50 mg/kg of amoxicillin/dose given 
+every 12 hours 
+Beyond first week of life: 50 mg/kg of amoxicillin/dose 
+given every 8 hours
+Oral: 80–90 mg/kg/day of amoxicillin component
+Oral weight bands
+3–< 6 kg: 250 mg of amoxicillin/dose given every 12 hours
+6–< 10 kg: 375 mg of amoxicillin/dose given every 12 hours
+10–< 15 kg: 500 mg of amoxicillin/dose given every 12 hours
+15–< 20 kg: 750 mg of amoxicillin/dose given every 12 hours
+≥ 20kg: 500 mg of amoxicillin/dose given every 8 hours or 
+1 g of amoxicillin/dose given every 12 hours
+Uncomplicated 
+cases treated with 
+cholecystectomy: 
+stop antibiotic after 
+surgery if adequate 
+control of the 
+source of infection 
+has been achieved 
+and symptoms 
+have resolved.
+continues
+408The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+29. Intra-abdominal infections – acute cholecystitis and cholangitisTable 29.4 continued
+Severity Adults Children Total treatment 
+duration
+Mild cases Second choice
+ Ciprofloxacin a (oral): 500 mg given
+every 12 hours AND 
+ Metronidazole (IV/oral): 500 mg given 
+every 8 hours
+(Ciprofloxacin and metronidazole have 
+excellent oral bioavailability and the IV 
+route should be reserved for patients with 
+impaired gastrointestinal function.)
+OR
+ Ampicillin (IV):
+• First week of life: 50 mg/kg/dose given every 12 hours
+• Beyond first week of life: 50 mg/kg/dose given every 
+8 hours
+AND
+ Gentamicin (IV):
+• Neonates: 5 mg/kg given once daily
+• Children: 7.5 mg/kg given once daily
+AND
+ Metronidazole (IV/oral): 
+• Neonates: 7.5 mg/kg/dose given every 12 hours (for IV 
+starting with a loading dose of 15 mg/kg)
+• Children: 7.5 mg/kg/dose given every 8 hours
+Oral weight bands
+3–< 6 kg: 30 mg given every 8 hours
+6–< 10 kg: 50 mg given every 8 hours
+10–< 15 kg: 100 mg given every 8 hours
+15–< 20 kg: 150 mg given every 8 hours
+20–< 30 kg: 200 mg given every 8 hours
+≥ 30 kg: use adult dose
+OR
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book409
+HOSPITAL FACILITY 
+29. Intra-abdominal infections – acute cholecystitis and cholangitis
+Table 29.4 continued
+Severity Adults Children Total treatment 
+duration
+Mild cases Cefotaxime (IV): 50 mg/kg/dose given every 8 hours
+AND
+ Metronidazole (IV/oral): 
+• Neonates: 7.5 mg/kg/dose given every 12 hours (for IV 
+starting with a loading dose of 15 mg/kg)
+• Children: 7.5 mg/kg/dose given every 8 hours
+Oral weight bands
+3–< 6 kg: 30 mg given every 8 hours
+6–< 10 kg: 50 mg given every 8 hours
+10–< 15 kg: 100 mg given every 8 hours
+15–< 20 kg: 150 mg given every 8 hours
+20–< 30 kg: 200 mg given every 8 hours
+≥ 30 kg: use adult dose
+OR
+continues
+410The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+29. Intra-abdominal infections – acute cholecystitis and cholangitisTable 29.4 continued
+Severity Adults Children Total treatment 
+duration
+Mild cases Ceftriaxone (IV): 80 mg/kg/dose given once a day
+AND
+ Metronidazole (IV/oral): 
+• Neonates: 7.5 mg/kg/dose given every 12 hours (for IV 
+starting with a loading dose of 15 mg/kg)
+• Children: 7.5 mg/kg/dose given every 8 hours
+Oral weight bands
+3–< 6 kg: 30 mg given every 8 hours
+6–< 10 kg: 50 mg given every 8 hours
+10–< 15 kg: 100 mg given every 8 hours
+15–< 20 kg: 150 mg given every 8 hours
+20–< 30 kg: 200 mg given every 8 hours
+≥ 30 kg: use adult dose
+Second choice
+ Ciprofloxacin (IV/oral): 15 mg/kg/dose, given every 
+12 hours
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book411
+HOSPITAL FACILITY 
+29. Intra-abdominal infections – acute cholecystitis and cholangitis
+Table 29.4 continued
+Severity Adults Children Total treatment 
+duration
+Mild cases Oral weight bands
+3–< 6 kg: 50 mg given every 12 hours
+6–< 10 kg: 100 mg given every 12 hours
+10–< 15 kg: 150 mg given every 12 hours
+15–< 20 kg: 200 mg given every 12 hours
+20–< 30 kg: 300 mg given every 12 hours
+≥ 30 kg: use adult dose
+AND
+ Metronidazole (IV/oral): 
+• Neonates: 7.5 mg/kg/dose given every 12 hours (for IV 
+starting with a loading dose of 15 mg/kg)
+• Children: 7.5 mg/kg/dose given every 8 hours
+Oral weight bands
+3–< 6 kg: 30 mg given every 8 hours
+6–< 10 kg: 50 mg given every 8 hours
+10–< 15 kg: 100 mg given every 8 hours
+15–< 20 kg: 150 mg given every 8 hours
+20–< 30 kg: 200 mg given every 8 hours
+≥ 30 kg: use adult dose
+(Ciprofloxacin and metronidazole have excellent oral 
+bioavailability and the IV route should be reserved for 
+patients with impaired gastrointestinal function)
+continues
+412The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+29. Intra-abdominal infections – acute cholecystitis and cholangitisTable 29.4 continued
+Severity Adults Children Total treatment 
+duration
+Severe 
+cases
+First choice
+ Cefotaxime (IV): 2 g given every 8 hours
+AND Metronidazole (IV/oral): 500 mg 
+given every 8 hours
+OR
+ Ceftriaxone (IV): 2 g given once a day
+AND Metronidazole (IV/oral): 500 mg 
+given every 8 hours
+OR
+ Piperacillin+tazobactam c (IV): 4 g + 
+500 mg given every 6 hours
+Second choice
+ Meropenem d (IV): 1 g given every 8 
+hours
+First choice
+ Ampicillin (IV):
+• First week of life: 50 mg/kg/dose given every 12 hours
+• Beyond first week of life: 50 mg/kg/dose given every 
+8 hours
+AND
+ Gentamicin (IV):
+• Neonates: 5 mg/kg given once daily
+• Children: 7.5 mg/kg given once daily
+AND
+ Metronidazole (oral/IV): 
+• Neonates: 7.5 mg/kg/dose given every 12 hours (for IV 
+starting with a loading dose of 15 mg/kg)
+• Children: 7.5 mg/kg/dose given every 8 hours
+Oral weight bands
+3–< 6 kg: 30 mg given every 8 hours
+6–< 10 kg: 50 mg given every 8 hours
+10–< 15 kg: 100 mg given every 8 hours
+15–< 20 kg: 150 mg given every 8 hours
+20–< 30 kg: 200 mg given every 8 hours
+≥ 30 kg: use adult dose
+OR
+Acute 
+cholecystitis: 
+5 days in total if 
+adequate control 
+of the source 
+of infection has 
+been achieved 
+with surgery and 
+symptoms have 
+resolved.
+Acute cholangitis: 
+continue antibiotic 
+treatment for a 
+total of 5 days 
+once control of the 
+source of infection 
+has been achieved 
+with biliary 
+drainage and 
+symptoms have 
+resolved.
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book413
+HOSPITAL FACILITY 
+29. Intra-abdominal infections – acute cholecystitis and cholangitis
+Severity Adults Children Total treatment 
+duration
+Severe 
+cases
+ Piperacillin+tazobactam (IV): 100 mg/kg/dose of 
+piperacillin component given every 8 hours
+Second choice
+ Meropenem d (IV): 20 mg/kg/dose given every 8 hours
+IV: intravenous.
+Note: All dosages are for normal renal and hepatic function.
+a The use of fluoroquinolones (such as ciprofloxacin) can be associated with important side-effects including: (i) mental health disturbances such as disorientation, 
+agitation, nervousness, memory impairment and delirium; (ii) serious blood sugar disturbances such as hypoglycaemic coma; (iii) increased risk of tendinitis and tendon 
+rupture; (iv) worsening symptoms in those with myasthenia gravis; and (v) potential irreversible neuropathy (serious nerve damage).
+b Oral liquid formulations must be refrigerated after reconstitution as clavulanic acid is rapidly metabolized in high ambient temperatures.
+c Of note, piperacillin+tazobactam offers anti-Enterococcus coverage, which the other options listed for adults do not. Ampicillin would be another appropriate option, 
+but it was not listed in this table as it is not currently in the EML for this indication, while it is listed for children.
+d Meropenem should not be considered for routine use for all severe cases but only in complicated cases (i.e. abscess and/or peritonitis) in settings with a high prevalence 
+of extended-spectrum beta-lactamase-producing Enterobacterales or in patients with known prior colonization, treated with multiple antibiotic courses or at risk of 
+infections with pathogens resistant to the first-choice option. Empiric use of a Reserve antibiotic could be considered exceptionally in very select cases of seriously ill 
+patient: who are failing to respond to carbapenems; or who have previously been treated for infections caused by carbapenem-resistant pathogens; or who are known 
+to be colonized with multidrug-resistant Gram-negative bacteria that are known to be susceptible to the selected Reserve antibiotic. Please refer to the chapter on 
+Reserve antibiotics for the definition and list of Reserve antibiotics included in the EML and EMLc.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red. 
+Table 29.4 continued
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 6.5.9 Acute Cholecystitis/Cholangitis | p.511-514 | audience=general] ---
+Inflammation of the gall bladder and/or of the biliary tract. It often
+requires surgical management.
+Causes
+~ Obstruction of gall bladder duct by gall stones (calculi)
+~ May occur after major trauma, burns, or surgery
+~ Occurs in HIV infected persons as acalculous cholecystitis
+Clinical features
+~ Sudden onset of pain and tenderness in the right upper
+quadrant of the abdomen; worsens on deep breathing
+~ Nausea and vomiting
+~ Jaundice (in cholangitis)
+~ Fever (38-39°C) with chills
+CHAPTER 6: Gastrointestinal and Hepatic Diseases
+445
+Uganda Clinical Guidelines 2023
+Severity of acute cholecystitis is classified into:
+TREATMENT
+Grade I (mild acute
+cholecystitis)
+Associated with no organ dysfunction and limited
+disease in the gallbladder, making cholecystectomy
+a low-risk procedure
+Grade II (moderate
+acute cholecystitis)
+Associated with no organ dysfunction, but with
+extensive disease in the gallbladder, resulting in
+difficulty in safely performing a cholecystectomy
+Usually characterized by:
+- An elevated white blood cell count
+- A palpable, tender mass in the right
+upper abdominal quadrant
+- Disease duration of more than 72
+hours
+- Imaging studies indicating significant
+inflammatory changes in the
+gallbladder.
+Acute cholecystitis with organ dysfunction (shock)
+Differential diagnosis
+~ Acute alcoholic hepatitis
+~ Intestinal obstruction
+Investigations
+- X-ray, abdominal ultrasound: findings are wall thickening ± stone
+pericholecystic fluid
+- Blood: Haemogram, liver tests, pancreatitis. Findings are: fever,
+elevated white blood cells
+- Enzymes and renal function tests
+CHAPTER 6: Gastrointestinal and Hepatic Diseases
+446
+Uganda Clinical Guidelines 2023
+Management
+TREATMENT LOC
+- Nil by mouth (duration?)
+- Relieve pain: Pethidine 50–100 mg IM every 6 hours
+- Rehydrate with IV fluids and electrolytes e.g.
+Ringer’s lactate
+- Ceftriaxone 1-2 g daily
+In cholecystitis:
+- Refer to hospital within 2–3 days for surgery (cholecystectomy)
+- In cholangitis, if not better refer for urgent surgical
+management
+HC4
+RR
+CHAPTER 6: Gastrointestinal and Hepatic Diseases
+447
+Uganda Clinical Guidelines 2023
+Renal and Urinary Diseases7

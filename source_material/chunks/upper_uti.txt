@@ -1,0 +1,754 @@
+# TOPIC: upper_uti
+
+--- [WHO AWaRe Antibiotic Book (2022) | 34. Upper urinary tract infection | p.490-504 | audience=general] ---
+474The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+34. Upper urinary tract infection 
+Key messages
+• Most cases of upper urinary tract infection are caused by Escherichia coli.
+• A urine culture should be obtained before starting antibiotic treatment.
+• Mild cases can be treated with oral antibiotics in the outpatient setting.
+• Empiric treatment varies depending on the severity of clinical presentation and underlying 
+risk factors.
+• The local prevalence of resistance among Escherichia coli urinary isolates needs to be 
+considered if data are available.
+Other relevant WHO resources (please check regularly for updates)
+• Pocket book of hospital care for children: guidelines for the management of common 
+childhood illnesses, 2013 (31).
+Definition
+Upper UTIs are acute infections in which pathogens (mostly bacteria from the intestinal 
+microbiota colonizing the skin in the perineal area) reach the kidney/s by ascending 
+through the urethra, bladder and the ureter/s. In addition, pathogens can gain access to the 
+kidney/s through the bloodstream. An infection of the kidney/s is commonly referred to as 
+pyelonephritis. Infections can be community acquired or hospital acquired. The focus of this 
+chapter is on community-acquired pyelonephritis in immunocompetent patients without 
+a urinary catheter. 
+Complications can occur with upper UTIs because of patient-related risk factors 
+that make the infection more difficult to treat. While there is no universally accepted 
+definition of what constitutes a complicated UTI, upper UTIs in individuals with pre-existing 
+conditions of the urinary tract (e.g. anatomical anomalies and kidney stones) are generally 
+considered complicated. Upper UTIs in pregnant women are also usually considered 
+complicated. Examples of factors that may increase the risk of a complicated upper UTI are 
+shown in Box 34.1.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book475
+HOSPITAL FACILITY 
+34. Upper urinary tract infection 
+Box 34.1 – Factors that may increase the risk of a complicated upper urinary 
+tract infection
+• Obstruction at any site of the urinary tract
+• Foreign body (e.g. urinary catheters and stents)
+• Incomplete voiding
+• Vesicoureteral reflux
+• Recent history of instrumentation
+• Male sex
+• Pregnancy
+• Diabetes
+• Immunosuppression
+• Health care-associated urinary tract infection
+Notes. The list gives some examples but is not aimed to be complete. No widely accepted 
+definition of a complicated urinary tract infection currently exists. Some experts argue that 
+the list above is too long and may result in diagnosing too many patients with a so-called 
+complicated infection. The presence of one or more of these risk factors does not mean that the 
+infection is complicated and in need of a different treatment approach.
+Source: Guidelines on urological infections of the European Association of Urology (222).
+476
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+34. Upper urinary tract infection 
+Upper urinary tract infection
+Urinary tract infection • Page 1 of 2
+Infection of the kidneys (pyelonephritis) in which microorganisms
+ascend the urinary tract via the urethra, bladder, ureters or reach
+the kidneys through the bloodstream
+De/g246nition
+Bacteria:
+•:Most common
+-E nterobacterales (mostly including multidrugEscherichia coli
+resistant strains such as those producing ESBL and
+carbapenemases)
+•:More rarely
+- spp.Enterococcus
+-( group B)Streptococcus agalactiae Streptococcus
+-( rare in uncomplicated UTI, usually inStaphylococcus aureus
+patients with urinary catheters, can be associated with
+bacteremia)
+-,Pseudomonas aeruginosa Acinetobacter baumannii
+(including multidrug-resistant strains especially in patients
+with recent antibiotic exposure or instrumentation of the
+urinary tract, rare in uncomplicated UTI)
+Most Likely Pathogens
+Diagnosis
+Clinical Presentation
+•Flank pain, costovertebral angle tenderness, nausea and
+vomiting, fever and signs of systemic illness +/- symptoms
+of cystitis
+•Severity varies from mild disease (most cases) that can be
+managed with oral treatment (no nausea/ vomiting, lowgrade fever) to severe cases requiring intravenous
+treatment and hospital admission
+All cases (if upper UTI is suspected clinically):
+•Urinalysis (dipstick or microscopy) to detect bacteriuria
+and/or indirect signs of infection (positive leucocyte
+esterase and nitrites)
+Additionally in severe cases:
+•White blood cell count, C-reactive protein and/or
+procalcitonin
+•If sepsis is suspected consider additional laboratory tests
+(see sepsis infographic)
+Other LaboratoryTests
+All cases (if upper UTI is suspected clinically):
+•Urine culture: Ideally before starting antibiotic treatment
+-T he test is considered positive when bacteria are above a
+certain minimum cut-offthat can vary between
+laboratories
+-A positive urine culture is not always a sign of urinary
+tract infection or an indication for antibiotic treatment
+(and urine can also become contaminated during
+sampling)
+Additionally in severe cases:
+•Blood cultures: Ideally before starting antibiotic treatment
+Microbiology Tests
+This chapter focuses on community-acquired pyelonephritis in
+patients with no catheter
+Classi/g246cation based on complexity:
+•: Urinary tract infections (UTI) in individualsUncomplicated
+with no risk factors for complicated UTI
+•: UTI in individuals with structural anomalies ofComplicated
+the urinary tract (e.g. kidney stones, anatomical anomalies)
+or who are immunocompromised and in pregnant women
+are generally considered complicated (or at risk of
+complications). UTI in patients with urinary catheters or
+stents are also considered complicated (not discussed here)
+Routine imaging is not necessary but can be considered if
+urine /g248ow is blocked or an abscess is suspected
+Imaging
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+477
+HOSPITAL FACILITY 
+34. Upper urinary tract infection 
+Upper urinary tract infection
+Urinary tract infection • Page 2 of 2
+Clinical Considerations
+•Patients with upper urinary tract infection are generally
+symptomatic
+•Patients with a positive urine test but no UTI symptoms
+usually (exceptions exist, e.g.do not require treatment
+pregnant women or if invasive urologic procedure is
+scheduled, for whom pre-emptive antibiotic therapy may
+be indicated)
+•:Empiric antibiotic treatment should be guided by
+The severity of symptoms, considering local prevalence of
+resistance (particularly of isolates of Enterobacterales
+producing ESBL) and individual risk factors for resistant
+pathogens
+Treatment
+7 days
+Antibiotic Treatment Duration
+Important:
+•Simplify empiric treatment to a more narrowspectrum antibiotic based on culture results or rapid
+clinical improvement if culture results unavailable
+•Step down to oral treatment is based on
+improvement of symptoms, signs of infection and the
+ability to take oral antibiotics
+•Clinical improvement is usually evident within 48-72
+hours of starting treatment; if signs and symptoms
+persist, consider and investigate a possible
+complication (e.g. abscess) and review the results of
+the urine culture to verify that the pathogen is
+susceptible to the antibiotic used
+Mild Cases
+All dosages are for normal renal function
+Cipro/g248oxacin 500 mg q12h ORAL
+Severe Cases
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+----------------------------------- -----------------------------------OR
+Cefotaxime 1 g q8h IV/IM
+Ceftriaxone 1 g q24h IV/IM
+-------------------------------- --------------------------------AND/OR
+Amikacin 15 mg/kg q24h IV
+-------------------------------- --------------------------------AND/OR
+Gentamicin 5 mg/kg q24h IV
+Consider amikacin or gentamicin where ESBL-producing
+isolates are highly prevalent
+In very sick patients, amikacin or gentamicin can be
+given in combination with cefotaxime or ceftriaxone
+478
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+34. Upper urinary tract infection 
+Upper urinary tract infection
+Urinary tract infection • Page 1 of 2
+Bacteria:
+•:Most common
+-E nterobacterales (mostly including multidrugEscherichia coli
+resistant strains such as those producing ESBL and
+carbapenemases)
+•:More rarely
+- spp.Enterococcus
+-O ther Gram-negative bacilli (e.g. spp.)Klebsiella
+-( rare in uncomplicated UTIs, usually inStaphylococcus aureus
+patients with urinary catheters)
+-G roup B( )Streptococcus Streptococcus agalactiae
+Most Likely Pathogens
+Infection of the kidneys (pyelonephritis) in which microorganisms
+ascend the urinary tract via the urethra, bladder, ureters or reach
+the kidneys through the bloodstream
+De/g246nition
+Classi/g246cation based on complexity:
+•: Urinary tract infections (UTI) in childrenUncomplicated
+with no risk factors for complicated UTI
+•: More common in girls, infants and childrenComplicated
+with structural malformations of the urinary tract (e.g.
+vesicoureteral re/g248ux or other congenital anomalies)
+Diagnosis
+Clinical Presentation
+•Fever is most common symptom, with irritability, vomiting
+and diarrhoea
+•In older children (e.g. over 2 years of age) abdominal pain,
+urgency, frequency and dysuria are more common, along
+with /g248ank pain/tenderness and increased wetting
+•Severity varies from mild disease (most cases) that can be
+managed with oral treatment (no nausea/vomiting, lowgrade fever) to severe cases requiring intravenous
+treatment and hospital admission
+All cases (if upper UTI is suspected clinically):
+•Urinalysis (dipstick or microscopy) to detect bacteriuria
+and/or indirect signs of infection (positive leucocyte
+esterase and nitrites)
+Additionally in severe cases:
+•White blood cell count, C-reactive protein and/or
+procalcitonin
+•If sepsis is suspected consider additional laboratory tests
+(see sepsis infographic)
+Other LaboratoryTests
+All cases (if upper UTI is suspected clinically):
+•Urine culture: Ideally before starting antibiotic treatment
+-T he test is considered positive when bacteria are above a
+certain minimum cut-offthat can vary between
+laboratories
+-A positive urine culture is not always a sign of urinary
+tract infection or an indication for antibiotic treatment
+(and urine can also become contaminated during
+sampling)
+Additionally in severe cases:
+•Blood cultures: Ideally before starting antibiotic treatment
+Microbiology Tests
+Ultrasound is helpful if available
+Imaging
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+479
+HOSPITAL FACILITY 
+34. Upper urinary tract infection 
+Upper urinary tract infection
+Urinary tract infection • Page 2 of 2
+Clinical Considerations
+• it is often difficult toIn young children with mild cases
+clearly distinguish between lower and upper UTI, therefore
+oral options recommended for lower UTI can be used
+initially (if no need for IV treatment) or as step down
+treatment (see Lower UrinaryT ract for antibiotic options)
+•:Empiric antibiotic treatment should be guided by
+The severity of symptoms, considering local prevalence of
+resistance (particularly of isolates of Enterobacterales
+producing ESBL) and individual risk factors for resistant
+pathogens
+Treatment
+7 days
+Antibiotic Treatment Duration
+Important:
+•Simplify empiric treatment to a more narrowspectrum antibiotic based on culture results or rapid
+clinical improvement if culture results unavailable
+•Step down to oral treatment is based on
+improvement of symptoms, signs of infection and the
+ability to take oral antibiotics
+•Clinical improvement is usually evident within 48-72
+hours of starting treatment; if signs and symptoms
+persist, consider and investigate a possible
+complication (e.g. abscess) and review the results of
+the urine culture to verify that the pathogen is
+susceptible to the antibiotic used
+Mild Cases
+All dosages are for normal renal function
+Severe Cases
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+----------------------------------- -----------------------------------OR
+Cefotaxime 50 mg/kg/dose q8h IV/IM
+Ceftriaxone 80 mg/kg/dose q24h IV/IM
+-------------------------------- --------------------------------AND/OR
+Amikacin 15 mg/kg q24h IV
+-------------------------------- --------------------------------AND/OR
+Gentamicin IV
+•Neonates: 5 mg/kg/dose q24h
+•Children: 7.5 mg/kg/dose q24h
+Consider amikacin or gentamicin where ESBL-producing
+isolates are highly prevalent
+In very sick patients, amikacin or gentamicin can be
+given in combination with cefotaxime or ceftriaxoneCipro/g248oxacin 15 mg/kg/dose q12h IV/ORAL
+•:Oral weight bands
+3-<6 kg 50 mg q12h
+6-<10 kg 100 mg q12h
+10-<15 kg 150 mg q12h
+15-<20 kg 200 mg q12h
+20-<30 kg 300 mg q12h
+≥30 kg 500 mg q12h
+Cipro/g248oxacin has excellent oral bioavailability and the IV route
+should be reserved for patients with impaired gastrointestinal
+function
+480The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+34. Upper urinary tract infection 
+Pathophysiology
+Upper UTIs occur when pathogens reach the upper urinary tract and overcome the host 
+defences, which leads to tissue damage and an inflammatory response. Pathogens in the 
+urine do not inevitably lead to infection. Infection will depend on the interaction between 
+the pathogen (e.g. the presence of specific virulence factors in the pathogen), the host (who 
+may be more or less likely to have infections because of, for example, underlying diseases) 
+and the local conditions within the urinary tract, for example, because of abnormalities of 
+the urinary tract or the presence of foreign material such as a urinary catheter. Furthermore, 
+it is important to note that urine can also become contaminated during sampling so that 
+the presence of bacteria in a urine sample does not necessarily mean bacteria are present 
+in the urinary tract. 
+Epidemiology
+UTIs are very common worldwide and can affect people at any age. In 2017, there were an 
+estimated 274 million new cases of UTIs globally (upper and lower), combining all ages and 
+both sexes (44).
+The incidence of UTIs is highest in women and increases with age (e.g. UTIs increase 
+after menopause) and frequency of sexual activity. These infections are particularly common 
+in women because of the anatomy of their lower urinary tract; women have a shorter urethra 
+than men and so microorganisms colonizing the skin of the perineal area can more easily 
+reach the bladder. Risk factors for UTIs include anatomical and functional abnormalities of 
+the urinary tract, such as conditions that predispose to incomplete emptying of the bladder, 
+renal insufficiency and urinary incontinence. Defective host immune factors (e.g. poorly 
+controlled diabetes or neutropenia) and instrumentation of the urinary tract (e.g. urinary 
+catheters and stents) are also predisposing factors. 
+Most likely pathogens
+Most UTIs are caused by enteric Gram-negative bacteria, most frequently Escherichia 
+coli, which is responsible for about 80% of cases in children and adults. Other causative 
+pathogens are shown in Table 34.1. Data on causative pathogens from low- and middleincome countries are limited.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book481
+HOSPITAL FACILITY 
+34. Upper urinary tract infection 
+Table 34.1 – Pathogens commonly causing upper urinary tract infections (in 
+descending order of frequency)
+Most cases Enterobacterales (including multidrugresistant strains such as those 
+producing ESBL and carbapenemases)
+• Escherichia coli (> 80% of cases)
+• Klebsiella pneumoniae
+• Proteus mirabilis
+• Other Enterobacterales
+More rarely Enterococcus spp.
+Streptococcus agalactiae (group B 
+Streptococcus)
+Staphylococcus aureus (rare in 
+uncomplicated urinary tract infections, 
+often in patients with urinary 
+catheters; can be associated with 
+bacteraemia)
+Additionally in patients with recent antibiotic 
+exposure, hospitalization or instrumentation of the 
+urinary tract (e.g. insertion of a catheter)
+Pseudomonas aeruginosa
+Acinetobacter baumannii
+(including multidrug-resistant strains)
+ESBL: extended-spectrum beta-lactamases.
+Clinical presentation
+Classical symptoms of pyelonephritis include flank pain, costovertebral angle tenderness, 
+nausea and vomiting, fever (≥ 38.0 °C) and signs of systemic illness. Symptoms of cystitis 
+(dysuria, suprapubic tenderness, increased urgency and frequency) may or may not be 
+present.
+Severity of signs and symptoms may range from mild disease (e.g. no nausea or 
+vomiting, low-grade fever) that can be safely managed in an outpatient setting with oral 
+antibiotic treatment to severe cases that require hospitalization and intravenous treatment 
+to septic shock requiring admission to intensive care.
+In younger children, symptoms are often non-specific, including high fever, 
+irritability, vomiting and diarrhoea. In children older than 2 years, abdominal pain, urgency, 
+frequency and dysuria are more common.
+482The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+34. Upper urinary tract infection 
+Laboratory tests
+Patient microbiology tests
+If upper UTI is suspected clinically, a urine culture should be done whenever possible, ideally 
+before starting antibiotic treatment. The rationale is to confirm the diagnosis and to adjust 
+empiric treatment based on susceptibility results.
+• Urine culture is considered positive when bacteria concentration in the urine is 
+higher than a certain cut-off concentration in symptomatic patients (e.g. ≥ 10 5 
+microorganisms/mL of urine). 
+• Minimum cut-offs to diagnose an infection can vary by laboratory. 
+• Lower cut-offs are often used to diagnose infections in females compared with 
+males or in patients with urinary catheters.
+Note
+• The presence of bacteria in the urine alone is not a sign of infection or an indication for 
+antibiotic treatment. This condition is referred to as asymptomatic bacteriuria when no 
+symptoms suggestive of UTI are present.
+• Cut-offs of concentration of bacteria in the urine alone cannot distinguish infection 
+from colonization. The pre-test probability of UTI always needs to be considered when 
+interpreting urine culture results.
+• Patients with positive urine cultures without symptoms suggestive of a UTI usually do not 
+require treatment. There may be some exception such as pregnant women or patients who 
+have an invasive urological procedure scheduled, for whom pre-emptive antibiotic therapy 
+may be indicated.
+For patients requiring hospitalization, a blood culture should be done where 
+possible before starting antibiotic treatment to guide treatment.
+Table 34.2 summarizes the microbiology tests that can be done to diagnose 
+upper UTIs.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book483
+HOSPITAL FACILITY 
+34. Upper urinary tract infection 
+Table 34.2 – Microbiology tests for upper urinary tract infections as indicated in the 
+WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Urine culture and antimicrobial 
+susceptibility testing
+Initial step to detect and 
+identify bacterial and fungal 
+species for selection of 
+appropriate antimicrobial 
+regimens
+Health care facilities with 
+clinical laboratories
+Blood cultures and antimicrobial 
+susceptibility testing
+To detect bacterial 
+bloodstream infections
+Health care facilities with 
+clinical laboratories
+EDL: Model List of Essential In Vitro Diagnostics.
+Other tests
+In patients with symptoms of a UTI, a urinalysis (dipstick or microscopy) may be done 
+to detect the presence of bacteriuria and/or indirect signs of infection (leukocyturia and 
+nitrites). In a symptomatic patient, leukocyturia (> 10 leukocytes/μL; > 0.01 × 10 9/L), the 
+presence of leukocyte esterase and/or positive nitrites are indirect signs of infection.
+In patients with a severe clinical presentation and when sepsis of urinary origin 
+is suspected, a white blood cell count may be done to support the diagnosis of bacterial 
+infection as well as testing for biomarkers of infection, such as C-reactive protein. Table 34.3 
+summarizes the laboratory tests that can be done to assist with the diagnosis of upper UTIs.
+Table 34.3 – Laboratory tests (other than microbiology) to consider for the diagnosis 
+of upper urinary tract infections as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Urinalysis test strips To detect urinary tract 
+infections
+Community settings and 
+health facilities without 
+laboratoriesa
+Urine microscopy Presence or absence of: white 
+blood cells, red blood cells; 
+presence of casts and crystals 
+in urine
+Health care facilities with 
+clinical laboratories
+continues
+484The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+34. Upper urinary tract infection 
+Table 34.3 continued
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+White blood cell countb To aid in the diagnosis of 
+infections
+Health care facilities with 
+clinical laboratories
+C-reactive proteinb To detect inflammation as an 
+indicator of various conditions 
+(e.g. sepsis)
+Health care facilities with 
+clinical laboratories
+Procalcitoninb To guide antibiotic therapy or 
+discontinuation in sepsis
+Only in tertiary care 
+facilities
+EDL: Model List of Essential In Vitro Diagnostics.
+a Community and health settings without laboratories are settings such as health posts and centres, doctors’ offices, 
+outreach clinics and ambulatory care. These tests are also assumed to be available at health care facilities with 
+laboratories.
+b Only in severe cases when sepsis of urinary origin is suspected.
+Using microbiology surveillance data
+Empiric guidance given by the AWaRe book should be reviewed and adapted based on 
+local clinically relevant microbiology surveillance data. For example, clinically relevant 
+isolates for this infection would be blood and urine culture data from patients being 
+treated in the hospital with community-acquired upper UTIs. Data on severity of clinical 
+presentation, underlying patient risk factors, previous and current antibiotic treatment, 
+current microbiology and clinical outcome would help to inform the development of 
+local guidance. 
+Imaging
+Routine imaging of all cases of upper UTI is not necessary. Initial imaging (e.g. ultrasound) 
+of the urinary tract could be done in severely ill patients or during follow-up if an outflow 
+obstruction or a fluid collection (i.e. abscess) is suspected.
+Symptomatic care
+Medicines that could be considered to control pain in upper UTI are given in Table 34.4.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book485
+HOSPITAL FACILITY 
+34. Upper urinary tract infection 
+Table 34.4 – Medicines to consider for pain control of upper urinary tract infections 
+Important
+Medicines are listed in alphabetical order but they should all be considered equal treatment 
+options.
+Medicine Formulation Dose and frequency
+Ibuprofena Oral liquid: 200 mg/5 mL
+Tablet: 200 mg; 400 mg; 
+600 mg
+Adults: 200–400 mg given every 6 to 8 
+hours (maximum dose of 2.4 g a day)
+Children: 5–10 mg/kg given every 6 to 8 
+hours (pain control/antipyretic treatment)
+6–< 10 kg: 50 mg given every 8 hours
+10–< 15 kg: 100 mg given every 8 hours
+15–< 20 kg: 150 mg given every 8 hours
+20–< 30 kg: 200 mg given every 8 hours
+≥ 30 kg: use adult dose
+Paracetamol 
+(acetaminophen)b
+Oral liquid: 120 mg/5 mL; 
+125 mg/5 mL
+Suppository: 100 mg
+Tablet: 100 mg to 500 mg
+Adults: 500 mg–1 g given every 4 to 6 
+hours (maximum dose of 4 g a day)c
+Children: 10–15 mg/kg given every 6 
+hours (pain control/antipyretic treatment)
+3–< 6 kg: 60 mg given every 6 hours
+6 <10 kg: 100 mg given every 6 hours
+10–< 15 kg: 150 mg given every 6 hours
+15–< 20 kg: 200 mg given every 6 hours
+20–< 30 kg: 300 mg given every 6 hours
+≥ 30 kg: use adult dose
+a Not for children < 3 months.
+b Not recommended for use as an anti-inflammatory as it has not be proven to have such an effect.
+c In patients with hepatic impairment or cirrhosis, maximum daily dose should be 2 g.
+Antibiotic treatment 
+The primary goal of empiric antibiotic treatment is to provide effective and timely 
+treatment for the main bacterial pathogens in upper UTI, most commonly Escherichia 
+coli. The choice of empiric treatment should be based on the severity of symptoms 
+(mild/moderate or severe). Many upper UTIs can be managed with oral antibiotics in the 
+outpatient setting (340).
+486The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+34. Upper urinary tract infection 
+Mild/moderate cases (adults and children)
+Mild/moderate cases of upper UTIs are defined as patients who are not critically ill and there 
+are no clinical signs of sepsis or septic shock. In these cases, for adults, a 7-day treatment 
+course with oral ciprofloxacin should be considered if there is no nausea and vomiting, 
+(Table 34.5). For young children it is clinically more difficult to make a clear distinction 
+between upper and lower UTIs, with fever and general systemic signs of infection seen in 
+both groups. If systemic intravenous treatment is required, a third-generation cephalosporin 
+(ceftriaxone or cefotaxime) is an option. Clinical improvement should be evident within 48–
+72 hours of starting treatment. If no improvement is seen in that time, a complication (such 
+as an abscess) should be considered and investigated by imaging, and the susceptibility of 
+bacteria isolated in the urine culture should be reviewed.
+Step-down to oral treatment is based on improvement of symptoms and signs 
+of infection and the ability to take oral antibiotics allowing discharge of the patient home 
+when clinically appropriate.
+Severe cases (adults and children)
+Severe cases of upper UTIs are defined as patients who are critically ill, with sepsis and/or 
+septic shock. Please also refer to the chapter on sepsis if suspected. These cases should be 
+treated rapidly with systemic antibiotics. A third-generation cephalosporin (ceftriaxone or 
+cefotaxime) or gentamicin or amikacin (Table 34.5) for 7 days, for both children and adults, 
+is recommended (341,342). Clinical improvement is usually evident within 48–72 hours of 
+starting treatment when a switch to oral antibiotics should be considered. 
+Simplify empiric treatment to a more narrow-spectrum antibiotic (often also called 
+de-escalation) based on culture results (targeted treatment) or based on rapid clinical 
+improvement when no microbiology test results are available.
+Step-down to oral treatment is based on improvement of symptoms and signs 
+of infection and the ability to take oral antibiotics allowing discharge of the patient home 
+when clinically appropriate.
+Settings with high rates of resistant isolates
+Enterobacterales can develop resistance to antibiotics through different mechanisms, for 
+example, production of ESBL, ampicillinase C (AmpC) beta-lactamases and carbapenemases. 
+Resistance to beta-lactam antibiotics (e.g. in ESBL-producing strains) is often associated with 
+resistance to other classes of antibiotics, such as fluoroquinolones. Although resistance is 
+higher in hospital-acquired strains, it is also present in community-acquired infections. 
+Specific thresholds for when not to use particular antibiotics are given in some guidelines; 
+however, these lack a strong evidence base with no clear rationale for the suggested cut-
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book487
+HOSPITAL FACILITY 
+34. Upper urinary tract infection 
+offs. Therefore, local knowledge of the prevalence of resistance to antibiotic classes used to 
+treat UTIs should be considered, as well as individual risk factors (e.g. previous infection or 
+colonization with a resistant pathogen) and severity of clinical presentation. 
+In hospital settings where resistance to first-choice antibiotics (Table 34.5) is highly 
+prevalent and in severely ill patients with acute clinical deterioration, piperacillin+tazobactam 
+or a carbapenem could be considered, even though the EML and EMLc do not explicitly 
+recommend these options. Empiric use of a Reserve antibiotic could be considered 
+exceptionally in very select cases of seriously ill patients failing to respond to carbapenems or 
+who have previously been treated for infections caused by carbapenem-resistant pathogens 
+or who are known to be colonized with multidrug-resistant Gram-negative bacteria known 
+to be susceptible to the selected Reserve antibiotic. Please refer to the chapter on Reserve 
+antibiotic for the definition and list of Reserve antibiotics included in the EML and EMLc.
+Table 34.5 – Empiric antibiotic treatment for upper urinary tract infections
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Severity Adults Children Total treatment 
+duration
+Mild to 
+moderate 
+cases
+ Ciprofloxacin a,b 
+(oral): 500 mg given 
+every 12 hours 
+(Ciprofloxacin 
+has excellent oral 
+bioavailability 
+and the IV route 
+should be reserved 
+for patients 
+with impaired 
+gastrointestinal 
+function.)
+ Ciprofloxacin a (IV/oral): 15 mg/
+kg/dose given every 12 hours 
+Oral weight bands:
+3–< 6 kg: 50 mg given every 12 hours
+6–< 10 kg: 100 mg given every 12 
+hours
+10–< 15 kg: 150 mg given every 12 
+hours
+15–< 20 kg: 200 mg given every 12 
+hours
+20–< 30 kg: 300 mg given every 12 
+hours
+≥ 30 kg: use adult dose
+(Ciprofloxacin has excellent oral 
+bioavailability and the IV route 
+should be reserved for patients with 
+impaired gastrointestinal function.)
+7 daysc
+continues
+488The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+34. Upper urinary tract infection 
+Table 34.5 continued
+Severity Adults Children Total treatment 
+duration
+Severe 
+cases
+ Cefotaxime d (IV/
+IM): 1 g given every 
+8 hours
+OR
+ Ceftriaxone d (IV/
+IM): 1 g given once 
+a day
+AND/OR
+ Amikacin e (IV): 
+15 mg/kg given once 
+a day
+AND/OR
+ Gentamicin e (IV): 
+5 mg/kg given once 
+a day
+ Cefotaxime d (IV/IM): 
+50mg/kg/dose given every 8 hours
+OR
+ Ceftriaxone d (IV/IM): 
+80 mg/kg/dose given once a day
+AND/OR
+ Amikacin e (IV): 
+15 mg/kg/dose given once a day
+AND/OR
+ Gentamicin e (IV)
+• Neonates: 5 mg/kg/dose given 
+once a day
+• Children: 7.5 mg/kg/dose given 
+once a day
+7 days
+ESBL: extended-spectrum beta-lactamases; IM: intramuscular; IV: intravenous.
+Notes. All dosages are for normal renal and hepatic function.
+Escherichia coli resistance rates to amoxicillin+clavulanic acid are lower than to amoxicillin alone. This combination 
+still has activity against some ESBL-producing isolates and it can be considered an acceptable option, particularly 
+in young children.
+a Resistance to fluoroquinolones is increasing including in low-and middle-income countries and in children (343–
+345).
+b The use of fluoroquinolones (such as ciprofloxacin) can be associated with important side-effects including: (i) 
+mental health disturbances such as disorientation, agitation, nervousness, memory impairment and delirium; (ii) 
+serious blood sugar disturbances such as hypoglycaemic coma; (iii) increased risk of tendinitis and tendon rupture; 
+(iv) worsening symptoms in those with myasthenia gravis; and (v) potential irreversible neuropathy (serious nerve 
+damage).
+c In men with upper urinary tract infections, prostatitis can also be present and longer treatment may therefore be 
+warranted, but not universally as not each urinary tract infection episode in a male is associated with prostatitis.
+d Resistance to third-generation cephalosporins is increasing including in low- and middle-income countries and 
+in children (343–345). In very sick patients, gentamicin (or amikacin) can be given in combination with ceftriaxone 
+(or cefotaxime). 
+e Amikacin and gentamicin are still effective against isolates producing ESBL and are considered appropriate 
+carbapenem-sparing options in settings where ESBL-producing isolates are very prevalent. Use of aminoglycosides 
+can be associated with nephrotoxicity and/or ototoxicity, especially when used for more than 7 days.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 7.2.2 Acute Pyelonephritis | p.526-529 | audience=general] ---
+Upper urinary tract infection involving one or both kidneys (but not
+usually involving the glomeruli)
+Cause
+~ Bacterial infection, e.g. Escherichia coli, usually due to ascending infection (faecal-perineal-urethral progression of
+bacteria)
+460
+Uganda Clinical Guidelines 2023CHAPTER 7: Renal and Urinary Diseases
+Risk factors
+~ Bladder outlet obstruction
+~ Malformations of urinary tract
+~ Pregnancy
+~ HIV, old age, diabetes
+Clinical features
+~ Loin pain, tenderness in one or both kidney areas (renal
+a gle)
+~ Fever, rigors (generalised body tremors)
+~ Vomiting
+~ If associated cystitis: dysuria, urgency, frequency
+~ Diarrhoea and convulsions (common in children)
+~ In infants and elderly: may simply present as fever and poor
+feeding/disorientation without other signs
+Differential diagnosis
+~ Appendicitis
+~ Infection of the fallopian tubes (salpingitis)
+~ Infection of the gall bladder (cholecystitis)
+Investigations
+- Urine: Microscopy for pus cells and organisms, C&S of midstream urine
+- Specimen should reach the lab within 2 hours of collection or be
+refrigerated at 4°C for not >24 hours
+- Blood: Full count, C&S, urea, electrolytes
+- Ultrasound kidneys/prostate
+461
+Uganda Clinical Guidelines 2023CHAPTER 7: Renal and Urinary Diseases
+Management
+TREATMENT LOC
+- Ensure adequate intake of fluid (oral or IV) to irrigate
+bladder and dilute bacterial concentrations
+- Give paracetamol 1 g every 6-8 hours for pain and fever
+If outpatient (only adults):
+- Ciprofloxacin 500 mg every 12 hours for 10-14 days
+(only adults)
+In severe cases, all children or if no response to above in 48
+hours:
+- Ceftriaxone 1 g IV once a day
+Child: 50-80 mg/kg IV once a day
+Following initial response to parenteral therapy
+- Consider changing to:
+- Ciprofloxacin 750 mg every 12 hours to
+complete 10 days (adults only)
+- Or cefixime 200 mg every 12 hours to complete
+10 days of treatment
+Child: 16 mg/kg the first day then 8 mg/kg to complete 10 days
+Alternative regimen
+HC3
+HC3
+HC3
+HC3
+- Gentamicin 5-7 mg/kg IV in one or divided doses
+with or without ampicillin 2 g IV every 6 hours Child
+: gentamicin 2.5 mg/kg every 8 hours (or 7.5 mg/kg
+once daily on outpatient basis) with or without ampicillin
+25 mg/kg every 6 hours
+- Consider referral if there is no response in 72 hours
+and for children with recurrent infections (to exclude
+urinary tract malformations)
+HC2
+462
+Uganda Clinical Guidelines 2023CHAPTER 7: Renal and Urinary Diseases
+Prevention
+- Ensure perianal hygiene
+- Ensure regular complete emptying of the bladder and/or double
+voiding (additional attempt to empty bladder after initial urine flow
+ceases)

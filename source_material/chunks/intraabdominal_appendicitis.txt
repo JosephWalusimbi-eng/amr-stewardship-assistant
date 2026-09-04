@@ -1,0 +1,948 @@
+# TOPIC: intraabdominal_appendicitis
+
+--- [WHO AWaRe Antibiotic Book (2022) | 31. Intra-abdominal infections - acute appendicitis | p.450-469 | audience=general] ---
+434The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+31. Intra-abdominal infections – 
+acute appendicitis
+Key messages
+• Appendectomy remains the main approach to treatment in children.
+• In adults, treatment with antibiotics alone (without surgery) can be considered if follow 
+up is possible. About one in three patients treated with antibiotics alone will experience a 
+recurrence within 2 years.
+• Antibiotics should be chosen based on the severity of symptoms (mild or severe) with 
+broader-spectrum agents for severe cases.
+• Treatment should also be active against anaerobes as these pathogens are often involved in 
+intra-abdominal infections.
+• Antibiotics should be stopped once the source of infection has been controlled (e.g. after 
+appendectomy) if there is good clinical recovery.
+Other relevant WHO resources (please check regularly for updates)
+• Pocket book of hospital care for children: guidelines for the management of common 
+childhood illnesses, 2013 (31).
+Definition
+Appendicitis is an acute inflammation of the appendix sometimes followed by ischaemia 
+and perforation. It is usually classified as uncomplicated (or simple) when there is no 
+involvement of the peritoneal cavity and no abscess. When the appendix is perforated with 
+subsequent peritonitis or when an abscess is present, appendicitis is defined as complicated. 
+Most cases of appendicitis are uncomplicated (70%).
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+435
+HOSPITAL FACILITY 
+31. Intra-abdominal infections – acute appendicitis
+Acute appendicitis
+Intra-abdominal infection • Page 1 of 2
+A cute in/g248ammation of the appendix sometimes f ollow ed by
+ischemia and per foration
+De/g246nition
+Classi/g246cation based on complexity:
+• (>70% of cases): No in v olv ement of theUncomplicated
+peritoneal cavity and no abscess
+•: In v olv ement of the peritoneal cavity and/orComplicated
+pr esence of an abscess
+Classi/g246cation based on severity:
+•: Not critically ill with no signs of sepsis or septic shockMild
+•: Critically ill with signs of sepsis or septic shockSevere
+Diagnosis
+Clinical Presentation
+A cute abdominal pain (usually located in the right lo we r
+quadrant or migrating fr om the periumbilical ar ea to the
+right low er quadrant), with nausea and v omiting; fe ve r
+(≥ 38.0 °C ) may be absen t
+Identify an alternative cause of abdominal pain:
+•Urinalysis (dipstick or micr oscopy) to ex clude an infec tion
+of the urinar y trac t
+•P re gnanc y test in w omen: to ex clude an ec topic
+pr egnanc y
+Determine disease severity and help identify a
+bacterial infection:W hite blood cell count, C-r eac tiv e
+pr otein and/or pr ocalcitonin
+If sepsis is suspect ed consider additional laborator y tests
+(see sepsis infographic)
+Other LaboratoryTests
+•A bdominal ultrasound to con/g246rm the diagnosis
+•C onsider doing a CT scan of the abdomen if complications
+suspec ted or diagnosis uncer tain
+Imaging
+Bacteria:
+•E nterobacterales (mostly including multidrug-Escherichia coli
+r esistant strains)
+• spp . (e .g . of the group)Streptococcus S. anginosus
+• spp .Enterococcus
+•A naer obes (mostly spp .)Bacteroides
+Fungi (consider if recent course of antibiotics):
+•M ostly Candida albicans
+Parasites (consider in endemic settings):
+• (pin w orm) can contribute by causingEnterobius vermicularis
+obstruc tion of the appendix
+Most Likely Pathogens
+Mild uncomplicated cases:
+•Not usually needed
+Severe cases:
+•Blood cultur es (ideally befor e star ting antibiotics)
+•M icr oscopy and cultur e of abscess /g248uid material (taken at
+the time of surger y) is not r outinely re commended , but
+may be consider ed in speci/g246c cases to adjust empiric
+antibiotic tr eatmen t
+Microbiology Tests
+Important:
+•C onsider peritonitis if ther e is sev er e pain, diffuse
+r ebound tenderness upon sudden r elease of pr essur e
+on the abdomen and abdominal muscular tensing
+•H ypotension and signs of organ h ypoper fusion (e .g .
+r educed urine output) ar e potential signs of sepsis
+/septic shock that need urgent tr eatmen t
+436
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+31. Intra-abdominal infections – acute appendicitis
+Acute appendicitis
+Intra-abdominal infection • Page 2 of 2
+Clinical Considerations
+•Appendectomy remains the main approach to
+eliminate the source of infection
+•:Empiric antibiotic treatment should be guided by
+The severity of symptoms, considering local prevalence of
+resistance (particularly of isolates of Enterobacterales
+producing ESBL) and individual risk factors for resistant
+pathogens
+Important:
+•Simplify empiric treatment to a more narrowspectrum antibiotic based on culture results or rapid
+clinical improvement if culture results unavailable
+•Step down to oral treatment is based on
+improvement of symptoms, signs of infection and the
+ability to take oral antibiotics
+•If signs and symptoms persist, abdominal imaging
+is suggested, or an alternative extra-abdominal source
+of infection should be considered
+Treatment
+Antibiotic treatment complementary to surgery
+•: Antibiotics can be stopped onceUncomplicated cases
+appendix is removed
+•: Antibiotics can be continued for a totalComplicated cases
+of provided that symptoms resolved and the source5 days
+of infection was eliminated with surgery
+Treatment with antibiotics alone: 7 days
+•Consider in selected cases if close clinical monitoring is
+feasible and considering patient preference (avoiding risks
+associated with surgery versus higher risk of recurrences and
+later need for surgery - about 30-40% over 5 years)
+Antibiotic Treatment Duration
+Amoxicillin+clavulanic acid 1 g+200 mg q8h IV
+OR 875 mg+125 mg q8h ORAL
+----------------------------------- -----------------------------------OR
+First Choice
+Mild Cases
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+----------------------------- -----------------------------OR
+Cefotaxime 2 g q8h IV
+Ceftriaxone 2 g q24h IV
+---------------------- ----------------------COMBINED WITH
+Metronidazole 500 mg q8h IV/ORAL
+---------------------- ----------------------COMBINED WITH
+Metronidazole 500 mg q8h IV/ORAL
+Cipro/g248oxacin 500 mg q12h ORAL
+Second Choice
+Metronidazole has excellent oral bioavailability and the IV
+route should be reserved for patients with impaired
+gastrointestinal function
+First Choice
+Severe Cases
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+----------------------------- -----------------------------OR
+Cefotaxime 2 g q8h IV
+Ceftriaxone 2 g q24h IV
+---------------------- ----------------------COMBINED WITH
+Metronidazole 500 mg q8h IV/ORAL
+----------------------------------- -----------------------------------OR
+Piperacillin+tazobactam 4 g + 500 mg q6h IV
+Second Choice
+Meropenem 1 g q8h IV
+Consider meropenem only in complicated cases if there is a
+high risk of infection with ESBL-producing Enterobacterales
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+437
+HOSPITAL FACILITY 
+31. Intra-abdominal infections – acute appendicitis
+Acute appendicitis
+Intra-abdominal infection • Page 1 of 3
+A cute in/g248ammation of the appendix sometimes f ollow ed by
+ischemia and per foration
+De/g246nition
+Classi/g246cation based on complexity:
+• (>70% of cases): No in v olv ement of theUncomplicated
+peritoneal cavity and no abscess
+•: In v olv ement of the peritoneal cavity and/orComplicated
+abscess
+Classi/g246cation based on severity:
+•: Not critically ill with no signs of sepsis or septic shockMild
+•: Critically ill with signs of sepsis or septic shockSevere
+Diagnosis
+Clinical Presentation
+A cute abdominal pain (usually located in the right lo we r
+quadrant or migrating fr om the periumbilical ar ea to the
+right low er quadrant), with nausea and v omiting; fe ve r
+(≥ 38.0 °C ) may be absen t
+Identify an alternative cause of abdominal pain:
+•Urinalysis (dipstick or micr oscopy) to ex clude an infec tion
+of the urinar y trac t
+•C onsider pr egnanc y test wher e appr opriate to exclude an
+ec topic pr egnanc y
+Determine disease severity and help identify a
+bacterial infection:W hite blood cell count, C-r eac tiv e
+pr otein and/or pr ocalcitonin
+If sepsis is suspect ed consider additional laborator y tests
+(see sepsis infographic)
+Other LaboratoryTests
+•A bdominal ultrasound if available is helpful to con/g246rm the
+diagnosis
+•C onsider doing a CT scan of the abdomen if complications
+suspec ted or diagnosis uncer tain
+Imaging
+Bacteria:
+•E nterobacterales (mostly including multidrug-Escherichia coli
+r esistant strains)
+• spp . (e .g . of the group)Streptococcus S. anginosus
+• spp .Enterococcus
+•A naer obes (mostly spp .)Bacteroides
+Fungi (consider if recent course of antibiotics):
+•M ostly Candida albicans
+Parasites (consider in endemic settings):
+• (pin w orm) can contribute by causingEnterobius vermicularis
+obstruc tion of the appendix
+Most Likely Pathogens
+Mild uncomplicated cases:
+•Not usually needed
+Severe cases:
+•Blood cultur es (ideally befor e star ting antibiotics)
+•M icr oscopy and cultur e of abscess /g248uid material (taken at
+the time of surger y) is not r outinely re commended , but
+may be consider ed in speci/g246c cases to adjust empiric
+antibiotic tr eatmen t
+Microbiology Tests
+Important:
+•C onsider peritonitis if ther e is sev er e pain, diffuse
+r ebound tenderness upon sudden r elease of pr essur e
+on the abdomen and abdominal muscular tensing
+•H ypotension and signs of organ h ypoper fusion (e .g .
+r educed urine output) ar e potential signs of sepsis
+/septic shock that need urgent tr eatmen t
+438
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+31. Intra-abdominal infections – acute appendicitis
+Acute appendicitis
+Intra-abdominal infection • Page 2 of 3
+Treatment (Section 1 of 2)
+•: Antibiotics can be stopped onceUncomplicated cases
+surgery has been performed and child is well
+•: Antibiotics can be continued for a totalComplicated cases
+of provided that symptoms resolved and the source5 days
+of infection was eliminated with surgery
+Antibiotic Treatment Duration
+Mild Cases
+See the following page for treatment recommendations
+Severe Cases
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+First Choice
+Ampicillin IV
+•1st week of life: 50 mg/kg/dose q12h
+•> 1st week of life: 50 mg/kg/dose
+q8h
+Gentamicin IV
+•Neonates: 5 mg/kg q24h
+•Children: 7.5 mg/kg q24h
+---------------------- ----------------------COMBINED WITH
+---------------------- ----------------------COMBINED WITH
+Metronidazole IV/ORAL
+•Neonates: 7.5 mg/kg/dose q12h (for IV
+loading dose: 15 mg/kg)
+•Children: 7.5 mg/kg/dose q8h
+•:Oral weight bands
+3-<6 kg 30 mg q8h
+6-<10 kg 50 mg q8h
+10-<15 kg 100 mg q8h
+15-<20 kg 150 mg q8h
+20-<30 kg 200 mg q8h
+≥30 kg 500 mg q8h
+----------------------------------- -----------------------------------OR
+Piperacillin+tazobactam 100 mg/kg/dose of
+piperacillin component q8h IV
+Second Choice
+Meropenem 20 mg/kg/dose q8h IV
+Consider meropenem only in complicated cases if there is a
+high risk of infection with ESBL-producing Enterobacterales
+Clinical Considerations
+•Appendectomy remains the main approach to
+eliminate the source of infection
+•Treatment with antibiotics alone is not recommended in
+children by WHO
+•:Empiric antibiotic treatment should be guided by
+The severity of symptoms, considering local prevalence of
+resistance (particularly of isolates of Enterobacterales
+producing ESBL) and individual risk factors for resistant
+pathogens
+Important:
+•Simplify empiric treatment to a more narrowspectrum antibiotic based on culture results or rapid
+clinical improvement if culture results unavailable
+•Step down to oral treatment is based on
+improvement of symptoms, signs of infection and the
+ability to take oral antibiotics
+•If signs and symptoms persist, abdominal imaging
+is suggested, or an alternative extra-abdominal source
+of infection should be considered
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+439
+HOSPITAL FACILITY 
+31. Intra-abdominal infections – acute appendicitis
+Acute appendicitis
+Intra-abdominal infection • Page 3 of 3
+Mild Cases
+Treatment (Section 2 of 2)
+Amoxicillin+clavulanic acid
+IV:
+•1st week of life: 50 mg/kg/dose of amoxicillin
+component q12h
+•> 1st week of life: 50 mg/kg/dose of
+amoxicillin component q8h
+ORAL: 80-90 mg/kg/day of amoxicillin
+component
+•:Oral weight bands
+3-<6 kg 250 mg of amox/dose q12h
+6-<10 kg 375 mg of amox/dose q12h
+10-<15 kg 500 mg of amox/dose q12h
+15-<20 kg 750 mg of amox/dose q12h
+≥20 kg 500 mg of amox/dose q8h or
+1 g of amox/dose q12h
+First Choice
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+----------------------------------- -----------------------------------OR
+Amox = amoxicillin
+Oral liquid must be refrigerated after reconstitution
+Ampicillin IV
+•1st week of life: 50 mg/kg/dose q12h
+•> 1st week of life: 50 mg/kg/dose q8h
+Gentamicin IV
+•Neonates: 5 mg/kg q24h
+•Children: 7.5 mg/kg q24h
+---------------------- ----------------------COMBINED WITH
+---------------------- ----------------------COMBINED WITH
+Metronidazole IV/ORAL
+•Neonates: 7.5 mg/kg/dose q12h (for IV
+loading dose: 15 mg/kg)
+•Children: 7.5 mg/kg/dose q8h
+•:Oral weight bands
+3-<6 kg 30 mg q8h
+6-<10 kg 50 mg q8h
+10-<15 kg 100 mg q8h
+15-<20 kg 150 mg q8h
+20-<30 kg 200 mg q8h
+≥30 kg 500 mg q8h
+----------------------------------- -----------------------------------OR
+Cipro/g248oxacin 15 mg/kg/dose q12h
+IV/ORAL
+•:Oral weight bands
+3-<6 kg 50 mg q12h
+6-<10 kg 100 mg q12h
+10-<15 kg 150 mg q12h
+15-<20 kg 200 mg q12h
+20-<30 kg 300 mg q12h
+≥30 kg 500 mg q12h
+----------------------------- -----------------------------OR
+Cefotaxime 50 mg/kg/dose q8h IV
+Ceftriaxone 80 mg/kg/dose q24h IV
+---------------------- ----------------------COMBINED WITH
+Metronidazole IV/ORAL
+•Neonates: 7.5 mg/kg/dose q12h (for IV
+loading dose: 15 mg/kg)
+•Children: 7.5 mg/kg/dose q8h
+•:Oral weight bands
+3-<6 kg 30 mg q8h
+6-<10 kg 50 mg q8h
+10-<15 kg 100 mg q8h
+15-<20 kg 150 mg q8h
+20-<30 kg 200 mg q8h
+≥30 kg 500 mg q8h
+Second Choice
+---------------------- ----------------------COMBINED WITH
+Metronidazole IV/ORAL
+•Neonates: 7.5 mg/kg/dose q12h (for IV
+loading dose: 15 mg/kg)
+•Children: 7.5 mg/kg/dose q8h
+•:Oral weight bands
+3-<6 kg 30 mg q8h
+6-<10 kg 50 mg q8h
+10-<15 kg 100 mg q8h
+15-<20 kg 150 mg q8h
+20-<30 kg 200 mg q8h
+≥30 kg 500 mg q8h
+Cipro/g248oxacin and metronidazole have excellent oral
+bioavailability and the IV route should be reserved for patients
+with impaired gastrointestinal function
+440The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+31. Intra-abdominal infections – acute appendicitis
+Pathophysiology
+The exact mechanism leading to appendicitis is poorly understood. Conditions associated 
+with a higher risk of weakening and disrupting the normal anatomical barrier of the 
+appendix or that can cause its luminal obstruction could be involved. In children, lymphoid 
+hyperplasia can contribute to the risk of developing appendicitis. Rarely, parasitic infections 
+(mostly Enterobius vermicularis (pinworm)) can contribute to the development of acute 
+appendicitis (313).
+Perforation is usually the result of gangrene and a necrotic process and can lead to 
+localized abscess formation or to peritonitis when the leak is not contained by structures 
+surrounding the appendix.
+Epidemiology 
+Acute appendicitis is a common surgical emergency worldwide, especially in children and 
+young adults. The yearly incidence of appendicitis has been declining in western European 
+and North American countries since the 1990s and has stabilized in the past 20 years to 
+about 100–150 cases per 100 000 person-years. However, increasing trends are reported 
+in Asia, South America and the Middle East with the incidence of appendicitis higher than 
+in many western European and North American countries (314). In 2017, there were an 
+estimated 19 million new cases worldwide (44). The lifetime risk of appendicitis reported 
+in the literature varies across countries, ranging from about 2% in Africa to 16% in South 
+Korea (315). Mortality attributable to appendicitis has declined and with prompt diagnosis 
+and management, mortality is now < 1% in uncomplicated cases in most settings (316). 
+Complicated cases or cases in elderly people are associated with a higher mortality.
+Most likely pathogens
+The most common pathogens involved in appendicitis are Gram-negative bacilli and 
+anaerobes from the intestinal microbiota (Table 31.1). Infections are often caused by more 
+than one pathogen and may include fungal pathogens, especially in patients who have 
+recently received antibiotic treatment. Certain parasites need to be considered in the 
+differential diagnosis of abdominal pain in endemic settings.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book441
+HOSPITAL FACILITY 
+31. Intra-abdominal infections – acute appendicitis
+Table 31.1 – Pathogens most frequently associated with complicated acute 
+appendicitis (in descending order of frequency)
+Bacteria Fungi Parasites
+Enterobacterales (mostly Escherichia coli) and other 
+Gram-negative bacteria such as Pseudomonas 
+aeruginosa and Acinetobacter baumannii, including 
+multidrug-resistant strains such as those producing 
+ESBL and carbapenemases
+Streptococcus spp. (e.g. of the Streptococcus 
+anginosus group – old name: Streptococcus milleri) 
+Enterococcus spp. 
+Anaerobes (mostly Bacteroides spp.)
+Mostly Candida 
+albicans
+Mostly Enterobius 
+vermicularis 
+(pinworm) – can 
+contribute by 
+causing obstruction 
+of the appendix
+ESBL: extended spectrum beta-lactamases.
+Clinical presentation
+Acute appendicitis should be considered as a possible diagnosis in all cases of acute 
+abdominal pain, especially if the pain is in the right lower quadrant or is moving from the 
+periumbilical area to the right lower quadrant. Nausea and vomiting are usually present. 
+Fever (≥ 38.0 °C) and rigors can be present. 
+Severe pain, diffuse rebound tenderness on sudden release of pressure on the 
+abdomen and abdominal muscular tensing are usually present in cases of peritonitis. 
+Hypotension and signs of organ hypoperfusion (e.g. reduced urine output) may be present 
+in cases of organ failure and are a medical and/or surgical emergency. Please also refer to 
+the chapter on sepsis if suspected. 
+Laboratory tests 
+Patient microbiology tests
+Routine microbiology tests are not usually needed and basing antibiotic treatment on 
+pathogens cultured from the abdominal cavity at the time of operation is not recommended. 
+However, certain microbiology tests could be considered in severely ill patients to adjust 
+empiric antibiotic treatment once the results of antibiotic susceptibility tests are available 
+(Table 31.2).
+In more severe cases, blood cultures should be taken and samples from the 
+abdominal cavity may be useful in certain situations such as severely immunocompromised
+442The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+31. Intra-abdominal infections – acute appendicitis
+patients or patients known to be colonized with multidrug-resistant organisms or in patients 
+presenting with septic shock.
+Table 31.2 – Microbiology tests to consider in severe cases of appendicitis as 
+indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Blood cultures 
+and antimicrobial 
+susceptibility testing
+To detect bacterial bloodstream 
+infections
+Health care facilities with 
+clinical laboratories
+Microscopy, culture 
+and antimicrobial 
+susceptibility testing of 
+abscess fluid material 
+when this can be drained
+Not routinely recommended, but 
+may be used in specific cases 
+to identify bacterial and fungal 
+species for selection of appropriate 
+antimicrobial regimens
+Health care facilities with 
+clinical laboratories
+EDL: Model List of Essential In Vitro Diagnostics.
+Other tests
+Laboratory tests can be used to complement the clinical examination and medical history. 
+Based on availability, Table 31.3 and Table 31.4 indicate tests that could be considered in the 
+patient’s initial assessment and to help guide the duration of antibiotic treatment.
+Table 31.3 – Laboratory tests (other than microbiology) that may help identify an 
+alternative cause of abdominal pain that could mimic appendicitis as indicated in 
+the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Pregnancy test In the context of suspected 
+appendicitis the purpose of the test 
+is to exclude an ectopic pregnancy
+Community settings and 
+health facilities without 
+laboratoriesa
+Urinalysis test (dipstick) To exclude a urinary tract infection Community settings and 
+health facilities without 
+laboratoriesa
+EDL: Model List of Essential In Vitro Diagnostics.
+a Community and health settings without laboratories are settings such as health posts and centres, doctors’ offices, 
+outreach clinics and ambulatory care. These tests are also assumed to be available at health care facilities with 
+laboratories.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book443
+HOSPITAL FACILITY 
+31. Intra-abdominal infections – acute appendicitis
+Table 31.4 – Laboratory tests (other than microbiology) that may help assess the 
+severity of disease and identify a bacterial infection as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+White blood cell count To help in the diagnosis of 
+infections
+Health care facilities with 
+clinical laboratories
+C-reactive protein To detect inflammation as an 
+indicator of various conditions (e.g. 
+sepsis)
+Health care facilities with 
+clinical laboratories
+Procalcitonin To guide antibiotic therapy or 
+discontinuation in sepsis
+Only in tertiary care 
+facilities 
+EDL: Model List of Essential In Vitro Diagnostics.
+Using microbiology surveillance data
+Routine surveillance of pathogens cultured from the abdominal cavity is not recommended.
+Empiric guidance given by the AWaRe book could be reviewed and adapted based 
+on local clinically relevant microbiology surveillance data. For example, clinically relevant 
+isolates for this infection would be blood culture data from patients on surgical wards with 
+intra-abdominal infections. 
+Imaging
+Imaging is helpful to confirm acute appendicitis. An abdominal ultrasound should always be 
+considered when this condition is suspected. Where available a CT scan of the abdomen may 
+also be considered, especially if complications are suspected or the diagnosis is uncertain. 
+Treatment
+Surgery to eliminate/control the source of infection (e.g. abscess, perforated appendix) and 
+reduce contamination of the peritoneal cavity (e.g. in cases of perforation) are the foundation 
+of treatment. Patients with suspected or confirmed appendicitis should be promptly referred 
+for surgical consultation and antibiotic treatment should be started quickly.
+Uncomplicated cases treated with antibiotics alone 
+Treating appendicitis with antibiotics alone is controversial – and not recommended by 
+WHO for children – mostly because of the higher risk of recurrences within a year (317–319).
+444The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+31. Intra-abdominal infections – acute appendicitis
+However, this approach can be considered in adults in certain cases if close monitoring 
+is possible, given that one in three patients treated this way will experience a recurrence 
+within 2 years (320). Patient preference should be one element considered when deciding 
+the approach, that is, avoidance of surgery versus higher risk of recurrence with antibiotics.
+When antibiotic treatment alone is offered, the suggested duration of treatment 
+is 7 days provided there is a good clinical response with resolution of symptoms. Patients 
+should be re-evaluated to assess the need for surgical intervention if they do not improve 
+on antibiotics alone.
+As stated above, in children with acute appendicitis, WHO discourages this approach 
+in the Pocket book of hospital care for children : “appendectomy should be done as soon as 
+possible to prevent perforation, peritonitis and abscess formation. It is better to operate and 
+be wrong about the diagnosis than to delay and have peritonitis occur” (31).
+Antibiotic treatment
+In general, empiric antibiotic treatment should be chosen based on the severity of symptoms 
+(mild or severe), considering local prevalence of resistance, particularly isolates producing 
+ESBLs, since prevalence can vary greatly among different settings (Table 31.5). Individual risk 
+factors for resistant pathogens (e.g. recent antibiotic treatment, colonization with resistant 
+pathogens) could also be considered. 
+Simplify empiric treatment to a more narrow-spectrum antibiotic (often also called 
+de-escalation) based on culture results (targeted treatment) or based on rapid clinical 
+improvement when no microbiology test results are available. It should be noted that 
+anaerobes are difficult to culture and anaerobic coverage should usually be continued even 
+if no anaerobes are detected in microbiologic samples.
+Step-down to oral treatment is based on improvement of symptoms and signs 
+of infection and the ability to take oral antibiotics allowing discharge of the patient home 
+when clinically appropriate.
+If signs and symptoms persist, abdominal imaging is suggested, or an alternative 
+extra-abdominal source of infection should be considered.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book445
+HOSPITAL FACILITY 
+31. Intra-abdominal infections – acute appendicitis
+Table 31.5 – Empiric antibiotic treatment for acute appendicitis
+Note
+Mild cases are defined as patients who are not critically ill with no signs of sepsis or septic shock.
+Severe cases are defined as patients who are critically ill with signs of sepsis or septic shock.
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical order and they should be considered equal 
+treatment options, unless otherwise indicated.
+Severity Adults Children Total treatment 
+duration
+Mild cases First choice
+ Amoxicillin+clavulanic acid a
+IV: 1 g + 200 mg given every 8 hours
+Oral: 875 + 125 mg given every 8 hours 
+OR
+ Cefotaxime (IV): 2 g given every 8 hours
+AND Metronidazole (IV/oral): 500 mg 
+given every 8 hours 
+OR
+ Ceftriaxone (IV): 2 g given once a day
+AND Metronidazole (IV/oral): 500 mg 
+given every 8 hours
+First choice
+ Amoxicillin+clavulanic acid a,c
+IV: 
+First week of life: 50 mg/kg of amoxicillin/dose given every 
+12 hours 
+Beyond first week of life: 50 mg/kg of amoxicillin/dose 
+given every 8 hours
+Oral: 80–90 mg/kg/day of amoxicillin component
+Oral weight bands:
+3–< 6 kg: 250 mg of amoxicillin/dose given every 12 hours
+6–< 10 kg: 375 mg of amoxicillin/dose given every 12 hours
+10–< 15 kg: 500 mg of amoxicillin/dose given every 12 hours
+15–< 20 kg: 750 mg of amoxicillin/dose given every 12 hours
+≥ 20 kg: 500 mg of amoxicillin/dose given every 8 hours or 
+1 g of amoxicillin/dose given every 12 hours
+Uncomplicated 
+cases 
+treated with 
+appendectomy: 
+stop antibiotics 
+after surgery if 
+adequate control 
+of the source of 
+infection has been 
+achieved and 
+symptoms have 
+resolved.
+continues
+446The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+31. Intra-abdominal infections – acute appendicitisTable 31.5 continued
+Severity Adults Children Total treatment 
+duration
+Mild cases Second choice
+ Ciprofloxacin b (oral): 500 mg given
+every 12 hours AND 
+ Metronidazole (IV/oral): 500 mg given 
+every 8 hours
+(Ciprofloxacin and metronidazole have 
+excellent oral bioavailability and the IV 
+route should be reserved for patients with 
+impaired gastrointestinal function.)
+OR
+ Ampicillin (IV):
+• First week of life: 50 mg/kg/dose given every 12 hours
+• Beyond first week of life: 50 mg/kg/dose given every 
+8 hours
+AND
+ Gentamicin (IV):
+• Neonates: 5 mg/kg given once daily
+• Children: 7.5 mg/kg given once daily
+AND
+ Metronidazole (IV/oral): 
+• Neonates: 7.5 mg/kg/dose given every 12 hours (for IV 
+starting with a loading dose of 15 mg/kg)
+• Children: 7.5 mg/kg/dose given every 8 hours
+Oral weight bands:
+3–< 6 kg: 30 mg given every 8 hours
+6–< 10 kg: 50 mg given every 8 hours
+10–< 15 kg: 100 mg given every 8 hours
+15–< 20 kg: 150 mg given every 8 hours
+20–< 30 kg: 200 mg given every 8 hours
+≥ 30 kg: use adult dose
+OR
+Complicated 
+cases 
+treated with 
+appendectomy: 
+5 days if adequate 
+control of the 
+source of infection 
+has been achieved 
+and symptoms 
+have resolved.
+Uncomplicated 
+cases treated 
+with antibiotics 
+alone: 7 days 
+with close clinical 
+monitoring and 
+re-evaluation 
+for surgery if 
+symptoms do not 
+resolve.
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book447
+HOSPITAL FACILITY 
+31. Intra-abdominal infections – acute appendicitis
+Table 31.5 continued
+Severity Adults Children Total treatment 
+duration
+Mild cases Cefotaxime (IV): 50 mg/kg/dose given every 8 hours
+AND
+ Metronidazole (IV/oral): 
+• Neonates: 7.5 mg/kg/dose given every 12 hours (for IV 
+starting with a loading dose of 15 mg/kg)
+• Children: 7.5 mg/kg/dose given every 8 hours
+Oral weight bands
+3–< 6 kg: 30 mg given every 8 hours
+6–< 10 kg: 50 mg given every 8 hours
+10–< 15 kg: 100 mg given every 8 hours
+15–< 20 kg: 150 mg given every 8 hours
+20–< 30 kg: 200 mg given every 8 hours
+≥ 30 kg: use adult dose
+OR
+continues
+448The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+31. Intra-abdominal infections – acute appendicitisTable 31.5 continued
+Severity Adults Children Total treatment 
+duration
+Mild cases Ceftriaxone (IV): 80 mg/kg/dose given once a day
+AND
+ Metronidazole (IV/oral): 
+• Neonates: 7.5 mg/kg/dose given every 12 hours (for IV 
+starting with a loading dose of 15 mg/kg)
+• Children: 7.5 mg/kg/dose given every 8 hours
+Oral weight bands
+3–< 6 kg: 30 mg given every 8 hours
+6–< 10 kg: 50 mg given every 8 hours
+10–< 15 kg: 100 mg given every 8 hours
+15–< 20 kg: 150 mg given every 8 hours
+20–< 30 kg: 200 mg given every 8 hours
+≥ 30 kg: use adult dose
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book449
+HOSPITAL FACILITY 
+31. Intra-abdominal infections – acute appendicitis
+Table 31.5 continued
+Severity Adults Children Total treatment 
+duration
+Mild cases Second choice
+ Ciprofloxacin (IV/oral): 15 mg/kg/dose, given every 
+12 hours
+Oral weight bands
+3–< 6 kg: 50 mg given every 12 hours
+6–< 10 kg: 100 mg given every 12 hours
+10–< 15 kg: 150 mg given every 12 hours
+15–< 20 kg: 200 mg given every 12 hours
+20–< 30 kg: 300 mg given every 12 hours
+≥ 30 kg: use adult dose
+AND
+continues
+450The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+31. Intra-abdominal infections – acute appendicitisTable 31.5 continued
+Severity Adults Children Total treatment 
+duration
+Mild cases Metronidazole (IV/oral): 
+• Neonates: 7.5 mg/kg/dose given every 12 hours (for IV 
+starting with a loading dose of 15 mg/kg)
+• Children: 7.5 mg/kg/dose given every 8 hours
+Oral weight bands
+3–< 6 kg: 30 mg given every 8 hours
+6–< 10 kg: 50 mg given every 8 hours
+10–< 15 kg: 100 mg given every 8 hours
+15–< 20 kg: 150 mg given every 8 hours
+20–< 30 kg: 200 mg given every 8 hours
+≥ 30 kg: use adult dose
+(Ciprofloxacin and metronidazole have excellent oral 
+bioavailability and the IV route should be reserved for 
+patients with impaired gastrointestinal function)
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book451
+HOSPITAL FACILITY 
+31. Intra-abdominal infections – acute appendicitis
+Table 31.5 continued
+Severity Adults Children Total treatment 
+duration
+Severe 
+cases
+First choice
+ Cefotaxime (IV): 2 g given every 8 hours
+AND Metronidazole (IV/oral): 500 mg 
+given every 8 hours
+OR
+ Ceftriaxone (IV): 2 g given once a day
+AND Metronidazole (IV/oral): 500 mg 
+given every 8 hours
+OR
+ Piperacillin+tazobactam d (IV): 4 g + 
+500 mg given every 6 hours
+Second choice
+ Meropenem e (IV): 1 g given every 
+8 hours
+First choice
+ Ampicillin (IV):
+• First week of life: 50 mg/kg/dose given every 12 hours
+• Beyond first week of life: 50 mg/kg/dose given every 
+8 hours
+AND
+ Gentamicin (IV):
+• Neonates: 5 mg/kg given once a day
+• Children: 7.5 mg/kg given once a day
+AND
+ Metronidazole (IV/oral)
+• Neonates: 7.5 mg/kg/dose given every 12 hours (for IV 
+starting with a loading dose of 15 mg/kg)
+• Children: 7.5 mg/kg/dose given every 8 hours
+OR
+Piperacillin+tazobactam (IV): 100 mg/kg/dose of 
+piperacillin component given every 8 hours
+Second choice
+ Meropenem d (IV): 20 mg/kg/dose given every 8 hours
+Uncomplicated 
+cases 
+treated with 
+appendectomy: 
+stop antibiotics 
+after surgery if 
+adequate control 
+of the source of 
+infection has been 
+achieved and 
+symptoms have 
+resolved.
+Complicated 
+cases 
+treated with 
+appendectomy: 
+5 days if adequate 
+control of the 
+source of infection 
+has been achieved 
+and symptoms 
+have resolved.
+continues
+452The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+31. Intra-abdominal infections – acute appendicitisTable 31.5 continued
+Severity Adults Children Total treatment 
+duration
+Uncomplicated 
+cases treated 
+with antibiotics 
+alone: 7 days 
+with close clinical 
+monitoring and 
+re-evaluation 
+for surgery if 
+symptoms do not 
+resolve.
+IV: intravenous.
+Note: All dosages are for normal renal and hepatic function.
+a Prevalence of resistance to amoxicillin+clavulanic acid among Escherichia coli isolates is high in some settings and this option should be considered taking local 
+microbiology data into consideration where available.
+b The use of fluoroquinolones (such as ciprofloxacin) can be associated with important side–effects including: (i) mental health disturbances such as disorientation, 
+agitation, nervousness, memory impairment and delirium; (ii) serious blood sugar disturbances such as hypoglycaemic coma; (iii) increased risk of tendinitis and tendon 
+rupture; (iv) worsening symptoms in those with myasthenia gravis; and (v) potential irreversible neuropathy (serious nerve damage).
+c Oral liquid formulations must be refrigerated after reconstitution as clavulanic acid is rapidly metabolized in high ambient temperatures.
+d Of note, piperacillin+tazobactam offers anti-Enterococcus coverage, which the other options listed for adults do not. Ampicillin would be another appropriate option, 
+but it was not listed in this table as it is not currently in the EML for this indication, while it is listed for children.
+e Meropenem should not be considered for routine use for all severe cases but only in complicated cases (i.e. abscess and/or peritonitis) in settings with a high prevalence 
+of extended-spectrum beta-lactamase-producing Enterobacterales or in patients with known prior colonization, treated with multiple antibiotic courses or at risk of 
+infections with pathogens resistant to the first-choice option. Empiric use of a Reserve antibiotic could be considered exceptionally in very select cases of seriously ill 
+patients with peritonitis failing to respond to carbapenems or that have previously been treated for infections caused by carbapenem-resistant pathogens or that are 
+known to be colonized with multidrug-resistant Gram-negative bacteria known to be susceptible to the selected Reserve antibiotic. Please refer to the chapter on 
+Reserve antibiotics for the definition and list of Reserve antibiotics included in the EML and EMLc.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book453
+HOSPITAL FACILITY 
+31. Intra-abdominal infections – acute appendicitis
+Uncomplicated cases treated with appendectomy 
+In patients with uncomplicated appendicitis, antibiotic treatment can be stopped once 
+surgery is performed provided adequate control of the source of infection was achieved 
+and symptoms have resolved. The rationale for stopping antibiotics is that in these cases the 
+source of infection is considered to have been eliminated with surgery.
+Complicated cases treated with appendectomy 
+In patients with complicated appendicitis, a total of 5 days of antibiotic treatment is 
+usually adequate, provided there is good clinical recovery and the source of infection was 
+eliminated with surgery (321–323).
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 6.1.4 Peritonitis | p.467-469 | audience=general] ---
+Irritation (inflammation) of the peritoneum
+Causes
+Infection following:
+~ Perforation of the gut and leakage of its contents, e.g. burst
+appendix, perforated peptic ulcer
+~ Perforated bowel due to obstruction or injury
+~ Perforation of gall bladder, containing infected bile
+~ Perforation of the uterus
+~ Tuberculosis, abscess, typhoid ulcers
+~ Malignancy
+~ Post-operative peritonitis
+Chemical causes
+~ Leakage of urine, blood, bile or stomach or pancreas content into the peritoneal cavity
+Clinical features
+~ Severe and continuous pain
+- Generalised if the whole peritoneum is affected
+~ Abdominal swelling (distension)
+~ Fever, vomiting, tachycardia, hypoxia
+~ Hypovolemic shock, reduced urinary volume
+~ Tenderr rigid abdomen
+~ Rebound tenderness - pressure on the abdomen and sudden release causes sharper pain
+~ Absent bowel sounds
+investigations
+~ Abdominal X-ray and/or ultrasound
+CHAPTER 6: Gastrointestinal and Hepatic Diseases
+401
+Uganda Clinical Guidelines 2023
+~ Blood: Complete blood cell count, culture and sensitivity
+~ Renal function and electrolytes
+~ Liver function tests
+TREATMENT LOC
+- Refer to hospital
+- Start initial treatment before referral
+- Monitor temperature
+- Monitor BP, pulse, Sp02, urine output, mention
+- Put up an IV drip with normal saline or ringer’s
+lactate or any other crystalloid: 1 L every 1-2 hours
+until BP is normal, then 1 L every 4-6 hours when
+BP is normal
+- Nil by mouth. Pass a nasogastric tube and start suction
+- Ask patient to lie on their side in a comfortable position
+- Give oxygen if patient is hypoxic
+- Pain control (avoid NSAIDs)
+- Pethidine 50 mg IM or IV
+- Child: 0.5-2 mg/kg
+- Or Morphine 5-15 mg IV or IM or SC
+Child: 2.5-5 mg IM IV SC
+- Refer patient to hospital for further management,
+including possible exploratory laparotomy
+In suspected bacterial infection and fever: (minimum
+7-day course)
+- Ceftriaxone 1-2 g IV once daily
+- Child: 50 mg/kg per dose
+- Plus gentamicin 7 mg/kg IV daily in divided doses
+Child: 2.5 mg/kg every 8 hours
+H
+CHAPTER 6: Gastrointestinal and Hepatic Diseases
+402
+Uganda Clinical Guidelines 2023
+TREATMENT LOC
+- Plus metronidazole 500 mg by IV infusion every
+8 hours; change when possible to 400 mg orally
+every 8 hours
+Child: 12.5 mg/kg IV per dose; change when
+possible to oral route
+- Identify and control the source of infection
+- Prevent and control complications through: proper
+nutrition, early ambulation, rehabilitation

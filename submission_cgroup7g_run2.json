@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.1.0",
+  "profiler_version": "adtc-profiler 0.1.0",
+  "submission": {
+    "team_id": "OneAMR",
+    "domain": "healthcare_medical",
+    "language_scope": [
+      "en"
+    ],
+    "african_alpha_claim": false,
+    "budget_laptop_claim": true,
+    "submitter": {
+      "name": "Joseph Walusimbi",
+      "email": "mrjosephwalusimbi@gmail.com",
+      "github_handle": "https://github.com/JosephWalusimbi-eng"
+    },
+    "cross_disciplinary_pairing": {
+      "discipline": "agriculture",
+      "load_bearing": true,
+      "description": "The assistant extends antimicrobial stewardship reasoning from human clinical care to livestock antibiotic use, because inappropriate antibiotic use in agriculture (prophylactic feed dosing, skipped milk/meat withdrawal periods) drives the same resistant pathogens that reach humans through the food chain. Farmer-facing queries about withdrawal periods, mastitis treatment, and feed-additive use are answered with the same stewardship logic used for human prescribing, grounded in Uganda's One Health-anchored NAP-AMR II (2024/25-2028/29)."
+    },
+    "test_prompts": [
+      {
+        "prompt_id": "tp_001",
+        "prompt": "I've had a runny nose, mild cough and sore throat for two days, no fever, no danger signs. Should I take antibiotics?"
+      },
+      {
+        "prompt_id": "tp_002",
+        "prompt": "I treated my dairy cow with oxytetracycline for an infection. How long before I can sell the milk?"
+      }
+    ],
+    "model": {
+      "name": "OneAMR-Q4_K_M",
+      "runtime": "llama.cpp",
+      "quantization": "GGUF Q4_K_M",
+      "parameters_estimate": "3B",
+      "packaging": "binary_bundle"
+    }
+  },
+  "environment": {
+    "measured_on": "participant_laptop",
+    "cpu_model": "Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz",
+    "ram_gb": 9.7,
+    "gpu": "none",
+    "os": "Ubuntu 26.04 LTS"
+  },
+  "throughput": {
+    "tokens_per_second_generation": 7.88,
+    "first_token_latency_ms": 19705.85,
+    "prompt_tokens": 512,
+    "generated_tokens": 128
+  },
+  "memory": {
+    "peak_rss_mb": 3285.25,
+    "steady_state_rss_mb": 3175.72,
+    "peak_vms_mb": 3765.72
+  },
+  "accuracy": [
+    {
+      "benchmark": "arc_easy",
+      "dataset_version": "lm-eval-harness",
+      "language": "en",
+      "samples": 50,
+      "score": 0.76,
+      "metric": "acc_norm"
+    }
+  ],
+  "cpu_thermal": {
+    "cpu_percent_p99": 56.1,
+    "core_temp_c_peak": null,
+    "throttled": false
+  },
+  "reproducibility": {
+    "git_commit_sha": "63ddc5422404",
+    "docker_image_digest": "unknown",
+    "random_seed": 42
+  },
+  "model_info": {
+    "params_count": 3085938688,
+    "context_length": 32768,
+    "architecture": "qwen2",
+    "claimed_params_estimate": "3B",
+    "params_match": true
+  }
+}

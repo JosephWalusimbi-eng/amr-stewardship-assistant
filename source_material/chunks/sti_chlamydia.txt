@@ -1,0 +1,617 @@
+# TOPIC: sti_chlamydia
+
+--- [WHO AWaRe Antibiotic Book (2022) | 19. Sexually transmitted infections - chlamydial urogenital infection | p.246-256 | audience=general] ---
+230The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+19. Sexually transmitted infections 
+– chlamydial urogenital infection
+Note
+In general this chapter applies to adults and young people older than 12 years. In children, 
+specialist advice should be sought where possible. Consideration should be given that an STI in 
+a child may be due to child sexual abuse.
+Key messages
+• Chlamydia trachomatis urogenital infection is a common sexually transmitted infection (STI) 
+globally, especially among young sexually active people.
+• Symptoms overlap with gonococcal infection and co-infection is frequent. Therefore, 
+patients should be tested for both pathogens simultaneously, when available and evaluated 
+for other STIs (e.g. human immunodeficiency virus (HIV) infection, syphilis, trichomoniasis).
+• Asymptomatic people should also be treated because they can transmit the infection to others.
+• Preventive services should be offered (e.g. condoms, brief sexuality education, HIV preexposure prophylaxis to people at high risk of HIV infection) and sexual partners should be 
+informed and treated.
+• Reporting of this infection to health authorities is encouraged according to local regulations.
+Other relevant WHO resources (please check regularly for updates)
+• Sexually transmitted infections (STIs) – fact sheets (189).
+• WHO guidelines for the treatment of Chlamydia trachomatis (190). 
+• WHO guidelines for the management of symptomatic sexually transmitted infections (191).
+• Laboratory diagnosis of sexually transmitted infections including human immunodeficiency 
+virus (192).
+• Global progress report on HIV, viral hepatitis and sexually transmitted infections, 2021 (193).
+Definition
+Chlamydial urogenital infection is an STI caused by certain biovars of the bacterium 
+Chlamydia trachomatis.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+231
+PRIMARY HEALTH CARE 
+19. Sexually transmitted infections – chlamydial urogenital infection
+Chlamydial urogenital infection
+Sexually transmitted infection • Page 1 of 2
+•See WHO guidance “Laboratory diagnosis of sexually
+transmitted infections”
+https://apps.who.int/iris/handle/10665/85343
+•: all patients with suspected chlamydialImportant
+urogenital infection should also be tested for
+gonococcal infection (as symptoms overlap) and other
+STIs (e.g. HIV, syphilis)
+Usually not needed
+Imaging
+A sexually transmitted infection (STI) caused by certain strains of
+the bacterium Chlamydia trachomatis
+De/g246nition
+For Chlamydial ocular infections (Trachoma) see separate
+infographic
+Usually not needed
+Other LaboratoryTests
+Clinical Presentation
+•Most persons remain asymptomatic though they can still
+transmit the infection
+•If symptoms occur they overlap with those of gonococcal
+infection (co-infection possible and common)
+Most common symptoms:
+•: acute urethritis with “clear”urethral discharge andIn men
+dysuria
+•: vaginal discharge, dyspareunia (painfulIn women
+intercourse), and dysuria
+•:Additionally in both sexes
+-S ymptoms of acute proctitis with pain, pruritus, anal
+discharge and bleeding
+•Symptoms of lymphogranuloma venereum (men>women):
+- Ulcerative lesion or a papule usually on the genitalia or
+rectum and inguinal or femoral lymphadenopathy
+(usually unilateral)
+-O ften the lesion remains unnoticed in women or when
+located in the rectum
+Diagnosis
+Reference standard:
+•Nucleic acid ampli/g246cation test (a test for bothChlamydia
+and is available)Neisseria gonorrhoeae
+-S amples that can be used: urine (lower sensitivity and
+speci/g246city in women), urethral, vulvovaginal,
+endocervical or anorectal samples collected with a swab
+-P erform genovar testing forChlamydia
+lymphogranuloma venereum in anorectal samples of
+men who have sex with men
+Other tests to consider:
+•Microscopy (Gram stain)
+-I n a symptomatic patient, it can be used to exclude
+(therefore suggesting non-Neisseria gonorrhoeae
+gonococcal urethritis)
+-L eukocytes are usually present but not a speci/g246c/g246nding
+for chlamydial infection
+•Culture: if symptoms persist despite adequate treatment
+(but it is rarely performed)
+•Note: urines are not good specimens for microscopy and
+culture
+Microbiology Tests
+In general this guidance applies to adults and young people aged
+over 12 years. In children, specialist advice should be sought where
+possible. Consideration should be given that an STI in a child may be
+due to child sexual abuse
+Chlamydiatrachomatisis an intracellularGram-negative bacterium;
+strainsassociatedwith urogenitalinfection are mostlygenitaltract
+biovars(serovarsDt oK ) and rarelylymphogranulomavenereum
+biovar(serovarsL1, L2, L3)
+Pathogen
+Important elements of prevention include:
+•Sexuality education
+•Promoting consistent use of condoms
+•Pre- and post-test counselling
+•Safe sex and risk reduction counselling
+•Interventions targeting high-risk groups
+Prevention
+Important:
+•Sexual partners should be informed of the disease and
+treated
+•Reporting of this infection to health authorities is
+encouraged according to local regulations
+232
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+19. Sexually transmitted infections – chlamydial urogenital infection
+Chlamydial urogenital infection
+Sexually transmitted infection • Page 2 of 2
+All dosages are for normal renal function
+Anorectal Infection
+Doxycycline 100 mg q12h ORAL
+Treatment duration: 7 days
+All dosages are for normal renal function
+Infection in PregnantW omen
+Azithromycin 1 g ORAL
+Treatment duration: single dose
+Clinical Considerations
+Treatment is always indicated when infection is diagnosed,
+including in asymptomatic persons because they can
+transmit the infection to others
+Treatment
+Since treatment duration varies according to the antibiotic
+used, please refer to the corresponding antibiotic section for
+treatment duration
+Antibiotic Treatment Duration
+Treatment is aligned with the WHO 2016 guidelines for
+chlamydial urogenital infections
+(https://apps.who.int/iris/handle/10665/246165) and
+the WHO 2021 guidelines for the management of
+symptomatic sexually transmitted infections
+(https://apps.who.int/iris/handle/10665/342523) but
+only options listed in the 2021 EML are reported
+All dosages are for normal renal function
+Lymphogranuloma Venereum
+Doxycycline 100 mg q12h ORAL
+Treatment duration: 21 days
+All dosages are for normal renal function
+Uncomplicated Urogenital Infection
+Doxycycline 100 mg q12h ORAL
+Treatment duration: 7 days
+----------------------------------- -----------------------------------OR
+Recent data suggest that doxycycline is more effective than
+azithromycin, therefore it could be given priority if adherence
+is not a concern (except in pregnant women where it is
+contraindicated)
+Azithromycin 1 g ORAL
+Treatment duration: single dose
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book233
+PRIMARY HEALTH CARE 
+19. Sexually transmitted infections – chlamydial urogenital infection
+Pathogen
+Chlamydial urogenital infection is caused by Chlamydia trachomatis , an intracellular 
+Gram-negative bacterium. There are several strains of Chlamydia trachomatis and not all 
+are associated with STI (see the chapter on trachoma). Chlamydial urogenital infections 
+associated with STI are caused mostly by genital tract biovars (serovars D to K) and, more rarely, 
+lymphogranuloma venereum biovar (serovars L1, L2, L3). Lymphogranuloma venereum is 
+an ulcerative disease extending to regional lymph nodes (often the inguinal and anorectal 
+area) and is more common in men (see the paragraph on lymphogranuloma venereum later 
+in this chapter). This disease is endemic in many tropical and sub-tropical regions; in other 
+settings, the infection is most commonly seen among men who have sex with men.
+Pathophysiology
+Chlamydia trachomatis infects the mucosa of the urogenital tract during sexual contact 
+and produces a local inflammatory response that causes vaginal, urethral or anal discharge. 
+Invasive infections caused by more invasive serovars of Chlamydia trachomatis can also 
+spread to regional lymph nodes.
+Epidemiology
+Chlamydial urogenital infection is one of the most common STIs worldwide, including in 
+low-income settings where it is probably under-reported (194,195). Young sexually active 
+adults are at particularly high risk. Undiagnosed and untreated, chlamydial urogenital 
+infections can lead to complications such as pelvic inflammatory disease (infection of the 
+upper female reproductive tract), ectopic pregnancy and infertility in women (196,197). 
+Maternal infection can cause serious health problems to the child, such as preterm birth, low 
+birth weight or conjunctivitis. The 2021 WHO global progress report on HIV, viral hepatitis 
+and STIs reported an estimated 128 million new chlamydial infections in 2020 among adults 
+aged 15 to 49 years (193).
+Clinical presentation
+Signs and symptoms of chlamydial infection mostly overlap with those of gonococcal infection.
+In most cases, the infection is asymptomatic, and it is therefore impossible to determine how 
+long a person has been infected. Even in the absence of symptoms, infected individuals can 
+transmit the infection.
+When symptoms occur (usually 1–2 weeks after being infected), particularly in men, the 
+most common clinical presentation is acute urethritis characterized by profuse usually 
+clear urethral discharge and dysuria. Most women with chlamydial cervical infection are
+234The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+19. Sexually transmitted infections – chlamydial urogenital infection
+asymptomatic. The ones who may be symptomatic have vaginal discharge, dyspareunia 
+(painful intercourse) and dysuria. Some women may have lower abdominal pain or pelvic 
+tenderness because of ascending infection, causing pelvic inflammatory disease.
+In both sexes (but in males more than females), symptoms of acute proctitis with pain, pruritus, 
+discharge and bleeding of the rectum may occur. Pharyngitis (mostly manifesting as a mild 
+sore throat) and conjunctivitis are other conditions that usually coexist with genital infection.
+Lymphogranuloma venereum is characterized by inguinal or femoral lymphadenopathy 
+(usually unilateral) with or without an associated primary lesion. The classic lesion is a 
+transient, ulcerative lesion or a papule usually located on the genitalia or rectum. In many 
+cases, the lesion may remain unnoticed; for example, the infection may be completely 
+asymptomatic in women when located on the cervix or can sometimes present with 
+symptoms of acute urethritis in men. Rectal exposure can cause proctitis with pain, pruritus, 
+discharge and bleeding of the rectum.
+Laboratory tests
+Patient microbiology tests
+Molecular testing has greatly improved the detection of Chlamydia trachomatis (and 
+Neisseria gonorrhoeae ) among both symptomatic and asymptomatic men and women. 
+Molecular testing has become the recommended reference standard technology to 
+diagnose and screen populations for Chlamydia trachomatis and Neisseria gonorrhoeae . 
+Table 19.1 indicates the types of specimens that can be used for this purpose.
+For more comprehensive information on the diagnosis of chlamydial infection, please refer 
+to the most recent (2013) WHO guideline for the laboratory diagnosis of STIs (192). Please 
+check the WHO website regularly for possible updates.
+Patients with chlamydial urogenital infection should be offered testing for HIV and other 
+STIs, such as hepatitis B, hepatitis C, gonococcal infection and syphilis. Test of cure (i.e. 
+testing after the end of treatment) could be considered in pregnant women 3–4 weeks 
+after the end of treatment.
+Tests to consider when chlamydial infection is suspected are listed in Table 19.1. Additional 
+tests for other STIs that could be considered when chlamydial urogenital infection is 
+confirmed or suspected are shown in Table 19.2. Surveillance, including etiologic studies of 
+STI syndromes, will be important to inform local and national guidance. 
+If symptoms persist at review, partner notification and treatment history should be checked. 
+People with recurrent or persistent infection should be referred to a centre with laboratory 
+capacity to diagnose Neisseria gonorrhoeae, Chlamydia trachomatis, Mycoplasma genitalium 
+and Trichomonas vaginalis and to test for antibiotic-resistant Neisseria gonorrhoeae and 
+Mycoplasma genitalium.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book235
+PRIMARY HEALTH CARE 
+19. Sexually transmitted infections – chlamydial urogenital infection
+Table 19.1 – Microbiology tests to consider when chlamydial infection is suspected 
+as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where 
+the test should 
+be available
+Qualitative test for Chlamydia trachomatis and 
+Neisseria gonorrhoeae infections (i.e. nucleic 
+acid amplification test)a,b
+This is the recommended reference 
+standard
+To diagnose chlamydial 
+and/or gonorrhoeal 
+urogenital disease and 
+extragenital infection
+Health care 
+facilities 
+with clinical 
+laboratories
+Microscopy (Gram stain)c
+Gram stain of vaginal and urethral discharge 
+will usually show the presence of leukocytes 
+(> 10 leukocytes/high power field for urethral 
+discharge and > 20 leukocytes/high power 
+field for vaginal discharge) but this finding 
+is not specific for chlamydial infections. If 
+carried out by an experienced person, a Gram 
+stain negative for intracellular diplococci 
+(Neisseria gonorrhoeae is an intracellular 
+diplococcus) with the presence of > 5 
+leukocytes/high power field in the context of 
+urethral discharge in a man can be presumed 
+to suggest non-gonococcal urethritis.
+To assess microbial 
+morphology, and 
+presence or absence of 
+white blood cells
+Health care 
+facilities 
+with clinical 
+laboratories
+Culturec,d and antimicrobial susceptibility 
+testing (rarely performed)
+Initial step to detect 
+and identify bacterial 
+species for selection of 
+appropriate antibiotic 
+regimens
+Health care 
+facilities 
+with clinical 
+laboratories
+EDL: Model List of Essential In Vitro Diagnostics.
+a Usually chlamydial and gonococcal infections are tested at the same time since their clinical presentations are 
+very similar.
+b Possible specimens among women, are a vulvovaginal specimen, which may be self-collected. An endocervical 
+swab can also be an alternative but requires a speculum. First-catch urine is another option, but the sensitivity and 
+specificity tend to be lower in women. Among men, possible specimens are first-catch urine or urethral swabs. 
+Anorectal and pharyngeal samples are also adequate. For anorectal samples among men who have sex with men, 
+Chlamydia genovar testing for lymphogranuloma venereum should be done to guide the appropriate treatment 
+regimen for this condition.
+c Possible specimens are urethral swabs, endocervical swabs, vaginal swabs, rectal swabs, oropharyngeal swabs 
+and conjunctival swabs. Note. Urine samples are not good specimens for microscopy and culture.
+d Consider culture if symptoms persist despite adequate treatment: note, urine samples are not good specimens 
+for culture. Processing Chlamydia trachomatis for culture requires highly experienced laboratories and technicians 
+and is too complex, laborious and time-consuming to be of economic value. It is rarely performed in middle- or 
+high-income countries nowadays except for special purposes.
+236The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+19. Sexually transmitted infections – chlamydial urogenital infection
+Table 19.2 – Additional tests for other sexually transmitted infections to consider 
+in patients with confirmed or suspected chlamydial urogenital infection as 
+indicated in the WHO EDL (6)
+Infection Diagnostic test Purpose of the test Settings where 
+the test should be 
+available
+Gonorrhoea Neisseria 
+gonorrhoeae NAAT
+To diagnose 
+gonorrhoeal 
+urogenital disease 
+and extragenital 
+infection
+Health care facilities 
+with clinical 
+laboratories
+HIV Anti-HIV-1 and -HIV-
+2 antibody (RDT)
+Self-testing to 
+screen for HIV
+Community 
+settings and health 
+facilities without 
+laboratoriesa
+HIV Anti-HIV-1 and -HIV-
+2 antibody (RDT and 
+immunoassay)
+To screen for HIV 
+infection
+Community 
+settings and health 
+facilities without 
+laboratoriesa (RDT)
+Health care 
+facilities with 
+clinical laboratories 
+(immunoassay)
+HIV Combined 
+anti-HIV-1/HIV-2 
+antibody and p24 
+antigen (RDT and 
+immunoassay)
+To screen for HIV 
+infection
+Community 
+settings and health 
+facilities without 
+laboratoriesa (RDT)
+Health care 
+facilities with 
+clinical laboratories 
+(immunoassay)
+Hepatitis B Hepatitis B virus 
+surface antigen 
+(RDT, immunoassay)
+To screen for 
+acute and chronic 
+hepatitis B virus 
+infection in people 
+aged > 12 months
+Community 
+settings and health 
+facilities without 
+laboratoriesa (RDT)
+Health care 
+facilities with 
+clinical laboratories 
+(immunoassay)
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book237
+PRIMARY HEALTH CARE 
+19. Sexually transmitted infections – chlamydial urogenital infection
+Table 19.2 continued
+Infection Diagnostic test Purpose of the test Settings where 
+the test should be 
+available
+Hepatitis B IgM-specific 
+antibodies 
+to hepatitis B 
+core antigen 
+(immunoassay)
+To aid in the 
+diagnosis of acute 
+HBV infection in the 
+context of outbreak 
+investigation
+Health care 
+facilities with 
+clinical laboratories 
+(immunoassay)
+Hepatitis C Anti-hepatitis C 
+antibody (RDT, 
+immunoassay)
+To screen for 
+hepatitis C virus 
+infection in people 
+aged > 18 months
+Community 
+settings and health 
+facilities without 
+laboratoriesa (RDT)
+Health care 
+facilities with 
+clinical laboratories 
+(immunoassay)
+Syphilis Antibodies to 
+Treponema pallidumb 
+(RDT)
+To diagnose or 
+help to diagnose 
+Treponema pallidum
+Community 
+settings and health 
+facilities without 
+laboratoriesa
+Syphilis and HIV 
+(combined test)
+Combined 
+antibodies to 
+Treponema pallidum 
+and to HIV-1 and 
+HIV-2 (RDT)
+To diagnose or help 
+to diagnose HIV 
+and/or Treponema 
+pallidum
+Community 
+settings and health 
+facilities without 
+laboratoriesa
+Trichomoniasis Microscopy To assess microbial 
+morphology, 
+and presence or 
+absence of white 
+blood cells
+Health care facilities 
+with clinical 
+laboratories
+EDL: Model List of Essential In Vitro Diagnostics; HIV: human immunodeficiency virus; NAAT: nucleic acid 
+amplification test; RDT: rapid diagnostic test.
+a Community and health settings without laboratories are facilities such as health posts and centres, doctors’ 
+offices, outreach clinics and ambulatory care. These tests are assumed to be available at health care facilities with 
+laboratories.
+b Usually, a non-treponemal test (e.g. rapid plasma reagin, Venereal Disease Research Laboratory test) is used for 
+screening. Please refer to the chapter on syphilis for more details on testing.
+238The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+19. Sexually transmitted infections – chlamydial urogenital infection
+Other tests
+When chlamydial urogenital infection is suspected, laboratory tests other than microbiology 
+are not usually needed. 
+Using microbiology surveillance data
+Targeted surveillance may be helpful to inform treatment policies.
+Imaging
+When chlamydial urogenital infection is suspected, imaging is not usually needed.
+Antibiotic treatment
+Antibiotic treatment is always indicated when the infection is diagnosed. Table 19.3 gives 
+recommendations taken from the 2016 WHO guidelines on the treatment of chlamydial 
+infections (190) and the 2021 WHO guidelines on the management of symptomatic STIs 
+(191). Please check the WHO website regularly for possible updates. Recommendations in the 
+EML overlap with the WHO guidelines (azithromycin or doxycycline are the recommended 
+treatment options) but fewer treatment alternatives are included in the EML (8).
+If symptoms persist at review:
+• check partner notification and treatment history; and
+• for people with recurrent or persistent urethral discharge, refer to a centre with 
+laboratory capacity to diagnose Neisseria gonorrhoeae , Chlamydia trachomatis, 
+Mycoplasma genitalium and Trichomonas vaginalis and test for antibiotic-resistant 
+Neisseria gonorrhoeae and Mycoplasma genitalium.
+Prevention
+Important elements of prevention include counselling and behavioural approaches 
+including comprehensive sexuality education, pre- and post-test counselling, safe sex 
+and risk reduction counselling and promoting consistent use of condoms. Interventions 
+targeting high-risk groups (e.g. men who have sex with men, transgender people, sex 
+workers, people who inject drugs) may be considered. Also consider offering pre-exposure 
+prophylaxis for HIV to people at high risk of HIV infection. Sexual partners should always be 
+informed of the infection and treated (189). Reporting of this infection to health authorities 
+according to local regulations should also be done.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book239
+PRIMARY HEALTH CARE 
+19. Sexually transmitted infections – chlamydial urogenital infection
+Table 19.3 – Antibiotic treatment for chlamydial urogenital infections as indicated in 
+the most recent WHO guidelines (190,191)
+Please check the WHO website regularly for possible updates
+Type of chlamydial 
+infection
+Treatment Total treatment 
+duration
+Uncomplicated urogenital 
+infectiona
+ Doxycycline b (oral): 100 mg given 
+every 12 hours
+OR
+ Azithromycin (oral): 1g
+7 days 
+(doxycycline) 
+Single dose 
+(azithromycin)
+Anorectal infectionc Doxycycline (oral): 100 mg given 
+every 12 hours
+7 days
+Infection in pregnant 
+womend
+ Azithromycin (oral): 1g Single dose
+Lymphogranuloma 
+venereume
+ Doxycycline (oral): 100 mg given 
+every 12 hours
+21 days
+Ophthalmia neonatorumf (i.e. 
+chlamydial conjunctivitis)
+ Azithromycin (oral): 20 mg/kg given 
+once a day
+3 days
+Ocular prophylaxisg (topical 
+treatment for the prevention 
+of both gonococcal and 
+chlamydial ophthalmia 
+neonatorum)
+ Erythromycin (eye ointment): 0.5% Antibiotic needs 
+to be applied to 
+both eyes soon 
+after birth (single 
+dose)
+EML: Model List of Essential Medicines; EMLc: Model List of Essential Medicines for children.
+Note. All dosages are for normal renal and hepatic function.
+a Alternatives indicated in the 2021 WHO guidelines but not included the WHO EML for this indication are: 
+erythromycin (oral): 500 mg every 6 hours; ofloxacin (oral): 200–400 mg every 12 hours. The recommended 
+duration of treatment is 7 days for both options. 
+b According to recent data, doxycycline is more effective than azithromycin and could be given priority if adherence 
+to treatment is not a concern (198–200). The 2021 WHO guidelines for the management of symptomatic sexually 
+transmitted infections recommend doxycycline as the first-line option and azithromycin as an effective substitute 
+(191). Therefore, exceptionally in this case, alternative antibiotic options are not presented in alphabetical order and 
+doxycycline is mentioned first in the Table.
+c Alternatives indicated in the 2021 WHO guidelines but not included in the EML for this indication are: erythromycin 
+(oral): 500 mg every 6 hours. The recommended duration of treatment is 14 days.
+d Alternatives indicated in the 2021 WHO guidelines but not included in the EML for this indication are: erythromycin 
+(oral): 500 mg every 6 hours. The recommended duration of treatment is 7 days.
+continues
+240The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+19. Sexually transmitted infections – chlamydial urogenital infection
+Table 19.3 continued
+e Alternatives indicated in the 2021 WHO guidelines but not included in the EML for this indication are: erythromycin 
+(oral): 500 mg every 6 hours. The recommended duration of treatment is 21 days.
+f Alternatives indicated in the 2016 WHO guidelines but not included in the EMLc for this indication are: 
+erythromycin (oral): 50 mg/kg per day divided in 4 doses for 14 days.
+g Alternatives indicated in the 2016 WHO guidelines but not included the EMLc for this indication are: tetracycline 
+hydrochloride (eye ointment) 1%; povidone–iodine (water-based solution. Do not use alcohol-based solutions) 
+2.5%; silver nitrate (solution) 1%; chloramphenicol (eye ointment) 1%.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 3.2.5 Inguinal Swelling (Bubo) | p.352-354 | audience=general] ---
+It is an STI syndrome presenting as localised swellings or enlarged lymph
+glands in the groin and femoral area.
+Causes
+~ Chlamydia strains: lymphogranuloma venerium (LGV)
+~ Heamophilus ducreyi: chancroid
+~ Treponema pallidum: syphilis
+Clinical features
+~ Excessively swollen inguinal glands
+~ Pain, tenderness
+~ Swellings may become fluctuant if pus forms
+Differential diagnosis
+~ Other causes of swollen inguinal lymph nodes, e.g. leg ulcer
+~ Obstructed inguinal hernia
+Investigations
+- As for Genital Ulcers
+- C&S of pus
+286
+Uganda Clinical Guidelines 2023CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
+Patient complains of inguinal swelling
+If genital ulcer is present
+Treat as genital ulcer
+If no improvement Refer for specialist’s management
+If buboes persist, check to see if partner
+was treated. If partner not treated
+Continue with Doxycycline 100 mg 12
+hourly for 14 days or Erythromycin 500
+mg every 6 hours for 14 days.
+Inguinal/femoral buboes
+present and no ulcer
+Give Doxycycline 100 mg 12 hourly for 14 days.
+Treat partner. If partner pregnant, instead of Doxycycline give Erythromycin 500 mg every 6 hours
+for 14 days. Do not incise bubo. Aspirate through
+normal skin with a large bore needle gauge <20
+every 2 days until resolution.
+Take history and examine for genital
+ulcers, rule out infection of the foot, leg
+or buttock and exclude inguinal hernia
+287
+Uganda Clinical Guidelines 2023CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
+Management
+TREATMENT LOC
+- Examine for genital ulcers, rule out infection of the foot,
+leg or buttock and exclude inguinal hernia
+- If genital ulcer is present, treat as per above protocol
+- Give doxycycline 100 mg 12 hourly for 14 days
+- Treat partner
+If partner is pregnant
+- Give erythromycin 500 mg every 6 hours for 14 days
+If bubo persisting, and partner was not treated
+- Continue treatment for 14 days
+If not improving
+- Refer for specialist management
+HC2
+HC3
+Caution
+- Do not incise bubo. Aspirate through normal skin with a large
+bore needle gauge <20 every 2 days until resolution
+- Alternative to doxycycline: azithromycin 1 g single dose

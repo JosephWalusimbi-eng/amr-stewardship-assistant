@@ -1,0 +1,494 @@
+# TOPIC: dosing_guidance_adults
+
+--- [WHO AWaRe Antibiotic Book (2022) | 49. Dosing guidance - Adults | p.645-654 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book629
+DOSING GUIDANCE 
+49. Dosing guidance - Adults
+Table 49.1 lists the antibiotics and suggested doses to be used in adults for the conditions 
+covered in the AWaRe book.
+Table 49.1 – Antibiotic dosing guidance: adults 
+All dosages are for normal renal and hepatic function.
+Antibiotic (alphabetic order) Dose Indications for use
+ Amikacin IV: 15 mg/kg/dose given 
+once daily
+Febrile neutropenia (high 
+risk)
+Sepsis (unknown origin)
+Upper UTI (severe)
+ Amoxicillin Oral: 
+Lower dose: 500 mg given 
+every 8 hours
+Higher dose: 1 g given 
+every 8 hours
+IV: 2 g given every 4 hours
+Lower dose (oral):
+Pharyngitis 
+Acute otitis media 
+COPD exacerbations (mild) 
+Dental infections 
+Higher dose (oral):
+Acute sinusitis 
+CAP (mild) 
+IV:
+Meningitis
+continues
+630The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ DOSING GUIDANCE
+49. Dosing guidance - Adults
+Antibiotic (alphabetic order) Dose Indications for use
+ Amoxicillin+clavulanic acid Oral: 
+Lower dose: 500 mg + 
+125 mg given every 8 hours
+Higher dose: 875 mg + 
+125 mg given every 8 hours
+IV: 
+Lower dose: 1 g + 200 mg 
+given every 8 hours
+Higher dose: 2 g + 200 mg 
+(single dose for prophylaxis)
+Lower dose (oral):
+Acute otitis media 
+Acute sinusitis 
+Periorbital cellulitis
+COPD exacerbations (severe) 
+UTI (lower) 
+SSTI (mild) 
+Febrile neutropenia (low risk)
+Higher dose (oral):
+CAP (mild)
+HAP
+Intra-abdominal infections 
+(mild)
+Pyomyositis
+Lower dose (IV)
+Bone and joint infections
+CAP (severe)
+HAP
+Periorbital (or preseptal) 
+cellulitis
+Intra-abdominal infections 
+(mild)
+Pyomyositis
+Higher dose (IV)
+Surgical prophylaxis 
+ Ampicillin IV: 2 g given every 4 hours Meningitis
+Table 49.1 continued
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book631
+DOSING GUIDANCE 
+49. Dosing guidance - Adults
+Table 49.1 continued
+Antibiotic (alphabetic order) Dose Indications for use
+ Azithromycin Oral: 
+Lower dose: 500 mg given 
+once daily
+Higher dose: 1 g (single 
+dose)
+Lower dose:
+Enteric fever (mild)
+Infectious acute diarrhoea
+Single dose:
+Chlamydia infectiona 
+Cholera 
+Gonococcal infectiona 
+Trachoma 
+ Benzathine benzylpenicillin 
+(only for IM use)
+IM: 2.4 million IU (≈ 1.8 g)
+(the number of doses 
+depends on the stage of the 
+infection)
+Syphilisa
+ Benzylpenicillin 
+(only for IV use)
+Also known as:
+- aqueous benzylpenicillin
+- benzylpenicillin potassium
+- benzylpenicillin sodium
+- crystalline penicillin
+- penicillin G potassium
+- penicillin G sodium
+IV:
+Lower dose: 2-4 million IU 
+(1.2-2.4 g) given every 4 
+hours
+Higher dose: 4 million IU 
+(2.4 g) given every 4 hours
+Lower dose:
+Neurosyphilisa
+Higher dose:
+Meningitis
+ Cefalexin Oral: 500 mg given every 
+8 hours
+COPD exacerbations (mild)
+Periorbital (or preseptal) 
+cellulitis 
+Pharyngitis 
+Pyomyositis
+SSTI (mild) 
+ Cefazolin IV: 2 g given every 8 hours 
+or single dose
+Bone and joint infections
+Surgical prophylaxis (single 
+dose)
+continues
+632The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ DOSING GUIDANCE
+49. Dosing guidance - Adults
+Antibiotic (alphabetic order) Dose Indications for use
+ Cefiderocol IV: 2 g given every 8 hours Empiric use should be 
+exceptional (e.g. seriously 
+ill patients with risk 
+factors for infections due 
+to carbapenem-resistant 
+bacteria or failing to respond 
+to carbapenems when other 
+causes of treatment failure 
+have been excluded)
+ Cefixime Oral: 400 mg given once 
+daily
+Infectious acute diarrhoea 
+Gonococcal infectiona (single 
+dose)
+ Cefotaxime IV/IM: 
+Lower dose: 1 g given 
+every 8 hours 
+Higher dose: 2 g given 
+every 8 hours
+Highest dose: 2 g given 
+every 6 hours
+Lower dose (3 g/day):
+Upper UTI (severe)
+Higher dose (6 g/day):
+Bone and joint infections
+CAP (severe) 
+HAP
+Intra-abdominal infections 
+(mild and severe)
+Sepsis (unknown origin)
+Highest dose (8 g/day)
+Meningitis 
+ Ceftazidime+avibactam IV: 2 g + 500 mg given 
+every 8 hours
+Empiric use should be 
+exceptional (e.g. seriously 
+ill patients with risk 
+factors for infections due 
+to carbapenem-resistant 
+bacteria or failing to respond 
+to carbapenems when other 
+causes of treatment failure 
+have been excluded)
+Table 49.1 continued
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book633
+DOSING GUIDANCE 
+49. Dosing guidance - Adults
+Antibiotic (alphabetic order) Dose Indications for use
+ Ceftriaxone IV/IM: 
+Single dose: 250 mg 
+Lower dose: 1 g given once 
+daily
+Higher dose: 2 g given 
+once daily
+Highest dose: 2 g given 
+every 12 hours
+Single dose:
+Gonococcal infectiona
+Lower dose (1 g/day):
+Infectious acute diarrhoea 
+(severe)
+Upper UTI (severe)
+High dose (2 g/day):
+Bone and joint infections
+CAP (severe)
+Endophthalmitis
+Enteric fever (severe)
+HAP
+Intra-abdominal infections 
+(mild and severe)
+Necrotizing fasciitis
+Sepsis (unknown origin)
+Highest dose (4 g/day):
+Meningitis
+ Cefuroxime IV: 1.5 g (single dose) Surgical prophylaxis
+ Ciprofloxacin 
+Ciprofloxacin has excellent 
+oral bioavailability and the 
+intravenous route should be 
+reserved for patients with 
+impaired gastrointestinal 
+function.
+Oral: 
+500 mg given every 12 
+hours
+1 g (single dose)
+Upper UTI (mild)
+Infectious acute diarrhoea 
+Intra-abdominal infections 
+(mild) 
+Enteric fever 
+Febrile neutropenia (low risk) 
+Cholera (single dose)
+ Chloramphenicol IV: 1 g given every 6 hours Meningitis
+Table 49.1 continued
+continues
+634The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ DOSING GUIDANCE
+49. Dosing guidance - Adults
+Antibiotic (alphabetic order) Dose Indications for use
+ Clarithromycin 
+Clarithromycin has excellent 
+oral bioavailability and the 
+intravenous route should be 
+reserved for patients with 
+impaired gastrointestinal 
+function.
+Oral: 500 mg given every 
+12 hours
+IV: 500 mg given every 12 
+hours
+Pharyngitis (oral)
+CAP (severe) (IV/oral)
+ Clindamycin IV/oral: 
+Lower dose: 600 mg given 
+every 8 hours
+IV:
+Higher dose: 900 mg given 
+every 8 hours
+Lower dose:
+Bone and joint infections
+Higher dose:
+Necrotizing fasciitis
+ Cloxacillin Lower dose: (oral) 500 mg 
+given every 6 hours
+Higher dose: (IV) 2 g given 
+every 6 hours
+Lower dose:
+SSTI (mild) 
+Higher dose:
+Bone and joint infections
+Periorbital (or preseptal) 
+cellulitis 
+Pyomyositis
+ Colistin (polymyxin E) 
+CBA: colistin base activity; 
+CMS: colistimethate sodium
+IV:
+Loading dose: 300 mg 
+CBA/9 million IU CMS
+Maintenance dose: 
+150 mg CBA/4.5 million IU 
+CMS given every 12 hours
+Maximal daily dose should 
+not exceed 300 (to 400) mg 
+CBA or 9 (to 12) million IU 
+CMS
+Empiric use should be 
+exceptional (e.g. seriously 
+ill patients with risk 
+factors for infections due 
+to carbapenem-resistant 
+bacteria or failing to respond 
+to carbapenems when other 
+causes of treatment failure 
+have been excluded)
+Table 49.1 continued
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book635
+DOSING GUIDANCE 
+49. Dosing guidance - Adults
+Antibiotic (alphabetic order) Dose Indications for use
+ Doxycycline Oral: 
+100 mg given every 12 
+hours
+300 mg (single dose)
+CAP (mild) 
+COPD exacerbations (mild) 
+Chlamydia infectiona 
+Cholera (single dose)
+ Gentamicin IV: 5 mg/kg given once daily Sepsis (unknown origin)
+Surgical prophylaxis
+Upper UTI (severe)
+ Fosfomycin (IV) IV: 6 g given every 8 
+hours (range 12–24 g per 
+day depending on the 
+indication)
+Empiric use should be 
+exceptional (e.g. seriously 
+ill patients with risk 
+factors for infections due 
+to carbapenem-resistant 
+bacteria or failing to respond 
+to carbapenems when other 
+causes of treatment failure 
+have been excluded)
+ Linezolid IV/oral: 600 mg given every 
+12 hours
+Empiric use should be 
+exceptional (e.g. oral 
+treatment for suspected 
+MRSA infections when no 
+alternatives are available)
+For use in tuberculosis, refer 
+to WHO guidelines (418)
+ Meropenem IV: 
+Lower dose: 1 g given 
+every 8 hours
+Higher dose: 2 g given 
+every 8 hours
+Lower dose:
+Febrile neutropenia (high 
+risk)
+Intra-abdominal infections 
+(severe)
+Higher dose:
+Sepsis (severe intraabdominal infections)
+Table 49.1 continued
+continues
+636The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ DOSING GUIDANCE
+49. Dosing guidance - Adults
+Antibiotic (alphabetic order) Dose Indications for use
+ Meropenem+vaborbactam IV: 2 g + 2 g given every 
+8 hours
+Empiric use should be 
+exceptional (e.g. seriously 
+ill patients with risk factors 
+for carbapenem-resistant 
+infections or failing to 
+respond to carbapenems 
+when other causes of 
+treatment failure have been 
+excluded)
+ Metronidazole 
+Metronidazole has excellent oral 
+bioavailability and the IV route 
+should be reserved for patients 
+with impaired gastrointestinal 
+function.
+Oral/IV: 
+Single dose: 500 mg, 2 g 
+Lowest dose: 
+500 mg given every 12 
+hours
+Lower dose: 
+500 mg given every 8 hours
+Higher dose: 750 mg given 
+every 8 hours
+Single dose:
+Surgical prophylaxis (500 mg)
+Trichomoniasis (2 g)
+Lowest dose:
+Trichomoniasis
+Lower dose:
+Clostridioides difficile infection
+Intra-abdominal infections 
+(mild and severe) 
+Necrotizing fasciitis 
+Higher dose:
+Amoebic abscess 
+ Nitrofurantoin Oral: 
+100 mg given every 12 
+hours (modified release)
+50 mg given every 6 hours 
+(immediate release)
+UTI (lower)
+ Phenoxymethylpenicillin Oral: 500 mg (800 000 IUb) 
+given every 6 hours
+Pharyngitis 
+CAP (mild) 
+Dental infections 
+Table 49.1 continued
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book637
+DOSING GUIDANCE 
+49. Dosing guidance - Adults
+Antibiotic (alphabetic order) Dose Indications for use
+ Piperacillin+tazobactam IV: 4 g + 500 mg given 
+every 6 hours
+HAP
+Intra-abdominal infections 
+(severe) 
+Necrotizing fasciitis 
+Febrile neutropenia (highrisk) 
+ Plazomicin IV: 15 mg/kg/dose given 
+once daily
+Empiric use should be 
+exceptional (e.g. seriously 
+ill patients with risk factors 
+for carbapenem-resistant 
+infections or failing to 
+respond to carbapenems 
+when other causes of 
+treatment failure have been 
+excluded)
+ Polymyxin B IV:
+Loading dose: 2.5 mg/kg 
+(25 000 IU/kg)
+Maintenance dose: 
+1.5 mg/kg (15 000 IU/kg) 
+given every 12 hours
+Higher doses up to 
+2.5-3.0 mg/kg 
+(25 000-30 000 IU/kg) can 
+be used but the maximum 
+daily dose should not 
+exceed 200 mg (2 million IU)
+Empiric use should be 
+exceptional (e.g. seriously 
+ill patients with risk factors 
+for carbapenem-resistant 
+infections or failing to 
+respond to carbapenems 
+when other causes of 
+treatment failure have been 
+excluded)
+ Procaine benzylpenicillin IM: 1.2 million IU (1.2 g) 
+given once daily
+Syphilisa
+Neurosyphilisa
+ Sulfamethoxazole+ 
+ trimethoprim 
+Oral: 800 mg + 160 mg 
+given every 12 hours
+UTI (lower) 
+Infectious acute diarrhoea
+ Trimethoprim Oral: 200 mg given every 
+12 hours
+UTI (lower)
+Table 49.1 continued
+continues
+638The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ DOSING GUIDANCE
+49. Dosing guidance - Adults
+Antibiotic (alphabetic order) Dose Indications for use
+ Vancomycin 
+Vancomycin is not absorbed 
+from the gastrointestinal tract 
+when given orally. The only 
+indication for oral vancomycin is 
+Clostridoides difficile infection
+IV: 15–20 mg/kg given 
+every 12 hours
+Oral: 125 mg given every 6 
+hours or 500 mg given every 
+6 hours
+IV:
+Endophthalmitis 
+Febrile neutropenia (high 
+risk) (if MRSA suspected)
+Necrotizing fasciitis (if MRSA 
+suspected)
+Oral:
+Clostridioides difficile infection 
+(higher dose for severe cases)
+CAP: community-acquired pneumonia; CBA: colistin base activity; CMS: colistimethate sodium; COPD: chronic 
+obstructive pulmonary diseases; HAP: hospital-acquired pneumonia; IM: intramuscular; IU: international units; IV: 
+intravenous; MRSA: methicillin-resistant Staphylococcus aureus; SSTI: skin and soft tissue infections; UTI: urinary 
+tract infection
+a WHO guidelines for treatment of sexually transmitted infections are currently being revised. Check the WHO 
+website for possible updates.
+b Units of the potassium salt.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red. 
+Table 49.1 continued

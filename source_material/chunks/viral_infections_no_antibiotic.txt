@@ -1,0 +1,710 @@
+# TOPIC: viral_infections_no_antibiotic
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.3.1 Avian Influenza | p.196-199 | audience=general] ---
+Influenza caused by avian (bird) influenza Type A viruses (mainly H5N1
+strain). It is endemic in the poultry population in Eurasia and can occasionally be transmitted to humans through direct contact with sick
+birds (inhalation of infectious droplets). Disease can be mild or severe
+and has limited potential to spread from person to person but there is
+risk of mutations giving rise to a very infectious virus which could cause
+widespread epidemics. Avian flu is a notifiable disease.
+Cause
+~ Avian (bird) influenza Type A viruses
+Clinical features
+~ Conjuctivitis
+130
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+~ Flu symptoms: fever, cough, sore throat, muscle aches
+~ Gastrointestinal (diarrhoea) and neurological symptoms
+~ In some cases, severe acute respiratory syndrome (SARS)
+Investigations
+- Blood and respiratory specimens, nose swab: lab test for influenza
+and rule out bacterial infection
+- Testing must be in a special laboratory
+Management
+TREATMENT LOC
+If patient requires hospitalisation
+- Hospitalise patient under appropriate infection control
+precautions
+- Administer oxygen as required. Avoid nebulisers and high
+air flow oxygen masks
+RR
+- Give paracetamol or ibuprofen for fever prn
+- Give oseltamivir phosphate in patients ≥ 1 year who have
+been symptomatic for no more than two days. Treat for 5
+days as below:
+Adults and children ≥ 13 years: 75 mg twice daily
+Child > 1 year and < 15 kg: 30 mg twice daily
+Child 15– 23 kg: 45 mg twice daily
+Child 23–40 kg body weight:60 mg twice daily
+Child > 40 kg body weight: 75 mg twice daily If a case does
+not require hospitalisation f Educate the patient and his/her
+family on:
+Personal hygiene and infection control measures
+Hand-washing, use of a paper or surgical mask by the ill person
+Restriction of social contacts
+Seek prompt medical care if the condition worsens
+Prophylactic use of oseltamivir
+RR
+131
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+TREATMENT LOC
+- Indicated in persons 13 years and above who have come
+into contact with affected birds/patients
+- Close contact: 75 mg once daily for at least 7 days
+- Community contacts: 75 mg once daily up to 6 weeks
+- Protection lasts only during the period of chemoprophylaxis
+RR
+Discharge policy
+~ Infection control precautions for adult patients should remain in place for 7 days after resolution of fever and for 21
+days in children younger than 12 years
+~ Children should not attend school during this period
+Control and Prevention of Nosocomial Spread of Influenza A (H5N1)
+Health workers should observe the following to prevent the spread of
+avian influenza in the health care facilities:
+~ Observe droplet and contact precautions. In addition, get
+negative pressure room if available
+~ Isolate the patient to a single room
+~ Place beds more than 1 metre apart and preferably separated by a physical barrier (e.g., curtain, partition)
+~ Appropriate personal protective equipment (APPE) in all
+those entering patients’ rooms. APPE includes high efficiency mask, gown, face shield or goggles, and gloves
+~ Limit the number of health care workers (HCWs) and other
+hospital employees who have direct contact with the patient(s). These HCWs should:
+~ Be properly trained in infection control precautions
+~ Monitor their own temperature twice daily and report any
+febrile event to hospital authorities
+~ A HCW who has a fever (>380C) and who has had direct
+patient contact should be treated immediately
+132
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+~ Restrict the number of visitors, provide them with APPE,
+and instruct them in its use
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.3.2 Chicken pox | p.199-200 | audience=general] ---
+A highly contagious viral infection. Patients are contagious from 2 days
+before onset of the rash until all lesions have crusted. An attack of
+chicken pox usually confers lifelong immunity. Disease is more severe
+and complicated in adults.
+Causes
+~ Varicella Zoster virus (VZV) by droplet infection
+Clinical features
+~ Incubation period is 14 days, but shorter in immuno- compromised host
+~ Mild fevers occur 10-20 days after exposure
+~ Prodromal symptoms consisting of low fever, headache,
+and malaise occurring 2 to 3 days before the eruption
+~ Eruptive phase: they appear as macules, papules, vesicles,
+pustules and crusts. The most characteristic lesion is a vesicle looking like a drop of water on the skin. Vesicles rupture
+easily and may become infected
+~ The rash begins on the trunk and spreads to the face and
+extremities
+~ Lesions of different stages (crops) exist together at the same
+time in any given body area
+~ Complications may include septicaemia, pneumonia, fulminating haemorrhagic varicella, and meningoencephalitis
+Differential diagnosis
+~ Drug-induced eruption
+~ Scabies
+~ Insect bites
+~ Erythema multiforme, impetigo
+~ Other viral infections with fever and skin rash
+133
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+Investigations
+¾ Virus isolation possible but not necessary
+¾ Diagnosis is practically clinical
+Management
+TREATMENT LOC
+Symptomatic and supportive treatment
+- Apply calamine lotion every 12 hours f Cool, wet
+compresses to provide relief
+Chlorpheniramine: Adult 4 mg every 12 hours Child <5
+years: 1-2 mg every 12 hours for 3 days
+Pain relief: paracetamol 10 mg/kg every 6 hours
+In adults and children >12 years consider antivirals: Oral
+aciclovir 800 mg every 6 hours for 7 days Keep child at
+home/remove from school till healed to avoid spread
+HC2
+HC4
+Prevention
+~ Isolation of infected patient
+~ Avoid contact between infected persons and immuno- suppressed persons
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.3.3 Measles | p.200-202 | audience=general] ---
+An acute, highly communicable viral infection characterized by a generalised skin rash, fever, and inflammation of mucous membranes. Measles
+is a notifiable disease.
+Cause
+~ Measles virus spreads by droplet infection and direct
+contact
+134
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+Clinical features
+~ Catarrhal stage: high fever, Koplik’s spots (diagnostic) runny nose, barking cough, conjunctivitis
+~ Misery, anorexia, vomiting, diarrhoea
+~ Later: generalised maculopapular skin rash followed by desquamation after few days
+Complications
+~ Secondary bacterial respiratory tract infection, e.g. bronchopneumonia, otitis media
+~ Severe acute malnutrition especially following diarrhoea
+~ Cancrum oris (from mouth sepsis)
+~ Corneal ulceration and panophthalmitis – can lead to blindness
+~ Demyelinating encephalitis
+~ Thrombocytopaenic purpura
+Differential diagnosis
+~ German measles (Rubella)
+~ Other viral diseases causing skin rash
+Investigations
+- Clinical diagnosis is sufficient though virus isolation is possible
+Management (symptomatic)
+TREATMENT LOC
+- Isolate patients (at home or health centre)
+- Paracetamol prn for fever
+Apply tetracycline eye ointment 1% every 12 hours
+for 5 days
+- Increase fluid and nutritional intake (high risk of malnutrition and dehydration
+HC2
+135
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+TREATMENT LOC
+- Give 3 doses of vitamin A: first dose at diagnosis, 2nd
+dose the next day and 3rd dose on day 14 Child <6
+months: 50,000 IU
+Child 6-12 months: 100,000 IU
+Child >12 months: 200,000 IU
+- Monitor for and treat secondary bacterial infections
+with appropriate antibiotics immediately
+- Refer to hospital in case of complications
+Prevention
+~ Measles vaccination (see chapter 18)
+~ Avoid contact between infected and uninfected persons
+~ Educate the public against the common local myths e.g.
+stopping to feed meat and fish to measles patients
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.3.4 Poliomyelitis | p.202-204 | audience=general] ---
+An acute viral infection characterised by acute onset of flaccid paralysis
+of skeletal muscles. It is transmitted from person to person through the
+faecal-oral route. Poliomyelitis is a notifiable disease.
+Cause
+~ Polio virus (enterovirus) types I, II, and III
+Clinical features
+~ Majority of cases are asymptomatic, only 1% result in flaccid paralysis
+~ Non-paralytic form: minor illness of fever, malaise, headache, and vomiting, muscle pains, spontaneous recovery
+in 10 days
+~ Paralytic form: after the aspecific symptoms, rapid onset
+(from morning to evening) of asymmetric flaccid paralysis,
+136
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+predominantly of the lower limbs, with ascending progression
+~ Paralysis of respiratory muscles is life threatening (bulbar
+polio)
+~ Aseptic meningitis may occur as a complication
+Differential diagnosis
+~ Guillain-Barré syndrome
+~ Traumatic neuritis
+~ Transverse myelitis
+~ Pesticides and food poisoning
+Consider all cass of Acute Flaccid Paralysis as possible Poliomyelitis: alert
+the district focal person for epidemic control, and send 2 stool samples
+(refrigerated).
+Investigations
+- Isolation of the virus from stool samples
+- Viral culture
+- Ensure that Giardia intestinalis, Entamoeba histolytica, Cryptosporidium, Cyclospora, sarcocystis, Toxoplasma gondii are
+included in the investigations
+Management
+TREATMENT LOC
+Acute stage
+Poliomyelitis in this stage without paralysis is difficult to
+diagnose
+Paralytic form
+- If paralysis is recent, rest the patient completely Note:
+Do not give IM injections as they make the paralysis
+worse
+H
+137
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+TREATMENT LOC
+- Refer the patient to a hospital for supportive care
+- After recovery (if partially/not immunised), complete
+recommended immunisation schedule
+Chronic stage
+- Encourage active use of the limb to restore muscle
+function/physiotherapy
+- In event of severe contractures, refer for corrective
+surgery
+H
+Prevention
+~ Isolate patient for nursing and treatment, applying contact
+and droplets precautions
+~ Immunise all children below 5 years from the area of the
+suspected case
+~ If case is confirmed, organize mass immunisation campaign
+~ Proper disposal of children’s faeces
+~ Immunisation (see chapter 18)
+~ Proper hygiene and sanitation
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.3.5 Rabies | p.204-205 | audience=general] ---
+Rabies is a viral infection of wild and domestic animals, transmitted to
+humans by saliva of infected animals through bites, scratches or licks
+on broken skin or mucuos membranes. Once symptoms develop, rabies
+presents as a fatal encephalitis: there is no cure and treatment is palliative.
+Before symptomatic disease has developed, rabies can effectively be
+prevented by post-exposure prophylaxis.
+Cause
+~ Rabies virus. Incubation is average 20-90 days but can be
+138
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+shorter in severe exposure (multiple bites, bites on face/
+neck) of even longer (> a year) in a few cases
+Clinical features
+~ Itching or paraesthesiae (abnormal sensation) around site
+of exposure, malaise, fever
+~ Neurologic phase
+~ Furious form: psychomotor agitation or hydrophobia (throat
+spasm and panic, triggered by attempt to drink or sight/
+sound/touch of water) and aerophobia (similar response to
+a draft of air)
+~ Paralytic form (rarer): progressive ascending paralysis
+Management
+TREATMENT LOC
+- There is no cure. In case of suspected exposure, take
+all the appropriate steps to prevent the infection (see
+section1.2.1.3 on animal bites)
+- Start as soon as the exposure happens or as soon as
+the patient comes for medical attention, regardless of
+whatever time has passed from the exposure
+H
+- Admit case
+- Palliative and supportive care
+- Observe strict hygienic precautions
+Avoid contact with patient’s body fluids or secretions
+PPE (personal protective equipment)
+Caution: the patient may bite
+- Counsel caregivers on rabies and consequences
+H
+139
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.3.6.1 Ebola and Marburg | p.206-209 | audience=general] ---
+Ebola and Marburg are severe zoonotic multisystem febrile diseases
+caused by RNA viruses. They are notifiable diseases.
+Cause
+~ Ebola and Marburg viruses. Transmission to humans happens through contact with meat or body fluids of an infected animal. The disease can then be transmitted from
+human to human through body fluids (including semen for
+months after recovery) and it is highly contagious.
+Risk factors
+~ Communities around game parks
+~ Communities in endemic area
+~ Cultural practices like burial rituals
+~ Poor infection control practices
+~ History of exposure to infected people in the last 2 to 21
+days i.e sexual partner, breastfeeding mothers
+~ Recent contact with infected animals e.g. monkeys, bats,
+infected game meat
+~ Clinical features
+~ Early signs (non specific): sudden fever, weakness, headache,
+muscle pains, loss of appetite, conjunctivitis
+~ Late signs:
+~ Diarrhoea (watery or bloody), vomiting
+~ Mucosal and gastrointestinal bleeding: chest pain, respiratory
+distress, circulatory shock
+~ CNS dysfunction, confusion, seizures
+140
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+~ Miscarriage in pregnancy
+~ Elevated AST and ALT, kidney injury, electrolyte abnormalities
+Note: Haemorrhage is seen in less than a third of Ebola patients
+Differential diagnosis
+~ Malaria, rickettsiosis, meningitis
+~ Shigellosis, typhoid
+~ Anthrax, sepsis, viral hepatitis, dengue, leptospirosis
+Investigations
+~ Send blood sample to a referral laboratory for specific testing (taking off blood samples from patients suspected of viral
+hemorrhagic fever should be done by a trained healthcare
+worker in appropriate PPE.
+~ Notify district surveillance focal person
+Management
+TREATMENT LOC
+- Refer all patients to regional referral hospital for management in an appropriate setting
+- Notify the district health team
+RR
+Safety of health workers: maximum level of infection control
+procedures
+Health workers should maintain a high level of suspicion for Ebola
+virus disease. While standard precautions should be followed for all
+patients at all times, implementation of transmission-based precautions for cases suspected or confirmed to have Ebola or Marburg virus
+diseases is essential. This includes: screening for rapid identification
+and isolation of cases,
+141
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+- Hand hygiene according to the WHO 5 moments safe injection
+practices use of personal protective equipment (e.g. eye protection, mask (medical or respirator), gloves, gown or coverall, head
+covering, apron and gum (rubber) boots.
+- Handling and disposing of all waste related to the care of an Ebola
+patients as infectious
+- Safe handling and disinfection of linens (or disposal if not possible)
+and thorough cleaning and disinfection of the environment and
+medical equipment.
+- Disinfectants (e.g. chlorine mixture of 0.5% for surfaces) used
+must be prepared and used ensuring adequate concentration and
+contact time on surfaces.
+- Handling of the deceased is particularly high risk and should be
+kept to a minimum. Strict adherence to IPC measures including
+hand hygiene, use of personal protective equipment (e.g. eye
+protection, mask (medical or respirator), gloves, gown or coverall,
+head covering, apron and gum (rubber) boots is required.
+Patient care
+Refer to the MoH recent guidelines for management of viral hemorrrhagic fevers
+- Optimised Supportive treatment of signs and symptoms
+- Replace and monitor fluids and electrolytes for patients with
+diarrhoea or vomiting
+Triage and contact tracing
+- Triage patient (those who had contact with a patient or not)
+- Contact identification, contact listing and contact follow up
+Dead Body handling
+- Avoid washing or touching the dead f There should be no gathering
+at funerals. The dead should be buried promptly by a designated
+burial team
+Prevention
+~ Health education of the population (e.g. avoid eating w i l d animals)
+142
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+~ Effective outbreak communication and h a v i n g haemorrhagic
+viral fever protocols in place
+~ Appropriate safety gear for patients/health workers i n suspect
+cases
+~ Modification of burial practices
+~ Use of condoms
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.3.6.2 Yellow Fever | p.209-210 | audience=general] ---
+An acute viral haemorrhagic fever transmitted through the bite of infected
+female Aedes aegypti mosquito. Incubation period is 3 to 6 days. It is
+a notifiable disease.
+cause
+~ Yellow fever RNA virus
+Risk factors
+~ Residents in endemic area
+~ Hunters and settlers around game parks
+Clinical features
+First stage:
+~ Fever, chills, headache, backache, muscle pain, prostration,
+nausea, vomiting, fatigue. Usually resolves within 3-4 days.
+Second stage:
+~ About 15% of cases enter into a second or toxic stage after 1-2 day of remission: high fever, prostration, signs and
+symptoms of hepatic failure, renal failure and bleeding (
+jaundice, nose bleeding, gingival bleeding, vomiting blood,
+blood in stool)
+~ About half of these patients die within 7-10 days
+Differential diagnosis
+~ Hepatitis E, liver failure
+~ Malaria, Ebola
+143
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+investigations
+~ PCR in early phases
+~ ELISA in the late stageIt is a notifiable disease.
+Management
+TREATMENT LOC
+- Refer all cases to regional referral hospital
+- Notify the district health team
+- There is no specific antiviral drug treatment
+- Supportive treatment is recommended:
+- Rehydration
+- Management of liver and kidney failure
+- Antipyretics for fever
+- Blood transfusion
+- Treat associated bacterial infections with antibiotics
+RR
+Note
+- Individuals who have recovered from a yellow fever infection
+develop life-long immunity
+Prevention
+~ Vaccination (see chapter 18)
+~ Elimination of mosquito breeding sites
+~ Epidemic preparedness i.e prompt detection and treatment
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.3.7 COVID-19 Disease | p.210-216 | audience=general] ---
+Coronavirus disease (COVID-19) results from infection with the Severe
+Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2). It is a novel
+virus in humans, knowledge of which and its pathogenesis still evolving.
+Additionally, the population-level immunity is uncertain. Complications
+of the severe infection can result in death.
+144
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+Clinical features
+Early symptoms are non-specific and may include:
+- fever, cough, myalgia, fatigue, shortness of breath, sore throat,
+headache, flu-like symptoms, diarrhea, nausea, respiratory
+distress, features of renal failure, pericarditis, and Disseminated
+Intravascular Coagulation (DIC).
+It is important to know that many individuals with COVID-19 are asymptomatic. It is therefore paramount that all health workers observe strict
+infection prevention and control (IPC) measures at all times.
+Classification of COVID 19 disease
+Disease Stage Hallmark Features
+Mild Disease No Respiratory Distress
+Normal Vital Signs
+Moderate
+Disease
+Non-Severe
+Pneumonia
+Crackles in chest but Normal
+SPO2,
+mild respiratory distress (Resp
+Rate <30)
+Severe
+Disease
+Oxygen
+De saturation
+Severe Respiratory distress
+(Resp Rate >30) & SPO2 <90%,
+Critical Organ Dysfunction
+• CNS: Altered Mental State
+• CVS: Hypotension & Shock
+• Kidney: Decreased Urine
+Output, Raised Creatinine
+• Liver: Elevated liver enzymes
+• Coagulation: Raised PT &
+INR, Thrombocytopenia
+• Endocrine: Hypoglycemia
+Groups at High Risk of Developing Severe Disease or Complications
+- Age > 65 year
+- Obesity
+- Lung diseases (e.g. asthma, TB, COPD)
+- Hypertension
+145
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+Patient enters health facility grounds
+Low risk for
+COVID-19:
+Direct to facility for further
+management
+Stabilize
+(Oxygen if available) in a designated isolation area
+No
+No
+Yes
+Yes
+No
+to
+All
+Yes to at least 1
+Provide a medical mask to the
+patient and direct to designated
+triage area
+ADMIT FOR ISOLATION
+Admit for isolation to hospital, another designated
+facility (if available), or
+home (case-by-case basis:
+must have ability for close
+follow up)
+ADMIT FOR ISOLATION
+Prioritize for admission to
+isolation ward with critical
+care capability
+Danger signs
+High risk for development of
+serious illness or complications
+Collect samples for:
+• COVID-19
+• Malaria RDT (if fever)
+Danger signs
++ Rapid breathing:
+>30 per min (adult/child>5y)
+>40 per min (child 1-5y)
+>50 per min (child<1y)
++ Difficult breathing and/or
+chest indrawing
++ Persistent high fever for 3 or
+more days
++ Disorientation, seizures or
+convulsions
++ Lethargy (excessive weakness,
+tiredness)
++ Sunken eyes or other signs of
+severe dehydration
++ Inability to drink or eat
+Wash or sanitize hands
+Take temperature (if infrared or
+axillary thermometer available)
+SUSPECT CASE
+1. Is the temperature T>37.5OC?
+2. Have had a fever?
+3. Do you have symptoms such as cough,
+shortness of breath, muscle aches, weakness,
+sore throat, or headache?
+146
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+- Heart conditions such as history of heart attack or stroke
+- Diabetes
+- Cancer patients whether or not on chemotherapy
+- Advanced liver disease
+- Person living with HIV
+- Kidney disease
+- Severe Acute Malnutrition
+- Sickle cell disease
+- COVID 19 unvaccinated
+- Pregnancy and recent pregnancy
+- Hypertension
+Differential diagnoses
+- Malaria and other febrile illnesses.
+- common respiratory, infectious, cardiovascular, oncological,
+and gastrointestinal diseases.
+Investigations
+147
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+Management
+- Perform SARS-CoV-2 Rapid Diagnostic Test (RDT)
+- Carry out nasopharyngeal swabs for RT-RNA test
+COVID-19 screening and triage process at health facilities
+~ COVID-19 triage aims to flag suspected patients at first
+point of contact within the healthcare system in order to
+~ protect other patients and staff from potential exposure.
+~ identify and rapidly address severe symptoms, rule out other conditions with features similar to COVID-19, ascertain
+if suspect case definition is met
+~ All suspected patients should be directed to a designated
+area away from other patients and handled as per standard
+covid protection guidelines
+~ Refer to the Comprehensive COVID-19 Case Management
+Guidelines for details.
+TREATMENT LOC
+Safety of health workers and caregivers: maximum
+level of infection control procedures
+HC2
+Strict isolation of suspect cases
+Use of adequate protective gear
+Minimize invasive intervention
+Safe handling of linen
+Appropriate use of chlorine mixtures
+Proper disposal of health care waste
+Educate the patient and care givers on appropriate infection
+control measures
+No Hospitalization (mild to moderate diseases) HC2
+148
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+TREATMENT LOC
+All patients with no risk of developing severe COVID-19
+diseases.
+- symptom management, supportive care, and monitoring
+(at home, or in the community).
+- Control fevers with paracetamol, multivitamins and
+advise on balanced diet
+Adults and Children >40kg at increased risk of developing severe COVID-19 diseases. Refer to current
+Covid-19 treatment guidelines.
+- nimatrelvir/ritonavir 300/100mg orally (PO) twice
+daily for 5 days (must be initiated within 5 days of
+symptom onset)
+- OR remdesivir IV infusion Once daily for 3 days with a
+loading dose 200mg on Day 1 and 100mg on subsequent days. (initiated within 7 days of symptom onset)
+- OR molnupiravir 800mg orally (PO) twice daily for 5
+days ONLY when ritonavir-boosted nirmatrelvir or
+remdesivir cannot be used; treatment should be initiated
+as soon as possible and within 5 days of symptom
+onset (contraindicated in pregnant or breastfeeding
+women and children)
+If the patient requires hospitalization (Severe to Critical
+disease)
+RR
+~ Oxygen therapy
+~ And Corticosteroids
+~ And Venous thromboembolism prophylaxis
+~ And Interleukin-6 receptor blocker (tocilizumab
+or sarilumab)
+or JAK Inhibitor (baricitinib)
+For details refer to the Comprehensive COVID-19 case
+Management Guidelines
+149
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+Prevention
+~ Vaccination (Refer to chapter 18: Immunization)
+~ Epidemic preparedness i.e. prompt detection and treatment
+~ Infection Prevention and control measures including Mask
+wearing, social distancing, regular handwashing, avoid
+shaking hands etc.
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 5.2.3 Coryza (Common Cold) | p.413-415 | audience=general] ---
+Acute inflammation of the upper respiratory tract; rhinitis (nasal mucosa)
+and rhinopharyngitis (nasal and pharyngitis).
+Cause
+~ Viruses - several types, often rhinoviruses
+347
+Uganda Clinical Guidelines 2023CHAPTER 5: Respiratory Diseases
+Clinical features
+~ Onset usually sudden
+~ Tickling sensation in nose and sneezing
+~ Throat dry and sore
+~ Profuse nasal watery or purulent discharge, tearing
+Complications
+~ Sinusitis
+~ Lower respiratory tract infection (pneumonia)
+~ Ear ache, deafness, otitis media
+~ Headache
+Differential diagnosis
+~ Nasal allergy
+Managemen
+Common cold is a viral disease and so does NOT require any antibiotics. Antibiotics do not promote recovery or prevent complications
+and cause patients unnecessary side effects
+TREATMENT LOC
+No antibiotics, give only symptomatic treatment
+- Increase fluid intake, preferably warm drinks f Give
+paracetamol for 2-3 days
+- Home remedies (steam, honey)
+- Xylometazoline 0.05 - 0.1% nasal drops 2-3 drops into
+each nostril 3 times daily (max: 5 days)
+For breastfeeding children
+- Continue breastfeeding
+- Clear the nose with normal saline to ease breathing
+or feeding
+- Keep the child warm
+HC2
+HC4
+348
+Uganda Clinical Guidelines 2023CHAPTER 5: Respiratory Diseases
+TREATMENT LOC
+Note
+- Avoid cough syrups in children below 6 years
+Prevention
+~ Avoid contact with infected persons
+~ Include adequate fresh fruits and vegetables in the diet
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 5.2.5 Influenza (” Flu”) | p.416-417 | audience=general] ---
+A specific acute respiratory tract illness occurring in epidemics and occasionally pandemics. Influenza virus strains can be transmitted to humans
+from animals (pigs, birds) and can occasionally mutate and spread from
+person to person (e.g., swine flu, or H1N1).
+Cause
+~ Influenza viruses of several types and strains
+~ Spread by droplet inhalation
+Clinical features
+~ Sudden onset
+~ Headache, pain in back and limbs
+~ Anorexia, sometimes nausea and vomiting
+~ Fever for 2-3 days with shivering
+~ Inflamed throat
+~ Harsh unproductive cough
+350
+Uganda Clinical Guidelines 2023CHAPTER 5: Respiratory Diseases
+Complications
+~ Secondary bacterial infection: bronchopneumonia
+~ Toxic cardiomyopathy and sudden death
+Differential diagnosis
+~ Other respiratory viral infections
+Investigations
+- Isolation of virus
+- Viral serology to identify virus
+TREATMENT LOC
+If no complications, treat symptoms
+- Paracetamol 1 g every 4-6 hours (max: 4 g/ day)
+Child: 10 mg/kg per dose
+For nasal congestion
+- Use steam inhalation prn
+- Or xylometazoline nose drops 0.05 -0.1% 2-3 drops
+into each nostril 3 times daily (max: 5 days)
+In the breastfeeding child
+- If blockage interferes with breastfeeding, clean/ clear
+nose with normal saline
+- Keep child warm
+- Breastfeed more frequently
+For troublesome cough
+- Frequent warm drinks, home remedies (honey, ginger)
+HC2
+HC4
+Prevention
+~ Avoid contact with infected persons
+~ Inactivated Influenza vaccine yearly (for vulnerable populations)
+351
+Uganda Clinical Guidelines 2023CHAPTER 5: Respiratory Diseases

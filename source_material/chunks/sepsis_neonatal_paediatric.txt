@@ -1,0 +1,1528 @@
+# TOPIC: sepsis_neonatal_paediatric
+
+--- [WHO AWaRe Antibiotic Book (2022) | 25. Sepsis in neonates (< 28 days) and children (28 days-12 years) | p.335-360 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book319
+HOSPITAL FACILITY 
+25. Sepsis in neonates (< 28 days) 
+and children (28 days–12 years)
+Key messages
+Both neonates and older children
+• Sepsis is an acute life-threatening condition characterized by organ dysfunction due to a 
+dysregulated host response to infection.
+• Antibiotic treatment should be started as soon as possible when sepsis is suspected.
+• Diagnostic tests and imaging should not delay treatment which should be guided by the 
+suspected site of primary infection.
+Neonates (< 28 days)
+• Sepsis in neonates can be classified based on setting of acquisition of the infection 
+(community/hospital) or time of onset after birth (early/late), which are used to try and 
+predict the most likely causative pathogens and guide empiric antibiotic treatment.
+• Multiple clinical signs and symptoms are used to determine whether an infant has neonatal 
+sepsis, as well as perinatal risk factors, such as prematurity/gestational age.
+• Neonates are much more likely to have a primary bloodstream infection with no underlying 
+source of infection identified.
+Older children
+• Common causative pathogens vary globally and combined with the setting of acquisition 
+of the infection, this can be used to predict the most likely causative pathogens and choose 
+empiric antibiotic treatment.
+• Usually signs and symptoms are non-specific and the presence of danger signs of illness 
+should always be assessed to guide clinical management.
+Other relevant WHO resources (please check regularly for updates)
+• Sepsis – fact sheet (234).
+• Global report on the epidemiology and burden of sepsis: current evidence, identifying gaps 
+and future directions (235).
+• Haemophilus influenzae type b (Hib) vaccination position paper – July 2013: Introduction (36).
+• Meningococcal A conjugate vaccine: updated guidance, February 2015 (236).
+• Typhoid vaccines: WHO position paper – March 2018 (154).
+320The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Definition
+Because of differences in the microbiology, sepsis in children is often classified as neonatal 
+sepsis (newborns < 28 days) and paediatric sepsis (28 days–12 years).
+Neonatal sepsis
+There is no universally accepted definition of neonatal sepsis and definitions vary among 
+studies (258). However, the term is used to describe a serious systemic condition of infectious 
+origin (most commonly bacterial) associated with a combination of clinical and laboratory 
+signs that occurs in the first month of life. 
+Neonates are much more likely to have a primary bloodstream infection with no 
+underlying source of infection identified. Furthermore, because of differences in the host 
+(neonates have reduced immune responses) and the way the pathogen can be acquired 
+(e.g. exposure to maternal pathogens at birth or in utero), the sepsis definitions currently 
+used for adults and older children are not specifically designed for use in young infants 
+(259,260). 
+Neonatal sepsis has historically been categorized based on either the timing 
+of clinical disease onset (early-onset sepsis or late-onset sepsis) or based on where the 
+infection was likely acquired (community-acquired infection or hospital-acquired infection) 
+(Box 25.1). The aim of these categorizations is to predict the most likely causative pathogens 
+and guide empiric treatment. However, these categorizations have become less helpful as 
+more infants worldwide are born in health care facilities and are exposed to multidrugresistant pathogens in the early neonatal period, either acquired from their mother or 
+through nosocomial acquisition in the health facility or hospital.
+Box 25.1 – Commonly used categorizations of neonatal sepsis
+By timing of onset
+• early onseta (occurring ≤ 3 days after birth, often acquired vertically from the mother or in 
+the peripartum period)
+• late onset (occurring > 3 days after birth, often hospital acquired)
+By setting of acquisition
+• community setting
+• hospital setting
+aA range of different postnatal ages have been used to define early onset sepsis, including less than 3, 5 or 7 days 
+of life.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book321
+HOSPITAL FACILITY 
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+In settings with limited access to any laboratory tests, an alternative clinical definition 
+used by the WHO is: possible serious bacterial infection (261,262). This definition is based on the 
+presence of multiple clinical signs (Box 25.2). If at least one of the signs is present, the neonate 
+or young infant requires prompt treatment with antibiotics. Relevant signs to consider include 
+difficulty feeding, history of convulsions, movement only when stimulated, respiratory rate > 
+60 breaths/minute, severe chest retractions and temperature ≥ 38.0 °C or < 35.5 °C.
+Box 25.2 – Definition of possible serious bacterial infection (PSBI)
+A young infant is classified as having PSBI when any one or more of the following signs is 
+present:
+• Not able to feed since birth or stopped feeding well (confirmed by observation) 
+• No movement or movement only on stimulation
+• Convulsions 
+• Fast breathing (60 breaths per minute or more) in infants younger than 7 days of age
+• Severe chest in-drawing 
+• Fever (≥ 38.0 °C) 
+• Low body temperature (< 35.5 °C)
+Clinical signs and symptoms are important predictors of neonatal sepsis, as well as 
+perinatal risk factors, such as prematurity/gestational age. Several scores exist that measure 
+severity of sepsis and help predict short-term mortality, but these are almost all derived in 
+the high-income setting. Scores are used to promptly identify neonates who would benefit 
+the most from optimal antibiotic treatment and supportive care.
+Because of its simplicity, one of the most frequently used scores is the Score for 
+Neonatal Acute Physiology–II (SNAP-II score) (263). This score was developed in 2001 to 
+predict outcomes (usually short-term mortality) in cases of possible neonatal sepsis. It should 
+be noted, however, that this score has not been extensively validated in low- and middleincome countries and therefore there is no clear consensus on its use. Some evidence exists 
+from low- and middle-income country settings that SNAP-II scores differ significantly in 
+neonates with sepsis who survive or die in the short-term irrespective of gestational age 
+(264). The SNAPPE-II score is an extension of the SNAP-II score which includes additional 
+perinatal parameters (263). 
+Sepsis in children beyond neonatal age
+The definition of possible serious bacterial infection outlined in the previous section on 
+neonatal sepsis can also be used beyond neonatal age to children younger than 5 years.
+322The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Other paediatric sepsis definitions in use include:
+• International Pediatric Sepsis Consensus Conference, 2005 (265). Suspected or 
+proven infection caused by any pathogen or clinical syndrome associated with 
+a high probability of infection AND systemic inflammatory response syndrome. 
+Systemic inflammatory response syndrome is defined as abnormal temperature 
+or abnormal white blood cell count AND one of the following age-adjusted signs: 
+tachycardia or bradycardia, tachypnoea and/or mechanical ventilation (266).
+• Paediatric adaptation of the Sepsis-3 adult sepsis definition, including the 
+paediatric version of the Sequential Organ Failure Assessment score (Table 25.1) 
+(267).
+It should be noted that the definition of sepsis does not include the detection of 
+bacteria in blood cultures (i.e. bacteraemia). See Box 25.3 for terms and definitions related 
+to blood stream infections.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book323
+HOSPITAL FACILITY 
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Table 25.1 – Paediatric Sequential Organ Failure Assessment (pSOFA) score
+Parameter Score
+0 1 2 3 4
+PaO2/FiO2, mmHg (kPa) ≥ 400
+(53.3)
+300 - 399
+(40.0 - 53.2)
+200 - 299
+(26.7 - 39.9)
+100 - 199
+(13.3 - 26.6)
+with respiratory 
+support
+< 100
+(13.3)
+with respiratory 
+support
+MAP , mmHg (kPa) 
+by age group (in months) 
+and catecholamine doses 
+needed (µg/kg/min for 
+≥ 1 h)
+< 1 ≥ 46 (6.1) < 46 (6.1) Dopamine < 5
+OR
+Dobutamine any 
+dose
+Dopamine 5.1–15
+OR
+Epinephrine /
+norepinephrine 
+≤ 0.1
+Dopamine >15
+OR
+Epinephrine /
+norepinephrine 
+> 0.1
+1–11 ≥ 55 (7.3) < 55 (7.3) As above As above As above
+12–23 (1–2 years) ≥ 60 (8) < 60 (8) As above As above As above
+24–59 (2–5 years) ≥ 62 (8.2) < 62 (8.2) As above As above As above
+60–143 (6–11 years) ≥ 65 (8.6) < 65 (8.6) As above As above As above
+144–216 (12–18 years) ≥ 67 (8.9) < 67 (8.9) As above As above As above
+continues
+324The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)Table 25.1 continued
+Parameter Score
+0 1 2 3 4
+Platelets, x 103/µL 
+(or x 109/L)
+≥ 150 100 - 149 50 - 99 20 - 49 < 20
+Bilirubin, mg/dL 
+(µmol/L)
+< 1.2 (20) 1.2–1.9 (20–32) 2–5.9 (33–101) 6.0–11.9 102–204) > 12.0 (204)
+Glasgow coma scalea 15 13–14 10–12 6–9 < 6
+Creatinine, mg/dL 
+(µmol/L) by age group 
+(months)
+< 1 < 0.8 (71) 0.8–0.9 (71–80) 1.0–1.1 (88–97) 1.2–1.5 (110–133) ≥ 1.6 (141)
+1–11 < 0.3 (26) 0.3–0.4 (26–35) 0.5–0.7 (44–62) 0.8–1.1 (71–97) ≥ 1.2 (110)
+12–23 (1–2 years) < 0.4 (35) 0.4–0.5 (35–44) 0.6–1.0 (53–88) 1.1–1.4 (97–124) ≥ 1.5 (133)
+24–59 (2-5 years) < 0.6 (53) 0.6–0.8 (53–71) 0.9–1.5 (79–133) 1.6–2.2 (141–195) ≥ 2.3 (203)
+60–143 (6–11 years) < 0.7 (62) 0.7–1.0 (62–88) 1.1–1.7 (97–150) 1.8–2.5 (159–221) ≥ 2.6 (230)
+144–216 (12–18 years) < 1.0 (88) 1.0–1.6 (88–141) 1.7–2.8 (150–247) 2.9–4.1 (256–362) ≥ 4.2 (371)
+FIO2: fractional inspired oxygen; MAP: mean arterial pressure; PaO2: arterial oxygen partial pressure.
+a The Glasgow come scale is a clinical scale used to measure a person’s level of consciousness based on the assessment of three parameters: eye opening response
+(maximum 4 points assigned), best verbal response (maximum 5 points assigned) and best motor response (maximum 6 points assigned). The total score can range from
+3 (completely unresponsive) to 15 (responsive). Scores lower than 8 usually indicate a comatose state. To calculate the Glasgow coma scale, several online calculators exist.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book325
+HOSPITAL FACILITY 
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Box 25.3 – Bacteraemia
+Bacteraemia (i.e. the detection of bacteria in blood cultures) is not part of the definition of sepsis. 
+While many patients with sepsis have bacteraemia, this is not a universal finding and most 
+patients with bacteraemia do not meet sepsis criteria. The term septicaemia should be avoided.
+The terms bacteraemia and bloodstream infection are often used interchangeably. However, 
+bloodstream infections can also be caused by pathogens other than bacteria (e.g. fungi) 
+and are associated with clinical signs and symptoms of inflammatory response. The Global 
+Antimicrobial Resistance Surveillance System (GLASS) uses the following definition of 
+suspected and confirmed bloodstream infection in children and neonates (239).
+GLASS criteria for suspected bloodstream infection in children older than 28 days
+All children (> 28 days–< 18 years) with two or more of the following clinical signs:
+• Hyperthermia (> 38.0 °C) or hypothermia (< 36.0 °C);
+• Respiratory rate > 2 standard deviations above the normal for age (Table 1), or receiving 
+mechanical ventilation for an acute pulmonary process;
+• Heart rate > 2 standard deviations above normal for age (Table 1), or for children < 1 year, 
+mean heart rate < 10th percentile for age.
+Table 1 – Age-specific criteria for suspected bloodstream infection
+Age group Heart rate (beats/min) Respiratory rate (breaths/min)
+1 month–1 year > 180 or < 90 > 34
+2–5 years > 140 > 22
+6–12 years > 130 > 18
+13–18 years > 110 > 14
+GLASS criteria for suspected bloodstream infection in neonates
+All neonates with two or more of the following clinical signs:
+• Temperature ≥ 37.5 °C or < 35.3 °C; 
+• Respiratory rate > 60 breaths/minute or severe chest in-drawing or grunting or cyanosis;
+• Change in level of activity;
+• History of feeding difficulty;
+• History of convulsions.
+GLASS criteria for confirmed bloodstream infection
+• Isolation of a clinically relevant pathogen from a blood sample of a patient (all ages) seeking 
+health care at a health care facility.
+326
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Sepsis in children
+Page 1 of 3
+Diagnosis
+Clinical Presentation
+•U sually signs and symptoms ar e non-speci/g246c
+•F ev er (≥ 38.0 °C ), r espirator y symptoms , tach y car dia, acut e
+alter ed mental status , h ypotension, v omiting
+•D iagnostic tests will be diffe re nt depending on the
+suspec ted sour ce of infec tion
+•Ideally per form tests befor e initiating antibiotics; tests
+should not cause a major delay to the star t of antibiotic
+tr eatmen t
+•T ests for suspec ted sepsis w ould normally include blood ,
+urine and CSF cultur e
+Microbiology Tests
+To Identify a Bacterial Infection:
+•W hite blood coun t
+•C-r eac tiv e pr otein and/or pr ocalcitonin
+To Identify Organ Dysfunction:
+•C omplete blood count with platelets
+•Bilirubin
+•Blood pH and gases
+•Blood ur ea nitr ogen
+•Creatinine
+•E lec tr olytes
+•Glucose
+•W hole blood lac tate
+Tests in bold are required for pSOFA score calculation
+Other LaboratoryTests
+Guided by the suspec ted primar y site of infec tion
+Imaging
+This guideline is intended for children over the age of 1 month up to
+12 years. For children 0-1 month see sepsis in neonates
+•I nternational P ediatric Sepsis C onsensus C onfer ence:
+Suspec ted or pr oven infec tion caused by an y pathogen or
+clinical syndr ome associated with a high pr obability of infec tion
+AND systemic in/g248ammato ry r esponse syndr ome
+•Childr en < 5 y ears of age can be classi/g246ed as having “P ossible
+Serious Ba ct erial Infec tion ”(PSBI) when at least one of the
+following signs is pr esent:
+- Not able to feed since bir th or stopped feeding w ell
+(con/g246rmed by obser vation)
+-C on vulsions
+-F ast br eathing (≥ 60 br eaths per minute)
+-S ev er e chest indrawing
+-F ev er (≥ 38.0 °C )
+-L ow body temperature (< 35.5 °C )
+De/g246nition
+Important: bac teraemia is not par t of the de/g246nition of
+sepsis , while man y patients with sepsis ha ve bac teraemia,
+most patients with bac teraemia do not ful/g246ll sepsis criteria
+Preventing infections includes:
+•V accinations
+•A dequate nutrition
+•Health y living en vir onments (e .g . access to safe water and
+sanitation)
+Preventing evolution of infection to sepsis relies on:
+•T imely diagnosis
+•A dequate tr eatment of the underlying infec tion
+Prevention
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+327
+HOSPITAL FACILITY 
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Sepsis in children
+Page 2 of 3
+De/g246nitions: FiO₂: fractional inspired oxygen; PaO₂: arterial oxygen partial pressure; MAP: mean arterial pressure
+0
+≥ 400
+(53.3)
+≥ 150
+< 1.2 (20)
+15
+≥ 46 (6.1)
+≥ 55 (7.3)
+≥ 60 (8.0)
+≥ 62 (8.2)
+≥ 65 (8.6)
+≥ 67 (8.9)
+Age
+All ages
+All ages
+All ages
+All ages
+<1 mo
+1-11 mo
+1-2 yrs
+2-5 yrs
+6-11 yrs
+12-18 yrs
+1
+300 - 399
+(40.0 - 53.2)
+100 - 149
+1.2 - 1.9
+(20 - 32)
+13 - 14
+< 46 (6.1)
+< 55 (7.3)
+< 60 (8.0)
+< 62 (8.2)
+< 65 (8.6)
+< 67 (8.9)
+2
+200 - 299
+(26.7 - 39.9)
+50 - 99
+2.0 - 5.9
+(33 - 101)
+10 - 12
+Dopamine < 5
+OR
+dobutamine
+any dose
+3
+100 - 199
+(13.3 - 26.6)
+with respiratory
+support
+20 - 49
+6.0 - 11.9
+(102 - 204)
+6 - 9
+Dopamine 5.1–15
+OR
+epinephrine
+(adrenaline)/
+norepinephrine
+≤ 0.1
+4
+< 100
+(13.3)
+with respiratory
+support
+< 20
+> 12.0 (204)
+< 6
+Dopamine > 15
+OR
+epinephrine/
+norepinephrine
+> 0.1
+Parameter
+PaO₂/FiO₂, mmHg (kPa)
+Platelets (x 10³/μL, x 10⁹/L)
+Bilirubin mg/dL (μmol/L)
+Glasgow coma scale
+MAP mmHg (kPa) and
+catecholamine doses
+needed (μg/kg/min for
+≥ 1h)
+Score
+Creatinine mg/dL (μmol/L) <1 mo
+1-11 mo
+1-2 yrs
+2-5 yrs
+6-11 yrs
+12-18 yrs
+< 0.8 (71)
+< 0.3 (26)
+< 0.4 (35)
+< 0.6 (53)
+< 0.7 (62)
+< 1.0 (88)
+0.8 - 0.9
+(71 - 80)
+0.3 - 0.4
+(26 - 35)
+0.4 - 0.5
+(35 - 44)
+0.6 - 0.8
+(53 - 71)
+0.7 - 1.0
+(62 - 88)
+1.0 - 1.6
+(88 - 141)
+1.0 - 1.1
+(88 - 97)
+0.5 - 0.7
+(44 - 62)
+0.6 - 1.0
+(53 - 88)
+0.9 - 1.5
+(79 - 133)
+1.1 - 1.7
+(97 - 150)
+1.7 - 2.8
+(150 - 247)
+1.2 - 1.5
+(110 - 133)
+0.8 - 1.1
+(71 - 97)
+1.1 - 1.4
+(97 - 124)
+1.6 - 2.2
+(141 - 195)
+1.8 - 2.5
+(159 - 221)
+2.9 - 4.1
+(256 - 362)
+≥ 1.6 (141)
+≥ 1.2 (110)
+≥ 1.5 (133)
+≥ 2.3 (203)
+≥ 2.6 (230)
+≥ 4.2 (371)
+Paediatric Sequential Organ Failure Assessment (pSOFA) Score
+•Sepsis can originate from
+any type of infection in any
+organ system; it is most
+commonly caused by
+bacteria
+•Hospital-acquired infections
+have a higher risk of being
+caused by multidrugresistant organisms
+•Sepsis related with malaria
+and viral haemorrhagic fevers
+should always be considered
+in endemic settings
+•Consider sepsis related with
+respiratory viruses
+*Including multi-drug resistant strains such as those producing ESBL and carbapenemases
+**Mostly sub-Saharan Africa, < 5 years with recent malaria, anaemia, malnutrition or HIV
+Bacteria Most Frequently Identi/g246ed in Blood Cultures in Children with Sepsis
+High
+Income Setting
+•Streptococcus pneumoniae
+•Streptococcus pyogenes
+•Staphylococcus aureus
+•Neisseria meningitidis
+•Gram-negative bacilli (mostly
+Escherichia coli Klebsiella, spp.)*
+• spp.*Klebsiella
+•*Escherichia coli
+• (includingStaphylococcus aureus
+MRSA)
+•Other Gram-negative bacteria
+• spp.Enterococcus
+Low and Middle
+Income Setting
+•Gram-negative bacilli (mostly
+Escherichia coli Klebsiella, spp.)*
+•T yphi and ParatyphiSalmonella
+•Invasive non-typhoidal **Salmonella
+•Streptococcus pneumoniae
+•Streptococcus pyogenes
+•Staphylococcus aureus
+•Neisseria meningitidis
+•t ype bHaemophilus in/g248uenzae
+• spp.*Klebsiella
+•*Escherichia coli
+• (includingStaphylococcus aureus
+MRSA)
+•Other Gram-negative bacteria
+• spp.Enterococcus
+Community
+Acquired
+Hospital
+Acquired
+328
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Sepsis in children
+Page 3 of 3
+Ceftriaxone 80 mg/kg/dose q24h IV
+----------------------------------- -----------------------------------OR
+Cefotaxime 50 mg/kg/dose q8h IV
+Treatment
+•7 days
+•i n case of meningitis14 days
+Duration may vary according to underlying condition
+responsible for sepsis
+Antibiotic Treatment Duration
+Clinical Considerations
+•Start IV antibiotics as soon as possible if sepsis is
+suspected; results of tests should not delay antibiotics
+•Choose treatment based on most likely infection site and
+infecting pathogens, local prevalence of antibiotic
+resistance, comorbidities, and risk of infection with
+multidrug-resistant organisms; if susceptibilities &
+pathogen are known, review and adapt antibiotics
+Referral to Hospital Possible
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+First Choice
+----------------------------- -----------------------------OR
+Benzylpenicillin 30 mg/kg/dose
+(50 000 IU/kg/dose) q8h IV
+Ampicillin 50 mg/kg/dose q8h IV
+---------------------- ----------------------COMBINED WITH
+Gentamicin 7.5 mg/kg/dose q24h IV
+Second Choice
+----------------------------------- -----------------------------------OR
+---------------------- ----------------------COMBINED WITH
+Amikacin 15 mg/kg/dose q24h IV
+Cloxacillin 25 mg/kg/dose q6h IV
+Cloxacillin is a useful second-choice option when an
+infection caused by S. aureus is suspected (in community
+settings with high MRSA prevalence, consider
+vancomycin instead). If cloxacillin is unavailable, any
+other IV antistaphylococcal penicillin could be used
+Amikacin would mostly be used as a treatment for
+infections caused by Gram-negative bacteria and when
+antibiotic-resistant bacteria are suspected
+In settings with high prevalence of resistance, particularly for
+suspected health care-associated infections, a broad-spectrum
+antibiotic with activity against Gram-negative bacteria should
+also be considered (e.g. piperacillin+tazobactam)
+All dosages are for normal renal function
+Referral to Hospital Not Possible
+Amoxicillin 50 mg/kg/dose ORAL
+•0-2 months: q12h
+•> 2 months: q8h
+---------------------- ----------------------COMBINED WITH
+Gentamicin 7.5 mg/kg/dose q24h IM
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+329
+HOSPITAL FACILITY 
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Sepsis in neonates
+Page 1 of 3
+Diagnosis
+Clinical Presentation
+A serious systemic condition of infec tious origin (usually
+bac terial) associated with a combination of clinical and
+laborator y signs that occurs in the /g246rst month of lif e
+Commonly Used Classi/g246cations:
+•By timing of clinical onset:
+-: Occurring ≤3 days after bir th, ofte nEarly onset sepsis
+acquir ed ve r tically or in peripar tum period
+-: Occurring > 3 days after bir th, ofte nLate onset sepsis
+hospital acquir ed
+•By setting of acquisition:
+- Community-acquired
+- Hospital-acquired
+Alternative De/g246nition:
+•A y oung infant is classi/g246ed as having “P ossible Serious Ba ct erial
+In fec tion ”(PSBI) when at least one of the following signs is
+pr esent:
+- Not able to feed since bir th or stopped feeding w ell
+(con/g246rmed by obser vation)
+-C on vulsions
+-F ast br eathing (≥ 60 br eaths per minute)
+-S ev er e chest indrawing
+-F ev er (≥ 38.0 °C )
+-L ow body temperature (< 35.5 °C )
+De/g246nition
+•U sually signs and symptoms ar e non-speci/g246c
+•H ypothermia (< 35.5 °C ) or fev er (≥ 38.0 °C ), sev er e chest
+indrawing , tach y car dia, poor feeding , r educed spontaneous
+mov ements , h ypotension, v omiting
+•M or e rar ely irritabilit y, diarrhea, abdominal distention,
+convulsions
+•D iagnostic tests will be diffe re nt depending on the
+suspec ted sour ce of infec tion
+•Ideally per form tests befor e initiating antibiotics; tests
+should not cause a major delay to the star t of antibiotic
+tr eatmen t
+•T ests for suspec ted sepsis in y oung infants w ould normally
+include blood , urine and cultur e of the cer ebr ospinal /g248uid
+( CSF)
+Microbiology Tests
+To Identify a Bacterial Infection:
+•W hite blood coun t
+•C-r eac tiv e pr otein and/or pr ocalcitonin
+To Identify Organ Dysfunction:
+•C omplete blood count with platelets
+•Bilirubin
+•Blood pH and gases
+•Blood ur ea nitr ogen
+•C re atinine
+•E lec tr olytes
+•Glucose
+•W hole blood lac tate
+Other LaboratoryTests
+Guided by the suspec ted primar y site of infec tion
+Imaging
+This guideline is intended for infants under the age of 1 month
+Preventing infections includes:
+•V accinations
+•A dequate nutrition
+•Health y living en vir onments (e .g . access to safe water and
+sanitation)
+Preventing evolution of infection to sepsis relies on:
+•T imely diagnosis
+•A dequate tr eatment of the underlying infec tion
+Prevention
+Important: bac teraemia is not par t of the de/g246nition of
+sepsis , while man y patients with sepsis ha ve bac teraemia,
+most patients with bac teraemia do not ful/g246ll sepsis criteria
+330
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Sepsis in neonates
+Page 2 of 3
+•Sepsis can originate from
+any type of infection in any
+organ system; it is most
+commonly caused by
+bacteria
+•Hospital-acquired infections
+have a higher risk of being
+caused by multidrugresistant organisms
+•Sepsis related with malaria
+and viral haemorrhagic fevers
+should always be considered
+in endemic settings
+•Consider sepsis related with
+respiratory viruses
+*Including multidrug-resistant strains such as those producing ESBL and carbapenemases
+Pathogens Most Frequently Identi/g246ed in Blood Cultures in Neonates with Sepsis
+High
+Income Setting
+•*Escherichia coli
+• (includingStaphylococcus aureus
+MRSA)
+•Streptococcus agalactiae
+•*Escherichia coli
+• spp.*Klebsiella
+• (includingStaphylococcus aureus
+MRSA)
+•Other Gram-negative bacteria*
+• spp.Enterococcus
+Low and Middle
+Income Setting
+•*Escherichia coli
+• (includingStaphylococcus aureus
+MRSA)
+• spp.*Klebsiella
+More rare
+• spp.*Acinetobacter
+•Streptococcus agalactiae
+•Streptococcus pyogenes
+•Streptococcus pneumoniae
+• spp.*Klebsiella
+•*Escherichia coli
+• spp.*Acinetobacter
+• (includingStaphylococcus aureus
+MRSA)
+•Other Gram-negative bacteria*
+• spp.Enterococcus
+Community
+Acquired
+Hospital
+Acquired
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+331
+HOSPITAL FACILITY 
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Sepsis in neonates
+Page 3 of 3
+Treatment
+•7 days
+•i n c ase of meningitis14 days
+Duration ma y va ry a ccording to u nderlying c ondition
+r esponsible fo r sepsis
+Antibiotic Treatment Duration
+Clinical Considerations
+•S tar t IV antibiotics as soon as possible if sepsis is
+suspec ted; r esults of tests should not delay antibiotics
+•Choose tr eatment based on most likely infec tion site and
+infec ting pathogens , local pr evalence of antibiotic
+r esistanc e, comorbidities , and risk of infec tion with
+multidrug-r esistant organisms; if susceptibilities &
+pathogen ar e kn own, r eview and adapt antibiotics
+Referral to Hospital Possible
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+First Choice
+Ampicillin 50 mg/kg/dose IV
+•≤1wk of life: q12h
+•>1wk of life: q8h
+Important:
+•Simplify empiric tr eatment to a mor e
+narr owspec trum antibiotic based on cultur e r esults or
+rapid clinical impr ovement if culture results
+unavailable
+•Step down to oral treatment is based on
+impr ovement of symptoms, signs of infec tion and the
+ability to take oral antibiotics
+•C onsider giving ampicillin AND gentamicin for 2 days if
+signi/g246cant risk fac tors for infec tion as follows :
+-M embranes ruptur ed > 18 hours befor e deliv er y
+-M other had feve r≥38.0 °C befor e deliv er yo r during labour
+-A mniotic /g248uid was foul smelling or purulen t
+Prophylactic Antibiotics
+All dosages are for normal renal function
+Referral to Hospital Not Possible
+---------------------- ----------------------COMBINED WITH
+Gentamicin 5 mg/kg/dose q24h IM
+Amo xicillin 50 mg/kg/dose q12h ORAL
+Ce ftriax one 80 mg/kg/dose q24h IV
+----------------------------------- -----------------------------------OR
+Ce fotaxime 50 mg/kg/dose q8h IV
+Second Choice
+----------------------------------- -----------------------------------OR
+---------------------- ----------------------COMBINED WITH
+Amik acin 15 mg/kg/dose q24h IV
+Clo xacillin 25-50 mg/kg/dose q12h IV
+Cloxacillin is a useful second-choice option when an
+infection caused by S. aureus is suspected (in community
+settings with high MRSA prevalence, consider
+vancomycin instead). If cloxacillin is unavailable, any
+other IV antistaphylococcal penicillin could be used
+Amikacin would mostly be used as a treatment for
+infections caused by Gram-negative bacteria and when
+antibiotic-resistant bacteria are suspected
+In settings with high prevalence of resistance, particularly for
+suspected health care-associated infections, a broad-spectrum
+antibiotic with activity against Gram-negative bacteria should
+also be considered (e.g. piperacillin+tazobactam)
+----------------------------- -----------------------------OR
+Benz ylpenicillin 30 mg/kg/dose
+(50 000 IU/kg/dose) q8h IV
+---------------------- ----------------------COMBINED WITH
+Gentamicin 5 mg/kg/dose q24h IV
+332The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Pathophysiology
+Sepsis is an acute life-threatening condition characterized by organ dysfunction/s due to a 
+dysregulated host response to infection and to the direct effect of the pathogen (268).
+A combination of factors contributes to the clinical manifestation and severity of 
+sepsis. Severity of sepsis depends on a combination of the amount and virulence of the 
+pathogen and the immune status of the host, for example, immunological immaturity or 
+dysfunction in preterm neonates, severe malnutrition and HIV infection. In addition, the 
+timing of exposure to the pathogen plays an important role in neonates. In this age group, 
+early-onset sepsis is usually associated with in utero infections (e.g. chorioamnionitis) or 
+infections caused by pathogens that colonize the maternal genital tract and that can be 
+acquired during delivery. Late-onset sepsis is more commonly associated with postnatal 
+acquisition of community- or health care-associated pathogens.
+Sepsis in neonates has a non-specific clinical presentation and many neonates with 
+suspected sepsis who receive antibiotics do not have sepsis and do not have any significant 
+infection. This should be considered when sepsis is suspected to avoid over-diagnosis and 
+overtreatment.
+Beyond the neonatal age, sepsis in children can also be a primary bacterial 
+bloodstream infection (e.g. meningococcal or pneumococcal sepsis), most commonly 
+community-acquired. Sepsis in children may also be the result of an underlying infection 
+in a particular site (e.g. pyelonephritis, intra-abdominal infection or meningitis) or a health 
+care-acquired infection. 
+Epidemiology
+In 2015, about 6 million children younger than 5 years were estimated to have died, mostly in 
+sub-Saharan Africa and southern Asia (122). Neonates account for about half of the deaths in this 
+age group. Overall, about 2.7 million neonates died in 2015 and of these, about 400 000 were 
+estimated to be the result of sepsis or meningitis, and 517 000 children younger than 5 years 
+died from sepsis or meningitis. Sepsis is the third leading cause of death in neonates after 
+prematurity and birth asphyxia, both of which are associated with maternal infections such 
+as chorioamnionitis (122). Premature birth (< 37 weeks of gestation) and low birth weight 
+are the main risk factors for neonatal sepsis and are associated with higher mortality. In 
+early onset sepsis, additional risk factors are: intra-amniotic infections (i.e. chorioamnionitis); 
+prolonged rupture of the membranes (> 18 hours); and maternal rectovaginal colonization 
+with specific pathogens, such as group B streptococci ( Streptococcus agalactiae). Neonates 
+with underlying disease such as congenital malformations, or those undergoing invasive 
+procedures, or those with central or peripheral catheters, or those undergoing surgical 
+procedures or those with prolonged hospital stays are also at increased risk of sepsis.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book333
+HOSPITAL FACILITY 
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Most likely pathogens
+Sepsis can be caused by a variety of pathogens including fungi and viruses, although it 
+is most commonly caused by bacteria (268). Differences in causative pathogens may be 
+present based on the age of the child, presence or absence of underlying comorbidities and 
+type of comorbidity, and geographical location, such as children in high-income versus low- 
+and middle-income settings. Pathogens most frequently associated with sepsis in neonates 
+28 days or younger are shown in Table 25.2. Pathogens most frequently associated with 
+sepsis in children beyond the neonatal age are shown in Table 25.3.
+Table 25.2 – Bacteria most frequently identified in blood cultures in neonates 28 
+days or younger with sepsis (also refer to Box 25.3 on bacteraemia)
+Setting Infection acquired in the community Infection acquired in 
+hospital
+Low and 
+middle 
+income
+Most common
+Escherichia coli (including multidrug-resistant 
+strains such as those producing ESBL)
+Staphylococcus aureus (including MRSA)
+Klebsiella spp. (including multidrug-resistant 
+strains)
+Streptococcus agalactiae (group B Streptococcus)
+More rarely 
+Staphylococcus spp. (other than Staphylococcus 
+aureus)
+Acinetobacter spp. (including multidrugresistant strains)
+Streptococcus pyogenes (group A Streptococcus) 
+Streptococcus pneumoniae
+Listeria monocytogenes 
+Haemophilus influenzae
+Gram-negative bacteria other than Escherichia 
+coli, Klebsiella spp. and Acinetobacter spp.
+Enterococcus spp.
+Invasive non-typhoidal Salmonella
+Klebsiella spp. 
+Escherichia coli
+Acinetobacter spp. 
+(including multidrugresistant strains)
+Staphylococcus aureus 
+(including MRSA)
+Gram-negative bacteria 
+other than Escherichia coli 
+and Klebsiella spp. and 
+Acinetobacter spp. 
+Enterococcus spp.
+continues
+334The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Table 25.2 continued
+Setting Infection acquired in the community Infection acquired in 
+hospital
+High 
+income 
+Most common
+Escherichia coli (including multidrug-resistant 
+strains such as those producing ESBL)
+Staphylococcus aureus (including MRSA)
+Streptococcus agalactiae (group B Streptococcus) 
+More rarely 
+Staphylococcus spp. (other than Staphylococcus 
+aureus)
+Listeria monocytogenes 
+Haemophilus influenzae
+Escherichia coli (including 
+multidrug-resistant strains 
+such as those producing 
+ESBL)
+Klebsiella spp. (including 
+multidrug-resistant strains 
+such as those producing 
+ESBL and carbapenemases)
+Staphylococcus aureus 
+(including MRSA)
+Gram-negative bacteria 
+other than Escherichia coli 
+and Klebsiella spp.
+Enterococcus spp.
+ESBL: extended-spectrum beta-lactamases; MRSA: methicillin-resistant Staphylococcus aureus.
+Note. As indicated in the definition section, the distinction between neonatal sepsis acquired in the community 
+and in the hospital is usually used in low- and middle-income settings, but neonatal sepsis can also be classified 
+as early or late onset based on the time of onset of sepsis (counting days after delivery). The purpose of both 
+classifications is to help identify the most likely causative pathogens, however, overlap may exist in some settings; 
+for example, Acinetobacter spp. is associated with early-onset sepsis in some settings.
+Hospital-acquired infections have a higher risk of being caused by multidrug-resistant organisms.
+Only bacteria are listed in the table. Other pathogens to consider are viruses (mostly herpes simplex virus and 
+enteroviruses) and fungi (mostly Candida spp.).
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book335
+HOSPITAL FACILITY 
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Table 25.3 – Bacteria most frequently identified in blood cultures in children older 
+than 28 days with sepsis (also refer to Box 25.3 on bacteraemia)
+Setting Infection acquired in the community Infection acquired in hospital
+Low and 
+middle 
+income
+Gram-negative bacteria (mostly 
+Escherichia coli, Klebsiella spp. including 
+multidrug-resistant strains such as those 
+producing ESBL and carbapenemases)
+Salmonella Typhi and Paratyphi (causing 
+enteric fever) 
+Invasive non-typhoidal Salmonella (mainly 
+in sub-Saharan Africa in children < 5 years 
+with recent/acute Plasmodium falciparum 
+malaria, anaemia, malnutrition, or HIV)
+Streptococcus pneumoniae
+Streptococcus pyogenes (group A 
+Streptococcus)
+Staphylococcus aureus 
+Neisseria meningitidis
+Haemophilus influenzae type b
+Klebsiella spp. (including multidrugresistant strains such as those 
+producing ESBL and carbapenemases)
+Escherichia coli (including multidrugresistant strains such as those 
+producing ESBL and carbapenemases)
+Staphylococcus aureus (including MRSA)
+Gram-negative bacteria other than 
+Escherichia coli and Klebsiella spp. 
+(including multidrug-resistant strains 
+such as those producing ESBL and 
+carbapenemases)
+Enterococcus spp.
+High 
+income 
+Streptococcus pneumoniae
+Streptococcus pyogenes (group A 
+Streptococcus)
+Staphylococcus aureus
+Neisseria meningitidis 
+Gram-negative bacteria (mostly 
+Escherichia coli, Klebsiella spp. including 
+multidrug-resistant strains such as those 
+producing ESBL and carbapenemases)
+Klebsiella spp.
+Escherichia coli
+(including multidrug-resistant strains 
+such as those producing ESBL and 
+carbapenemases)
+Staphylococcus aureus (including MRSA)
+Gram-negative bacteria other than 
+Escherichia coli and Klebsiella spp. 
+(including multidrug-resistant strains 
+such as those producing ESBL and 
+carbapenemases)
+Enterococcus spp.
+ESBL: extended-spectrum beta-lactamases; MRSA: methicillin-resistant Staphylococcus aureus.
+Note. Hospital-acquired infections have a higher risk of being caused by multidrug-resistant organisms.
+Only bacteria are listed in the table. Other pathogens to consider are viruses (mostly herpes simplex virus and 
+enteroviruses) and fungi (mostly Candida spp.).
+336The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Clinical presentation
+The clinical presentation can vary according to the age of the child but usually signs 
+and symptoms are non-specific. In general, to identify the underlying clinical infection, 
+knowledge of local patterns of infections is helpful. Dengue and malaria related sepsis 
+should also be considered in endemic settings (269).
+Neonates with sepsis commonly present with a combination of hyper- or 
+hypothermia (temperature ≥ 38.0 °C or < 35.5 °C), severe chest indrawing, tachycardia, 
+poor feeding, reduced spontaneous movements, hypotension and vomiting. More rarely 
+irritability, diarrhoea, abdominal distention and/or seizures may be present. Fast breathing 
+alone is not a strongly predictive sign of sepsis. 
+In children beyond neonatal age, the most frequent signs and symptoms 
+include fever (≥ 38.0 °C), respiratory symptoms, tachycardia, acute altered mental status, 
+hypotension and vomiting. 
+The presence of any danger signs of illness (Box 25.4) requires prompt referral for 
+further evaluation.
+Box 25.4 – Danger signs of illness in newborns and young infants
+WHO recommendations in newborn health, 2017 (261) 
+• stopped feeding well
+• history of convulsions
+• fast breathing 
+• severe chest indrawing
+• no spontaneous movement
+• temperature > 37.5 °C or < 35.5 °C
+• any jaundice in the first 24 hours of life or yellow palms and soles at any age
+WHO pocket book of hospital care for children, 2013 (31) 
+• not feeding well
+• convulsions
+• drowsy or unconscious
+• movement only when stimulated or no movement at all
+• fast breathing (60 breaths/minute)
+• grunting
+• severe chest indrawing
+• raised temperature, > 38.0 °C
+• hypothermia, < 35.5 °C
+• central cyanosis
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book337
+HOSPITAL FACILITY 
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Laboratory tests 
+Patient microbiology tests
+Microbiology tests help establish a definitive diagnosis of sepsis and identify the causative 
+pathogen and underlying infection. Isolating a pathogen from a normally sterile body site 
+(e.g. blood, cerebrospinal fluid) that is compatible with the clinical signs and symptoms 
+usually confirms diagnosis. A septic screen in young infants would normally include culture 
+of blood, urine and cerebrospinal fluid, and a chest X-ray may be considered.
+Diagnostic tests should be guided by the suspected primary site of infection and 
+will be different for pneumonia, meningitis or sepsis of unknown origin. Please also refer to 
+specific chapters of the AWaRe book based on the suspected underlying infection.
+Tests to consider when sepsis of bacterial origin is suspected are indicated in Table 
+25.4. Ideally, these tests should be done before starting antibiotic treatment, but treatment 
+should not be delayed in a very unwell child.
+Table 25.4 – Microbiology tests to consider when sepsis in suspected depending 
+on the most likely source of infection as indicated in the WHO EDL (6)
+Suspected 
+underlying 
+infectiona
+Diagnostic test Purpose of the test Settings where 
+the test should 
+be available
+All cases 
+where sepsis is 
+suspected
+Blood culture 
+and antimicrobial 
+susceptibility 
+testing
+To detect bacterial 
+bloodstream infections
+Health care 
+facilities 
+with clinical 
+laboratories
+Urinary tract 
+infection
+Urine culture and 
+antimicrobial 
+susceptibility 
+testing
+Initial step to detect 
+and identify bacterial 
+and fungal species for 
+selection of appropriate 
+antimicrobial regimens
+Health care 
+facilities 
+with clinical 
+laboratories
+Meningitis Cerebrospinal 
+fluid: Gram stain, 
+bacterial cultureb 
+and antimicrobial 
+susceptibility 
+testing
+Initial step to detect 
+and identify bacterial 
+and fungal species for 
+selection of appropriate 
+antimicrobial regimens
+Health care 
+facilities 
+with clinical 
+laboratories
+continues
+338The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Table 25.4 continued
+Suspected 
+underlying 
+infectiona
+Diagnostic test Purpose of the test Settings where 
+the test should 
+be available
+Diarrhoeal 
+disease, enteric 
+feverc
+Stool culture and 
+antimicrobial 
+susceptibility 
+testing
+Initial step to detect 
+and identify bacterial 
+species for selection of 
+appropriate antibiotic 
+regimens
+Health care 
+facilities 
+with clinical 
+laboratories
+Abscess (e.g. in 
+the context of 
+intra-abdominal 
+infections, skin 
+and soft-tissue 
+infections, dental 
+infections)
+Culture and 
+antimicrobial 
+susceptibility 
+testing of abscess 
+and/or fluid 
+collections that can 
+be drained
+Initial step to detect 
+and identify bacterial 
+and fungal species for 
+selection of appropriate 
+antimicrobial regimens
+Health care 
+facilities 
+with clinical 
+laboratories
+EDL: Model List of Essential In Vitro Diagnostics.
+a Additional tests may be considered in endemic settings or after travel to endemic settings (e.g. malaria, viruses 
+causing viral haemorrhagic fevers). 
+b Even though cerebrospinal fluid culture is rarely done, it is a very important test to perform. 
+c If enteric fever is suspected, note that stool cultures have a low sensitivity and are not useful in the early phase 
+(first week) of disease when the test is often negative.
+Other tests
+Laboratory tests can be used to complement the clinical examination and history to 
+determine the likelihood of an underlying bacterial infection (Table 25.5) and the presence 
+and severity of acute organ dysfunction (Table 25.6). Both tables include tests that can be 
+considered based on local laboratory availability and local protocols.
+Table 25.5 – Laboratory tests (other than microbiology) to consider when sepsis in 
+suspected to identify a bacterial infection as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test should 
+be available
+White blood count To help in the diagnosis of 
+infections
+Health care facilities with 
+clinical laboratories and also in 
+primary care settings
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book339
+HOSPITAL FACILITY 
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Table 25.5 continued
+Diagnostic test Purpose of the test Settings where the test should 
+be available
+C-reactive protein To detect inflammation as an 
+indicator of various conditions 
+(e.g. sepsis)
+Health care facilities with 
+clinical laboratories
+Procalcitonina To guide antibiotic therapy or 
+discontinuation in sepsis
+Only in tertiary and higher 
+health care facilities
+EDL: Model List of Essential In Vitro Diagnostics.
+a Procalcitonin is not widely available and has only moderate accuracy for the diagnosis of sepsis in neonates with 
+suspected sepsis at the cut-off of 2.0–2.5 ng/mL; different cut-offs in neonates with early- versus late-onset sepsis 
+may be necessary (270). Procalcitonin may possibly have a higher sensitivity and specificity than C-reactive protein, 
+(271). A combination of both tests may improve the accuracy of diagnosis of neonatal sepsis (272).
+Table 25.6 – Laboratory tests (other than microbiology) to consider when sepsis in 
+suspected to identify organ dysfunction as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test should 
+be available
+Bilirubin To detect or monitor liver 
+disease, bile duct disorders and 
+red cell destruction
+Health care facilities with 
+clinical laboratories
+Blood pH and gases To assess lung function, 
+metabolic or kidney disorders 
+and monitor oxygen therapy
+Health care facilities with 
+clinical laboratories
+Blood urea nitrogen To assess kidney function Health care facilities with 
+clinical laboratories
+Creatinine To monitor kidney function 
+for management of severe 
+infections (i.e. sepsis,) and to 
+adjust antimicrobial regimen
+Health care facilities with 
+clinical laboratories
+Electrolytes To monitor fluid, electrolyte and 
+acid–base balance
+Health care facilities with 
+clinical laboratories
+Glucose To diagnose intermediate 
+hyperglycaemia and 
+hypoglycaemia
+Health care facilities with 
+clinical laboratories and also in 
+primary care settings
+continues
+340The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Table 25.6 continued
+Diagnostic test Purpose of the test Settings where the test should 
+be available
+Platelet count To diagnose thrombocytopenia 
+or thrombocytosis.
+This is a marker to manage 
+severe infections associated with 
+sepsis (e.g. viral haemorrhagic 
+fever, meningococcaemia)
+Health care facilities with 
+clinical laboratories
+Whole blood lactate To assess metabolic acidosis Health care facilities with 
+clinical laboratories
+EDL: Model List of Essential In Vitro Diagnostics.
+Using microbiology surveillance data 
+Targeted clinical microbiology surveys of neonates and children with confirmed sepsis, 
+including clinical presentation and infection focus, underlying disease, bloodstream isolate 
+and resistance phenotype, antibiotic treatment and clinical outcome, may be helpful at a 
+local and national level to inform empiric guidance.
+Imaging
+If available, imaging studies should be guided by the suspected primary site of infection as 
+for microbiological sampling. Please also refer to specific chapters of the AWaRe book based 
+on the suspected underlying infection. When sepsis is suspected and respiratory distress is 
+present, a chest X-ray is indicated to confirm a lower respiratory tract infection that may not 
+always be clinically obvious.
+If an abdominal source of infection is suspected, an abdominal ultrasound could 
+be considered. As an alternative and if available, a CT scan of the abdomen could also be 
+considered; however, limiting exposure to radiation should always be considered, especially 
+in young children. If sepsis caused by an infection of the urinary tract is suspected, initial 
+imaging (e.g. ultrasound) of the urinary tract or during follow-up could be considered if an 
+outflow obstruction or collection are suspected.
+Antibiotic treatment
+Antibiotic treatment should be started as soon as possible when sepsis is suspected. 
+Performance and results of laboratory and microbiology tests should not delay the first dose 
+of antibiotic treatment.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book341
+HOSPITAL FACILITY 
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Even though the presence of perinatal risk factors (prematurity, prolonged rupture 
+of membranes) often leads to early empiric antibiotic use in babies, there is good evidence 
+that these risk factors alone do not reliably predict neonatal sepsis. Therefore, antibiotic 
+treatment should generally be started in newborn infants based on a combination of clinical 
+and laboratory signs. In neonates with significant risk factors for infection – for example, 
+membranes ruptured > 18 hours before delivery, mother had fever ≥ 38.0 °C before delivery 
+or during labour, or amniotic fluid was foul smelling or purulent – prophylactic antibiotics 
+(ampicillin and gentamicin) should be given for only 2 days. The neonate should be 
+reassessed after 2 days and treatment continued only if there are signs of sepsis or a positive 
+blood culture (261).
+Empiric treatment (see Table 25.7) should always cover the most probable causative 
+pathogens, namely:
+• in neonates: Gram-negative bacteria, Staphylococcus aureus, Group B Streptococcus;
+• in children beyond the neonatal age: Gram-negative bacteria, Streptococcus 
+pneumoniae, Staphylococcus aureus and Neisseria meningitidis.
+Simplify empiric treatment to a more narrow-spectrum antibiotic (often also called 
+de-escalation) based on culture results if a pathogen is isolated (targeted treatment). When 
+no organism is identified, antibiotic treatment should be guided by available laboratory 
+results and clinical response. Simplification of empiric antibiotic regimens for low-risk 
+neonates, using two doses of parenteral gentamicin combined with oral amoxicillin, is 
+being implemented in primary health care settings. 
+In malaria-endemic areas, in a child with shock or severe illness and decreased 
+alertness, it is often difficult to differentiate between severe Plasmodium falciparum malaria 
+and invasive bacterial infection (often caused by invasive non-typhoidal Salmonella), and 
+co-infections are not uncommon. In all such cases, empiric parenteral broad-spectrum 
+antibiotics should be started immediately, together with antimalarial treatment (273).
+342The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Table 25.7 – Empiric antibiotic treatment for community-acquired sepsis of 
+bacterial origin in neonates and children
+Note
+An update of WHO guidelines for the treatment of neonatal sepsis is ongoing at the date of 
+publication of the AWaRe book. Please regularly check the WHO website for news on this topic.
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Referral to hospital 
+possible
+Referral to hospital not 
+possible (262)
+Total treatment 
+duration
+First 
+choicea
+ Ampicillin (IV): 50 mg/kg/
+dose:
+• Given every 12 hours 
+(first week of life)
+• Given every 8 hours 
+(> first week of life)
+AND Gentamicin (IV):
+• Neonates: 5 mg/kg/dose 
+given once a day
+• Children: 7.5 mg/kg/dose 
+given once a day
+OR
+ Benzylpenicillin (IV): 
+50 000 IU/kg/dose (30 mg/
+kg/dose) given every 8 hours
+AND Gentamicin (IV):
+• Neonates: 5 mg/kg/dose 
+given once a day
+• Children: 7.5 mg/kg/dose 
+given once a day
+ Amoxicillin (oral): 50 mg/
+kg/dose:
+• Given every 12 hours 
+(infants 0-2 months)
+• Given every 8 hours 
+(> 2 months)
+AND Gentamicin (IM): 
+• Neonates: 5 mg/kg/dose 
+given once a day
+• Children: 7.5 mg/kg/dose 
+given once a day
+7 days (14 
+days in case of 
+meningitis)
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book343
+HOSPITAL FACILITY 
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Table 25.7 continued
+Referral to hospital 
+possible
+Referral to hospital not 
+possible (262)
+Total treatment 
+duration
+Second 
+choiceb
+ Cefotaxime b (IV): 50 mg/
+kg/dose given every 8 hours
+OR
+ Ceftriaxone b,c (IV): 80 mg/
+kg/dose given once a day
+OR
+ Cloxacillin d,e (IV):
+• Neonates: 25–50 mg/kg/
+dose given every 12 hours
+• Children: 25 mg/kg/dose 
+given every 6 hours
+AND
+ Amikacin f (IV): 15 mg/kg/
+dose given once a day
+No specific option is 
+indicated in the EML and 
+EMLc as second choice 
+option when referral to 
+hospital is not possible.
+7 days 
+EML: Model List of Essential Medicines; EMLc: Model List of Essential Medicines for children; IM: intramuscular; IU: 
+international units; IV: intravenous; MRSA: methicillin-resistant Staphylococcus aureus.
+Note. All dosages are for normal renal and hepatic function. 
+a To cover for Listeria monocytogenes and Gram-negative bacteria.
+b In settings with high resistance, particularly for suspected health care-associated infections, a broad-spectrum 
+antibiotic with activity against Gram-negative bacteria should also be considered (e.g. piperacillin+tazobactam). Of 
+note, empiric treatment with third-generation cephalosporins (ceftriaxone/cefotaxime) may be more appropriate 
+in settings where invasive non-typhoidal Salmonella are a major cause of bloodstream infection. The reason is 
+that (i) > 85% of non-typhoidal Salmonella are multidrug-resistant, which includes ampicillin resistance and (ii) 
+aminoglycosides have reduced clinical effectiveness in invasive non-typhoidal Salmonella infections.
+c Ceftriaxone should not be used in neonates with hyperbilirubinaemia and should not be administered with 
+calcium. Age restriction: use only in neonates of > 41 weeks corrected gestational age.
+d Cloxacillin is a useful second-choice option when an infection caused by Staphylococcus aureus is suspected; 
+the presence of extensive skin pustules, abscess or omphalitis (i.e. infection of the umbilicus and/or surrounding 
+tissues) may suggest a staphylococcal infection. Of note, in community setting with high prevalence of MRSA, 
+vancomycin should be considered instead of cloxacillin. 
+e If cloxacillin is unavailable, any other IV antistaphylococcal penicillin could be used. 
+f Gentamicin can be used when amikacin is not available. Amikacin (or gentamicin) would mostly be used as a 
+treatment for infections caused by Gram-negative bacteria and when antibiotic-resistant bacteria are suspected. 
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+344The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+25. Sepsis in neonates (< 28 days) and children (28 days–12 years)
+Prevention
+Sepsis rates can be reduced by preventing infection and by preventing the progression of 
+infection to sepsis. Infections can be prevented in the community with good hygiene, safe 
+water and sanitation, safe food preparation, good nutrition and vaccinations (Table 25.8). 
+To prevent neonatal sepsis, infection prevention and control practices in hospital neonatal 
+units and labour rooms are essential. The main ways to prevent the progression of infections 
+to sepsis include prompt and adequate medical care including appropriate antibiotic 
+treatment of the underlying infection.
+Table 25.8 – Vaccinations to consider to prevent certain infections
+Vaccinationa Population where the vaccine should be 
+considered
+Haemophilus influenzae type b 
+vaccination (36)
+All children should be vaccinated with Haemophilus 
+influenzae type b conjugate vaccines.
+Meningococcal vaccination 
+(36,236)
+Countries with high (> 10 cases per 100 000 population/
+year) or intermediate (2–10 cases per 100 000 
+population/year) incidence of meningococcal disease or 
+with frequent epidemics: all individuals aged 1–29 years 
+(including pregnant women) should be vaccinated with 
+the meningococcal A conjugate vaccine.
+Countries with low incidence of meningococcal disease 
+(< 2 cases per 100 000 population/year): vaccination 
+only for defined high-risk groups such as children and 
+young adults or individuals with immunodeficiency. 
+The choice of the recommended vaccine depends on 
+the local prevalence of the meningococcal serogroups.
+Pneumococcal vaccination (35) All children should be vaccinated with pneumococcal 
+conjugate vaccines.
+Salmonella Typhi vaccination (154) Individuals living in countries with a high burden of 
+enteric fever or a high burden of antibiotic-resistant 
+Salmonella Typhi should be vaccinated with typhoid 
+conjugate vaccines; vaccination should also be offered 
+during outbreaks.
+a References cited are to WHO position papers that support the evidence for vaccination.
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.78 | p.78-78 | audience=pediatric] ---
+54
+3. YOUNG INFANTS
+ /L50776Treat convulsions with phenobarbital (loading dose 20 mg/kg IV). If convuls
+ions persist, give further doses of phenobarbital 10 mg/kg up to a maximum 
+of 40 mg/kg. Watch for apnoea. Always have a bag-mask available. If needed, 
+continue phenobarbital at a maintenance dose of 5 mg/kg per day.
+ /L50776If hypocalcaemic, symptoms may settle if the infant is given 2 ml/kg 
+o
+f 10% calcium gluconate as a slow IV infusion, and continue with oral 
+supplementation. 
+ /L50776Rule out central nervous system infection. Treat if present (see below).
+3.8 Serious bacterial infection
+Newborns with documented risk factors (see p. 51) are more likely to develop 
+serious bacterial infection. All of the danger signs listed in section 3.6 are 
+signs of serious bacterial infection, but there are others:
+ ■severe jaundice
+ ■severe abdominal distension
+L
+ocalizing signs of infection are:
+ ■signs of pneumonia (see section 4.2)
+ ■many or severe skin pustu
+les
+ ■umbilical redness extendi
+ng to the peri-umbilical 
+skin 
+ ■umbilicus draining pus
+ ■bulging fontanelle (see 
+bel
+ow)
+ ■painful joints, joint swellin
+g, reduced movement 
+and irritability if these 
+parts are handled
+Treatment
+Antibiotic therapy
+Empirical antibiotics should be given to children with suspected neonatal sepsis.
+ /L50776Admit to hospital. 
+ /L50776When possible, do a lumbar puncture and obtain blood cultures before 
+s
+tarting antibiotics. 
+SERIOUS BACTERIAL INFECTION
+Peri-umbilical fl are in umbilical sepsis. The 
+inflammation extends beyond the umbilicus to 
+the abdominal wall. 
+PB2_ch3.indd 54PB2_ch3.indd 54 5/06/13 10:05 AM5/06/13 10:05 AM
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.1.7.1 Neonatal Septicaemia | p.183-184 | audience=pediatric] ---
+Organisms causing neonatal septicemia are similar to the ones causing
+neonatal pneumonia and meningitis. Refer to hospital after pre-referral
+dose of antibiotics.
+Management
+TREATMENT LOC
+Supportive care
+- Keep baby warm
+H
+117
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+TREATMENT LOC
+- For high temperature, control environment i.e.
+(undress), avoid paracetamol
+- Prevent hypoglycaemia (breastfeeding if tolerated/
+possible, NGT or IV glucose)
+- Ensure hydration/nutrition
+- Give oxygen if needed (SpO2 < 90%)
+First line treatment
+- Give ampicillin 50 mg/kg IV every 6 hours plus
+gentamicin 5 mg/kg every 24 hours for 10 days
+If risk of staphylococcus infection (infected umbilicus
+or multiple skin pustules,
+- Give cloxacillin 50 mg/Kg IV/IM every 6 hours and
+gentamicin 5-7 mg/Kg every 24 hours
+- Clean infected umbilicus and pustules and
+apply gentian violet
+If no improvement after 48-72 hours change from
+ampicillin to:
+- Ceftriaxone 100 mg/kg daily
+H
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 16.4.7 Puerperal Fever/Sepsis | p.816-818 | audience=general] ---
+Infection of the female internal genital tract within 6 weeks of childbirth.
+Signs and symptoms usually occur after 24 hours, although the disease
+may manifest earlier in settings of prolonged rupture of membranes
+and prolonged labour without prophylactic antibiotics.
+Causes
+- Ascending infection from contamination during delivery or
+abortion
+- Bacteria include: Staphylococcus aureus and Gram- negative
+bacteria from the gut, e.g. Escherichia coli, Bacteroides,
+Streptococcus pyogenes, clostridium spp, chlamydia, gonococci
+- In peurperal sepsis, multiple organisms are likely
+NOTE: Carbetocin should be given as a single dose
+751
+Uganda Clinical Guidelines 2023CHAPTER 16: Obstetric Conditions
+Clinical features
+- Persistent fever >38°C
+- Chills and general malaise
+- Pain in the lower abdomen
+- Persistent bloody/pus discharge (lochia) from genital tract,
+which may have an unpleasant smell
+- Tenderness on palpating the uterus
+- Uterine sub-involution
+Risk factors
+- Anaemia, malnutrition in pregnancy
+- Prolonged labour, prolonged rupture of membranes
+- Frequent vaginal exams
+- Traumatic delivery (instrumental deliveries, tears)
+- Retained placenta
+Differential diagnosis
+- Other causes of fever after childbirth, e.g. malaria, UTI,
+DVT, wound sepsis, mastitis/breast abscess, RTI
+Investigations
+- Blood: CBC, C&S, BS for malaria parasites / RDT
+- Lochia: swab for C&S
+- Urine: For protein, sugar, microscopy, C&S
+Management
+Puerperal fever carries a high risk of sepsis with a high mortality, and
+needs immediate attention
+752
+Uganda Clinical Guidelines 2023CHAPTER 16: Obstetric Conditions
+TREATMENT LOC
+Parenteral antibiotic therapy
+- Ampicillin 500 mg IV or IM every 6 hours
+- Plus gentamicin 5-7 mg/kg IV or IM daily in 2 divided
+doses (every 12 hours)
+- Plus metronidazole 500 mg IV every 8 hours for at
+least 3 doses
+Alternative
+- Clindamycin 150 mg IV/IM every 6 hours + gentamicin
+as above
+HC3
+HC4
+Supportive/additional therapy
+- Give IV fluids
+- Give analgesics
+- If anaemic, transfuse with blood
+- Look for retained products and evacuate uterus if
+necessary
+Prevention
+- Use of clean delivery kits and ensuring clean deliveries,
+proper hygiene
+- Prophylactic antibiotic when indicated (prolonged labour
+and premature rupture of membranes, manual removal of
+placenta)

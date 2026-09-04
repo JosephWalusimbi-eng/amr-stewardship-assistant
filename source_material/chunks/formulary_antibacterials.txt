@@ -1,0 +1,1039 @@
+# TOPIC: formulary_antibacterials
+
+--- [EMHSLU 2023 | 6.2 Antibacterials | p.31-51 | audience=general] ---
+EMHSLU: SECTION A: ESSENTIAL MEDICINES LIST 2023
+31
+MEDICINE DS STR L C
+6. ANTI INFECTIVE MEDICINES
+6.1 Anti helminthics
+6.1.1 Intestinal antihelminthics
+Albendazole Tablet 400 mg HC1 V
+Ivermectin Tablet 6 mg HC2 N
+Mebendazole Tablet 100 mg HC2 E
+Praziquantel Tablet 600 mg HC3 E
+Niclosamide Tablet 500 mg HC4 N
+6.1.2 Antifilarials
+Albendazole Tablet 400 mg HC1 V
+Ivermectin Tablet 6 mg HC3 E
+6.1.3 Anti schistosomals and other antitrematode medicines
+Ivermectin Tablet 6 mg HC3 E
+Praziquantel Tablet 600 mg HC4 E
+Specialist medicines
+Diethylcarbamazine citrate Tablet 50 mg H N
+6.2 Antibacterials
+6.2.1 Beta-lactam medicines
+Amoxicillin Capsule 250 mg HC2 V
+Amoxicillin Dispersible tablet 250 mg HC1 V
+Amoxicillin Dispersible tablet 125 mg HC1 V
+Amoxicillin/Clavulanic acid Tablet 250/125 mg RR E
+Ampicillin Powder for injection 500 mg HC3 V
+Benzathine penicillin Powder for injection 2.4 MU HC3 E
+Benzylpenicillin Powder for injection 600 mg HC2 V
+Cefalexin Capsules 250 mg H N
+Cefixime Tablet 200 mg H N
+Ceftriaxone Powder for injection 1 g HC3 V
+Ceftriaxone Powder for injection 500 mg HC3 V
+Cloxacillin Capsules 250 mg HC3 E
+Cloxacillin Powder forinjection 500 mg HC3 E
+Phenoxy methyl-penicillin Tablet 250 mg HC2 N
+Procaine benzylpenicillinforte Powder for injection 4 MU H N
+Specialist Medicines
+Cefuroxime Tablet 250 mg RR E
+Cefuroxime Oral suspension 125 mg/5 ml RR N
+Cefuroxime sodium Powder for injection 500 mg RR E
+Meropenem Powder for injection 500 mg RR V
+Imipenem/Cilastatin Powder for injection 500 mg RR E
+Piperacillin/ Tazobactam Powder for injection 2 g/250 mg RR E
+6.2.2 Other antibacterial medicines
+Azithromycin Tablet 250 mg H N
+Azithromycin Oral suspension 200 mg/5ml HC2 E
+Chloramphenicol Powder for injection 1 g HC4 E
+Chloramphenicol Capsule 250 mg H N
+Ciprofloxacin Tablet 500 mg HC2 V
+32
+EMHSLU: SECTION A: ESSENTIAL MEDICINES LIST 2023
+Cotrimoxazole Tablet 120 mg HC2 V
+Cotrimoxazole Tablet 480 mg HC2 V
+Cotrimoxazole Tablet 960 mg HC2 E
+Dapsone Tablet 100 mg HC2 V
+Doxycycline Tablet 100 mg HC2 V
+Erythromycin Tablet (scored) 250 mg HC3 V
+Gentamicin Injection 40 mg/ml HC3 V
+Metronidazole IV infusion 5 mg/ml HC4 V
+Metronidazole Tablet 200 mg HC2 V
+Nitrofurantoin Tablet 100 mg HC2 E
+Vancomycin Injection 500 mg RR E
+Clindamycin Injection 150 mg/ml H E
+Specialist medicines
+Ciprofloxacin Solution for IV infusion 2 mg/ml RR E
+Paromomycin sulphate Capsule 250 mg RR N
+Cotrimoxazole IV infusion 96 mg/ml RR N
+6.2.3 Anti leprosy medicines
+Prednisolone Tablet 5 mg HC3 E
+Rifampicin + clofazimine + dapsone Tablet (blister) 600 mg + 300 mg + 100 mg HC3 V
+MEDICINE DS STR L C
+Rifampicin + Clofazimine + 
+Dapsone Tablet 450 mg + 150 mg + 50 mg HC3 V
+Rifampicin+Dapsone Tablet (blister) 600 mg + 100 mg HC3 V
+Rifampicin+Dapsone Tablet (blister) 450 mg + 50 mg HC3 V
+Rifampicin Tablet 150 mg HC3 V
+Dapsone Tablet 50 mg HC3 V
+Clofazimine Tablet 50 mg HC3 V
+Linezolid Tablet 100mg
+6.2.4 Anti tuberculosis medicines
+Ethambutol Tablet 400 mg HC3 E
+Ethambutol Tablet 100 mg HC3 E
+Isoniazid Tablet 300 mg HC3 V
+Isoniazid Tablet (Dispersible) 100 mg HC3 V
+Pyrazinamide Tablet 400 mg HC3 E
+Rifampicin + Isoniazid Dispersible tablet 60 mg + 30 mg HC3 V
+Rifampicin + Isoniazid Tablet 150 mg + 75 mg HC3 V
+Rifampicin + Isoniazid Tablet 300 mg + 150 mg HC3 V
+Rifampicin+ Isoniazid + 
+Pyrazinamide Tablet 60 mg + 30 mg + 150 mg HC3 V
+Rifampicin + Isoniazid + 
+Pyrazinamide + Ethambutol Tablet 150 mg + 75 mg + 400 mg + 
+275 mg HC3 V
+Rifabutin Capsule 150 mg HC3 E
+Rifampicin + Isoniazid + 
+Pyrazinamide Tablet 75mg + 50 mg + 150 mg HC3 V
+Rifapentine +Isoniazid Tablet 300mg +300mg HC3 V
+Rifapentine Tablet 150mg HC3 V
+Rifampicin + Isoniazid Dispersible tablet 75 mg + 50 mg HC3 V
+Specialist medicines
+EMHSLU: SECTION A: ESSENTIAL MEDICINES LIST 2023
+33
+MEDICINE DS STR L C
+Delamanid Tablet 50mg H V
+Delamanid Tablet 25mg H
+Bedaquiline Tablet 100 mg H V
+Bedaquiline Tablet 20mg H V
+Cycloserine Capsule 250 mg H V
+Cycloserine Tablet 125mg H V
+Ethionamide Tablet 250 mg, 125 mg H V
+Levofloxacin Tablet 250 mg H V
+Levofloxacin Tablet 100mg H V
+Linezolid Tablet 100 mg H V
+Prothionamide Tablet 250 mg H V
+Clofazimine Capsule 100 mg H V
+Levofloxacin Tablet 100mg H V
+Clofazimine Tablet 50mg H V
+6.3 Antifungal medicines
+Clotrimazole Pessary 100 mg HC2 V
+Fluconazole Tablet 200 mg HC3 V
+Griseofulvin Tablet 500 mg HC3 E
+Nystatin Pessary 100,000 IU HC2 N
+Nystatin Oral suspension 100,000 IU/ml HC2 E
+Nystatin Tablet 500,000 IU HC3 N
+Specialist medicines
+Amphotericin B Deoxycholate Powder for injection 50 mg H V
+Liposomal Amphotericin B Powder for injection 50mg HN
+Fluconazole Oral Suspension 50 mg/5 ml (35 ml) HC4 E
+Fluconazole Injection 2mg/ml (100ml) H V
+Flucytosine Injection 10 mg/ml RR N
+5 Flucytosine Tablet 500mg RR N
+Ketoconazole Tablet 200 mg H N
+6.4 Antiviral medicines
+6.4.1 Anti-herpes medicines
+Acyclovir Tablet 200 mg HC4 E
+6.4.2 Antiretrovirals
+6.4.2.1 Nucleoside/ Nucleotide reverse transcriptase inhibitors
+T enofovir Tablet 300 mg HC3 V
+6.4.2.2 Non-nucleoside reverse transcriptase inhibitors
+Nevirapine Suspension 10 mg/ml HC3 V
+Dapivirine Vaginal Ring 25mg HC3 V
+Efavirenz Tablet 200mg HC3 V
+Etravirine Tablet 100 mg HV E
+Etravirine Tablet 25 mg HV E
+6.4.2.3 Protease inhibitors
+Atazanavir + (ritonavir) Tablet 300 mg+ (100mg) HC3 V
+Darunavir + (Ritonavir) Tablet 75 mg + (100 mg) HC3 V
+Darunavir (+Ritonavir) Tablet 600 mg + (100mg) HC3 V
+Darunavir (+Ritonavir) Tablet 400 mg + (50mg) HC3 V
+Ritonavir Tablet 25 mg HC3 V
+34
+EMHSLU: SECTION A: ESSENTIAL MEDICINES LIST 2023
+MEDICINE DS STR L C
+Lopinavir (+ Ritonavir) granules/Sachets 40 mg + 10 mg/ml HC3 V
+Lopinavir (+ ritonavir) Tablet 100 mg + 25 Mg HC3 V
+Lopinavir (+ Ritonavir) Tablet 200 mg + 50 Mg HC3 V
+Ritonavir Tablet 100 mg HC3 V
+6.4.2.4Fixed dose combinations
+Abacavir + Lamivudine Tablet (dispersible) 120 mg + 60 Mg HC3 V
+Abacavir + Lamivudine Tablet 600 mg + 300 mg HC3 V
+T enofovir+ Lamivudine Tablet 300 mg + 300 mg HC3 V
+T enofovir + Emtricitabine Tablet 300mg + 200mg HC3 V
+Zidovudine + Lamivudine Tablet 300 mg + 150 mg HC3 V
+Zidovudine +Lamivudine Tablet 60 mg + 30mg HC3 V
+T enofovir + Lamivudine + Efavirenz Tablet 300mg +300mg +400mg HC3 V
+Abacavir + Lamivudine + 
+Dolutegravir Tablet 600mg + 300mg +50mg HC3 V 
+Abacavir + Lamivudine + 
+Dolutegravir Tablet 60mg + 30mg + 5mg HC3 V 
+T enofovir + Lamivudine 
++Dolutegravir Tablet 300mg + 300mg + 50mg HC3 V
+T enofovir alafenamide + 
+Emtricitabine + Dolutegravir Tablet 25mg + 200mg + 50mg HC3 V
+6.4.2.5 Integrase inhibitors
+Raltegravir Tablet (chewable) 100 mg HC3 V
+Raltegravir Tablet 400 mg HC3 V
+Dolutegravir Tablet 50 mg HC3 V
+Doultegravir Tablet 10mg HC3 V
+Cabotegravir Injectable 600mg/3ml HC3 V
+6.4.3 Anti hepatitis medicines
+6.4.3.1 Medicines for HepatitisB
+6.4.3.1.1 Nucleoside / Nucleotide reverse transcriptase inhibitors
+T enofovir Disoproxil Fumarate Tablet 300 mg HC4 V
+Entecavir Oral liquid 0.05 mg/ml RR V
+6.4.4 Other antivirals
+Specialist medicines
+Oseltamivir phosphate Capsule 75 mg RR N
+Oseltamivir phosphate Capsule 45 mg RR N
+Oseltamivir phosphate Capsule 30 mg RR N
+Ganciclovir sodium Powder for injection 500 mg RR E
+6.4.4.1 Covid-19
+Nirmatrelvir/ritonavir Tablet 300mg RR N
+Lagevrio (Molnupiravir) Capsule 200mg RR N
+Sotrovimab Inj IV 500mg/8ml RR N
+Remdesivir Inj IV 100mg/20ml RR N
+6.5 Antiprotozoal medicines
+6.5.1 Ant amoebic and anti-giardiasis medicines
+Metronidazole Tablet 200 mg HC2 V
+Tinidazole Tablet 500 mg H N
+6.5.2 Anti-leishmaniasis medicines
+Specialist medicines
+EMHSLU: SECTION A: ESSENTIAL MEDICINES LIST 2023
+35
+MEDICINE DS STR L C
+SodiumStibogluconate Injection 100 mg/ml RR E
+Liposomal Amphotericin B Powder for injection 50 mg RR E
+6.5.3 Antimalarial medicines
+6.5.3.1 For curative treatment 
+Artemether Injection 80 mg/ml HC3 E
+Artemether+ Lumefantrine Tablet 20 mg + 120 mg HC1 V
+Artesunate Injection 60 mg/ml HC3 V
+Artesunate Suppository 50 mg HC1 V
+Artesunate Suppository 200 mg HC1 V
+Artesunate + Amodiaquine Tablet 50 mg + 153 mg HC2 E
+Dihydroartemisinin + piperaquine Tablet 40 mg + 320 mg HC4 E
+Quinine Injection 300 mg/ml HC3 E
+Quinine Tablet 300 mg HC2 E
+6.5.3.2 For prophylaxis
+Chloroquine Tablet 150 mg HC4 E
+Sulphadoxine+ Pyrimethamine Tablet 500 mg + 25 mg HC2 V
+Mefloquine Tablet 250 mg RR N
+6.5.4 Anti-pneumocystosis and anti-toxoplasmosis medicines
+Cotrimoxazole Tablet 480 mg HC4 V
+Cotrimoxazole Tablet 120 mg HC4 V
+Cotrimoxazole Tablet 960 mg HC3 V
+Dapsone Tablet 100 mg H N
+Prednisolone Tablet 5 mg HC4 V
+Specialist medicines
+Pyrimethamine Tablet 25 mg H E
+Sulfadiazine Tablet 500 mg H E
+Clindamycin Capsule 150 mg H N
+Clindamycin Injection 150 mg/ml H E
+Pentamidine Isethionate Powder for Injection 300 mg RR E
+6.5.5 Anti-trypanosomal medicines (African trypanosomiasis)
+6.5.5.1African trypanosomiasis
+Specialist medicines
+Nifurtimox Tablet 120 mg RR E
+Melarsoprol Injection 36 mg/ml RR E
+Pentamidine Isethionate Powder for Injection 200 mg RR E
+Suramin Sodium Powder for Injection 1 g RR E
+Eflornithine Injection 200 mg RR E
+7. ANTIMIGRAINEMEDICINES
+7.1 For treatment of acute attacks
+Acetylsalicylic acid Tablet 300 mg HC2 N
+Diclofenac Injection IV/IM 25 mg/ml HC4 V
+Ergotamine Tablet 1 mg RR E
+Ibuprofen Tablet 200 mg HC3 E
+Paracetamol Tablet 500 mg HC1 E
+Specialist Medicines
+Sumatriptan Tablet 50 mg RR N
+7.2 For prophylaxis
+36
+EMHSLU: SECTION A: ESSENTIAL MEDICINES LIST 2023
+MEDICINE DS STR L C
+Amitriptyline Tablet 25 mg HC3 V
+Propranolol Tablet 20 mg HC4 N
+Pizotifen Tablet 0.5 mg RR N
+8. ANTINEOPLASTIC AND IMMUNOSUPPRESSIVE MEDICINES
+8.1 Immunosuppressive medicines
+Specialist Medicines
+Azathioprine Powder for Injection 100 mg NR E
+Azathioprine Tablet 50 mg NR V
+Cyclosporin Tablet 25 mg NR N
+Cyclosporin Capsules 100 mg NR N
+Cyclosporin Concentrate for IV inf 50 mg/ml NR N
+Anti-thyomcyte globulin (ATG) Injectable Solution 50mg/mL NR N
+Immune globulin (IVIG InjectableSolution 5g/vial NR V
+8.2 Cytotoxic and adjuvant medicines
+Specialist Medicines
+Anastrozole Tablet 1 mg RR V
+Bicalutamide Tablet 50 mg RR N
+Bleomycin Powder for Injection 15 IU RR V
+Calcium folinate (folinic acid) Tablet 15 mg RR E
+Capecitabine Tablet 500 mg RR N
+Calcium folinate (folinic acid) Injection 10 mg/ml NR E
+Carboplatin Injection 10 mg/ml RR E
+Chlorambucil Tablet 2 mg RR E
+Cisplatin Injection 1 mg/ml NR V
+Cyclophosphamide Powder for injection 1 g NR V
+Cyclophosphamide Capsule 100 mg NR N
+Cytarabine Injection 20 mg/ml NR V
+Dacarbazine Powder for injection 200 mg NR V
+Dactinomycin Powder for Injection 500 μg NR V
+Daunorubicin Powder for Injection 20 mg NR V
+Docetaxel Infusion 40 mg/ml RR V
+Doxorubicin (adriamycin) Powder for injection 50 mg NR V
+Etoposide Injection 20 mg/ml NR V
+Filgrastim Injection 300 μg/ml NR V
+Fluorouracil Injection 50 mg/ml NR V
+Gemcitabine Powder for injection 1 g NR V
+Goserelin Injection 10.8 mg RR V
+Goserelin Injection 3.6 mg RR V
+Goserelin Implant 3.6 mg RR V
+Hydroxycarbamide (hydroxyurea) Capsule 500 mg RR E
+Ifosfamide-Mesna Powder for injection 1 g NR V
+L-asparaginase Injection 10,000 IU NR V
+Irinotecan Infusion 20 mg/ml NR V
+Mercaptopurine Tablet 50 mg NR V
+Mustine Powder for injection 10 mg NR E
+Oxaliplatin Injection 5 mg/ml NR E
+Paclitaxel Powder for injection 100 mg NR V
+EMHSLU: SECTION A: ESSENTIAL MEDICINES LIST 2023
+37
+MEDICINE DS STR L C
+Procarbazine Capsule 50 mg NR V
+Rituximab Concentrate for IV inf 10 mg/ml NR E
+Emicizumab (humanized antibody) 
+for hemophilia Concentrate IV 150mg/mL NR E
+Stilboestrol Tablet 5 mg RR E
+Thalidomide Capsule 100 mg NR N
+Thalidomide Capsule 50 mg NR N
+T emozolamide Capsule 250 mg NR V
+Thioguanine Tablet 40 mg NR E
+Vinblastine sulfate Powder for injection 2 mg NR E
+Vinblastine sulfate Powder for injection 10 mg NR E
+Vincristine Injection 1 mg/ml RR V
+8.3 Hormones andantihormones
+Betamethasone Injection 4 mg/ml HC4 E
+Hydrocortisone sodium succinate Powder for injection 100 mg HC4 V
+Prednisolone Tablet 5 mg HC4 E
+Specialist medicines
+Dexamethasone Tablet 4 mg HC4 E
+Dexamethasone Injection 4 mg/ml H E
+Tamoxifen Tablet 20 mg NR E
+9. ANTI PARKINSONISM MEDICINES
+Specialist medicines
+Tamoxifen Tablet 20 mg NR E
+Levodopa-Carbidopa Tablet 100 mg + 25 mg RR E
+10. MEDICINES AFFECTING THE BLOOD
+10.1 Anti anaemia medicines
+Ferrous sulphate Tablet 200 mg HC2 N
+Ferrous sulphate + folic acid Tablet 200 mg + 500 μg HC2 V
+Ferrous Salt + Folic Acid Tablet /capsule 60mg+ 400ug HC2 V
+Folic acid Tablet 5 mg HC2 E
+Hydroxocobalamin (vitamin B12) Injection 1 mg/ml RR E
+10.2 Medicines affecting coagulation
+Enoxaparin Injection 100 mg/ml H N
+Heparin Injection 5000 IU/ml H V
+Phytomenadione (Vitamin K1) Injection 1 mg/ml HC3 V
+Tranexamic acid (TXA) Injection 1000mg IV HC3 V
+Phytomenadion (Vitamin K1) Injection 10 mg/ml HC4 V
+Warfarin Tablet 5 mg H V
+Warfarin Tablet 1mg H N
+Rivaroxiban Tablet 15mg H V
+Rivaroxiban Tablet 20mg H V
+Apixaban Tablet 5mg H N
+Apixaban Tablet 2.5mg H N
+Specialist medicines
+Streptokinase Powder for injection 250,000 IU RR V
+Tranexamic acid Tablet 50mg H3 N
+38
+EMHSLU: SECTION A: ESSENTIAL MEDICINES LIST 2023
+MEDICINE DS STR L C
+10.3 Other medicines for haemoglobinopathies
+Hydroxycarbamide (hydroxyurea) Capsule 500 mg RR E
+Hydroxycarbamide (hydroxyurea) Capsule 250 mg RR E
+11. BLOOD PRODUCTS OF HUMAN ORIGIN AND PLASMA SUBSTITUTES
+11.1 Blood and blood components
+Fresh-frozen plasma RR E
+Packed red cells HC4 V
+Whole blood HC4 V
+Platelets RR E
+11.1.1 Blood coagulation factors
+Specialist medicines
+Factor VIII concentrate Dried powder for injection 1,500 IU NR N
+Factor IX (coagulation factors II, VII, 
+IX, X) complex concentrate Dried powder for injection 1000IU RR N
+4-Factor Prothrombin Complex 
+Concentrate (factors II, VII, IX, X Lypophilized concentrate 1000IU RR N
+Emicizumab Concentrate 150mg/mL RR N
+Rivaroxiban Tablets 15/20mg RR N
+Apixaban Tablets 5mg RR N
+IVIG IV INJ RR N
+ATG IV INJ RR N
+11.2 Plasma substitutes
+Dextran 70 IV infusion 6% HC4 N
+Polygeline solution IV infusion 3.5% HC4 N
+Specialist medicines
+Albumin, human IV infusion 25% H E
+12. CARDIOVASCULARMEDICINES
+12.1 Antianginal medicines
+Atenolol Tablet 50 mg H V
+Glyceryl trinitrate *acute attacks Tablet (sublingual) 500 μg H V
+Acetylsalicylic acid *acute attacks Tablet 300 mg HC2 V
+Specialist medicines
+Isosorbide dinitrate Tablet 30 mg RR N
+12.2 Antiarrhythmic medicines
+Adenosine Injection 3 mg/ml RR E
+Atenolol Tablet 50 mg H N
+Propranolol Tablet 40 mg HC4 E
+Specialist medicines
+Amlodipine Tablet (scored) 5mg HC3 V
+Amiodarone Sterile concentrate 50 mg/ml NR E
+Lignocaine Injection 20 mg/ml RR E
+Procainamide Tablet 250 mg RR N
+12.3 Antihypertensive medicines
+Atenolol Tablet 50 mg H N
+Bendroflume- thiazide Tablet 5 mg HC3 E
+Captopril Tablet 25 mg HC4 E
+Enalapril Tablet 5 mg HC4 N
+EMHSLU: SECTION A: ESSENTIAL MEDICINES LIST 2023
+39
+MEDICINE DS STR L C
+Hydralazine Tablet 50 mg H E
+Hydralazine Powder for injection 20 mg HC4 V
+Losartan Tablet 50 mg HC3 N
+Methyldopa Tablet 250 mg HC3 E
+Propranolol Tablet 40 mg HC4 E
+Losartan Tablet 50 mg HC3 N
+Valsartan Tablet 80mg H E
+T elmisartan Tablet 40mg HC3 N
+Hydrochlorothiazide Tablet scored 25mg HC3 E
+Amlodipine + Losartan Tablet 5mg+ 50mg HC3 E
+Losartan + Hydrochlorothiazide Tablet 50mg + 12.5mg HC3 E
+T elmisartan + Hydrochlorothiazide Tablet 40mg + 12.5mg HE E
+Valsartan + Hydrochlorothiazide Tablet 80mg + 12.5mg HE E
+Specialist medicines
+Amlodipine Tablet 5 mg HC3 E
+Amlodipine Tablet 10 mg HC3 E
+Candesartan cilexetil Tablet 8 mg NR N
+Labetalol Injection 5 mg/ml RR V
+Ramipril Capsules 5mg RR N
+Indapamide Tablet 1.5mg RR N
+Nebivolol Tablet 5mg RR N
+12.3.1 Medicines for management of hypoglycemia 
+Indapamide Tablet 1.5mg RR N
+Dextrose IV Infusion 50% HC3 V
+Glucagon Injectable 1mg/ml H E
+12.4 Medicines used in heart failure
+Digoxin Tablet 62.5 μg HC4 E
+Digoxin Tablet 250 μg HC4 E
+Digoxin Injection 250 μg/ml H N
+Enalapril Tablet 5 mg HC4 V
+Captopril Tablet 25 mg H E
+Carvedilol Tablet 6.25 mg H E
+Lisinopril Tablet 10 mg H E
+Specialist medicines
+Bisoprolol Tablet H N
+Dobutamine Concentrate for IV inf 12.5 mg/ml NR V
+Dopamine Concentrate for IV inf 40 mg/5ml RR N
+Epinephrine (adrenaline) Injection 1 mg/ml HC4 V
+Norepinephrine (noradrenaline) Injection 2 mg/ml RR V
+12.5 Antithrombotic medicines
+12.5.1 Anti-platelet medicines
+Acetylsalicylic acid Tablet 75 mg HC3 E
+Specialist medicines
+Clopidogrel Tablet 75 mg NR N
+12.6 Lipid-lowering agents
+Atorvastatin Tablet 40 mg H N
+Artovastatin Tablet 20mg HC4 E
+40
+EMHSLU: SECTION A: ESSENTIAL MEDICINES LIST 2023
+MEDICINE DS STR L C
+Rosuvastatin Tablet 10mg HC4 E
+13. DERMATOLOGICAL MEDICINES (T opical)
+13.1 Antifungal medicines
+Benzoic acid + Salicylic acid Ointment 6% + 3% HC2 N
+Clotrimazole Cream 1% HC3 E
+Miconazole Cream 2% H N
+13.2 Anti-infective medicines
+Chlorhexidine Cream 5% HC4 N
+Chlorhexidine Cutaneous solution 2% HC2 N
+Framycetin Impregnated gauze 1% HC3 N
+Iodine Tincture 2% HC2 N
+Methylrosanilinium chloride 
+(gentian violet) Paint 0.50% HC2 E
+Potassium permanganate Aqueous solution 0.01% (1:10,000) HC4 N
+Silver sulphadiazine Cream 1% HC2 N
+13.3 Anti-inflammatory and antipruritic medicines
+Betamethasone Cream/ointment 0.10% HC4 N
+Calamine Lotion 15% HC2 E
+Diclofenac Gel 1% RR N
+Hydrocortisone Cream/ ointment 1% HC3 N
+13.4 Medicines affecting skin differentiation and proliferation
+Benzylperoxide Lotion / Cream 5% HC4 N
+Coal tar Solution 5% HC4 N
+Podophyllum resin Solution 15% HC4 E
+13.5 Scabicides and pediculicides
+Benzyl benzoate Application 25% HC2 N
+Ivermectin Tablet 6 mg HC3 E
+13.6 Medicines for tungiasis (Jiggers)
+NYDA (Dimethicone) Oil 50ml HC1 N
+Benzyl benzoate Lotion 25% HC2 N
+Potassium Permanganate Aqueous Solution 0.05% HC2 N
+13.7 medicines for skin care for albinoism
+Sun screen lotion Spf 30 and above HC2 V
+14 DIAGNOSTICAGENTS 
+14.1 Ophthalmic medicines
+Fluorescein sodium Eye drops 1% HC4E V
+Physostigmine Eye drops 0.25% RRE N
+Rose Bengal Eye drops 1% HC4E N
+14.2 Cervical cancer screening 
+Acetic acid Solution 5% HC3 E
+Iodine + potassium iodide (Lugol’s 
+iodine) Solution 2% HC3 E
+14.3 Radiocontrast media (only specialist treatment)
+Specialist medicines
+Barium sulphate Powder in water 75% RR E
+Iopromide 370, non- ionic Injection 100 ml RR N
+Iopromide 370, non- ionic Injection 50 ml RR N
+EMHSLU: SECTION A: ESSENTIAL MEDICINES LIST 2023
+41
+MEDICINE DS STR L C
+Iohexol 350, non-ionic Injection 50 ml RR N
+Iohexol 350, non-ionic Injection 100 ml RR N
+15. DISINFECTANTS AND ANTISEPTICS
+15.1 Antiseptics
+Cetrimide + Chlorhexidine Solution 0.15% + 0.015% HC2 N
+Chlorhexidine Solution 0.05% HC2 N
+Chlorhexidine gluconate Solution 20% HC2 N
+Chlorhexidine gluconate Mouthwash 0.20% HC2 N
+Hydrogen peroxide Solution 6% HC2 N
+Povidone iodine Solution 10% (equiv. 1% iodine) HC3 N
+Surgical spirit (ethanol) Solution 70% HC4 N
+15.2 Disinfectants
+Alcohol hand rub Solution 70% HC2 E
+Calcium or sodium hypochlorite Solution 5% HC2 E
+Glutaraldehyde Solution 2% H N
+Ethanol For sanitizer 96% HC2 V
+Hydrogen Peroxide For sanitizer 3% HC2 V
+Glycerol For sanitizer 98% HC2 V
+16. DIURETICS
+Bendroflume- thiazide Tablet 5 mg HC3 E
+Furosemide Injection 10 mg/ml HC4 V
+Furosemide Tablet 40 mg HC4 E
+Spironolactone Tablet 50 mg H N
+Specialist medicines
+Mannitol IV infusion 20% RR E
+17. GASTROINTESTINAL MEDICINES
+17.1 Antacids and antiulcer medicines
+Magnesium trisilicate compound, BP Tablet 370 mg HC2 E
+Omeprazole Tablet 20 mg HC3 V
+Ranitidine Injection 25 mg/ml H E
+Specialist medicines
+Rabeprazole Injection 20 mg RR N
+Omeprazole Injection 40 mg RR N
+17.2 Antiemetic medicines
+Metoclopramide Tablet 10 mg HC4 E
+Metoclopramide Injection 5 mg/ml HC4 E
+Chlorpromazine Tablet 25 mg HC3 N
+Chlorpromazine Injection 25 mg/ml HC3 E
+Promethazine Tablet 25 mg HC2 E
+Promethazine Injection 25 mg/ml HC4 V
+Specialist medicines
+Domperidone Tablet 10 mg H N
+Domperidone Suspension 5 mg/5ml H N
+Ondansetron Tablet 4 mg RR E
+Ondansetron Injection 2 mg/ml RR E
+Granisetron Injection 1 mg/ml RR N
+17.3 Anti-inflammatory and Antihaemorrhoids medicines
+42
+EMHSLU: SECTION A: ESSENTIAL MEDICINES LIST 2023
+MEDICINE DS STR L C
+Bismuth subgallate compound BP Suppository 320 mg HC4 N
+17.4 Laxatives
+Bisacodyl Paediatric suppository 5 mg HC3 N
+Bisacodyl Tablet 5 mg HC3 E
+Lactulose Solution 3.1-3.7 g/5 ml H N
+Liquid paraffin Oral emulsion 50ml H N
+17.5 Medicines used in diarrhoea
+17.5.1 Oral rehydration
+Oral rehydration salts Oral powder for solution WHO formula HC1 V
+ORS/Zinc co-pack Oral preparation HC1 V
+17.5.2 Medicines for diarrhoea
+Zinc sulphate Tablet dispersible 20 mg HC1 V
+Codeine Tablet 30 mg HC4 N
+Loperamide Tablet/capsule 2mg HC4 N
+17.6 Antispasmodics
+Specialist medicines
+Hyoscine Injection 20 mg/ml RR N
+Propantheline Tablet 15 mg H N
+18 HORMONES, OTHER ENDOCRINE MEDICINES AND CONTRACEPTIVES
+18.1 Adrenal hormones and synthetic substitutes
+Dexamethasone Tablet 0.5 mg H N
+Dexamethasone Injection 4 mg/ml HC4 E
+Hydrocortisone sodium succinate Powder for injection 100 mg H V
+Prednisolone Tablet 5 mg H V
+Hydrocortisone Tablet 10mg NR V
+Specialist medicines
+ACTH (corticotrophin) Powder for injection 40 IU RR N
+Cortisone acetate Tablet 25 mg RR N
+Leuprolide acetate Depot injection 7.5mg suspension NR N
+Methylpredni- solone Powder for injection 500 mg RR N
+Triamcinolone Injection 40 mg/ml RR N
+18.2 Androgens
+Specialist medicines
+Methyltestosterone 5 mg RR N
+T estosterone enantate Injection 250 mg/ml RR N
+18.3 Contraceptives
+18.3.1 Oral hormonal contraceptives
+Ethinylestradiol + Levonorgestrel Tablet 30 μg + 250μg HC2 E
+Ethinylestradiol + Levonorgestrel Tablet 50 μg + 250μg HC2 E
+Ethinylestradiol + Norethisterone Tablet 50 μg + 1 mg HC2 E
+Ethinylestradiol + Norgestrel Tablet 30 μg + 300 μg HC1 V
+Levonorgestrel Tablet 750 μg HC1 V
+Norgestrel Tablet 0.075 mg HC2 V
+18.3.2 Injectable hormonal contraceptives
+Medroxyprogeste-rone acetate 
+(DMPA-IM)
+Injection (aqueous 
+suspension) 150 mg/ml HC2 V
+EMHSLU: SECTION A: ESSENTIAL MEDICINES LIST 2023
+43
+MEDICINE DS STR L C
+Medroxyprogeste- rone acetate 
+(Depot) (DMPA-SC) Subcuta- Neousinjection 104 mg/ml HC2 V
+18.3.3 Intrauterine devices
+Copper containing device Copper T380A - HC3 V
+Specialist medicines
+Levonorgestrel- releasing 
+intrauterine system IUD 52 mg HC3 N
+18.3.4 Barrier methods
+Condoms (male) Latex HC2 V
+Condoms (female) Polyurethne or nitrile HC2 V
+18.3.5 Implantable contraceptives
+Etonogestrel Implant(1radiopaquerod) 68 mg HC3 V
+Levonorgestrel Implant(2 silicone rods) 150 mg HC3 E
+18.3.6 Others
+Moon beads Beads - HC2 N
+18.3.7 Management of IUFD
+Misoprostol + Mifepriston Tablet (Co-pack) 200mcg+200mg HC4 V
+18.4 Oestrogens
+Specialist medicines
+Stilboestrol Tablet 5 mg RR E
+18.5 Insulins and medicines used for diabetes
+Insulin isophane Injection 100 IU/ml HC4 V
+Soluble Insulin injection 100 IU/ml HC4 V
+Insulin isophane Aspert Injection 100 IU/ml HC4 V
+Glimepiride Tablet 2 mg H E
+Metformin Tablet 500 mg HC3 V
+Pioglitazone Tablet 30 mg RR N
+Bi-phasic protamine crystallised 
+insulin aspart Injection 30%+70% in 100 U/ml H V
+Insulin glargine Injection 100IU/ml H V
+Specialist medicines
+Gliclazide Tablet 80mg RR E
+Vildagliptin Tablet 50mg RR E
+Dapagliflozin Tablet 5mg RR E
+18.5.1 Medicines for diabetic ketoacidosis
+Sodium chloride (Normal saline) IV infusion 0.9% HC3 V
+Glucose (Dextrose) IV infusion 5% HC3 V
+Potassium chloride
+Sterile concentrate 150 mg/ml H V
+Enoxaparin Injection 100mg/ml H N
+18.5.2 Medicines for management of hypoglycemia
+Dextrose IV infusion 50% HC3 V
+Glucagon Injection 1mg/ml H E
+18.6 Ovulation inducers
+Specialist medicines
+Clomifene Tablet 50 mg RR N
+Bromocriptine Tablet 2.5 mg RR N
+44
+EMHSLU: SECTION A: ESSENTIAL MEDICINES LIST 2023
+MEDICINE DS STR L C
+18.7 Progestogens
+Specialist medicines
+Norethisterone Tablet 5 mg RR E
+18.8 Thyroid hormones and antithyroid medicines
+Carbimazole Tablet 5 mg H V
+Levothyroxine (thyroxine) Tablet 100 μg H V
+Specialist medicines
+Iodine (I) + potassium iodide 
+(Lugol’s) Oral solution 5% + 10%, 130 mg total Iodine 
+/ml RR E
+19 IMMUNOLOGICALS
+19.1 Diagnostic agents
+T uberculin purified protein 
+derivative (PPD) Injection 100 IU/ml HC4 N
+19.2 Sera and immunoglobulins
+Anti-D Immunoglobulin, human Injection 250 μg/ml RR V
+Anti-T etanus Immunoglobulin, 
+human (TIG) Injection 500 IU HC4 E
+Anti-Rabies Immunoglobulin, human 
+(RIG) Injection 150 IU/ml H
+Rabies vaccine, human diploid Injection Purified VERO cell culture ≥2.5 
+IU/ 0.5ml V
+Antivenom sera polyvalent (East 
+and Central Africa) Injection
+Mixture of 11 Bitis, Naja, Echis 
+and Dendroaspis spp in 10 
+ml vial
+H E
+Specialist medicines
+Normal Immuno- Globulin, Human Injection 16% NR N
+ Anti-scorpion serum Injection
+Mixture of Androctonus, 
+Leiurus and Buthus spp in 10 
+ml vial
+RR N
+19.3 Vaccines
+BCG vaccine (freeze dried) Injection 1.5 mg vial with 1.5 ml diluents HC2 V
+Diphtheria- pertussis- tetanus 
+(DPT) Suspension for injection
+Diphtheria, T etanus T oxoid; 
+Borditella Pertussis (20-dose 
+/10 ml) vial
+HC2 V
+Diphtheria- pertussis-tetanus- 
+hepatitis B- haemophilus influenzae 
+B(DPT HepB-Hib)
+Injection 2-dose vial HC2 V
+Measles vaccine, live attenuated Powder for injection 10 x 0.5 ml dose vial + diluent HC2 V
+Pneumococcal polysaccharide 
+conjugate vaccine (adsorbed) Injection 0.5 ml/dose in 2 dose vial HC2 V
+Poliomyelitis vaccine, live 
+attenuated Oral solution 20-dose vial (2 ml) HC2 V
+Poliomyelitis vaccine, inactivated Injection 0.5 ml HC2 V
+Rotavirus vaccine, live attenuated Oral suspension 1.5 ml prefilled oral syringe HC2 V
+T etanus toxoid Injection ≥40 IU/0.5 ml HC2 V
+ Anthrax vaccine Injection 0.125 ml antigens)/0.5 ml dose RR V
+Hepatitis B vaccine Intradermal injection Single-dose vial HC4 V
+Human papilloma virus vaccine 
+(type 16 + type 18 capsid protein) Injection 40 μg/ml + 40 μ/ml HC2 V
+Meningococcal vaccine conjugate 
+(A+C) Injection 0.5 ml-vial HC4 E
+EMHSLU: SECTION A: ESSENTIAL MEDICINES LIST 2023
+45
+MEDICINE DS STR L C
+Yellow fever vaccine, live Injection 1,000 LD50 units/0.5 ml H E
+COVID-19 vaccines approved for 
+use (including emergency use in 
+Uganda)
+Pfizer, Moderna, Johnson 
+& Johnson, AstraZeneca, 
+Sinopharm, and Sinovac.
+HC2 N
+20. MUSCLE RELAXANTS (PERIPHERALLY -ACTING) AND CHOLINESTERASEINHIBITORS
+Suxamethonium Injection 50 mg/ml HC4 V
+Atracurium besilate Injection 10 mg/ml H V
+Rocuronium bromide Injection 10 mg/ml H E
+Specialist medicines
+Cisatracurium Injection 2 mg/ml H N
+Neostigmine Injection 2.5 mg/ml HC4 E
+Neostigmine Tablet 15 mg NR N
+Pancuronium bromide Injection 2 mg/ml HC4 V
+Vecuronium bromide Powder For Injection 10 mg NR V
+21. OPHTHALMOLOGICALPREPARATIONS
+21.1 Anti-infective agents
+Chloramphenicol Eye drops /Ointment 0.50% HC2 E
+Ciprofloxacin Eye/ear drops 0.30% HC3 N
+Povidone-iodine Eye drops 5% RR E
+T etracycline Eye ointment 1% HC2 V
+T obramycin Eye drops 0.3% RR E
+21.2 Anti-infective and anti-inflammatory agents
+Dexamethasone + T obramycin T opical 0.1% + 0.3% RR E
+Hydrocortisone+ Oxytetracycline+ 
+polymyxin B Eye drops 1.5%+0.5% + 10,000 IU/ml HC4 N
+Neomycin + Betamethasone Eye drops 0.5%+0.1% RR E
+21.3 Anti-inflammatory medicines
+Betamethasone Eye drops 0.10% HC2 E
+Dexamethasone Eye drops 0.10% RR E
+Hydrocortisone Eye drops 1% HC4 N
+Prednisolone Eye drops 0.50% HC4 E
+Sodium chromoglycate Eye drops 2% RR N
+21.4 Antifungal medicines
+Econazole Eye drops 2% RR N
+Natamycin Eye ointment 5% RR N
+Natamycin Ophthalmic suspension 5% RR E
+21.5 Antiviral medicines
+Acyclovir Eye ointment 3% HC4 E
+Ganciclovir Ophthalmic gel 0.15% RR N
+21.6 Local anaesthetics
+Bupivacaine Injection 0.50% H E
+Hyaluronidase Injection (powder for 
+reconstitution) 1,500 IU RR E
+T etracaine (amethocaine) Eye drops 0.50% H E
+T etracaine (amethocaine) Eye drops 1% HC4 N
+Lignocaine Injection 2% HC1 E
+21.7 Miotics and antiglaucoma medicines
+Acetazolamide Tablet 250 mg RR E
+46
+EMHSLU: SECTION A: ESSENTIAL MEDICINES LIST 2023
+MEDICINE DS STR L C
+Diethyl- carbamazine Tablet 100 mg RR N
+Pilocarpine Eye drops 2% RR N
+Pilocarpine Eye drops 4% RR N
+Pilocarpine, intracameral Injection 0.50% RR E
+Sodium hyaluronate Intraocular liquid 12 mg/ml RR N
+Timolol maleate Eye drops 0.25% RR N
+Timolol maleate Eye drops 0.50% RR N
+Tryptan blue Ophthalmic solution 0.06% RR N
+21.8 Mydriatics
+Atropine Eye drops 1% HC4 N
+Cyclopentolate Eye drops 1% HC4 N
+Phenylephrine Eye drops 10% HC4 N
+21.9 Anti-metabolites
+Fluorouracil Injection 50 mg/ml RR N
+Mitomycin Powder for injection 20 mg RR N
+21.10 Lubricants
+Hydroxyethylcellu- lose (artificial 
+tears) Eye drops 0.44% RR E
+21.11 Astringents
+Zinc sulphate Eye Drops 0.20% RR N
+22. OXYTOCICS ANDANTI-OXYTOCICS
+22.1 Oxytocics
+Misoprostol Tablet 200 μg HC2 V
+Misoprostol Tablet 20 μg HC2 V
+Oxytocin Injection 10 IU/ml HC3 V
+Carbetocin (heat stable) Injection IV/IM 1000mcg HC3 V
+22.2 Anti-oxytocics(tocolytics)
+Nifedipine Tablet (sub- lingual) 10 mg HC3 E
+Salbutamol Injection 0.5 mg/ml H N
+23. PERITONEAL AND HAEMODIALYSIS SOLUTIONS
+Specialist medicines
+Peritoneal dialysis solution Solution 2.5% (glucose) RR E
+Peritoneal dialysis solution Solution 4.25% (glucose) RR E
+Peritoneal dialysis solution Solution 1.5% (glucose) RR E
+Liquid concentrate for 
+haemodialysis Liquid 32 mEq/L bicarbonate +5 
+mEq/L acetate R E
+Liquid concentrate for 
+haemodialysis (bicarbonate + 
+acetate)
+Liquid 33 mEq/l + 4 mEq/l RR E
+24. MEDICINES FOR MENTAL AND BEHAVIORAL DISORDERS
+24.1 Medicines used in Schizophrenia and other psychotic disorders
+Chlorpromazine Tablet 25 mg HC2 N
+Chlorpromazine Tablet 100 mg HC2 V
+Chlorpromazine Injection 25 mg/ml HC4 V
+Diazepam Injection 5 mg/ml HC2 V
+Diazepam Rectal 2 mg/ml HC2 V
+Fluphenazine decanoate Injection (oily) 25 mg/ml HC4 E
+Haloperidol Tablet 5 mg HC4 V
+EMHSLU: SECTION A: ESSENTIAL MEDICINES LIST 2023
+47
+MEDICINE DS STR L C
+Haloperidol Tablet 10 mg HC4 E
+Haloperidol Injection 5 mg/ml HC4 V
+Specialist medicines
+Haloperidol decanoate Injection (oily) 100 mg/ml RR V
+Quetiapine Tablet 100 mg NR E
+Methylphenidate Tablet 5 mg RR E
+Olanzapine Tablet 10 mg RR N
+Risperidone Tablet 2 mg HC4 E
+Risperidone Syrup 1mg/ml H E
+Zuclopenthixol decanoate Injection (oily) 200 mg/ml RR N
+24.2 Medicines used in mood disorders
+24.2.1 Medicines used in depressive and or anxiety disorders
+Amitriptyline Tablet 25 mg HC4 V
+Fluoxetine Capsule 20 mg HC3 V
+Diazepam Tablet (scored) 5 mg HC2 V
+Specialist medicines
+Venlafaxine Tablet (scored) 75mg H E
+Bupropion hydrochloride Tablet 150mg RR E
+Escitalopram Tablet 10mg H V
+Clonazepam Tablet (scored) 2 mg RR E
+Sertraline Tablet Filmcoated 50mg H E
+Fluoxetine Tablet (scored) 10 mg RR V
+Alprazolam Tablet 0.5 mg RR N
+Pregabalin Capsule 75mg RR N
+24.2.2 Medicines used in bipolar disorders
+Olanzapine Tablet 10mg HC4 V
+Carbamazepine Tablet chewable 100 mg H V
+Carbamazepine Tablet 200 mg HC2 V
+Specialist medicines
+Lithium carbonate Tablet 400 mg RR E
+Lamotrigen Tablet 100 mg RR N
+Sodium Valproate Tablet 500 mg H E
+24.2.3 Medicines used in obsessive compulsive disorder
+Clomipramine Capsules 25mg RR V
+24.3.1 Medicines for sleep wake disorders
+Specialist Medicines
+Modafinil Tablet 200mg RR E
+Zolpidem Tablet 5mg RR E
+Melatonine Tablet 5mg RR E
+24.2.2 Medicines for alcohol and substance use disorders 
+Specialist medicines
+Naltrexone Tablet (scored) 50 mg RR E
+Buprenorphine Tablet 400 μg NR E
+Clonidine Tablet 100 μg NR E
+Methadone Oral liquid 10mg/5ml RR E
+Nicotine replacementtherapy Patch 7 mg/24 hrs NR
+Nicotine replacement therapy Gum 2 mg NR N
+48
+EMHSLU: SECTION A: ESSENTIAL MEDICINES LIST 2023
+MEDICINE DS STR L C
+Bupropion hydrochloride Tablet 150mg RR E
+Acamprosete Tablet 333mg NR E
+Naloxone Injection 0.4mg/ml NR E
+Thiamine Injection 100mg/ml HC3 V
+Thiamine Tablet 50mg HC3 E
+24.5 Anti-dementia medicines
+Donepezil Tablet 5mg H V
+Memantine Tablet 5mg H E
+24.6 T ardive Dyskinesia and other extrapyramidal side effects
+T etrabenazine Tablet 25mg RR E
+Benzhexol Tablet 2 mg HC2 V
+Promethazine Tablet 25mg HC3 E
+Promethazine Injection 50mg/ml HC4 E
+Procyclidine Tablet 5mg H E
+24.7 Medicines used for disruptive, impulse control and conduct disorder
+Methylphenidate Tablet 5mg RR E
+25. MEDICINES ACTING ON THE RESPIRATORYTRACT
+25.1 Anti-asthmatic and medicines for chronic obstructive pulmonary disease
+Salbutamol/ Ipratropium Nebuliser solution 2.5mg/500mcg/2.5ml HC4 V
+ Salbutamol Aerosol inhalation 100 μg/metered inhalation HC3 V
+Budesonide Aerosol inhalation 200μg/metered inhalation H E
+Budesonide + Formoterol Aerosol inhalation 200μg + 6μg or 160/4.5 μg 
+per dose H V
+Tiotropium bromide Aerosol inhalation 9mcg/metered dose inhaler HC4 V
+Monteleukast Tablet 4 mg HC3 N
+Monteleukast Tablet 5 mg HC3 N
+Magnesium sulphate Injection 0.5mg/ml HC4 V
+Epinephrine (adrenaline) Injection 1 mg/ml HC4 V
+Formoterol Aerosol inhalation 12 μg/metered dose inhalation RR N
+Hydrocortisone sodium succinate Powder for injection 100 mg HC4 V
+Ipratropium bromide Nebuliser solution 250 μg/ml HC4 V
+Ipratropium bromide Aerosol inhalation 20μg/metered dose inhalation H E
+Prednisolone Tablet 5 mg HC3 V
+Salbutamol Tablet 4mg HC3 N
+Aminophylline injection 25mg/ml HC3 N
+Aminophylline Tablet 100mg HC4 N
+25.2 Medicines for COPD - Antibiotics
+Amoxicillin-Clavulanic acid Tablet 600mg+25mg HC4 V
+Cefuroxime Capsule 250mg H E
+Azithromycin Tablet 500mg H N
+Clarithromycin Tablet 500mg H N
+Doxycycline Tablet 100mg HC3 V
+26. SOLUTIONS CORRECTING WATER, ELECTROLYTE AND ACID-BASEDISTURBANCES
+26.1 Oral
+Oral rehydration salts Powder for 1 Litre WHO formula HC2 
+(HC1) V
+ReSoMal Powder for 1 Litre WHO formula H E
+EMHSLU: SECTION A: ESSENTIAL MEDICINES LIST 2023
+49
+MEDICINE DS STR L C
+ORS+ zinc prepack
+26.2 Parenteral
+Calcium chloride (dihydrate) Injection 10% RR N
+Calcium gluconate Injection 10% RR E
+Darrow’s solution Injection ½ strength in 5% glucose HC3 V
+Glucose (Dextrose) IV infusion 5% HC3 V
+Glucose (Dextrose) IV infusion 50% HC3 V
+Potassium chloride Sterile concentrate 150 mg/ml H V
+Sodium bicarbonate IV injection 8.4% RR E
+Sodium chloride (Normal saline) IV infusion 500ml 0.9% HC3 V
+Sodium chloride (Normal saline) IV infusion 100ml 0.9% HC3 V
+Sodium lactate compound 
+(Hartmann’s/Ringer’ s lactate 
+solution)
+ IV infusion BP formula HC3 E
+26.3 Miscellaneous
+Water for injection Injection 10 ml HC2 V
+ 27. VITAMINS AND MINERALS
+Calcium lactate Tablet 300 mg HC3 N
+Multivitamin Tablet BPC 73 HC2 
+(HC1) N
+Potassium chloride Tablet 600 mg H E
+Pyridoxine (vitamin B6) Tablet 25 mg HC3 E
+Retinol (vitamin A) Capsule 100,000 IU HC2 E
+Retinol (vitamin A) Capsule 200,000 IU HC2 V
+Thiamine Tablet 100 mg HC4 E
+Thiamine Injection 100 mg/ml H E
+Vitamin B compound (B3+B2+B1) Tablet 15 mg + 1 mg + 1 mg RR V
+Vitamin B compound (strong)
+(B5+B6+B2+B1) Tablet 20 mg + 2 mg + 2 mg + 5mg HC4 N
+Vitamin C (Ascorbic acid) Intravenous 500mg/5ml H N
+Selenium +Moringa oleifera Vegie capsules 200mcg +500mcg HC3
+Specialist medicines
+Ergocalciferol (Vitamin D2) Tablet 250 μg (10,000 IU) NR E
+Hydroxycobalamin (vitamin B12) Injection 1 mg/ml H E
+28. EAR, NOSE AND THROAT MEDICINES
+28.1 Ear preparations
+Betamethasone Eye/ear drops 0.10% HC3 E
+Chloramphenicol Ear drops 5% HC2 E
+Ciprofloxacin Ear drops 0.3% HC3 N
+Clotrimazole Solution 1% HC4 N
+Gentamicin Ear drops 0.30% HC4 V
+28.2 Nasal preparations
+Beclomethasone Nasal spray 50μg/metered spray H N
+Ephedrine Nasal drops 1% H E
+Lignocaine + epinephrine 
+(adrenaline) Nasal drops 2% +1:100,000 RR N
+Xylometazoline Paediatric nasal drops 0.05% H E
+Xylometazoline Nasal drops 0.10% H E
+50
+EMHSLU: SECTION A: ESSENTIAL MEDICINES LIST 2023
+MEDICINE DS STR L C
+28.3 Oropharyngeal preparations
+Chlorhexidine Solution 0.2% HC2 N
+Hydrogen peroxide Solution 6% HC2 N
+Miconazole Oral gel 24 mg/ml (20 mg/g) HC4 N
+Povidone-iodine Mouthwash 1% HC3 N
+Triamcinolone acetonide Oral paste 0.10% RR N
+29. SPECIFIC MEDICINES FOR NEONATAL CARE
+29.1 Medicines administered to the neonate
+Chlorhexidine di-gluconate Gel 7.1% (equivalent to 4% 
+chlorhexidine) HC1 V
+T etracycline Eye ointment 1% HC2 V
+Vitamin K Injection 1 mg/ml HC3 V
+Caffeine citrate oral & IV H V
+Chlorhexidine gluconate antiseptic cream HC3 V
+Glucose (Dextrose) IV fluid 10% HC4 V
+Specialist medicines
+Surfactant RR
+Breast milk fortifier RR
+29.2 Medicines administered to the mother
+Dexamethasone Injection 4 mg/ml HC4 V
+30. MEDICINES FOR DISEASES OFJOINTS
+30.2 Medicines used to treat gout
+Allopurinol Tablet 100 mg H E
+Colchicine Tablet 500 μg H E
+30.2 Disease-modifying agents used in rheumatoid disorders (DMARDS)
+Chloroquine sulphate or phosphate Tablet 150 mg RR E
+Specialist medicines
+Methotrexate Tablet 2.5 mg RR E
+Methotrexate Injection 50 mg/ml NR E
+31. MEDICINES FOR NEUROSURGICALUSE
+31.1 For cerebral metabolism/perfusion
+Specialist medicines
+Cerebrolysin Injection 5 ml NR E
+Piracetam Tablet 800 mg NR E
+Piracetam Injection 125 mg/ml NR E
+31.2 Medicines for Parkinson disease
+Levodopa-cabidopa Tablet 10/100mg RR V
+32. NUTRITION
+Formula 75 Powder 75 kCal + 0.9g protein per 
+100ml H V
+EMHSLU: SECTION A: ESSENTIAL MEDICINES LIST 2023
+51
+MEDICINE DS STR L C
+ Formula 100 Powder 100 kCal + 2.9g protein per 
+100ml H E
+Ready to use therapeutic feeds 
+(RUTF) Paste
+30% full fat milk, 28% sugar, 
+15% vegetable oil, 15%peanut 
+butter, 1.6% mineral vitamin 
+mix
+HC1 E
+Combined mineral vitamin mix Powder Ka, Mg + other essential 
+minerals HC4 E
+Specialist medicines
+Amino acids (paediatric) Injection 10% NR N
+Fat emulsion Injection (emulsion) 20% NR N
+Starch emulsion Injection (emulsion) 80% oil in water NR N

@@ -1,0 +1,223 @@
+# TOPIC: antibiotic_allergy
+
+--- [WHO AWaRe Antibiotic Book (2022) | 3. Allergy to antibiotics | p.36-42 | audience=general] ---
+20The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+3. Allergy to antibiotics
+Key messages
+• True severe allergy to antibiotics is rare and allergies are often over-reported
+• Beta-lactam antibiotics (penicillins and cephalosporins) of the Access group are among the 
+most effective and safe medicines for many infections, and they should only be avoided 
+when there is a high suspicion of true allergy.
+• Cephalosporins and carbapenems can be safely used in most cases of non-severe penicillin 
+allergy.
+• All patients who are labelled as allergic should be carefully evaluated and their antibiotic 
+allergy risk level should be determined.
+• Routine skin testing before prescribing a beta-lactam antibiotic (e.g. penicillin or amoxicillin) 
+is not needed, and direct oral challenge can be performed in carefully selected low-risk 
+phenotypes.
+The AWaRe book does not include alternative antibiotic options in cases of allergy to firstchoice antibiotics. The reason for this is that a true allergy to antibiotics (true meaning an 
+allergic reaction that is immune-mediated) is rare and the AWaRe book focuses on the 
+empiric treatment options for most patients. Beta-lactam antibiotics of the Access group 
+are among the most effective and safe medicines for many infections. Avoiding the use of 
+this class, unless clearly justified because of severe allergy, exposes the patient to the risk of 
+receiving suboptimal treatment for their infection.
+This chapter on allergy describes general principles of the mechanisms of allergies 
+to antibiotics and the implications for treatment. From the perspective of antibiotic 
+stewardship, it is important to avoid over-diagnosing antibiotic allergies. Such overdiagnosis often occurs with antibiotics in the Access category (e.g. with penicillins) and 
+can lead to the subsequent prescription of antibiotics in the Watch category, for example, 
+macrolides that may be less effective and less safe. The detailed management of allergic 
+reactions is beyond the scope of this chapter.
+Definitions
+• An allergy is a reaction of the immune system to a “non-self” substance.
+• An adverse reaction is a response to a medicine which is harmful and 
+unintended, and which occurs at the doses normally used (23). Most adverse
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book21
+3. Allergy to antibiotics 
+reactions can be classified as type A or type B reactions (Table 3.1) depending on 
+whether or not their effects are related to the primary mechanism of action of the 
+medicine (type A, i.e. if they are predictable based on the mechanism of action or 
+not) and also whether the immune system is involved (type B, i.e. hypersensitivity 
+reactions) (24). Most patients with type A adverse reactions (e.g. nausea, vomiting, 
+headache and injection site reactions) should not be labelled as having a betalactam allergy, to prevent avoidance of beta-lactam antibiotics.
+• A hypersensitivity reaction is any adverse reaction that is immunologically 
+mediated. Hypersensitivity reactions are type B reactions and can be classified based 
+on the timing of onset of symptoms after taking the antibiotic as well as on the 
+underlying mechanism, that is, immediate reactions (potentially IgE-mediated) or 
+delayed reactions (potentially T cell-mediated). Immediate reactions usually occur 
+within 1–2 hours of taking the antibiotic and delayed reactions usually after more 
+than 6–24 hours. Reactions occurring within 2–6 hours are often called accelerated.
+Table 3.1 – Characteristics of adverse reactions to medicines
+Type A (or on-target) adverse reactiona: 
+characteristics
+Type B (or off-target) adverse reactiona: 
+characteristics
+• Pharmacologically predictable
+• Dose/level dependent
+• Non-immune mediated
+• Less influenced by genetic factors
+Examples: antibiotic-associated diarrhoea 
+and acute tubular necrosis due to 
+aminoglycosides
+• Pharmacologically unpredictable
+• Non-dose dependent
+• Often immunologically mediated 
+hypersensitivity reactionsb (IgE or T-cell 
+mediated)
+Examples: skin exanthema, angioedema or 
+anaphylaxis (immune-mediated)
+a On-target (or augmented) means the effects are related to the primary mechanism of action of the medicine. 
+Off-target means the effects are not related to the primary mechanism of action of the medicine.
+b These reactions are immunologically mediated. They can be immediate (< 2 hours), accelerated (2–6 hours) or 
+delayed (> 6 hours) reactions based on when symptoms appear after the administration of the antibiotic.
+Epidemiology
+Allergies to medicines are frequently self-reported, especially for antibiotics (25) with 5–15% 
+of patients in high-income countries reporting a penicillin allergy (24). However, in most 
+cases (> 95%), these patients do not have a true immunologically mediated allergy and it is 
+very likely that they can tolerate the antibiotic if re-exposed or challenged (26).
+Severe allergies to antibiotics (e.g. anaphylactic shock) are rare; nonetheless, antibiotics 
+are the most common cause of life-threatening immunologically mediated reactions (24).
+22The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ 3. Allergy to antibiotics
+Allergy to antibiotics is often over-diagnosed and patients are frequently labelled in health 
+records as allergic to certain antibiotics (particularly to beta-lactams and sulfonamides) based 
+on an unverified, vague, unknown or old (e.g. > 10 years) history of allergy reported by the 
+patient, most often rashes. In most cases, these patients are unlikely to have a true allergy to 
+the antibiotic and they will be able to safely tolerate it. Alternative explanations may exist for 
+what the patients experienced previously, such as: (i) the antibiotic may have interacted with 
+a concomitant infection, for example, antibiotic–infection interactions can occur in case of 
+viral infections (e.g. the rash observed in patients with infectious mononucleosis caused by 
+Epstein–Barr virus exposed to amoxicillin); or (ii) there may have been an “intolerance”/type 
+A adverse reaction of the antibiotic manifested as, for example, nausea, vomiting, diarrhoea 
+or headache; or (iii) a viral rash may have been confused with an allergic reaction. In addition, 
+it is important to bear in mind that even true allergies are not always long-lasting and may 
+decrease or disappear over time (> 10 years) (26).
+This over-diagnosis of allergy has important consequences because incorrectly 
+labelling a patient as allergic to an antibiotic often results in the unnecessary use of 
+alternative antibiotics. These alternatives may be less effective for the infection being treated 
+and may expose the patient to other (sometimes more toxic) side-effects. 
+Unfortunately, most patients with a history of allergy to antibiotics are not evaluated 
+to confirm the existence (or persistence) of the allergy. 
+Cross-reactivity
+Antibiotic cross-reactivity refers to the development of an allergic reaction to different 
+substances that have a closely related structure, for example, cross-reactivity can occur 
+between penicillin and other beta-lactams (Table 3.2) (26–28), which may be due to an 
+immunological reaction to the beta-lactam ring shared by these antibiotics.
+In patients with true allergy, cross-reactivity may occur and is generally 
+predictable based on shared beta-lactam structures (e.g. R1 side chains), with the most 
+frequently encountered example being aminopenicillins (e.g. amoxicillin, ampicillin) and 
+aminocephalosporins such as cephalexin.
+Table 3.2 – Cross-reactivity to antibiotics
+Penicillins with other 
+beta-lactams
+% of cross-reactivitya Safety of use
+Penicillins and 
+cephalosporins
+< 2 Cephalosporins can be safely 
+used in most cases of penicillin 
+allergy and vice versab.
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book23
+3. Allergy to antibiotics 
+Table 3.2 continued
+Penicillins with other 
+beta-lactams
+% of cross-reactivitya Safety of use
+Penicillins and carbapenems < 1 Carbapenems can be safely 
+used in most cases of penicillin 
+allergy and vice versab.
+Penicillins and monobactams 0 Monobactams can be safely 
+used in case of penicillin, 
+cephalosporins (except 
+ceftazidime) or carbapenem 
+allergyc.
+a Percentage of patients allergic to penicillins that can develop an allergic reaction if exposed to a different betalactam (cephalosporins, carbapenems or monobactams).
+b In cases of previous life-threatening reactions caused by the exposure to penicillins or other beta-lactams, any use 
+of beta-lactams should be avoided, or an allergy specialist should be consulted.
+c Monobactams can be safely used in cases of beta-lactam allergies except when there is an allergy to ceftazidime, 
+a third-generation cephalosporin, because of similarities in the side chains of aztreonam and ceftazidime.
+Clinical presentation
+Signs and symptoms of antibiotic allergy can vary in severity, ranging from mild reactions 
+that can be safely managed in an outpatient setting with or without need for symptomatic 
+treatment (e.g. antihistamines) to severe reactions that require hospitalization and even 
+admission to intensive care. Immediate and delayed reactions can be severe or non-severe.
+Gastrointestinal symptoms and headache are not usually due to an allergic reaction 
+but rather to an intolerance of the antibiotic that can vary in intensity from person to person 
+or to Clostridioides difficile infection in case of diarrhoea. 
+Most cases of allergic reactions to antibiotics are not severe and often present as mild 
+skin reactions (most commonly mild rash, hives and itching) with no systemic symptoms.
+Severe reactions are rare but can become life-threatening. They can be immediate 
+or delayed after administration of the antibiotic.
+• Immediate severe reactions should be suspected if there is airway involvement, 
+bronchospasm, wheezing, angioedema (swelling of the tissue under the skin 
+with or without hives) or anaphylaxis. Usually, these reactions develop fewer than 
+4 hours after taking the antibiotic.
+• Delayed severe reactions should be suspected in patients who have taken an 
+antibiotic and present with severe skin symptoms (e.g. a painful blistering rash) and 
+fever, joint pain or signs of organ involvement (e.g. hepatitis). Thrombocytopenia
+24The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ 3. Allergy to antibiotics
+(low platelet count), haemolytic anaemia (destruction of red blood cells) and 
+signs and symptoms of hepatitis or nephritis in severe cases are suggestive of 
+organ involvement. Usually, these reactions develop more than 24 hours after 
+taking the antibiotic.
+Allergy evaluation 
+All patients who are labelled as allergic should be carefully evaluated and their antibiotic 
+allergy risk level should be determined. When evaluating a patient, a full history of their 
+allergy should be taken from the patient with details of past reactions, including timing 
+relative to antibiotic administration (immediate, intermediate, delayed or unknown) and 
+treatment received (if any). Patients can be classified into three risk categories for allergy to 
+antibiotics: low, moderate, and high risk; see Table 3.3 for examples but other assessment 
+tools are also available (29,30). Detailed documentation of all elements of the allergy is 
+crucial. The patient should be educated about what types of antibiotics to avoid, if any, and 
+should be provided, if possible, with written information such as a so-called allergy passport.
+Table 3.3 – Antibiotic allergy risk levels based on the patient’s allergy history
+Allergy risk 
+category
+Examples
+Low • Patients with a history of isolated symptoms consistent with intolerance 
+of an antibiotic, such as nausea, vomiting, diarrhoea or headache
+• Patients with a history of mild skin reactions especially if > 5 years before 
+assessment
+• Patients with local injection site reactions
+• Patients with a history of unknown reactions a long time ago without 
+features of immediate IgE-mediated reactions
+• Patients with a family history of antibiotic allergy
+Moderate • Patients with a history of acute onset urticaria 
+• Patients with a history of reactions that look like IgE-mediated reactions 
+but with no history of anaphylaxis
+High • Patients with a history of severe or life-threatening reaction (immediate 
+or delayed) to an antibiotic (e.g. anaphylaxis, Stevens–Johnson syndrome 
+or blistering or mucosal involvement rash)
+• Patients with a positive skin test
+• Patients with recurrent reactions or reactions to multiple antibiotics
+Source: Shenoy ES, et al (26).
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book25
+3. Allergy to antibiotics 
+Testing techniques for patients at low and moderate risk of antibiotic allergy include 
+skin tests (this applies only to IgE-mediated reactions) and direct oral challenge tests. In 
+direct oral challenge tests, a single therapeutic dose of the antibiotic is given orally to the 
+patient under medical supervision with the ability to treat acute allergic responses. The 
+patient should be kept under observation (usually at least 1-2 hours) to check for objective 
+signs of an allergic reaction. A detailed description of different types of tests available is 
+beyond the scope of this chapter. Routine skin testing before prescribing a beta-lactam 
+antibiotic (e.g. penicillin and amoxicillin) is not needed in children or adults and should 
+not be recommended in guidelines as this is an unnecessary barrier to the use of Access 
+antibiotics. 
+In settings where allergy testing, specialist advice or treatment for anaphylaxis 
+are not available, then pragmatic decisions should be based on a detailed history of any 
+reported possible penicillin allergy. A rapid risk assessment needs to be done, including 
+the medical importance of the infection the patient is presenting with (i.e. benefit–risk 
+assessment in that patient and whether an antibiotic is really needed) and the availability of 
+alternative antibiotics with similar effectiveness. Please see the relevant infection chapters 
+and symptomatic non-antibiotic treatment of minor infections within chapters.
+Patients with a definite history of immediate collapse, breathing difficulties or severe 
+facial swelling within a few minutes to 1–2 hours of taking a penicillin class of antibiotic are 
+likely to have had a true anaphylactic reaction. If any alternative antibiotics are available, they 
+are preferred. Patients who have only had gastrointestinal symptoms or a rash appearing a 
+few days after receiving an antibiotic of the penicillin group and who have shown no signs 
+of becoming seriously unwell are generally less likely to develop severe anaphylaxis if they 
+receive such antibiotics again in the future. Therefore, if one of these antibiotics is the most 
+appropriate and available treatment option, they can be given and the patient advised to 
+stop it if they develop a new skin rash, especially if the onset is rapid, the rash is raised and 
+itchy and/or accompanying symptoms are present such as shortness of breath.
+26The WHO AWaRe (Access, Watch, Reserve) antibiotic book

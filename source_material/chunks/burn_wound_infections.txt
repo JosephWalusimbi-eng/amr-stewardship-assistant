@@ -1,0 +1,649 @@
+# TOPIC: burn_wound_infections
+
+--- [WHO AWaRe Antibiotic Book (2022) | 17. Burn wound-related infections | p.222-230 | audience=general] ---
+206The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+17. Burn wound-related infections
+Key messages
+• Burn wounds predispose to infections (damage of the skin’s protective barrier, 
+immunosuppression in severe cases) and should be monitored for signs of cellulitis 
+(redness, pain and swelling around the wound).
+• Avoid the routine use of antibiotics to prevent infections if there are no signs of systemic 
+infection and in otherwise healthy patients.
+• Mild infections should be treated with antibiotics with good activity against the most likely 
+pathogens (Gram-positive bacteria from the skin microbiota)
+• Multidrug-resistant organisms are a major concern in patients with severe burn wounds 
+often because of prolonged hospitalization and frequent antibiotic exposure.
+• Sepsis and septic shock are a frequent complication of severe burns.
+Other relevant WHO resources (please check regularly for updates)
+• Pocket book of hospital care for children: guidelines for the management of common 
+childhood illnesses, 2013 (31).
+• Burns – fact sheet (170).
+Definition
+A burn wound is an injury to the skin or other organic tissue primarily caused by heat or 
+due to radiation, radioactivity, electricity, friction or contact with chemicals. Burns can be 
+classified based on the cause and depth of the burn.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+207
+PRIMARY HEALTH CARE 
+17. Burn wound-related infections
+Burn wound-related infections
+An injury to the skin or other organic tissue primarily caused by
+heat or due to radiation, radioactivity, electricity, friction or
+contact with chemicals. Burns can be classi/g246ed based on cause
+and depth of the burn
+De/g246nition
+Treatment
+Clinical Considerations
+•Meticulous observation of infection control procedures to
+prevent transmission of multidrug-resistant organisms
+•Irrigation and debridement of necrotic tissue to prevent
+infection of the wound
+•Appropriate daily cleaning and dressing of the wound
+•Only infected wounds should be treated
+•Coverage against MRSA may be considered based on local
+prevalence and on individual risk factors
+Treat for 5 days (mild cases)
+(Potentially longer if severe systemic infections)
+Antibiotic Treatment Duration
+Diagnosis
+Clinical Presentation
+•Routine testing (including wound cultures) is not needed
+in mild cases with no signs of systemic infection
+•Identifying the pathogen in mild cases will not bene/g246t the
+patient as it will rarely change management
+•In severe cases, refer to the Sepsis infographic if this is
+suspected
+Microbiology Tests
+•Routine testing is not needed in mild cases with no signs
+of systemic infection
+•Because of the in/g248ammatory response associated with the
+burn, biomarkers of infection are of limited use to diagnose
+bacterial infections
+Other LaboratoryTests
+Routine imaging not necessary
+Imaging
+Diagnosis of a wound infection relies on the clinical
+examination
+•Burn wounds should be monitored for signs of infection
+such as increased pain, redness or swelling of the area
+surrounding the wound
+•Redness alone may not indicate infection
+•Signs of invasive infection (e.g. change in wound colour,
+signs of sepsis) should be carefully monitored
+This guidance excludes severe infections
+Mostly polymicrobial. Hospital-acquired multidrug-resistant
+organisms are a major concern in burn patients often because of
+prolonged hospitalization and frequent antibiotic exposure
+Early after the injury:
+• spp.Streptococcus
+• (including MRSA)Staphylococcus aureus
+• spp. other thanStaphylococcus S. aureus
+•*Enterobacterales
+During hospitalization:
+•*Pseudomonas aeruginosa
+•*Acinetobacter baumannii
+•Fungi (e.g. spp.)Candida
+*Including multidrug-resistant strains
+Most Likely Pathogens
+Avoid the routine use of antibiotics to prevent infections
+(no clear evidence of a bene/g246t and increased risk of
+colonization with resistant bacteria)
+Prophylactic Antibiotics
+Topical Treatment
+Locala ntisepticsc ould be considered basedo n localp rotocols
+Only infected wounds should be treated
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Antibiotic Treatment
+Amoxicillin+clavulanic acid 500 mg+125 mg
+q8h ORAL
+Cefalexin 500 mg q8h ORAL
+----------------------------------- -----------------------------------OR
+Cloxacillin 500 mg q6h ORAL
+----------------------------------- -----------------------------------OR
+Cloxacillin and cefalexin have a narrower spectrum of
+antibacterial activity compared to amoxicillin+clavulanic acid
+with good effic acy in mild skin and soft tissue infections. From
+an antibiotic stewardship perspective, these would be the
+preferred options whenever possible
+If cloxacillin is unavailable, dicloxacillin or /g248ucloxacillin could
+be used
+208
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+17. Burn wound-related infections
+Burn wound-related infections
+Page 1 of 2
+•An injury to the skin or other organic tissue primarily caused by
+heat or due to radiation, radioactivity, electricity, friction or
+contact with chemicals
+•Burns can be classi/g246ed based on cause and depth of the burn
+De/g246nition
+This guidance excludes severe infections Diagnosis
+Clinical Presentation
+•Routine testing (including wound cultures) is not needed
+in mild cases with no signs of systemic infection
+•Identifying the pathogen in mild cases will not bene/g246t the
+patient as it will rarely change management
+•In severe cases, refer to the Sepsis infographic if this is
+suspected
+Microbiology Tests
+•Routine testing is not needed in mild cases with no signs
+of systemic infection
+•Because of the in/g248ammatory response associated with the
+burn, biomarkers of infection are of limited use to diagnose
+bacterial infections
+Other LaboratoryTests
+Routine imaging not necessary
+Imaging
+Diagnosis of a wound infection relies on the clinical
+examination
+•Burn wounds should be monitored for signs of infection
+such as increased pain, redness or swelling of the area
+surrounding the wound
+•Redness alone may not indicate infection
+•Signs of invasive infection (e.g. change in wound colour,
+signs of sepsis) should be carefully monitored
+Mostly polymicrobial. Hospital-acquired multidrug-resistant
+organisms are a major concern in burn patients often because of
+prolonged hospitalization and frequent antibiotic exposure
+Early after the injury:
+• spp.Streptococcus
+• (including MRSA)Staphylococcus aureus
+• spp. other thanStaphylococcus S. aureus
+•*Enterobacterales
+During hospitalization:
+•*Pseudomonas aeruginosa
+•*Acinetobacter baumannii
+•Fungi (e.g. spp.)Candida
+*Including multidrug-resistant strains
+Most Likely Pathogens
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+209
+PRIMARY HEALTH CARE 
+17. Burn wound-related infections
+Burn wound-related infections
+Page 2 of 2
+Treatment
+----------------------------------- -----------------------------------OR
+Amoxicillin+clavulanic acid 80-90 mg/kg/day
+of amoxicillin component ORAL
+•:Oral weight bands
+3-<6 kg 250 mg of amox/dose q12h
+6-<10 kg 375 mg of amox/dose q12h
+10-<15 kg 500 mg of amox/dose q12h
+15-<20 kg 750 mg of amox/dose q12h
+≥20 kg 500 mg of amox/dose q8h or
+1 g of amox/dose q12h
+Amox = amoxicillin
+Oral liquid must be refrigerated after reconstitution
+Cefalexin 25 mg/kg/dose q12h ORAL
+•:Oral weight bands
+3-<6 kg 125 mg q12h
+6-<10 kg 250 mg q12h
+10-<15 kg 375 mg q12h
+15-<20 kg 500 mg q12h
+20-<30 kg 625 mg q12h
+≥30 kg 500 mg q8h
+----------------------------------- -----------------------------------OR
+Cloxacillin15 mg/kg/dose q6h ORAL
+•:Oral weight bands
+3-<6 kg 62.5 mg q6h
+6-<10 kg 125 mg q6h
+10-<15 kg 250 mg q6h
+15-<20 kg 375 mg q6h
+≥20 kg 500 mg q6h
+Cloxacillin and cefalexin have a narrower spectrum of
+antibacterial activity compared to amoxicillin+clavulanic acid
+with good effic acy in mild skin and soft tissue infections. From
+an antibiotic stewardship perspective, these would be the
+preferred options whenever possible
+If cloxacillin is unavailable, dicloxacillin or /g248ucloxacillin could
+be used
+Only infected wounds should be treated
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Antibiotic TreatmentClinical Considerations
+•Meticulous observation of infection control procedures to
+prevent transmission of multidrug-resistant organisms
+•Irrigation and debridement of necrotic tissue to prevent
+infection of the wound
+•Appropriate daily cleaning and dressing of the wound
+•Only infected wounds should be treated
+•Coverage against MRSA may be considered based on local
+prevalence and on individual risk factors
+Treat for 5 days (mild cases)
+(Potentially longer if severe systemic infections)
+Antibiotic Treatment Duration
+Avoid the routine use of antibiotics to prevent infections
+(no clear evidence of a bene/g246t and increased risk of
+colonization with resistant bacteria)
+Prophylactic Antibiotics
+Topical Treatment
+Locala ntisepticscould be considered based on localp rotocols
+210The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+17. Burn wound-related infections
+Pathophysiology 
+Burns predispose to infection because they allow entry of pathogens from the patient’s 
+own skin microbiota and the environment into the wound. Burns can also cause 
+immunosuppression that allows rapid bacterial colonization and proliferation. Sepsis and 
+septic shock are a frequent complication of severe burns.
+Epidemiology
+Burn wounds are an important public health problem in low- and middle-income countries 
+where they are among the leading causes of DALYs lost. An estimated 180 000 deaths 
+every year are caused by burns and most occur in low- and middle-income countries 
+(170). Infections (including but not limited to the skin) are the most frequent complications 
+encountered in patients with burn injuries and are the leading cause of death in patients 
+with severe wounds. Skin infections (e.g. cellulitis) are in general the first infections to occur, 
+usually in the first week of the injury.
+Most likely pathogens
+Table 17.1 gives the pathogens that often infect burn wounds. In most cases, infection is 
+caused by several pathogens. Multidrug-resistant organisms are a major concern in burn 
+patients often because of prolonged hospitalization and frequent antibiotic exposure (171). 
+Table 17.1 – Pathogens most frequently associated with infected burn wounds (in 
+descending order of frequency)
+Time infection acquired Bacteria Fungi
+Soon after the injury Streptococcus spp. 
+Staphylococcus aureus (including 
+MRSA)
+Staphylococcus spp. other than 
+Staphylococcus aureus
+Enterobacterales (including 
+multidrug-resistant strains such 
+as those producing ESBL and 
+carbapenemases)
+Infrequent
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book211
+PRIMARY HEALTH CARE 
+17. Burn wound-related infections
+Table 17.1 continued
+Time infection acquired Bacteria Fungi
+Additionally, during 
+hospitalization
+Pseudomonas aeruginosa
+Acinetobacter baumannii
+(including multidrug-resistant 
+strains such as those producing 
+ESBL and carbapenemases)
+Candida spp.
+ESBL: extended-spectrum beta-lactamases; MRSA: methicillin-resistant Staphylococcus aureus.
+Clinical presentation
+Diagnosis of a burn wound infection requires clinical examination. For this reason, burn 
+wounds should be monitored for signs of infection, such as increased pain and redness or 
+swelling of the area surrounding the wound. Redness alone may represent inflammation 
+and does not necessarily indicate infection. Signs of invasive infection (e.g. change in the 
+colour of the wound, signs of sepsis) should also be carefully monitored. Please also refer 
+to the chapter on sepsis if suspected. Patients with burn injuries may also develop other 
+complications dependent on their supportive care such as pneumonia, UTIs or catheterrelated infections. 
+Laboratory tests 
+Patient microbiology tests
+In mild cases of infection of a burn wound where there are no signs of systemic infection, 
+routine testing (including wound cultures) is not required. These tests are not needed 
+because identifying the causative pathogen in mild cases will not benefit the patient as it 
+will not change management. In severe cases, blood cultures can be considered. Please also 
+refer to the chapter on sepsis if suspected.
+Other tests
+Routine testing in mild cases with no signs of systemic infection is not required. In addition, 
+because of the inflammatory response associated with the burn itself, results of laboratory 
+tests (e.g. biomarkers of infection) may be of limited help.
+In severe cases, certain laboratory tests can be considered to make an initial 
+assessment of the patient and to help guide the duration of antibiotic treatment. Please also 
+refer to the chapter on sepsis if suspected.
+212The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+17. Burn wound-related infections
+Using microbiology surveillance data
+Targeted clinical surveys of bloodstream infection isolates at a local unit level may be helpful 
+to inform empiric guidance. Empiric guidance should not usually be informed by routine 
+surface skin swabs.
+Imaging
+Routine imaging is not required unless a complication is suspected.
+Management
+Irrigation and debridement of necrotic tissue to prevent infection of the burn wound is suggested. 
+Appropriate daily cleaning and dressing of the wound are the cornerstone of treatment.
+Infection control procedures should be meticulously observed to prevent 
+transmission of multidrug-resistant organisms.
+Topical treatment
+Local antiseptics could be considered based on local protocols.
+Preventive antibiotic use 
+Routine use of antibiotics to prevent infection in burn wounds should be avoided if there 
+are no signs of systemic infection or in otherwise healthy patients. Use of antibiotics as 
+a preventive treatment is controversial because there is no clear evidence that it can 
+prevent infection (172,173). In addition, such use can lead to colonization with resistant 
+microorganisms, so caution is needed. 
+Antibiotic treatment
+Empiric treatment of mild infections should include antibiotics with good activity against 
+the most likely pathogens, Staphylococcus aureus and Streptococcus spp. Antibiotic options 
+are shown in Table 17.2. Empiric treatment against community-acquired MRSA may be 
+considered and should be based on local prevalence of invasive isolates and individual 
+patient risk factors (e.g. known MRSA colonization). 
+It is important to note that because hospital-acquired multidrug-resistant organisms are 
+frequently found in burn units, the results of microbiology cultures should where possible 
+guide antibiotic treatment. Empiric use of RESERVE group antibiotics should, however, 
+generally be avoided unless there is a high suspicion of the infection being caused by 
+multidrug-resistant organisms. Please also refer to the chapter on sepsis if suspected.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book213
+PRIMARY HEALTH CARE 
+17. Burn wound-related infections
+Note
+Only infected wounds should be treated with antibiotics
+Table 17.2 – Empiric antibiotic treatment for mild burn wound infections
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Note
+Cloxacillin and cefalexin have a narrower spectrum of antibacterial activity compared to 
+amoxicillin+clavulanic acid with good efficacy in mild skin and soft tissue infections. Therefore, 
+from an antibiotic stewardship perspective, these two antibiotics are the preferred options 
+whenever possible.
+Adults Children Total treatment 
+duration
+ Amoxicillin+clavulanic 
+ acid (oral): 500 mg + 125 mg 
+given every 8 hours
+OR
+ Cefalexin (oral): 500 mg 
+given every 8 hours
+OR
+ Cloxacillin a (oral): 500 mg 
+given every 6 hours
+ Amoxicillin+clavulanic acid b 
+(oral): 80–90 mg/kg/day of amoxicillin 
+component
+Oral weight bands:
+3–< 6 kg: 250 mg of amoxicillin/dose 
+given every 12 hours
+6–< 10 kg: 375 mg of amoxicillin/dose 
+given every 12 hours
+10–< 15 kg: 500 mg of amoxicillin/dose 
+given every 12 hours
+15–< 20 kg: 750 mg of amoxicillin/dose 
+given every 12 hours
+≥ 20 kg: 500 mg of amoxicillin/dose 
+given every 8 hours or 1 g of amoxicillin/
+dose given every 12 hours
+OR
+5 days
+continues
+214The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+17. Burn wound-related infections
+Table 17.2 continued
+Adults Children Total treatment 
+duration
+ Cefalexin (oral): 25 mg/kg/dose given 
+every 12 hours
+Oral weight bands:
+3–< 6 kg: 125 mg given every 12 hours
+6–< 10 kg: 250 mg given every 12 hours
+10–< 15 kg: 375 mg given every 12 hours
+15–< 20 kg: 500 mg given every 12 hours
+20–< 30 kg: 625 mg given every 12 hours
+≥ 30 kg: use adult dose
+OR
+ Cloxacillin a,c (oral): 15 mg/kg/dose 
+given every 6 hours
+Oral weight bands: 
+3–< 6 kg: 62.5 mg given every 6 hours
+6–< 10 kg: 125 mg given every 6 hours
+10–< 15 kg: 250 mg given every 6 hours
+15–< 20 kg: 375 mg given every 6 hours
+≥ 20 kg: 500 mg given every 6 hours
+Note. All dosages are for normal renal and hepatic function.
+a If cloxacillin is unavailable, dicloxacillin or flucloxacillin could be used.
+b Oral liquid formulations must be refrigerated after reconstitution as clavulanic acid is rapidly metabolized in high 
+ambient temperatures.
+c The WHO Pocket book of hospital care for children suggests amoxicillin plus cloxacillin; however, cloxacillin 
+can be safely used as a single antibiotic option since it has good activity against both methicillin-susceptible 
+Staphylococcus aureus and Streptococcus pyogenes. Amoxicillin alone is not suitable because it has variable activity 
+against methicillin-susceptible Staphylococcus aureus.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 1.2.3 Burns | p.111-118 | audience=general] ---
+Tissue injury caused by thermal, chemical, electrical, or radiation energy.
+Causes
+~ Thermal, e.g., hot fluids, flame, steam, hot solids, sun
+~ Chemical, e.g., acids, alkalis, and other caustic chemicals
+~ Electrical, e.g., domestic (low voltage) transmission lines
+(high voltage), lightening
+~ Radiation, e.g., exposure to excess radiotherapy or radioactive materials
+Clinical features
+~ Pain, swelling
+~ Skin changes (hyperaemia, blisters, singed hairs)
+~ Skin loss (eschar formation, charring)
+~ Reduced ability to use the affected part
+~ Systemic effects in severe/extensive burns include shock,
+low urine output, generalised swelling, respiratory insufficiency, deteriorated mental state
+~ Breathing difficulty, hoarse voice and cough in smoke inhalation injury – medical emergency
+Criteria for classification of the severity of burns
+The following criteria are used to classify burns:
+CRITERIA LEVEL
+Depth of the burn (a
+factor of temperature,
+of agent, and of duration of contact with
+the skin)
+1st Degree burns
+Superficial epidermal injury with no
+blisters. Main sign is redness of the skin,
+tenderness, or hyper sensitivity with
+intact two-point discrimination. Healing in 7 days
+45
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+CRITERIA LEVEL
+2nd Degree burns or Partial thickness burns
+It is a dermal injury that is sub-classified as
+superficial and deep 2nd degree burns. In superficial 2nd degree burns, blisters result, the
+pink moist wound is painful. A thin eschar is
+formed. Heals in 10-14 days.
+In deep 2nd degree burns, blisters are lacking,
+the wound is pale, moderately painful, a thick
+escar is formed. Heals in
+>1 month, requiring surgical debridement
+3rd Degree burns
+Full thickness skin destruction, leather- like
+rigid eschar. Painless on palpation or pinprick.
+Requires skin graft.
+4th Degree burns
+Full thickness skin and fascia, muscles, or bone
+destruction. Lifeless body part
+Percentage of total
+body surface area
+(TBSA)
+Small areas are estimated using the open palm
+of the patient to represent 1% TBSA. Large
+areas estimated using the “rules of nines” or
+a Lund-Browder chart. Count all areas except
+the ones with erythema only
+The body parts
+injured
+Face, neck, hands, feet, perineum and major
+joints burns are considered severe
+Age/general condition
+In general, children and the elderly fare worse
+than young adults and need more care. A person
+who is sick or debilitated at the time of the burn
+will be more affected than one who is healthy
+46
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+Categorisation of severity of burns
+Using the above criteria, a burn patient may be categorised as follows:
+SEVERITY CRITERIA
+Minor/mild
+burn
+- Adult with <15% TBSA affected or
+- Child/elderly with <10% TBSA affected or
+- Full thickness burn with <2% TBSA
+affected and no serious threat to function
+Minor/mild
+burn
+- Adult with <15% TBSA affected or
+- Child/elderly with <10% TBSA affected or
+- Full thickness burn with <2% TBSA
+affected and no serious threat to function
+Moderate
+(intermediate)
+burn
+Adult with partial thickness burn 15- 25% TBSA or
+Child/elderly with partial thickness
+burn 10-20% TBSA
+All above with no serious threat to function and no
+cosmetic impairment of eyes, ears, hands, feet or
+perineum
+Major (severe)
+burn
+Adult with
+- Partial thickness burn >25% TBSA or
+- Full thickness burn >10% TBSA
+Child/elderly with
+- Partial thickness burn >20% TBSA or full
+thickness burn of >5% TBSA affected
+Irrespective of age
+- Any burns of the face and eyes, neck, ears,
+hand, feet, perineum and major joints with
+cosmetic or functional impairment risks,
+circumferential burns
+- Chemical, high voltage, inhalation burns
+- Any burn with associated major trauma
+47
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+Chart for Estimating Percentage of Total Body Surface Area (TBSA) Burnt
+LUND AND BROWDER CHARTS Ignore simple erythema
+Superficial Deep
+Region %
+Head
+Neck
+Region %
+Ant. Trunk
+Post. Trunk
+Right Arm
+Left Arm
+Buttocks
+Genitalia
+Right Leg
+Left Leg
+Total Burn
+Relative percentage of body surface area affected by growth
+Area Age 0 1 5 10 15 Adult
+A = ½ of head 9½ 8½ 6½ 5½ 4½ 3½
+B = ½ of one thigh 2¾ 3¼ 4 4½ 4½ 4¾
+C = ½ of one lower leg 2½ 2½ 2¾ 3 3¼ 3½
+Management
+TREATMENT LOC
+Mild/moderate burns – First aid
+- Stop the burning process and move the patient to safety
+- Roll on the ground if clothing is on fire
+HC1
+48
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+Management
+TREATMENT LOC
+- Switch off electricity
+- Cool the burn by pouring or showering or soaking the
+affected area with cold water for 30 minutes, especially
+in the first hour after the burn (this may reduce the depth
+of injury if started immediately)
+- Remove soaked clothes, wash off chemicals, remove any
+constrictive clothing/rings
+- Clean the wound with clean water
+- Cover the wound with a clean dry cloth and keep the
+patient with warm
+HC1
+At health facility
+- Give oral or IV analgesics as required
+- If TBSA <10% and patient able to drink, give oral fluids
+otherwise consider IV
+- Give TT if not fully immunised
+- Leave small blisters alone, drain large blisters and dress
+if closed dressing method is being used the urine output.
+The normal urine output is: Children (<30 kg) 1-2 ml/kg/
+hour and adults 0.5 ml/kg/hour (30-50 ml /hour)
+HC2
+- Dress with silver sulphadiazine cream 1%, add saline
+moistened gauze or paraffin gauze and dry gauze on top
+to prevent seepage
+- Small superficial 2nd degree burns can be dressed directly
+with paraffin gauze dressing
+- Change after 1-3 days then prn
+- Patient may be exposed in a bed cradle if there are extensive burns
+- Saline bath should be done before wound dressing
+HC3
+49
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+TREATMENT LOC
+- If wound infected dress more frequenly with silver sulphadiazine cream until infection is controlled.
+Severe burns
+- First aid and wound management as above PLUS
+- Give IV fluid replacement in a total volume per 24 hours
+according to the calculation in the box below (use crystalloids, i.e., Ringer’s lactate, or normal saline)
+- If patient in shock, run the IV fluids fast until BP improves
+(see section 1.1.2)
+- Manage pain as necessary
+- Refer for admission
+- Monitor vital signs and urine output
+- Use antibiotics if there are systemic signs of infection:
+benzylpenicillin 3 MU every 6 hours
++/- gentamicin 5-7 mg/kg IV or IM once a day
+- Blood transfusion may be necessary
+- If signs/symptoms of inhalation injury, give oxygen and
+refer for advanced life support (refer to regional level)
+Surgery
+- Escharotomy and fasciotomy for circumferential finger,
+hand, limb or torso burns
+- Escharectomy to excise dead skin
+- Skin grafting to cover clean deep burn wounds
+Eye injury
+- Irrigate with abundant sterile saline
+- Place eye pad over eye ointment and refer
+HC3
+HC4
+H
+50
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+TREATMENT LOC
+Additional care
+- Nutritional support
+- Physiotherapy of affected limb
+- Counselling and psychosocial support
+- Health education on prevention (e.g. epilepsy control)
+Caution
+- Silver sulphadiazine contraindicated in pregnancy, breastfeeding and premature babies
+Fluid replacement in burns
+~ The objective is to maintain normal physiology as shown by
+urine output, vital signs and mental status
+~ Fluid is lost from the circulation into the tissues surrounding
+the burns and some is lost through the wounds, especially
+in 18-30 hours after the burns
+~ Low intravascular volume results in tissue circulatory insufficiency (shock) with results such as kidney failure and
+deepening of the burns
+~ The fluid requirements are often very high and so should be
+given as necessary to ensure adequate urine output
+TREATMENT LOC
+- Give oral fluids (ORS or others) and/or IV fluids e.g. normal
+saline or Ringer’s Lactate depending on the degree of loss
+of intravascular fluid
+V The total volume of IV solution required in the first 24 hours
+of the burns is:
+4 ml x weight (kg) x % TBSA burned plus the normal daily
+fluid requirement
+- Give 50% of fluid replacement in the first 8 hours and 50%
+in the next 16 hours. The fluid input is balanced against
+HC2
+HC3
+51
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+Prevention
+~ Public awareness of burn risks and first aid water use in
+cooling burnt skin
+~ Construction of raised cooking fire places as safety measure
+~ Ensure safe handling of hot water and food, keep well out
+of the reach of children
+~ Particular care of high risk persons near fires e.g. children,
+epileptic patients, alcohol or drug abusers
+~ Encourage people to use closed flames e.g. hurricane
+lamps. Avoid candles.
+~ Beware of possible cases of child abuse

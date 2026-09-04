@@ -1,0 +1,635 @@
+# TOPIC: dosing_guidance_children
+
+--- [WHO AWaRe Antibiotic Book (2022) | 50. Dosing guidance - Children | p.655-668 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book639
+DOSING GUIDANCE 
+50. Dosing guidance - Children
+Table 50.1 lists the antibiotics and suggested doses to be used in children for the conditions 
+covered in the AWaRe book.
+For children, weight-based dosing is used for oral treatment when possible. The 
+2019 EML report on consensus guidance on paediatric antibiotic dosing regimens was used 
+as a reference but adapted and weight-banded by infection and severity of disease (20). 
+Local and national dosing guidance should be considered where available.
+Table 50.1 – Antibiotics dosing guidance: children 
+All dosages are for normal renal and hepatic function.
+Antibiotic (alphabetic order) Dose Indications for use
+ Amikacin IV: 15 mg/kg/dose given 
+once daily 
+Up to a maximum daily 
+dose of 1.5 g
+Febrile neutropenia (high 
+risk)
+Sepsis (unknown origin)
+Upper UTI (severe)
+continues
+640The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ DOSING GUIDANCE
+50. Dosing guidance - Children
+Antibiotic (alphabetic order) Dose Indications for use
+ Amoxicillin Oral: 80–90 mg/kg/day
+Up to a maximum daily 
+dose of 1.5 g but can be 
+higher for serious bacterial 
+infections
+Weight bands:
+3–<6 kg: 250 mg given 
+every 12 hours
+6–<10 kg: 375 mg given 
+every 12 hours
+10–<15 kg: 500 mg given 
+every 12 hours
+15–<20 kg: 750mg given 
+every 12 hours
+≥ 20 kg: 500 mg given every 
+8 hours or 1 g given every 
+12 hours
+IV: 
+• First week of life: 
+50 mg/kg/dose given every 
+12 hours
+• Beyond first week of life: 
+50 mg/kg/dose given every 
+8 hours
+Up to a maximum daily 
+dose of 6 g (serious bacterial 
+infections)
+Oral:
+Pharyngitis 
+Acute otitis media 
+Dental infections 
+Acute sinusitis 
+CAP (mild) 
+Sepsis (referral to hospital 
+not possible)
+IV:
+Meningitis
+CAP
+continues
+Table 50.1 continued
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book641
+DOSING GUIDANCE 
+50. Dosing guidance - Children
+Antibiotic (alphabetic order) Dose Indications for use
+ Amoxicillin+clavulanic acid 
+Oral liquid formulations must be 
+refrigerated after reconstitution.
+Oral: 
+80–90 mg/kg/day 
+(amoxicillin component) 
+Weight bands:
+3–< 6 kg: 250 mg of 
+amoxicillin/dose given every 
+12 hours
+6–< 10 kg: 375 mg of 
+amoxicillin/dose given every 
+12 hours
+10–< 15 kg: 500 mg of 
+amoxicillin/dose given every 
+12 hours
+15–< 20 kg: 750 mg of 
+amoxicillin/dose given every 
+12 hours
+≥ 20 kg: 500 mg of 
+amoxicillin/dose given every 
+8 hours or 1 g of amoxicillin/
+dose given every 12 hours
+IV:
+First week of life: 50 mg/kg 
+of amoxicillin/dose given 
+every 12 hours
+Beyond first week of life: 
+50 mg/kg of amoxicillin/
+dose given every 8 hours
+Oral:
+Acute otitis media
+Acute sinusitis 
+UTI (lower) 
+SSTI (mild) 
+Febrile neutropenia (low risk) 
+Oral/IV:
+Intra-abdominal infections 
+(mild) 
+Bone and joint infections
+HAP
+Periorbital (or preseptal) 
+cellulitis 
+Pyomyositis
+IV:
+Surgical prophylaxis
+Table 50.1 continued
+continues
+642The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ DOSING GUIDANCE
+50. Dosing guidance - Children
+Table 50.1 continued
+Antibiotic (alphabetic order) Dose Indications for use
+ Ampicillin IV: 
+• First week of life: 50 mg/
+kg/dose given every 12 
+hours
+• Beyond first week of life: 
+50 mg/kg/dose given 
+every 8 hours
+Up to a maximum daily 
+dose of 6 g (serious bacterial 
+infections)
+Meningitis
+Sepsis
+Intra-abdominal infections 
+(mild and severe)
+CAP (severe)
+ Azithromycin Oral: 
+Lower dose:
+10 mg/kg/dose given every 
+24 hours
+Higher dose:
+20 mg/kg/dose given every 
+24 hours
+Up to a maximum daily 
+dose of 500 mg
+Lower dose:
+Acute bloody diarrhoea
+Higher dose:
+Enteric fever (mild)
+Cholera (single dose)
+Trachoma (single dose) 
+ Benzathine benzylpenicillin 
+(only for IM use)
+IM: 50 000 IU (≈ 37.5 mg)/
+kg (single dose)
+Congenital syphilis (only in 
+selected cases)
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book643
+DOSING GUIDANCE 
+50. Dosing guidance - Children
+Antibiotic (alphabetic order) Dose Indications for use
+ Benzylpenicillin 
+(only for IV use)
+Also known as:
+- aqueous benzylpenicillin
+- benzylpenicillin potassium
+- benzylpenicillin sodium
+- crystalline penicillin
+- penicillin G potassium
+- penicillin G sodium
+IV: 
+Lower dose:
+50 000–75 000 IU/kg/dose 
+(30–45 mg/kg/dose) given 
+every 12 hours
+Higher dose: 
+Severe CAP/sepsis
+50 000 IU/kg/dose 
+(30 mg/kg/dose) given 
+every 8 hours
+Meningitis
+100 000 IU/kg/dose 
+(60 mg/kg/dose) given 
+every 6 hours
+Up to a maximum daily dose 
+of 6 million IU (3.6 g)
+Lower dose:
+Congenital syphilis 
+Higher dose:
+Severe CAP
+Sepsis
+Meningitis
+ Cefalexin Oral: 25 mg/kg/dose given 
+every 12 hours
+Maximum daily dose: use 
+adult dosing
+Weight bands:
+3–< 6 kg: 125 mg given 
+every 12 hours
+6–< 10 kg: 250 mg given 
+every 12 hours
+10–< 15 kg: 375 mg given 
+every 12 hours
+15–< 20 kg: 500 mg given 
+every 12 hours
+20–< 30 kg: 625 mg given 
+every 12 hours
+≥ 30 kg: use adult dose
+Periorbital (or preseptal) 
+cellulitis 
+Pharyngitis 
+Pyomyositis
+SSTI (mild) 
+Table 50.1 continued
+continues
+644The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ DOSING GUIDANCE
+50. Dosing guidance - Children
+Antibiotic (alphabetic order) Dose Indications for use
+ Cefazolin IV: 
+25 mg/kg/dose given every 
+12 hours
+50 mg/kg (single dose for 
+surgical prophylaxis)
+Maximum daily dose: see 
+adult dosing
+Bone and joint infections
+Surgical prophylaxis 
+ Cefixime Oral: 10 mg/kg/dose given 
+once daily
+Maximum daily dose: see 
+adult dosing
+Infectious acute diarrhoea
+ Cefotaxime IV/IM:
+First week of life: 
+50 mg/kg/dose given every 
+12 hours
+Beyond first week of life: 
+50 mg/kg/dose given every 
+8 hours
+Maximum daily dose: see 
+adult dosing
+Upper UTI (severe)
+Bone and joint infections
+CAP (severe) 
+HAP
+Intra-abdominal infections 
+(mild and severe) 
+Sepsis (unknown origin)
+Meningitis
+ Ceftazidime+avibactam IV: 62.5 mg/kg/dose 
+(50 mg/kg/dose ceftazidime 
++ 12.5 mg/kg/dose 
+avibactam) given every 
+8 hours
+Maximum daily dose: see 
+adult dosing
+Seriously ill patients with 
+presumed infections due to 
+multidrug-resistant bacteria
+Table 50.1 continued
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book645
+DOSING GUIDANCE 
+50. Dosing guidance - Children
+Antibiotic (alphabetic order) Dose Indications for use
+ Ceftriaxone IV/IM: 
+Lower dose:
+80 mg/kg/dose given once 
+daily
+Higher dose:
+100 mg/kg/dose given once 
+daily
+Up to a maximum daily 
+dose of 3 g
+Lower dose:
+Infectious acute diarrhoea 
+(severe)
+Upper UTI (severe)
+Bone and joint infections
+CAP (severe)
+Endophthalmitis
+Enteric fever (severe)
+HAP
+Intra-abdominal infections 
+(mild and severe)
+Necrotizing fasciitis
+Sepsis (unknown origin)
+Higher dose:
+Meningitis
+ Cefuroxime IV: 50 mg/kg (single dose) Surgical prophylaxis
+Table 50.1 continued
+continues
+646The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ DOSING GUIDANCE
+50. Dosing guidance - Children
+Antibiotic (alphabetic order) Dose Indications for use
+ Ciprofloxacin 
+Ciprofloxacin has excellent 
+oral bioavailability and the 
+intravenous route should be 
+reserved for patients with 
+impaired gastrointestinal 
+function.
+Oral: 15 mg/kg/dose given 
+every 12 hours
+Weight bands:
+3–< 6 kg: 50 mg given every 
+12 hours
+6–< 10 kg: 100 mg given 
+every 12 hours
+10–< 15 kg: 150 mg given 
+every 12 hours
+15–< 20 kg: 200 mg given 
+every 12 hours
+20–<30 kg: 300 mg given 
+every 12 hours
+≥ 30 kg: Use adult dose
+Up to a maximum daily dose 
+of 1.5 g (oral), or 1.2 g (IV)
+Upper UTI (mild)
+Infectious acute diarrhoea 
+Intra-abdominal infections 
+(mild) 
+Enteric fever 
+Febrile neutropenia (low risk) 
+Cholera (single dose)
+ Chloramphenicol 
+Use chloramphenicol only when 
+no other option is available due 
+to toxicity concerns
+IV/IM: 25 mg/kg/dose given 
+every 6 hours
+Maximum daily dose: use 
+adult dosing
+Meningitis
+ Clarithromycin Oral: 7.5 mg/kg/dose given 
+every 12 hours
+Up to a maximum daily 
+dose of 1 g
+Pharyngitis
+ Clindamycin IV/oral: 
+• Neonates: 5 mg/kg/dose 
+given every 8 hours
+• Children: 10 mg/kg/dose 
+given every 8 hours
+Maximum daily dose: see 
+adult dosing
+Bone and joint infections
+Necrotizing fasciitis
+Table 50.1 continued
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book647
+DOSING GUIDANCE 
+50. Dosing guidance - Children
+Antibiotic (alphabetic order) Dose Indications for use
+ Cloxacillin IV: 
+• Neonates: 25–50 mg/
+kg/dose given every 12 
+hours
+• Children: 25 mg/kg/dose 
+given every 6 hours
+Up to a maximum daily 
+dose of 1.5 g, but can be 
+higher for serious bacterial 
+infections
+Oral: 15 mg/kg/dose given 
+every 6 hours
+Weight bands:
+3–< 6 kg: 62.5 mg given 
+every 6 hours
+6–< 10 kg: 125 mg given 
+every 6 hours
+10–< 15 kg: 250 mg given 
+every 6 hours
+15–< 20 kg: 375 mg given 
+every 6 hours
+≥ 20 kg: 500 mg given every 
+6 hours
+SSTI (mild) 
+Bone and joint infections
+Periorbital (or preseptal) 
+cellulitis 
+Pyomyositis
+ Colistin (polymyxin E) 
+CBA: colistin base activity; 
+CMS: colistimethate sodium
+IV:
+0.625–1.25 mg/kg/dose 
+CBA 
+(18 750–37 500 IU/kg/dose 
+CMS) given every 6 hours
+OR
+1.25–2.5 mg/kg/dose CBA 
+(37 500–75 000 IU/kg/dose 
+CMS) given every 12 hours
+Up to a maximum daily dose 
+of 200 mg CBA (6 million IU 
+CMS)
+Seriously ill patients with 
+presumed infections due to 
+multidrug-resistant bacteria
+Table 50.1 continued
+continues
+648The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ DOSING GUIDANCE
+50. Dosing guidance - Children
+Table 50.1 continued
+Antibiotic (alphabetic order) Dose Indications for use
+ Doxycycline Oral: 
+• < 45 kg (< 12 years): 
+2–4 mg/kg (single dose)
+• > 45 kg (> 12 years): 
+300 mg (single dose)
+Cholera
+ Gentamicin IV:
+• First week of life: 5 mg/kg 
+given once daily
+• Beyond first week of life: 
+7.5 mg/kg given once 
+daily
+Sepsis (unknown origin)
+Surgical prophylaxis
+Upper UTI (severe)
+Intra-abdominal infections 
+(mild and severe)
+ Fosfomycin (IV) IV: 
+• 200–400 mg/kg/day 
+divided every 8 to 12 
+hours
+Maximum daily dose: see 
+adult dosing
+Seriously ill patients with 
+presumed infections due to 
+multidrug-resistant bacteria
+ Linezolid IV/oral:
+• First week of life: 
+10 mg/kg/dose given 
+every 12 hours
+• Beyond first week of life: 
+10 mg/kg/dose given 
+every 8 hours
+Up to a maximum daily 
+dose of 1.2 g
+Seriously ill patients with 
+presumed infections due to 
+multidrug-resistant bacteria
+For use in tuberculosis, refer 
+to WHO guidelines (418)
+ Meropenem IV: 20 mg/kg/dose given 
+every 8 hours
+Up to a maximum daily 
+dose of 6 g
+Febrile neutropenia (high 
+risk)
+Intra-abdominal infections 
+(severe) 
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book649
+DOSING GUIDANCE 
+50. Dosing guidance - Children
+Antibiotic (alphabetic order) Dose Indications for use
+ Metronidazole 
+Metronidazole has excellent 
+oral bioavailability and the 
+intravenous route should be 
+reserved for patients with 
+impaired gastrointestinal 
+function.
+Oral/IV: 
+• Neonates: 7.5 mg/kg/
+dose given every 12 
+hours (starting with a 
+loading dose if used IV: 
+15 mg/kg)
+• Children: 7.5 mg/kg/
+dose given every 8 hours
+Up to a maximum daily 
+dose of 1 g
+Weight bands: 
+3–< 6 kg: 30 mg given every 
+8 hours
+6–< 10 kg: 50 mg given 
+every 8 hours
+10–< 15 kg: 100 mg given 
+every 8 hours
+15–< 20 kg: 150 mg given 
+every 8 hours
+20–< 30 kg: 200 mg given 
+every 8 hours
+≥ 30 kg: use adult dose
+Higher dose:
+10–15 mg/kg/dose given 
+every 8 hours
+Maximum daily dose: see 
+adult dosing
+Intra-abdominal infections 
+(mild and severe) 
+Necrotizing fasciitis 
+Clostridioides difficile infection
+Higher dose:
+Amoebic abscess
+Single dose:
+Surgical prophylaxis
+Table 50.1 continued
+continues
+650The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ DOSING GUIDANCE
+50. Dosing guidance - Children
+Antibiotic (alphabetic order) Dose Indications for use
+ Nitrofurantoin Oral: 2 mg/kg/dose given 
+every 12 hours; or 
+1 mg/kg/dose given every 
+6 hours (immediate release 
+formulation)
+Up to a maximum daily 
+dose of 200 mg
+UTI (lower)
+ Phenoxymethylpenicillin Oral: 10–15 mg/kg/dose 
+(16 000–24 000 IUa/kg/dose) 
+given every 6–8 hours
+Pharyngitis 
+Dental infections
+ Piperacillin+tazobactam IV: 100 mg/kg/dose of 
+piperacillin component 
+given every 8 hours
+Up to a maximum daily 
+dose of 10 g of piperacillin 
+component
+HAP
+Intra-abdominal infections 
+(severe) 
+Necrotizing fasciitis 
+Febrile neutropenia (highrisk)
+ Polymyxin B IV:
+Loading dose: 2.5 mg/kg 
+(25 000 IU/kg)
+Maintenance dose: 
+< 2 years: 0.75–2.25 mg/kg/
+dose (7500–22 500 IU/kg/
+dose) given every 12 hours 
+≥ 2 years: 1.5 mg/kg/dose 
+(15 000 IU/kg/dose) given 
+every 12 hours
+Seriously ill patients with 
+presumed infections due to 
+multidrug-resistant bacteria
+ Procaine benzylpenicillin 
+(only for IM use)
+IM: 50 000 IU (50 mg)/kg 
+given once daily
+Congenital syphilis
+Table 50.1 continued
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book651
+DOSING GUIDANCE 
+50. Dosing guidance - Children
+Antibiotic (alphabetic order) Dose Indications for use
+ Sulfamethoxazole+ 
+ trimethoprim 
+Oral: 20 mg/kg of 
+sulfamethoxazole + 
+4 mg/kg of trimethoprim 
+given every 12 hours
+Up to a maximum 
+daily dose of 1200 mg 
+of sulfamethoxazole 
+component
+Weight bands:
+3–< 6 kg: 100 mg + 20 mg 
+given every 12 hours
+6–< 10 kg: 200 mg + 40 mg 
+given every 12 hours
+10–< 30 kg: 400 mg + 
+80 mg given every 12 hours
+≥ 30 kg: use adult dose
+UTI (lower) 
+Infectious acute diarrhoea
+ Trimethoprim Oral: 4 mg/kg given every 
+12 hours
+Weight bands:
+mg of sulfamethoxazole/
+trimethoprim component
+3–< 6 kg: 20 mg given every 
+12 hours
+6–< 10 kg: 40 mg given 
+every 12 hours
+10–< 30 kg: 80 mg given 
+every 12 hours
+≥ 30 kg: use adult dose
+UTI (lower)
+Table 50.1 continued
+continues
+652The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ DOSING GUIDANCE
+50. Dosing guidance - Children
+Antibiotic (alphabetic order) Dose Indications for use
+ Vancomycin 
+Vancomycin is not absorbed 
+from the gastrointestinal tract 
+when given orally. The only 
+indication for oral vancomycin is 
+Clostridoides difficile infection
+IV: 
+• Neonates: 
+15 mg/kg/dose given 
+every 12 hours
+• Children: 
+15 mg/kg/dose given 
+every 8 hours
+Up to a maximum daily 
+dose of 2 g (IV)
+Oral: 5–10 mg/kg/dose 
+given every 6 hours
+Up to a maximum daily dose 
+of 2 g (oral)
+IV:
+Endophthalmitis 
+Febrile neutropenia (high 
+risk) (if MRSA suspected)
+Necrotizing fasciitis (if MRSA 
+suspected)
+Oral:
+Clostridioides difficile infection 
+(higher dose for severe cases)
+CAP: community-acquired pneumonia; CBA: colistin base activity; CMS: colistimethate sodium; HAP: hospitalacquired pneumonia; IM: intramuscular; IU: international units; IV: intravenous; MRSA: methicillin-resistant 
+Staphylococcus aureus; SSTI: skin and soft tissue infections; UTI: urinary tract infection.
+a Units of the potassium salt.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+Table 50.1 continued

@@ -1,0 +1,935 @@
+# TOPIC: osteomyelitis
+
+--- [WHO AWaRe Antibiotic Book (2022) | 35. Acute bacterial osteomyelitis | p.505-522 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book489
+HOSPITAL FACILITY 
+35. Acute bacterial osteomyelitis
+Key messages
+• Osteomyelitis can occur alone or in combination with septic arthritis.
+• In clinically stable adult patients, targeted treatment based on the results of microbiology 
+tests is always preferable because of the large number of potential causes, risk of resistant 
+pathogens and long treatment.
+• In children there is less variability in causative pathogens (mostly Staphylococcus spp. and 
+Streptococcus spp.) and empiric treatment is common practice.
+• In general, the intravenous route is preferred for initial treatment but rapid oral step down is 
+increasingly used.
+• Duration of treatment in children is usually shorter than in adults.
+• Dead bone, which is usually present in chronic infections, needs to be removed surgically 
+for antibiotic treatment to be successful.
+Other relevant WHO resources (please check regularly for updates)
+• Pocket book of hospital care for children: guidelines for the management of common 
+childhood illnesses, 2013 (31).
+• WHO consolidated guidelines on tuberculosis: module 3: diagnosis: rapid diagnostics for 
+tuberculosis detection, 2021 update (346).
+• WHO consolidated guidelines on tuberculosis: module 5: management of tuberculosis in 
+children and adolescents (347).
+Definition
+Osteomyelitis is an infection of the bone characterized by inflammation and bone 
+destruction. Infection can be classified according to how the pathogen spreads in the body 
+(via the bloodstream or by local spread from nearby tissue or through direct inoculation, 
+for example in cases of open fractures) or the duration of symptoms (acute or chronic). 
+Acute infections develop and evolve over days or weeks, while chronic infections evolve 
+over months or years. Chronic infections are also characterized by the presence of dead 
+bone fragments (sequestrum).
+490The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+35. Acute bacterial osteomyelitis
+Both classifications have implications for the management of osteomyelitis. For 
+example, the pathogens infecting bone by local spread are more variable than those 
+infecting bone via the bloodstream. In addition, dead bone, which is usually present in 
+chronic infections, needs to be removed surgically for antibiotic treatment to be successful.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+491
+HOSPITAL FACILITY 
+35. Acute bacterial osteomyelitis
+Acute bacterial osteomyelitis
+Bone and joint infection • Page 1 of 2
+An infection of the bone characterized by in/g248ammation and bone
+destruction
+De/g246nition
+Most Likely Pathogens
+Diagnosis
+Clinical Presentation
+•Gradual onset of localized pain with redness, swelling, and
+warmth of the affec ted area +/- fever and other signs of
+systemic infection
+•If vertebral spine, hip and pelvis involved, pain is usually
+the main symptom
+•Suspect in case of defective healing of a fractured bone
+•Osteomyelitis can occur with/without septic arthritis
+•Tuberculous osteomyelitis: consider when illness is chronic
+(less ill, less marked local signs), pus drains from the
+infected bone to the surface of the skin or patient has other
+signs of tuberculosis
+To differentiate betw een bacterial and reactive viral
+infections:
+•White blood cell count
+To detect in/g248ammation:
+•C-reactive protein (CRP) and/or procalcitonin
+•Erythrocyte sedimentation rate (ESR could complement
+CRP especially during follow up)
+To help exclude other bone diseases:
+•Calcium, phosphate and alkaline phosphatase tests
+-T hese tests are usually normal in osteomyelitis but
+abnormal in other bone diseases
+Other LaboratoryTests
+Microbiology Tests
+This guidance does not cover prosthetic-joint infections in detail
+Classi/g246cation based on:
+•: Through theMechanism of dissemination in the body
+bloodstream (less common in adults), local spread or direct
+inoculation
+•: Acute (days to weeks), chronicDuration of symptoms
+(months to years with presence of dead bone fragments)
+Consequences of classi/g246cation for management:
+•Differ ences in the causative pathogens:
+-L ocal spread: more variability in possible causative
+pathogens
+- Spread through the bloodstream: more common with
+certain pathogens (e.g.)S. aureus
+•Necessity for surgery (e.g. dead bone, usually present in
+chronic infections, needs removal for antibiotic treatment
+to be successful)
+•X-ray of the affec ted bone
+- Normal X-ray on admission does not rule out acute
+osteomyelitis but can help exclude alternative diagnosis
+•C T or MRI could also be considered if available
+- MRI has a high sensitivity/speci/g246city to detect bone
+changes (especially in early phase)
+Imaging
+All microbiology tests ideally before starting antibiotics
+•Blood cultures
+•Microscopy and culture of bone biopsy material
+•Microscopy and culture of deep samples of tissue/bone
+collected during debridement to adjust empiric antibiotic
+treatment
+It is to determine the causative pathogenimportant
+to adequately target antibiotic treatment because the
+number of potential pathogens is large and antibiotic
+resistant pathogens (e.g. MRSA) are not infrequent
+•Samples should also be tested for special pathogens
+(e.g. mycobacteria, fungi, spp.) based onBrucella
+clinical/epidemiological features
+Bacteria (most cases):
+• (including MRSA)Staphylococcus aureus
+• spp. other thanStaphylococcus S. aureus
+• spp. (mostly in patients with splenic dysfunctionStreptococcus
+() )S. pneumoniae
+Additionally in immunocompromised patients:
+• spp.Candida
+• spp.Cryptococcus
+• spp.Histoplasma
+•Mycobacterium tuberculosis
+•Pseudomonas aeruginosa
+Consider in speci/g246c situations:
+•( open fractures)Acinetobacter baumannii
+• spp. (history of cat bite wounds)Bartonella
+• spp. (exposure to infected animals or ingestion ofBrucella
+contaminated food, mostly dairy products)
+•Enterobacterales and anaerobes (pressure ulcers, diabetic foot
+infections, open fractures)
+•Invasive non-typhoidal spp. (sickle cell disease)Salmonella
+492
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+35. Acute bacterial osteomyelitis
+Acute bacterial osteomyelitis
+Bone and joint infection • Page 2 of 2
+Clindamycin 600 mg q8h IV/ORAL
+Acceptable option for community-acquired-MRSA if MRSA is
+susceptible or in settings where MRSA maintains high levels of
+susceptibility to clindamycin, otherwise consider vancomycin
+Second Choice
+----------------------------------- -----------------------------------OR
+Amoxicillin+clavulanicacid1g+ 200 mg q8h IV
+Cefazolin 2 g q8h IV
+Cefotaxime 2 g q8h IV
+Ceftriaxone 2 g q24h IV
+----------------------------------- -----------------------------------OR
+----------------------------------- -----------------------------------OR
+Clinical Considerations
+•Surgical treatment not required in most cases
+•Surgical debridement of the bone can be considered in
+some selected cases to reduce the risk of complications
+•Prosthetic-joint infections: Surgical approach depends on
+the location of the prosthesis, characteristics of the patient
+and local practices
+Antibiotic treatment:
+•The intravenous route is preferred at least in the /g246rst week
+of treatment
+• based on microbiologyTargeted antibiotic treatment
+results always preferred (many potential causative
+pathogens and high levels of resistance)
+• is required consider most likelyIf empiric treatment
+pathogens including local prevalence and individual risk
+factors for MRSA
+•Adjust therapy once microbiology results available
+Treatment
+4 to 6 weeks
+Based on:
+•Presence/absence of dead bone or foreign bodies
+•Causative organism and its resistance pro/g246le
+•Ability of the antibiotic to penetrate into bone tissues
+•Imaging studies are usually not useful to determine
+duration
+Antibiotic Treatment Duration
+First Choice
+Antibiotic Treatment
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Important:
+•Simplify empiric treatment to a more narrowspectrum antibiotic based on culture results or rapid
+clinical improvement if culture results unavailable
+•Step down to oral treatment is based on
+improvement of symptoms, signs of infection and the
+ability to take oral antibiotics
+Cloxacillin 2 g q6h IV
+If cloxacillin is unavailable, any other IV antistaphylococcal
+penicillin could be used. A higher dose (e.g. 12 g/day) could be
+considered given the concerns with bone penetration
+Ceftriaxone or cefotaxime are the preferred options if invasive
+non-typhoidal Salmonella or Enterobacterales infection is
+suspected
+----------------------------------- -----------------------------------OR
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+493
+HOSPITAL FACILITY 
+35. Acute bacterial osteomyelitis
+Acute bacterial osteomyelitis
+Bone and joint infection • Page 1 of 2
+Bacteria (most cases):
+• (including MRSA)Staphylococcus aureus
+• spp. (mostly Group A)Streptococcus Streptococcus
+•( young children, usually with milder clinicalKingella kingae
+disease)
+•t ype b (young children not vaccinatedHaemophilus in/g248uenzae
+against Hib)
+•Invasive non-typhoidal spp. (in children with sickleSalmonella
+cell disease)
+•( open fractures)Acinetobacter baumannii
+Additional bacteria in immunocompromised children:
+•Enterobacterales (open fractures)
+•Pseudomonas aeruginosa
+Most Likely Pathogens
+Diagnosis
+Clinical Presentation
+•Gradual onset of localized pain with redness, swelling, and
+warmth of the affec ted area +/- fever and other signs of
+systemic infection
+•If vertebral spine, hip and pelvis involved, pain is usually
+the main symptom
+•Suspect in case of defective healing of a fractured bone
+•Osteomyelitis can occur with/without septic arthritis
+•Tuberculous osteomyelitis: consider when illness is chronic
+(less ill, less marked local signs), pus drains from the
+infected bone to the surface of the skin or patient has other
+signs of tuberculosis
+To differentiate betw een bacterial and reactive viral
+infections:
+•White blood cell count
+To detect in/g248ammation:
+•C-reactive protein (CRP)
+•Erythrocyte sedimentation rate (could complement CRP
+especially during follow up)
+Other LaboratoryTests
+Microbiology Tests
+An infection of the bone characterized by in/g248ammation and bone
+destruction
+De/g246nition
+Classi/g246cation based on:
+•: Through theMechanism of dissemination in the body
+bloodstream (less common in adults), local spread or direct
+inoculation
+•: Acute (days to weeks), chronicDuration of symptoms
+(months to years with presence of dead bone fragments)
+Consequences of classi/g246cation for management:
+•Differ ences in the causative pathogens:
+-L ocal spread: more variability in possible causative
+pathogens
+- Spread through the bloodstream: more common with
+certain pathogens (e.g.)S. aureus
+•Necessity for surgery (e.g. dead bone, usually present in
+chronic infections, needs removal for antibiotic treatment
+to be successful)
+•X-ray of the affec ted bone
+- Normal X-ray on admission does not rule out acute
+osteomyelitis but can help exclude alternative diagnosis
+•C T or MRI could also be considered if available
+- MRI has a high sensitivity/speci/g246city to detect bone
+changes (especially in early phase)
+Imaging
+All microbiology tests ideally before starting antibiotics
+•Blood cultures
+•Microscopy and culture of bone biopsy material
+•Microscopy and culture of deep samples of tissue/bone
+collected during debridement to adjust empiric antibiotic
+treatment
+It is to determine the causative pathogenimportant
+to adequately target antibiotic treatment because the
+number of potential pathogens is large and antibiotic
+resistant pathogens (e.g. MRSA) are not infrequent
+•Samples should also be tested for special pathogens
+(e.g. mycobacteria, fungi, spp.) based onBrucella
+clinical/epidemiological features
+494
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+35. Acute bacterial osteomyelitis
+Acute bacterial osteomyelitis
+Bone and joint infection • Page 2 of 2
+Clinical Considerations
+Surgical treatment not required in most cases
+Antibiotic Treatment
+•T he intrav enous r oute is pr eferr ed at least in the /g246rst fe w
+days of tr eatmen t
+• andIn children empiric treatment is common practice
+S. aureus r emains the most common pathogen
+•I n, is also the most common pathogenneonates S. aureus
+but empiric tr eatment should also cov er Enter obac terales
+(v er y ra re in older childr en)
+-F or Enter obac terales use:
+· Ce fotaxime or
+· Ce ftriax one (not in infants with h yperbilirubinemia)
+Treatment
+Around in childr en with uncomplicated infec tions3 weeks
+Based on:
+•Clinical re cove ry
+•C ausativ e organism and its r esistance pr o/g246le
+Imaging studies ar e usually not useful to determine
+duration
+Antibiotic Treatment Duration
+Antibiotic Treatment
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Important:
+•Simplify empiric tr eatment to a mor e narr owspec trum antibiotic based on cultur e r esults or rapid
+clinical impr ovement if culture results unavailable
+•Step down to oral treatment is based on
+impr ovement of symptoms, signs of infec tion and the
+ability to take oral antibiotics
+If cloxacillin is unavailable, any other IV antistaphylococcal
+penicillin could be used. For oral administration, dicloxacillin
+and /g248ucloxacillin are preferred options within the class as they
+have better oral bioavailability
+First Choice
+Second Choice
+Amox = amoxicillin
+Oral liquid must be refrigerated after reconstitution
+Clindam y cin IV
+•Neonates: 5 mg/kg/dose q8h
+•Childr en: 10 mg/kg/dose q8h
+----------------------------------- -----------------------------------OR
+C efazolin 25 mg/kg/dose q12h IV
+Ce fotaxime 50 mg/kg/dose q8h IV
+Ce ftriax one 80 mg/kg/dose q24h IV
+----------------------------------- -----------------------------------OR
+----------------------------------- -----------------------------------OR
+Ceftriaxone or cefotaxime are the preferred options if invasive
+non-typhoidal Salmonella or Enterobacterales infection is
+suspected
+----------------------------------- -----------------------------------OR
+Acceptable option for community-acquired-MRSA if MRSA is
+susceptible or in settings where MRSA maintains high levels of
+susceptibility to clindamycin, otherwise consider vancomycin
+Clo xacillin IV
+•Neonates: 25-50 mg/kg/dose q12h
+•Childr en: 25 mg/kg/dose q6h
+•ORAL: 15 mg/kg/dose q6h
+•:Oral weight bands
+3-<6 kg 62.5 mg q6h
+6-<10 kg 125 mg q6h
+10-<15 kg 250 mg q6h
+15-<20 kg 375 mg q6h
+≥20 kg 500 mg q6h
+Amo xicillin+clavulanic acid
+IV:
+•1st w eek of life: 50 mg/kg/dose of amo xicillin
+component q12h
+•> 1st w eek of life: 50 mg/kg/dose of
+amo xicillin component q8h
+ORAL: 80-90 mg/kg/day of amo xicillin
+componen t
+•:Oral weight bands
+3-<6 kg 250 mg of amo x/dose q12h
+6-<10 kg 375 mg of amo x/dose q12h
+10-<15 kg 500 mg of amo x/dose q12h
+15-<20 kg 750 mg of amo x/dose q12h
+≥20 kg 500 mg of amo x/dose q8h or
+1 g of amo x/dose q12h
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book495
+HOSPITAL FACILITY 
+35. Acute bacterial osteomyelitis
+Pathophysiology
+Bacteria can reach the bone from a source of infection by spreading through the bloodstream 
+or by local spread or by direct inoculation, for example, after trauma, bone surgery, prosthetic 
+joint implantation, pressure or decubitus ulcers or diabetic foot infections. The infection can 
+affect a single portion of the bone or can extend to the surrounding soft tissue. Infections 
+can rapidly lead to destruction of the affected bone.
+The pathophysiology of osteomyelitis differs between children and adults; 
+osteomyelitis caused by spread through the bloodstream is much more common in 
+children (mostly < 5 years of age) where it usually affects long bones (mostly the tibia 
+and femur) because the bones are more heavily vascularized in children. In adults, spread 
+of the infection via the bloodstream is less common; nonetheless, it can occur (e.g. as a 
+metastatic infection of infective endocarditis) and in most cases if osteomyelitis is caused, 
+it concerns the vertebra and intervertebral disc (vertebral osteomyelitis). However, in the 
+adult population, dissemination by local spread (e.g. after trauma) is far more common.
+Epidemiology
+Risk factors for osteomyelitis are those associated with bacteraemia (e.g. presence of 
+indwelling vascular catheters, injection drug use, haemodialysis) and those making the 
+bone vulnerable to infection, such as bone surgery, open bone fracture, presence of foreign 
+material such as prosthetic joint implants, sickle-cell disease, diabetes and impaired bone 
+vascularization. Acute suppurative and non-suppurative osteomyelitis of the jaw may also 
+result from oral and dental infections.
+Acute osteomyelitis in children is more frequent in low- and middle-income 
+countries and is more common in boys than in girls. If left untreated or managed late, acute 
+osteomyelitis can leave children with long-term disability.
+The global burden of osteomyelitis is still high, mostly in low- and middle-income 
+countries where the disease disproportionately affects the young and where delays in 
+diagnosis and adequate management can lead to acute forms that evolve into chronic 
+osteomyelitis, which is very difficult to treat (348).
+Most cases globally develop after a traumatic event, for example, infections in open 
+fractures following road traffic incidents or combat. In addition, in high-income settings, diabetes 
+(which can lead to foot osteomyelitis; not specifically addressed in this chapter) and spinal 
+interventions (which can lead to vertebral osteomyelitis) contribute to the burden of disease.
+Most likely pathogens
+The most frequent pathogens associated with acute osteomyelitis in children and adults are 
+shown in Table 35.1 and Table 35.2, respectively.
+496The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+35. Acute bacterial osteomyelitis
+Table 35.1 – Pathogens most frequently associated with acute osteomyelitis in 
+children (in descending order of frequency)
+Pathogen Most common way of 
+spreading
+Patients most at risk
+Staphylococcus aureus 
+(including MRSA)
+Bloodborne or local spread Usually, no risk factors are 
+identified but consider with 
+penetrating injuries, recent 
+surgical procedures or bite 
+wounds
+Streptococcus spp. (mostly 
+Streptococcus pyogenes, often 
+called group A Streptococcus, 
+and less commonly 
+Streptococcus pneumoniae). 
+Streptococcus agalactiae (group 
+B Streptococcus) is a potential 
+pathogen for neonates.
+Bloodborne Mostly no risk factor 
+identified
+Kingella kingae (a species of 
+anaerobic Gram-negative 
+bacilli)
+Bloodborne Young children with 
+generally mild disease
+Haemophilus influenzae type b Bloodborne Young children not 
+vaccinated against 
+Haemophilus influenzae 
+type b
+Invasive non-typhoidal 
+Salmonella
+Bloodborne Children with sickle-cell 
+disease
+Enterobacterales Bloodborne, local spread Neonates and 
+immunocompromised 
+children. Also consider in 
+case of open fractures
+Acinetobacter baumannii Bloodborne, local spread Consider in case of open 
+fractures
+Pseudomonas aeruginosa Bloodborne or local spread Immunocompromised 
+patients and 
+immunocompetent children 
+following wound puncture
+MRSA: methicillin-resistant Staphylococcus aureus.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book497
+HOSPITAL FACILITY 
+35. Acute bacterial osteomyelitis
+Table 35.2 – Pathogens most frequently associated with acute osteomyelitis in 
+adults (in descending order of frequency)
+Pathogen Most common way of 
+spreading
+Patients most at risk
+Staphylococcus aureus 
+(including MRSA)
+Bloodborne or local spread Usually, no risk 
+factors are identified 
+but consider with 
+penetrating injuries, 
+recent surgical 
+procedures, bite 
+wounds or injection 
+drug use
+Staphylococcus spp. other than 
+Staphylococcus aureus
+Bloodborne or local spread Patients with recent 
+prosthetic joint 
+implants or arthroscopy 
+or patients with bite 
+wounds
+Streptococcus spp. Bloodborne or local spread Splenic dysfunction
+Less frequent pathogens (in 
+alphabetical order)
+Acinetobacter baumannii Bloodborne, local spread Consider in case of 
+open fractures
+Anaerobes Local spread Patients with bite 
+wounds or recent 
+abdominal surgery; 
+diabetic foot infection
+Bartonella spp. Bloodborne Patients with cat bite 
+wounds
+Brucella spp. Bloodborne Patients with 
+occupational or 
+domestic exposure 
+to infected animals 
+(e.g. farmers, sheep 
+herders, veterinarians) 
+or ingestion of 
+contaminated food, 
+mostly dairy products
+continues
+498The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+35. Acute bacterial osteomyelitis
+Table 35.2 continued
+Pathogen Most common way of 
+spreading
+Patients most at risk
+Candida spp. Bloodborne or local spread Immunocompromised 
+patients, patients 
+with invasive devices, 
+patients who inject 
+drugs (haematogenous 
+spread) or patients 
+with deep wounds 
+(dissemination by local 
+spread)
+Cryptococcus spp. Bloodborne Immunocompromised 
+patients
+Enterobacterales Bloodborne or local spread Patients with 
+decubitus (pressure) 
+ulcers, diabetic foot 
+infections and burn 
+wounds, especially 
+if the wound is close 
+to the perineum, and 
+abdominal surgery
+Histoplasma spp. Bloodborne Immunocompromised 
+patients
+Mycobacterium tuberculosis Bloodborne or local 
+spread (e.g. from adjacent 
+paravertebral lymph nodes)
+Immunocompromised 
+patients because of the 
+risk of reactivation of 
+tuberculosis. Often a 
+cause of chronic rather 
+than acute infection.
+Pseudomonas aeruginosa Bloodborne or local spread Immunocompromised 
+patients and following 
+wound puncture, 
+including injection drug 
+use
+Invasive non-typhoidal 
+Salmonella
+Bloodborne Adults with sickle-cell 
+disease
+MRSA: methicillin-resistant Staphylococcus aureus.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book499
+HOSPITAL FACILITY 
+35. Acute bacterial osteomyelitis
+Clinical presentation
+Note
+Osteomyelitis can occur alone or in combination with septic arthritis
+Acute osteomyelitis is characterized by gradual onset of localized pain and/or tenderness with 
+a combination of redness, swelling, pain and warmth of the affected area. Fever (≥ 38.0 °C) 
+and other signs of systemic infection (e.g. tachycardia, leukocytosis) may be present. In the 
+context of osteomyelitis involving the vertebral spine, hip and pelvis, pain is usually the main 
+symptom.
+Osteomyelitis should also be suspected in case of defective healing of a fractured bone.
+In children where acute osteomyelitis often involves the femur and tibia, difficulty 
+and/or inability to walk or reluctance to move the limb may be a presenting symptom.
+Note
+Osteomyelitis can sometimes present as chronic illness; the patient appears less ill, with fewer 
+marked local signs, and perhaps without a fever. Consider tuberculous osteomyelitis (mostly 
+vertebral also known as Pott disease) when the illness is chronic, discharging sinuses are 
+present (i.e. when a passage (sinus) forms from the infected bone to the surface of the skin and 
+pus drains through) or the patient has other signs of tuberculosis.
+Laboratory tests
+Patient microbiology tests
+Determining the causative pathogen of osteomyelitis is important to target antibiotic 
+treatment because the number of potential causative pathogens is large and antibiotic 
+resistant pathogens (e.g. MRSA) are not infrequent; this makes it difficult to define 
+appropriate empiric treatment. Duration of treatment may be long, thus increasing the risk 
+of side-effects of the antibiotic therapy. Whenever possible, a microbiology sample should 
+therefore be obtained to guide antibiotic treatment (Table 35.3).
+500The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+35. Acute bacterial osteomyelitis
+Table 35.3 – Microbiology tests to consider when osteomyelitis is suspected as 
+indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Blood culture and antimicrobial 
+susceptibility testing
+To detect bacterial 
+bloodstream infections
+Health care facilities with 
+clinical laboratories
+Bone biopsy for microscopy, 
+culturea and antimicrobial 
+susceptibility testing
+Initial step in detection and 
+identification of bacterial and 
+fungal species for selection 
+of appropriate antimicrobial 
+regimens
+Health care facilities with 
+clinical laboratories
+Microscopy, culture and 
+antimicrobial susceptibility 
+testing of deep samples of tissue 
+and/or bone collected during 
+debridement (i.e. when the 
+surgeon removes as much of the 
+diseased bone as possible)a
+Initial step in detection and 
+identification of bacterial and 
+fungal species for selection 
+of appropriate antimicrobial 
+regimens
+Health care facilities with 
+clinical laboratories
+EDL: Model List of Essential In Vitro Diagnostics.
+a Samples should be tested for special pathogens, such as mycobacteria, fungi and Brucella spp., if compatible 
+clinical/epidemiological features are evident.
+Other tests
+Laboratory tests can be used to complement the clinical examination and history. Table 35.4 
+gives several tests that could be considered in the initial patient assessment to differentiate 
+between bacterial and reactive viral infections and to help guide the timing of changing to 
+oral treatment and total duration of antibiotic treatment.
+Table 35.4 – Laboratory tests (other than microbiology) to identify a bacterial 
+infection, as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+White blood count To help in the diagnosis of 
+infections
+Health care facilities with 
+clinical laboratories
+C-reactive protein To detect inflammation as an 
+indicator of various conditions
+Health care facilities with 
+clinical laboratories
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book501
+HOSPITAL FACILITY 
+35. Acute bacterial osteomyelitis
+Table 35.4 continued
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Erythrocyte sedimentation rate Erythrocyte sedimentation rate 
+could be used to complement 
+C-reactive protein especially 
+during follow-up when clinical 
+improvements may be slower 
+to detect than laboratory 
+improvements
+Community settings and 
+health facilities without 
+laboratoriesa
+Procalcitonin To guide antibiotic therapy or 
+discontinuation in sepsis
+Only in tertiary care 
+facilities
+EDL: Model List of Essential In Vitro Diagnostics.
+a Community health settings without laboratories are settings such as health posts and centres, doctors’ offices, 
+outreach clinics and ambulatory care. These tests are also assumed to be available at health care facilities with 
+laboratories.
+Additional tests that could be considered mostly to help exclude other bone 
+diseases in adults (e.g. metastatic or metabolic bone disease) include calcium, phosphate 
+and alkaline phosphatase. The rationale is that these tests are usually normal in case of 
+osteomyelitis but they are usually abnormal in other bone diseases.
+Using microbiology surveillance data 
+Routine clinical microbiology surveillance is generally not helpful in informing empiric 
+guidance.
+Imaging
+Initial imaging with an X-ray is important when bone infections are suspected. However, 
+a normal X-ray on admission does not rule out acute osteomyelitis but it can help exclude 
+alternative diagnoses, such as a fracture or a malignant condition. In an X-ray, changes 
+such as soft tissue swelling, periosteal thickening and/or elevation and lytic lesions are 
+often found later than clinical disease. An X-ray could also help identify a sequestrum 
+(dead bone) that needs to be removed surgically. Where available, a CT scan or magnetic 
+resonance imaging (MRI) could also be considered in certain patients, for example, in cases 
+of diagnostic uncertainty with X-ray. MRI has a high degree of sensitivity and specificity to 
+detect bone changes, especially in the early phase. Nuclear imaging (e.g. bone scan or bone 
+scintigraphy) could also be considered as an alternative where available.
+502The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+35. Acute bacterial osteomyelitis
+Surgical treatment
+In adults, no surgical intervention is required in most cases of acute osteomyelitis that are 
+diagnosed and managed early in the course of illness. These cases can be treated with an 
+antibiotic alone with good bone penetration. However, in certain cases of acute osteomyelitis 
+(and always in case of chronic infections), surgical debridement of the bone may be required 
+to reduce the risk of complications because of impaired local vascularization (e.g. avascular 
+necrosis of the bone, permanent bone damage) and to remove “dead” bone and clean the 
+surrounding soft tissue.
+In children, acute osteomyelitis is usually treated with medical management alone 
+(i.e. no surgery).
+Note
+For prosthetic joint infections, treatment usually requires the surgical removal of the device. 
+This can be done in one stage (the new prosthesis is immediately inserted) or two stages (the 
+infected prosthesis is removed, the area is debrided, antibiotic treatment is given for several 
+weeks and finally the new prosthesis is inserted). The choice of one stage or two stages 
+depends on the location of the prosthesis (e.g. hip, knee), characteristics of the patient (e.g. 
+advanced age, comorbidities) and local practices. 
+A detailed discussion of prosthetic-joint infections is beyond the scope of the AWaRe book.
+Antibiotic treatment
+Note
+In adults with osteomyelitis, targeted antibiotic treatment based on microbiology is always 
+preferred. In children, it is unusual to identify the pathogen and empiric treatment is usually given.
+In adults, empiric treatment is sometimes required, for example, in severely ill patients 
+requiring immediate treatment or when it is not possible to obtain a clinical sample for 
+microbiological examination. In these cases, the choice of the antibiotic needs to be 
+based on the pathogens most commonly identified in this type of infections (Table 35.5). 
+In addition, empiric treatment against community-acquired MRSA could be considered 
+in some cases based on individual risk factors (e.g. MRSA colonization) and on the local 
+prevalence of community-acquired MRSA. 
+Duration of treatment is usually long (weeks) but it differs in acute or chronic 
+infections. Duration is also influenced by the presence, absence or removal of foreign bodies
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book503
+HOSPITAL FACILITY 
+35. Acute bacterial osteomyelitis
+(including dead bone), the type of causative organism and its resistance profile, the use of 
+antibiotics with an optimal antibiotic spectrum (i.e. based on microbiology results), and 
+good bone penetration. 
+Total treatment duration of about 3 weeks is usually adequate in patients with 
+uncomplicated disease and good clinical recovery, while complicated disease may require 
+6 weeks of treatment. 
+Uncomplicated infections are those with symptoms for < 14 days, no underlying 
+disease, no penetrating trauma and no need for extensive surgical intervention.
+Imaging studies are usually not useful to determine the duration of treatment.
+Simplify empiric treatment to a more narrow-spectrum antibiotic (often also called 
+de-escalation) based on culture results (targeted treatment) or rapid clinical improvement if 
+culture results unavailable. Historically, the intravenous route has always been preferred, at 
+least in the initial phase of treatment. 
+Step down to oral antibiotics at home is increasingly being used early in the 
+treatment course (e.g. in the first week) when the disease is uncomplicated (349). Step down 
+to oral treatment is based on improvement of symptoms and signs of infection, improved 
+clinical function and the ability to take oral antibiotics with good bone penetration, 
+especially in adults (e.g. clindamycin).
+504The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+35. Acute bacterial osteomyelitis
+Table 35.5 – Empiric antibiotic treatment for osteomyelitis
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Adults Children Total treatment 
+duration
+First choice
+ Cloxacillin a (IV): 2 g given 
+every 6 hours
+First choice
+ Cloxacillin a 
+IV: 
+• Neonates: 25–50 mg/kg/dose given 
+every 12 hours
+• Children: 25 mg/kg/dose given every 
+6 hours
+Oral: 15 mg/kg/dose given every 6 hours
+Oral weight bands
+3–< 6 kg: 62.5 mg given every 6 hours
+6–< 10 kg: 125 mg given every 6 hours
+10–< 15 kg: 250 mg given every 6 hours
+15–< 20 kg: 375 mg given every 6 hours
+≥ 20 kg: 500 mg given every 6 hours
+3 weeksb (in 
+children with 
+uncomplicated 
+infections)
+4–6 weeksc (in 
+adults)
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book505
+HOSPITAL FACILITY 
+35. Acute bacterial osteomyelitis
+Table 35.5 continued
+Adults Children Total treatment 
+duration
+Second choice
+ Amoxicillin+clavulanic acid 
+(IV): 1g + 200 mg given every 
+8 hours 
+OR
+ Cefazolin (IV): 2 g given 
+every 8 hours
+OR
+ Cefotaxime d (IV) 2 g given 
+every 8 hours
+OR
+ Ceftriaxone d (IV): 2 g given 
+once a day 
+OR
+ Clindamycin e (IV/oral): 
+600 mg given every 8 hours
+Second choice
+ Amoxicillin+clavulanic acid f 
+IV: 
+First week of life: 50 mg/kg of 
+amoxicillin/dose given every 12 hours 
+Beyond first week of life: 50 mg/kg of 
+amoxicillin/dose given every 8 hours
+Oral: 80–90 mg/kg/day of amoxicillin 
+component
+Oral weight bands
+3–< 6 kg: 250 mg of amoxicillin/dose 
+given every 12 hours
+6–< 10 kg: 375 mg of amoxicillin/dose 
+given every 12 hours
+10–< 15 kg: 500 mg of amoxicillin/dose 
+given every 12 hours
+15–< 20 kg: 750 mg of amoxicillin/dose 
+given every 12 hours
+≥ 20kg: 500 mg of amoxicillin/dose given 
+every 8 hours or 1 g of amoxicillin/dose 
+given every 12 hours 
+OR
+ Cefazolin (IV): 25 mg/kg/dose given 
+every 12 hours 
+OR
+ Cefotaxime d (IV): 50mg/kg/dose given 
+every 8 hours
+OR
+ Ceftriaxone d (IV): 80 mg/kg/dose given 
+once a day 
+OR
+ Clindamycin e (IV/oral):
+• Neonates: 5 mg/kg/dose given every 
+8 hours 
+• Children: 10 mg/kg/dose given every 
+8 hours
+Same as above
+continues
+506The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+35. Acute bacterial osteomyelitis
+Table 35.5 continued
+IV: intravenous; MRSA: methicillin-resistant Staphylococcus aureus.
+Notes. All dosages are for normal renal and hepatic function.
+As mentioned in the text, empiric treatment should be avoided whenever possible in adults because there 
+are many potential causative pathogens and high levels of resistance (e.g. MRSA) making it difficult to specify 
+appropriate empiric treatment. In children, there is usually less variability in the most likely causative pathogens 
+(in children the disease is mostly caused by spread of Staphylococcus spp. and Streptococcus spp. through the 
+bloodstream) and therefore empiric treatment is common practice.
+In neonates, empirical antibiotic therapy should also cover Enterobacterales because infections caused by 
+Gram-negative bacteria can occur in neonates, but Staphylococcus aureus remains the most common pathogen. 
+Therefore, in neonates, empiric use of cefotaxime (or ceftriaxone) is appropriate; ceftriaxone should be avoided 
+in infants with hyperbilirubinaemia. In older children, bone infections caused by Enterobacterales are very rare.
+a If cloxacillin is unavailable, any other IV antistaphylococcal penicillin could be used. For oral administration, 
+dicloxacillin and flucloxacillin are preferred options within the class as they have better oral bioavailability. In adults, 
+a higher dose (e.g. 12 g/day) could be considered given the concerns with bone penetration.
+b Three weeks of treatment (usually starting with 3–5 days IV treatment and then changing to oral treatment) are 
+now commonly used in children with acute bloodborne osteomyelitis based on response to fever, ability to move 
+the limb and reduction in levels of C-reactive protein (if available).
+c Longer treatments may be required if implants or foreign material are present or in case of inadequate control at 
+the source of infection; for example, where there is an abscess that has not been adequately drained. 
+d Ceftriaxone or cefotaxime is preferred if invasive non-typhoidal Salmonella or Enterobacterales infection are 
+suspected. In neonates, cefotaxime is recommended in these cases.
+e Clindamycin is still an acceptable option when community-acquired MRSA is suspected or detected if antimicrobial 
+susceptibility tests show that MRSA is sensitive to clindamycin or in settings where MRSA maintains high levels of 
+susceptibility to clindamycin. Clindamycin can also be used when changing from the IV to the oral route, and in 
+patients allergic to penicillin. In case of MRSA isolates resistant to clindamycin and in settings where the prevalence 
+of community-acquired MRSA is high, the use of vancomycin could be considered when Staphylococcus aureus is 
+suspected. Oral options to consider to complete the course of treatment in case of MRSA or methicillin-susceptible 
+Staphylococcus aureus infections could be sulfamethoxazole+trimethoprim and doxycycline. 
+f Oral liquid formulations must be refrigerated after reconstitution as clavulanic acid is rapidly metabolized in high 
+ambient temperatures.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 10.1.2 Osteomyelitis | p.622-625 | audience=general] ---
+Infection of bone by pus-forming bacteria, mainly affecting older children
+and adults.
+Causes
+~ Any type of bacterium but most commonly S.aureus,
+~ following infection elsewhere in the body
+556
+Uganda Clinical Guidelines 2023CHAPTER 10: Musculoskeletal andJoint Diseases
+~ Risk factor: sickle cell disease (causative agent mostly S.
+Aureus, Salmonella also common)
+Clinical features
+Acute osteomyelitis
+~ Onset is usually over several days
+~ Fever, usually high but may be absent, especially in neonates
+~ Pain (usually severe)
+~ Tenderness and increased “heat” at the site of infection,
+swelling of the surrounding tissues and joint
+~ Reduced or complete loss of use of the affected limb
+~ The patient is usually a child of four years or above with
+reduced immunity, but adults may also be affected
+~ History of injury may be given, and may be misleading,
+especially if there is no fever
+Chronic osteomyelitis
+~ May present with pain, erythema, or swelling, sometimes
+in association with a draining sinus tract
+~ Deep or extensive ulcers that fail to heal after several
+weeks of appropriate ulcer care (e.g. in diabetic foot), and
+non-healing fractures, should raise suspicion of chronic osteomyelitis
+Differential diagnosis
+~ Infection of joints
+~ Injury (trauma) to a limb, fracture (children)
+~ Bone cancer (osteosarcoma, around the knee)
+~ Pyomyositis (bacterial infection of muscle)
+~ Cellulitis
+~ Sickle-cell disease (thrombotic crisis)
+557
+Uganda Clinical Guidelines 2023CHAPTER 10: Musculoskeletal andJoint Diseases
+Investigations
+- X-ray shows
+- Nothing abnormal in first 1-2 weeks
+- Loss of bone density (rarefaction) at about 2 weeks
+- May show a thin “white” line on the surface of the infected part of
+the bone (periosteal reaction)
+- Later, may show a piece of dead bone (sequestrum)
+- Blood: CBC, ESR, C&S: Type of bacterium may be detected
+- attempt ZN,gene expert, culture if lesion suspect
+Calcoflour stain for fungus
+Management
+Patients with suspected osteomyelitis need to be referred to hospital for
+appropriate management.
+TREATMENT LOC
+- Immobilize the limb, splint
+- Provide pain and fever relief with paracetamol,
+or ibuprofen
+- Refer URGENTLY to hospital
+- Admit and elevate affected limb
+- Cloxacillin 500 mg IV every 6 hours for 2 weeks.
+Continue orally for at least 4 weeks (but up to 3
+months) Child: 50 mg/kg every 6 hours
+- See pyogenic arthritis for other antibiotic treatments
+(section 10.1.1)
+- Osteomyelitis in SCD: see section 11.1.3
+- Surgical intervention may be indicated in the following
+cases:
+HC3
+H
+RR
+558
+Uganda Clinical Guidelines 2023CHAPTER 10: Musculoskeletal andJoint Diseases
+TREATMENT LOC
+- Drainage of subperiosteal and soft tissue abscesses,
+and intramedullary purulence
+- Debridement of contiguous foci of infection
+- (which also require antimicrobial therapy)
+- Excision of sequestra (i.e. devitalized bone)
+- Failure to improve after 48-72 hours of
+antimicrobial therapy
+HC3
+H
+RR
+- Chronic osteomyelitis
+- Surgery and antibiotics
+RR

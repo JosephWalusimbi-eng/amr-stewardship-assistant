@@ -1,0 +1,445 @@
+# TOPIC: c_difficile
+
+--- [WHO AWaRe Antibiotic Book (2022) | 33. Intra-abdominal infections - Clostridioides difficile infection | p.480-489 | audience=general] ---
+464The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+33. Intra-abdominal infections – 
+Clostridioides difficile infection
+Key messages
+• Most cases of Clostridioides difficile infection occur in patients with current or recent 
+antibiotic use. Good antibiotic prescribing practices – avoidance of antibiotics when not 
+needed, preference for Access antibiotics wherever possible – are key for the control of 
+Clostridioides difficile infection.
+• If Clostridioides difficile infection is confirmed or suspected, all antibiotics that are not 
+necessary should be stopped.
+• Use oral antibiotics to treat Clostridioides difficile infection wherever possible.
+• Adopt infection control measures to prevent transmission.
+• Clostridioides difficile diarrhoea my resolve slowly over days, but a clinical deterioration of 
+a patient on appropriate antibiotics should lead to escalation of treatment and a surgical 
+referral.
+Other relevant WHO resources (please check regularly for updates)
+• Infection prevention and control – health topic (332).
+Definition
+Clostridioides difficile (formerly Clostridium difficile ) infection is an infection of the colon 
+caused by the bacterium Clostridioides difficile. The infection occurs mostly in patients with 
+current or recent antibiotic use. For surveillance purposes, Clostridioides difficile infection is 
+usually classified as either health care-associated or community-associated based on where 
+the infection was acquired, which is determined by the timing of onset of symptoms in 
+relation to last contact with any health care setting.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+465
+HOSPITAL FACILITY 
+Clostridioides difficile infection (CDI)
+Intra-abdominal infection
+Second Choice
+Infection of the colon caused by the bacterium thatC. difficile
+occurs mostly in patients with current/recent antibiotic use and
+with regular exposure to healthcare settings
+De/g246nition
+Diagnosis
+Clinical Presentation
+Usually diarrhea (≥3 unformed/liquid stools in 24 hrs or
+more than normal for individual) with no other plausible
+cause +/- abdominal pain, cramping and fever
+Severe cases (e.g. pseudomembranous colitis):
+•Severe abdominal pain, high fever, organ dysfunction
+•Toxic megacolon presents with signs of acute surgical
+abdomen and/or sepsis (diarrhea is often absent)
+•Consider testing symptomatic patients with no other
+plausible reason for diarrhea especially if recent or current
+exposure to antibiotics
+•Currently no single test to diagnose CDI is completely
+reliable and the best approach remains controversial
+Two commonly used approaches:
+1. Start with highly sensitive test to detect, ifC. difficile
+positive follow with a test to con/g246rm toxin production
+-I f toxin test negative: Consider colonizationC. difficile
+2. Perform two tests simultaneously, one to detect the
+presence of and one to detect toxin productionC. difficile
+-C oncordant results can reliably con/g246rm (both tests
+positive) or exclude (both tests negative) infection
+-I f results con/g248ict and patient is symptomatic, treatment
+should be based on the pre-test probability of C. difficile
+infection
+Microbiology Tests
+Mild cases: Not usually needed
+Severe cases:
+•White blood cell count
+•Creatinine and electrolytes
+Other LaboratoryTests
+Usually not needed unless a complication is suspected; in
+these cases, consider abdominal CT
+Imaging
+C. difficile
+•Gram-positive spore-forming bacterium widely present in the
+environment that can be acquired through ingestion of spores
+•Infection can be caused by strains producing toxins when the
+intestinal mucosa of the colon is in/g248amed and disrupted
+NAP1/027
+•t oxigenic strain with a particular virulence thatC. difficile
+caused outbreaks in recent years especially in North America
+Pathogen
+Treatment
+Clinical Considerations
+•Discontinue any other antibiotics except those treating
+C. difficile infection as soon as possible and adopt
+infection control measures to preventt ransmission
+•Always recommend rehydration in patients with diarrhea;
+anti-diarrheal drugs not routinely necessary
+•Diarrhea may resolve slowly over days, but clinical
+deterioration of a patient on appropriate treatment should
+precipitate escalation of treatment and a surgical referral
+Important: in case of con/g246rmed CDI, do not repeat
+testing during the same episode and do not test to
+con/g246rm the resolution of the infection at the end of
+treatment
+10 days
+Antibiotic Treatment Duration
+Antibiotic Treatment
+Refers to a/g246rst episode, not recurrences (within 8 weeks of
+previous episode)
+All dosages are for normal renal function
+First Choice
+Metronidazole 500 mg q8h ORAL
+Vancomycin 125 mg q6h ORAL
+In severe cases: Oral vancomycin is preferred; vancomycin
+dose can be increased to 500 mg q6h and can be given in
+combination with IV metronidazole
+33. Intra-abdominal infections – Clostridioides difficile infection
+466
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+Clostridioides difficile infection (CDI)
+Intra-abdominal infection • Page 1 of 2
+•Consider testing symptomatic patients with no other
+plausible reason for diarrhea especially if recent or current
+exposure to antibiotics
+•Testing <1 year of age is not recommended due to
+high prevalence of colonization in this age group
+•Currently no single test to diagnose CDI is completely
+reliable and the best approach remains controversial
+Two commonly used approaches:
+1. Start with highly sensitive test to detect, ifC. difficile
+positive follow with a test to con/g246rm toxin production
+-I f toxin test negative: Consider colonizationC. difficile
+2. Perform two tests simultaneously, one to detect the
+presence of and one to detect toxin productionC. difficile
+-C oncordant results can reliably con/g246rm (both tests
+positive) or exclude (both tests negative) infection
+-I f results con/g248ict and patient is symptomatic, treatment
+should be based on the pre-test probability of C. difficile
+infection
+Microbiology Tests
+Infection of the colon caused by the bacterium thatC. difficile
+occurs mostly in patients with current/recent antibiotic use and
+with regular exposure to healthcare settings
+De/g246nition
+Diagnosis
+Clinical Presentation
+Usually diarrhea (≥3 unformed/liquid stools in 24 hrs or
+more than normal for individual) with no other plausible
+cause +/- abdominal pain, cramping and fever
+Severe cases (e.g. pseudomembranous colitis):
+•Severe abdominal pain, high fever, organ dysfunction
+•Toxic megacolon presents with signs of acute surgical
+abdomen and/or sepsis (diarrhea is often absent)
+Clinical disease is rare in young children (esp. <2
+years); they are often asymptomatic carriers
+Mild cases:
+•Not usually needed
+Severe cases:
+•White blood cell count
+•Creatinine and electrolytes
+Other LaboratoryTests
+Usually not needed unless a complication is suspected; in
+these cases, consider abdominal CT
+Imaging
+C. difficile
+•Gram-positive spore-forming bacterium widely present in the
+environment that can be acquired through ingestion of spores
+•Infection can be caused by toxigenic strains when the intestinal
+mucosa of the colon is in/g248amed and disrupted
+NAP1/027
+•t oxigenic strain with a particular virulence thatC. difficile
+caused outbreaks in recent years especially in North America
+Pathogen
+Important: in case of con/g246rmed CDI, do not repeat
+testing during the same episode and do not test to
+con/g246rm the resolution of the infection at the end of
+treatment
+33. Intra-abdominal infections – Clostridioides difficile infection
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+467
+HOSPITAL FACILITY 
+Clostridioides difficile infection (CDI)
+Intra-abdominal infection • Page 2 of 2
+Clinical Considerations
+•Discontinue any other antibiotics except those treating
+C. difficile infection as soon as possible and adopt
+infection control measures to preventt ransmission
+•Always recommend rehydration in patients with diarrhea;
+anti-diarrheal drugs not routinely necessary
+•Diarrhea may resolve slowly over days, but clinical
+deterioration of a patient on appropriate treatment should
+precipitate escalation of treatment and a surgical referral
+Treatment
+Antibiotic Treatment
+First episode, not recurrences (within 8 weeks of previous
+episode)
+All dosages are for normal renal function
+First Choice
+Metronidazole ORAL
+•Neonates: 7.5 mg/kg/dose q12h
+•Children: 7.5 mg/kg/dose q8h
+•:Oral weight bands
+3-<6 kg 30 mg q8h
+6-<10 kg 50 mg q8h
+10-<15 kg 100 mg q8h
+15-<20 kg 150 mg q8h
+20-<30 kg 200 mg q8h
+≥30 kg 500 mg q8h
+Second Choice
+Vancomycin 5-10 mg/kg/dose q6h ORAL
+In severe cases: Oral vancomycin is preferable to
+metronidazole
+10 days
+Antibiotic Treatment Duration
+33. Intra-abdominal infections – Clostridioides difficile infection
+468The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+Pathogen
+Clostridioides difficile is a Gram-positive anaerobic spore-forming bacterium that is widely 
+present in the environment, especially in hospitals and long-term care facilities where 
+spores can persist in the environment for months. Toxigenic and non-toxigenic strains exist 
+but Clostridioides difficile infection is only associated with toxigenic strains. Of these strains, 
+BI/NAP1/027 is particularly virulent and in recent years has caused outbreaks, especially in 
+North America.
+Pathophysiology
+Clostridioides difficile infection is acquired through the ingestion of toxigenic spores of the 
+Gram-positive bacterium Clostridioides difficile. Spores are present in stools of symptomatic 
+patients and asymptomatic carriers. Once ingested, the spores can colonize the colonic 
+mucosa, germinate into vegetative bacteria, multiply and produce toxins (toxin A and/
+or B, binary toxin). In most cases, patients remain asymptomatic. However, if disruption 
+of the normal colonic mucosa and intestinal microbiota occurs (e.g. after exposure to 
+antibiotics or cytotoxic chemotherapy) and if there is no adequate antibody response to 
+Clostridioides difficile toxins, clinical disease can occur. This disease ranges in severity, from 
+mild diarrhoea to life-threatening pseudomembranous colitis and toxic megacolon. Not all 
+strains of Clostridioides difficile produce toxins. Recurrent infections are a frequent problem, 
+especially in elderly and immunocompromised patients, and the risk of relapse increases 
+with each episode.
+Epidemiology
+Clostridioides difficile infection is the most frequent cause of health care-associated infectious 
+diarrhoea and is associated with prolonged hospital stay and increased costs (333,334).
+Common risk factors for Clostridioides difficile infection include age ≥ 65 years, 
+recent use of antibiotics and previous hospital admission (335). Almost all antibiotics can 
+increase the risk of infection but clindamycin, cephalosporins and fluoroquinolones have 
+been most consistently associated with increased risk of Clostridioides difficile infection – the 
+risk may vary across time and settings based on the resistance/susceptibility of Clostridioides 
+difficile to certain antibiotics. Cytotoxic chemotherapy can also increase the risk of infection 
+because inflammation of the intestinal mucosa (i.e. mucositis) is often present. Patients 
+regularly exposed to health care settings (e.g. patients on dialysis) are also at increased risk.
+In young children (especially younger than 2 years), clinical disease is rare, probably 
+because cellular receptors to Clostridioides difficile toxins develop later in life; therefore, 
+young children are often asymptomatic carriers.
+33. Intra-abdominal infections – Clostridioides difficile infection
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book469
+HOSPITAL FACILITY 
+Clinical presentation
+The most common symptom of Clostridioides difficile infection is diarrhoea, usually defined 
+as the presence of at least three unformed or liquid stools in 24 hours (with no other 
+plausible cause), or more than what is normal for that individual. Abdominal pain, cramping 
+and fever may also be present. Signs of severe disease include marked leukocytosis (e.g. 
+white blood cell count > 15 × 10 9/L or 15 000/μL), severe abdominal pain, high fever and 
+organ dysfunction, for example, elevated serum creatinine and decreased serum albumin.
+Rarely, Clostridioides difficile infection can present with signs and symptoms of toxic 
+megacolon. Patients with this presentation often do not have diarrhoea but have signs of 
+acute surgical abdomen and/or sepsis and may need to be admitted to the intensive care 
+unit. The absence of diarrhoea does therefore not exclude Clostridioides difficile infection. 
+Severe cases may require a colectomy for source control.
+Laboratory tests 
+Patient microbiology tests
+Where available, a stool test in a symptomatic patient to detect toxigenic Clostridioides difficile 
+(or toxin production) should be considered if the patient has no other reasons for diarrhoea, 
+such as recent use of laxatives. The rationale is that, if infection is detected, an effective 
+treatment can be provided, other antibiotics can be stopped if possible and infection control 
+measures can be put in place (or reinforced) to limit transmission. Testing is not usually 
+recommended in infants because of the high prevalence of colonization; colonization here 
+refers to the presence of Clostridioides difficile in the stool of healthy children.
+Even though the current version of the WHO EDL (6) does not include specific tests 
+for Clostridioides difficile detection, Table 33.1 suggests tests that could be considered based 
+on local availability. 
+Currently, no single test is completely reliable in diagnosing Clostridioides difficile 
+infection and the best diagnostic approach to use is controversial (336). The two following 
+approaches are commonly used and could be considered based on local available tests and 
+laboratory protocols. For both approaches, it is important to limit testing to patients with 
+a sufficiently high pre-test probability of Clostridioides difficile infection, for example, with 
+diarrhoea and risk factors such as current or recent antibiotic use.
+• Start with a highly sensitive test (nucleic acid amplification test or glutamate 
+dehydrogenase test depending on local availability) that can detect the presence 
+of Clostridioides difficile. Then, confirm positive results with a test that can detect 
+toxin production such as the toxin A/B enzyme immunoassay. It should be noted 
+33. Intra-abdominal infections – Clostridioides difficile infection
+470The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+that if the toxin production test is negative, the patient could be colonized with 
+Clostridioides difficile and therefore an alternative reason for diarrhoea should be 
+sought.
+• Start with two tests at the same time – glutamate dehydrogenase test and toxin 
+A/B enzyme immunoassay. If both tests are positive, Clostridioides difficile infection 
+can be reliably confirmed; if both are negative, Clostridioides difficile infection can 
+be excluded. If the results conflict, then symptomatic patients should be treated 
+if the pre-test probability of Clostridioides difficile infection is sufficiently high, for 
+example, with recent antibiotic exposure and absence of alternative causes of 
+diarrhoea.
+In patients diagnosed with Clostridioides difficile infection, repeat testing during the 
+same episode and test of cure are not needed and should be avoided.
+Table 33.1 – Microbiology tests to consider if Clostridioides difficile infection is 
+suspected (no test for Clostridioides difficile is listed in the third version of the EDL, 
+2021) (6)
+Type of test Purpose of the test Comment
+• Culture 
+• NAAT
+• GDH antigen test
+To detect toxigenic 
+Clostridioides difficile strains
+Usually NAAT (culture 
+would be the reference 
+standard but it is complex 
+to perform and has a 
+long turnaround time). 
+With NAATa, the main 
+disadvantage is the 
+high sensitivity of the 
+test that could lead 
+to over-diagnosis and 
+overtreatment.
+• GDH antigen test To detect Clostridioides difficile 
+toxigenic and non-toxigenic 
+strains
+The main disadvantage 
+is that this test cannot 
+predict the ability of the 
+strain to produce toxins. 
+However, a negative test 
+will generally exclude 
+Clostridioides difficile 
+infection.
+33. Intra-abdominal infections – Clostridioides difficile infection
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book471
+HOSPITAL FACILITY 
+Table 33.1 continued
+Type of test Purpose of the test Comment
+• Cytotoxicity assay
+• Toxin A/B EIA
+To detect Clostridioides difficile 
+toxins
+Usually EIA (cytotoxicity 
+assay would be the 
+reference standard but 
+it is hard to do and has a 
+long turnaround time). 
+With EIA, the main 
+disadvantage is the low 
+sensitivity (i.e. high risk of 
+false negative results).
+EDL: Model List of Essential In Vitro Diagnostics; EIA: enzyme immunoassay; GDH: glutamate dehydrogenase; NAAT: 
+Nucleic acid amplification test. 
+a NAAT detect the presence of the gene for the toxin not its expression.
+Other tests
+Routine (non-microbiological) laboratory testing is not always needed. However, for severe 
+cases, certain tests could be considered (Table 33.2) to assess disease severity.
+Table 33.2 – Laboratory tests (other than microbiology) to consider if Clostridioides 
+difficile infection is suspected as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+White blood cell count To help in the diagnosis of 
+infections
+Health care facilities with 
+clinical laboratories
+Creatinine To monitor kidney function for 
+management of severe infections 
+(i.e. sepsis) and adjustment of the 
+antimicrobial regimen 
+Health care facilities with 
+clinical laboratories
+Electrolytes To monitor fluid, electrolytes and 
+acid–base balance
+Health care facilities with 
+clinical laboratories
+EDL: Model List of Essential In Vitro Diagnostics.
+Using microbiology surveillance data
+Resistance to metronidazole, vancomycin and multiple other antibiotics has been reported. 
+33. Intra-abdominal infections – Clostridioides difficile infection
+472The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+Imaging
+Imaging is usually not needed unless a complication is suspected. In these cases, a CT scan 
+of the abdomen could be considered.
+No antibiotic care
+Rehydration (oral or intravenous) should always be recommended in patients with 
+diarrhoea. Anti-diarrhoea medicines are not routinely required because they do not prevent 
+dehydration and do not improve nutritional status (145).
+Antibiotic treatment 
+Note
+It is important to discontinue any other antibiotics except those treating the Clostridioides 
+difficile infection as soon as possible.
+Symptomatic patients diagnosed with Clostridioides difficile infection should promptly 
+receive adequate antibiotic treatment as indicated in Table 33.3. Whenever possible, it is 
+also important to stop any other antibiotic that could have favoured Clostridioides difficile 
+infection by disrupting the microbiota in the colon. If it is necessary to continue the antibiotic 
+treatment (e.g. because of a clearly documented or high suspicion of a concomitant 
+infection), it is advisable to select antibiotics with lower risk of selecting Clostridioides difficile 
+infection, thus avoid ceftriaxone, fluoroquinolones and clindamycin.
+Oral treatment with metronidazole is appropriate for a first episode of mild 
+to moderate severity. This antibiotic is also suggested because of concerns that oral 
+vancomycin could favour selection of vancomycin-resistant enterococci in the intestinal 
+microbiota and that the oral formulation may be unavailable or too expensive to consider 
+in some low-resource settings (337,338). However, in severe cases of infection, the current 
+evidence supports the use of oral vancomycin rather than metronidazole, in part because 
+of its benefit in reducing recurrent episodes (337–339). Treatment of recurrent episodes 
+(usually defined as Clostridioides difficile infection within 8 weeks of a previous episode) with 
+antibiotics or faecal microbiota transplantation is beyond the scope of this chapter.
+33. Intra-abdominal infections – Clostridioides difficile infection
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book473
+HOSPITAL FACILITY 
+Table 33.3 – Antibiotic treatment for a first episode of Clostridioides difficile infection 
+Adults Children Total treatment 
+duration
+First choice 
+ Metronidazole (oral): 500 mg 
+given every 8 hours
+Second choice 
+ Vancomycin (orala): 125 mg 
+given every 6 hours
+First choice 
+ Metronidazole (oral): 
+• Neonates: 7.5 mg/kg/dose 
+given every 12 hours
+• Children: 7.5 mg/kg/dose 
+given every 8 hours
+Oral weight bands: 
+3–< 6 kg: 30 mg given every 8 
+hours
+6–< 10 kg: 50 mg given every 8 
+hours
+10–< 15 kg: 100 mg given every 
+8 hours
+15–< 20 kg: 150 mg given every 
+8 hours
+20–< 30 kg: 200 mg given every 
+8 hours
+≥ 30 kg: use adult dose
+Second choice 
+ Vancomycin (oral): 
+• Neonates: 5–10 mg/kg/dose 
+given every 6 hours 
+• Children: 5–10 mg/kg/dose 
+given every 6 hours
+10 days
+Note: All dosages are for normal renal and hepatic function.
+a Oral vancomycin is preferable to metronidazole in severe cases. If needed, the dose could be increased to 500 mg 
+given every 6 hours. In severe fulminant cases, intravenous metronidazole could be added to treatment with oral 
+vancomycin.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+33. Intra-abdominal infections – Clostridioides difficile infection

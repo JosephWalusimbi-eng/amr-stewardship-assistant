@@ -1,0 +1,626 @@
+# TOPIC: other_bacterial_infections
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.1.1 Anthrax | p.161-163 | audience=general] ---
+Anthrax is an acute zoonotic infectious disease caused by the bacterium
+Bacillus anthracis. It most commonly occurs in wild and domestic animals,
+such as cattle, sheep, goats, camels, antelopes, and other herbivores.
+B. anthracis spores can live in the soil for many years.
+It occurs in humans when they are exposed to infected animals or tissue from infected animals. The incubation period is usually 1-3 days.
+Anthrax is a notifiable disease.
+Cause
+~ Exposure to B. anthracis spores by handling products
+from infected animals or by inhaling anthrax spores from
+contaminated animal products
+~ Anthrax can also be spread by eating undercooked meat
+from infected animals
+Clinical features
+Symptoms vary depending on how the disease was contracted, and
+usually occur within 7 days
+Infectious Diseases2
+95
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+TYPE FEATURES
+Cutaneous ~ 95% of anthrax infections occur through
+skin cut or abrasion
+~ Starts as raised itchy bump that resembles
+an insect bite
+~ Within 1-2 days, it develops into a vesicle
+and then a painless ulcer, usually 1-3 cm
+in diameter, with a characteristic black
+~ necrotic (dying) area in the centre (eschar)
+~ Lymph glands in adjacent area may swell
+~ About 20% of untreated cutaneous anthrax results in death
+Inhalation ~ Initial symptoms resemble a cold
+~ After several days, symptoms may progress to severe breathing problems and
+shock
+~ Inhalation anthrax is usually fatal
+Gastro- intestinal
+~ Acute inflammation of the intestinal tract
+~ Initial signs of nausea, loss of appetite,
+vomiting and fever
+~ Then abdominal pain, vomiting blood,
+and severe diarrhoea
+~ Intestinal anthrax results in death in 25%
+to 60% of the cases
+Investigations
+¾ Isolation of Bacillus anthracis from blood, skin lesions,
+or respiratory secretions- Smear-many bacilli
+¾ Or measure specific antibodies in the blood of persons
+with suspected infection
+96
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+Management
+TREATMENT LOC
+Cutaneous anthrax
+- Treat for 7–10 days
+- First line is ciprofloxacin 500 mg every 12 hours
+- Alternatives: doxycycline 100 mg every 12 hours
+- Or amoxicillin 1 g every 8 hours
+HC2
+Prevention
+The following public measures are key for quick prevention and control of
+anthrax infection:
+~ Health education and information
+~ Proper disposal by burying of carcasses, hides and skins;
+(no burning as it can spread spores)
+~ No skinning of dead animals; this allows spore formation,
+which can stay in soil for decades
+~ No eating of meat from dead animals
+~ Restrict movement of animals and animal by-products from
+infected to non-infected areas
+~ Mass vaccination of animals in endemic areas
+~ Vaccination using human anthrax vaccine for:
+- Persons who work directly with the organism in the laboratory
+- Persons who handle potentially infected animal products
+- in high-incidence areas
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.1.2 Brucellosis | p.163-165 | audience=general] ---
+(Undulant fever, malta fever, abortus fever)
+A zoonotic bacterial infection of acute onset. Common as an occupational
+97
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+disease among people working with infected livestock or associated fresh
+animal products, for example butchers, farmers, abattoir workers, and
+vendors of contaminated roasted meat (muchomo). Incubation is 2-4
+weeks on average, but it can be from 1 to 8 weeks.
+Causes
+~ Brucella abortus (cattle)
+~ Brucella canis (dog)
+~ Brucella melitensis (goats and sheep)
+~ Brucella suis (pigs)
+Clinical features
+~ Intermittent (fluctuating) fever
+~ Aches and pains
+~ Orchitis (inflammation of the testes)
+~ Vertebrae osteomyelitis (uncommon but characteristic)
+Differential diagnosis
+~ Typhoid fever, malaria, tuberculosis
+~ Trypanosomiasis (sleeping sickness)
+~ Other causes of prolonged fever
+Investigations
+¾ Blood: complement fixation test or agglutination
+test (where possible)
+The interpretation of serological tests can be difficult, particularly in
+endemic areas where a high proportion of the population has antibodies
+against brucellosis. Positive serological test results can persist long after
+recovery in treated individuals so results have to be interpreted on the basis
+of the clinical picture.
+98
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+Isolation of the infectious agent from blood, bone marrow, or other
+tissues by culture
+Management
+TREATMENT LOC
+Adult and child > 8 years:
+- Doxycycline 100 mg every 12 hours for 6 weeks
+Child > 8 years: 2 mg/kg per dose
+HC4
+- Plus gentamicin 5-7 mg/kg IV daily for 2 weeks
+Child < 8 years: 7.5 mg/kg daily in 1-3 divided doses
+- Or ciprofloxacin 500 mg twice daily for 2 weeks
+Child < 12 years: do not use
+Children below 8 years
+- Cotrimoxazole 24 mg/kg every 12 hours for 6 weeks
+- Plus gentamicin 5-7 mg/kg IV in single or divided doses
+for 2 weeks
+Caution
+- Treatment duration must be adhered to at all times
+- Ciprofloxacin is contraindicated in children <12
+years
+- Doxycyline, gentamicin: Contraindicated in
+pregnancy
+Prevention
+~ Provide public health education on
+- Drinking only pasteurised or boiled milk
+- Careful handling of pigs, goats, dogs, and cattle if a person
+has wounds or cuts
+- Provide veterinary services for domestic animals
+99
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.1.3 Diphtheria | p.166-167 | audience=general] ---
+An acute bacterial infection caused by Corynebacterium diphtheriae,
+which is spread through droplet infection and mainly occurs in the
+nasopharynx. The bacteria produce a toxin which is responsible for the
+systemic effects. Incubation period is 2-7 days.
+Cause
+~ Toxin of Corynebacterium diphtheriae
+Clinical features
+~ Pseudomembranous tonsillitis (grey, tough and very stickly
+membranes) with dysphagia, cervical adenitis, at times progressing to massive swelling of the neck
+~ Airway obstruction and possible suffocation when infection
+extends to the nasal passages, larynx, trachea and bronchi
+~ Low grade fever
+~ Effects of the toxin: cardiac dysfunction (myocarditis with
+heart failure), neuropathies 1-3 months after the onset affecting swallowing, vision, breathing and ambulation
+~ Renal failure
+Investigation
+¾ Culture from throat swab
+2
+Management
+TREATMENT LOC
+- Refer urgently to hospital
+- Isolate (contact and droplet precautions) until 3 throat
+swabs (nose, throat, or skin) are negative
+- Give procaine benzylpenicillin 1.2 MIU daily IM until
+patients can switch to oral
+H
+100
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+Management
+TREATMENT LOC
+Child: procaine benzylpenicillin 50,000 IU/kg per
+day IM once daily until patient can swallow
+When patient is able to swallow
+- Give Penicillin V 250 mg every 6 hours per day to
+complete 14 days.
+Child 1-6 years: 125 mg 6 hourly
+Child< 1 years: 12.5 mg/kg every 6 hours
+In case of penicillin allergy
+- Erythromycin 500 mg every 6 hours for 14 days
+Child: 50 mg/kg every 6 hours
+H
+Prevention
+~ Isolation of patient and proper management of close contacts
+- Monitor close contacts for 7 days and give prophylactic
+- antibiotics: single dose benzathine penicillin IM (child
+- <10 years: 600,000 IU, child >10 yrs and adults: 1.2 MIU)
+- Verify immunisation status, complete if needed, give a booster
+if the last dose was more than a year before
+~ Immunise all children during routine childhood immunisation
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.1.4 Leprosy/Hansens disease | p.167-173 | audience=general] ---
+A chronic infectious disease caused by Mycobacterium leprae/Hansens
+bacillus - an acid-fast bacillus. It mainly affects the skin, peripheral nerves
+and mucous membranes. It is transmitted from one person to another
+via the respiratory tract (possibly, very rarely, through broken skin). It is
+classified into paucibacillary (PB) or Multibacillary (MB) Leprosy.
+101
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+Clinical features
+~ Pale or reddish patches on the skin (The most common
+sign of leprosy)
+~ Loss or decrease in feeling in the skin patch
+~ Numbness or tingling of the hands or feet.
+~ Weakness of the hands, feet or eyelids
+~ Painful or tender nerves
+~ Swelling or lamps in the face or earlobes
+~ Painless wounds or burns on the hands or feet
+Case definition
+A case of leprosy is a person with clinical signs of leprosy who
+requires chemotherapy.
+Diagnosis of leprosy
+Diagnosis of Leprosy must be based on careful clinical examination of
+the patient and when necessary, backed by bacteriological examination
+Leprosy is diagnosed by finding at least one of the three cardinal signs:
+- Hypopigmented patches with definite loss of sensation in
+them
+- Thickened or enlarged peripheral nerves, with loss of
+sensation and/or weakness of the muscles supplied by those
+nerves
+- The presence of acid-fast bacilli in a slit skin smear
+Classification of leprosy
+Paucibacillary (PB) leprosy - 1-5 patches
+Multibacillary (MB) Leprosy - More than 5 patches
+102
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+Differential diagnosis
+~ Hypopigmentation e.g. birthmark, early vitiligo
+~ Fungal infections of the skin
+~ Molluscum contagiosum
+~ Other nodular conditions, e.g. Kaposi’s sarcoma, neurofibromatosis, secondary syphilis
+~ Other causes of peripheral nerve damage, e.g. diabetes
+mellitus
+~ Psoriasis, molluscum contagiosum
+Investigations
+¾ In most cases, a definite diagnosis of leprosy can be
+made using clinical signs alone
+¾ At referral centre: stain slit skin smears for Acid
+Fast Bacilli (AFB)
+¾ Skin biopsies NOT recommended as a routine procedure
+Management
+Multi-drug therapy (MDT) for leprosy is presented in the form of various
+monthly dose blister packs. The same three drugs are used for both PB
+leprosy and MB leprosy, with special packs for children
+Summary of Treatment of leprosy
+PB Leprosy MB Leprosy
+Rifampicin Rifampicin
+Dapsone Dapsone
+Clofazimine Clofazimine
+All for 6 months All for 12 months
+103
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+Recommended treatment (drugs and their doses)
+Drug Dosage and frequency Duration
+PB MB
+Adult Rifampicin 600 mg once a month 6
+months
+12
+monthsClofazimine 300 mg once a month
+and 50 mg daily
+Dapsone 100 mg daily
+Children
+(10–14
+years)
+Rifampicin 450 mg once a month 6
+months
+12
+months Clofazimine 150 mg once a month,
+50 mg daily
+Dapsone 50 mg daily
+Children
+<10
+years old
+or
+<40 kg
+Rifampicin 10 mg/kg once
+month
+6
+months
+12
+months
+Clofazimine 6 mg/kg once a
+month and 1 mg/kg
+daily
+Dapsone 2 mg/kg daily
+Steroids for treatment of severe leprae reactions
+- Prednisolone 40 mg once daily in morning
+- Treat for 12 weeks in PB and 24 weeks in MB
+- Reduce dose gradually by 10–5 mg once every 2
+weeks (PB) or 3 weeks (MB)
+RR
+Note
+- In patients co-infected with HIV and on cotrimoxazole , do
+not use dapsone.
+- Health worker should directly observe that the medicines
+taken once a month are actually swallowed
+- Treatment durations longer than 12 months and steroids for
+leprae reactions should only be prescribed by specialists at
+referral centres
+- Lepra reactions: sudden inflammation (pain, redness, swelling,
+new lesions, loss of nerve function) in skin lesions or nerves of
+a person with leprosy. They can occur before, during or after
+MDT completion.
+104
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+- Severe leprae reaction (Type 2) are also known as Erythema
+Nodosum Leprosum (ENL or Type 2 reactions)
+- All patients should undergo rehabilitation and physiotherapy
+Counsel patient on: need to complete treatment, presence of
+residual signs after completion of treatment
+- Presence of residual signs or post-treatment reactions is NOT
+an indication to re-start the treatment
+- Refer to the National Tuberculosis and Leprosy Programme
+(NTLP) manual 2016 for more details
+Prevention
+~ Early diagnosis of cases and effective treatment
+~ Screening of contacts of known patients
+~ Administration of Single dose rifampicine in contacts of
+leprosy patients to prevent contacts of leprosy patients
+from developing leprosy disease
+~ Rifampicine dose used in contacts of leprosy patiients
+Age/weight Rifampicin single dose
+15 years and above 600mg
+10-14years 450mg
+Children 6-9years (weight ≥20kg) 300mg
+Children 20kg (≥2years) 10-15mg/kg
+~ BCG vaccination may be help
+Disability due to Leprosy
+Leprosy commonly causes physical disabilities which generate social
+stigma. Disability refers to an impairment (primary or secondary) that
+makes it difficult or impossible for the affected person to carry out certain
+activities, e.g. affecting manual dexterity, personal care, mobility and
+communication behavior
+Definitions of disability:
+In the hands and feet:
+Grade 0 = No anesthesia, no visible deformity or damage
+Grade 1 = Anaesthesia, but no visible deformity or damage
+105
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+Grade 2 = Visible deformity or damage present
+In the eyes
+Grade 0 = no eye problem due to leprosy, no evidence of visual loss
+Grade 1 = eye problem due to presence of leprosy, but vision not severy
+affected as a result (6/60 or better, can count fingers at six meters)
+Grade 2 = severe visual impairment (vision worse than 6/60; inability to
+count fingers at six meters), lagophthalmos, iridocyclitis, corneal opacities
+Management of Disability in the hand and feet
+Resting of the affected limb in the acute phase can be aided by splinting,
+especially at night
+~ Soaking and oiling for about 30 minutes every day of dry
+skin helps to prevent cracking and preserves the integrity
+of the epidermis.
+~ Use of a clean dry cloth to cover the wounds and walking
+as little as possible and walk slowly, taking frequent rest.
+Passive exercise and stretching to avoid contractures and
+strengthen muscle weakness
+~ Use of a rough stone to smoothen the skin on the feet or
+palms,
+~ Protective foot wear (MCR Sandals) al, the time. For insensitive feet and protective appliances like gloves for insensitive hands
+Eye complications due to Leprosy
+These include
+1. Lagophthalmos: whole spectrum
+2.Corneal hypoesthesia: with/without corneal ulcers
+3. Acute iritis and scleriti
+4.Chronic iritis and iris atrophy
+106
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+Treatment & Management of eye complications
+Medical therapy for eye complications due to Leprosy- use of the topical antibiotics and topical steroids. It is strongly recommended that an
+ophthalmologist and a trained leprologist, if available, be included in the
+treatment of Hansen disease with ocular manifestations.
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.1.6 Plague | p.179-181 | audience=general] ---
+Severe acute bacterial infection with high fatality rate transmitted by
+infected rodent fleas. It is a notifiable disease.
+Cause
+~ Yersinia pestis (a coccobacillus) transmitted from ground
+rodents to man by bites from infected fleas
+~ It may also be spread from person to person by droplet
+infection and may occur in epidemics
+Clinical features
+TYPE FEATURES
+Bubonic (A20.0) ~ Involves lymph nodes (usually
+femoral and inguinal)
+~ Rapidly rising temperature
+with rigors
+~ Headache
+113
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+TYPE FEATURES
+Pneumonic (A20.2) ~ Very infectious and highly fatal: PATIENT MUST BE ISO -
+LATED
+- Death occurs within 2 days if
+not treated early
+~ Infection is localised in the
+lungs with fever, general malaise, headache, and frothy
+blood stained sputum
+~ May be complicated by respiratory and cardiac distress
+Differential diagnosis
+~ Malaria, typhoid
+~ Lymphogranuloma venereum
+~ Pneumonia
+Investigations
+- Bubo aspirate: for microscopy, C&S
+- Blood and sputum: check for presence of the bacilli
+Management
+TREATMENT LOC
+- Doxycycline 100 mg every 12 hours for 14 days
+Child > 8 years: 2 mg/kg per dose
+Alternatives:
+- Chloramphenicol 500 mg orally or IV every 6 hours
+for 10 days
+Child: 25 mg/kg per dose
+- Or gentamicin 1.7 mg/kg (adult and child) IV or IM
+every 8 hours for 7-10 days
+HC2
+HC4
+114
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+Note
+- For use in pregnancy, consider gentamicin
+Prevention
+~ Health education
+~ Improved housing
+~ Destruction of rats (rodents) and fleas
+~ Early detection and treatment to reduce further spread
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.1.8 Tetanus | p.185-188 | audience=general] ---
+Bacterial disease characterised by intermittent spasms (twitching) of
+voluntary muscles. Incubation period is from few days to few weeks
+(average7-10 days).
+Cause
+~ Exotoxin of Clostridium tetani
+~ Common sources of infection: tetanus spores enter the
+body through deep penetrating skin wounds, the umbilical
+cord of the newborn, ear infection, or wounds produced
+during delivery and septic abortions
+119
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+Clinical features
+~ Stiff jaw, difficulty in opening mouth (trismus)
+~ Generalised spasms induced by sounds and/or strong light,
+characterised by grimace (risus sardonicus)
+~ Arching of back (opisthotonus) with the patient remaining
+clearly conscious
+~ Fever
+~ Glottal spasms and difficulty in breathing
+~ Absence of a visible wound does not exclude tetanus
+Differential diagnosis
+~ Meningoencephalitis, meningitis
+~ Phenothiazine side-effects
+~ Febrile convulsions
+Management
+TREATMENT LOC
+General measures
+- If at HC2 or 3, refer to hospital
+- Nurse patient intensively in a quiet isolated area
+- Maintain close observation and attention to airway,
+temperature, and spasms
+- Insert nasogastric tube (NGT) for nutrition, hydration,
+and medicine administration
+H
+120
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+TREATMENT LOC
+- Oxygen therapy if needed
+- Prevent aspiration of fluid into the lungs
+- Avoid IM injections as much as possible; use alternative
+routes (e.g. NGT, rectal) where possible
+- Maintain adequate nutrition as spasms result in hugh
+metabolic demands
+- Treat respiratory failure in ICU with ventilation
+Neutralise toxin
+- Give tetanus immunoglobulin human (TIG)
+- 150 IU/kg (adults and children). Give the dose
+in at least 2 different sites IM, different from the
+tetanus toxoid site
+- In addition, administer full course of age- appropriate TT
+vaccine (TT or DPT) – starting immediately
+- See section 18.1.4
+H
+Treatment to eliminate source of toxin
+- Clean wounds and remove necrotic tissue.
+First line antibiotics
+- Metronidazole 500 mg every 8 hours IV or by mouth
+for 7 days
+Child: 7.5 mg/kg every 8 hours
+Second line antibiotics
+- Benzylpenicillin 2.5 MU every 6 hours for 10 days
+Child: 50,000-100,000 IU/kg per dose
+H
+Control muscle spasms First line
+- Diazepam 10 mg (IV or rectal) every 1 to 4 hours
+Child: 0.2 mg/kg IV or 0.5 mg/kg rectal (maximum of
+10 mg) every 1 to 4 hours
+H
+121
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+TREATMENT LOC
+Other agents
+- Magnesium sulphate (alone or with diazepam): 5 g (or
+75 mg/kg) IV loading dose then 2 g/hour till spasm
+control is achieved
+- Monitor knee-jerk reflex, stop infusion if absent
+- Or chlorpromazine (alone or alternate with diazepam)
+50-100 mg IM every 4-8 hours
+Child: 4-12 mg IM every 4-8 hours or
+- 12.5 mg-25 mg by NGT every 4-6 hours
+- Continue for as long as spasms/rigidity lasts
+Control pain
+- Morphine 2.5-10 mg IV every 4-6 hours (monitor for
+respiratory depression)
+Child: 0.1 mg/kg per dose
+- Paracetamol 1 g every 8 hours
+Child: 10 mg/kg every 6 hours
+Prevention
+~ Immunise all children against tetanus during routine childhood immunisation
+~ Proper wound care and immunisation (see chapter 18):
+- Full course if patient not immunised or not fully immunised
+- Booster if fully immunised but last dose >10 years ago
+- Fully immunised who had a booster <10 years ago do not
+need any specific treatment
+~ Prophylaxis in patients at risk as a result of contaminated wounds: give Tetanus immunoglobulin human (TIG) IM
+Child < 5 years: 75 IU
+Child 5-10 years: 125 IU
+Child > 10 years and adults: 250 IU
+Double the dose if heavy contamination or wound obtained > 24
+hours.
+122
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.1.8.1 Neonatal Tetanus | p.189-190 | audience=pediatric] ---
+Neonatal tetanus is a notifiable disease
+~ Caused by infection of the umbilicus through cutting of the
+cord with unsterile instruments or from putting cow dung
+or other unsuitable materials on the stump
+~ Usually presents 3-14 days after birth with irritability and
+difficulty in feeding due to masseter ( jaw muscle) spasm,
+rigidity, generalised muscle spasms. The neonate behaves
+normally for the first few days before the symptoms appear.
+Management
+TREATMENT LOC
+- Refer to hospital immediately
+General measures
+- Nurse in quite, dark and cool environment
+- Suction the mouth and turn the infant 30 min after
+sedative. A mucous extractor or other suction should be
+available for use prn
+- Ensure hydration/feeding
+- Start with IV fluids (half saline and dextrose 5%)
+- Put NGT and start feeding with expressed breast milk
+24 hours after admission– in small frequent feeds
+- Monitor and maintain body temperature
+- Monitor cardiorespiratory function closely. Refer for
+ICU management if possible
+H
+RR
+Neutralise toxin
+- Give tetanus immunoglobulin human (TIG)
+- 500 IU IM. Give the dose in at least 2 different sites
+IM, different from the tetanus toxoid site
+- In addition give 1st dose of DPT
+H
+123
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+TREATMENT LOC
+Treatment to eliminate source of toxin
+- Clean and debride the infected umbilicus
+First line antibiotics
+- Metronidazole loading dose 15 mg/kg over 60 min then
+- Infant <4 weeks : 7.5 mg/kg every 12 hours for 14
+- days
+H
+- Infant >4 weeks: 7.5 mg/kg every 8 hours for 14
+days
+Second line antibiotics
+- Benzylpenicillin 100,000 IU/kg every 12 hours for 10-
+14 days
+H
+Control muscle spasm
+- Diazepam 0.2 mg/kg IV or 0.5 mg/kg rectal every 1 to
+4 hours
+Other medicines
+- Chlorpromazine oral 1 mg/kg 8 hourly via NGT
+Prevention
+~ Immunise all pregnant women during routine ANC visits
+~ Proper cord care
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.1.10 Typhus Fever | p.192-193 | audience=general] ---
+Febrile infection caused by Rickettsia species
+Causes
+~ Epidemic louse-borne typhus fever: caused by Rickettsia
+prowazeki; the common type in Uganda, which is transmitted to man (the reservoir) by lice
+~ Murine (endemic) typhus fever: caused by Rickettsia typhi
+(mooseri) and transmitted by rat fleas. Rats and mice are
+the reservoir
+~ Scrub typhus fever (mite-borne typhus): caused by R. tsutsugamushi and transmitted by rodent mites
+126
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+Clinical features
+~ Headaches, fever, chills, severe weakness, muscle pains
+~ Macular rash that appears on the 5th day on the rest of the
+body except the face, palms, and soles
+~ Jaundice, confusion, drowsiness
+~ Murine typhus has a similar picture but is less severe
+Differential diagnosis
+~ Any cause of fever such as malaria, HIV, UTI, or typhoid
+Investigations
+¾ Blood: For Weil-Felix reaction
+Management
+TREATMENT LOC
+- Doxycycline 100 mg every 12 hours for 5-7 days
+Child > 8 years: 2 mg/kg per dose
+- Or chloramphenicol 500 mg orally or IV every 6 hours
+for 5 days
+Child: 15 mg/kg per dose
+HC2
+HC4
+Note
+- One single dose of doxycycline 200 mg may cure epidemic
+typhus but there is risk of relapse
+Prevention
+~ Personal hygiene
+~ Destruction of lice and rodents
+127
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases

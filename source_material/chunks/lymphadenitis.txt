@@ -1,0 +1,426 @@
+# TOPIC: lymphadenitis
+
+--- [WHO AWaRe Antibiotic Book (2022) | 9. Localized acute bacterial lymphadenitis | p.111-120 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book95
+PRIMARY HEALTH CARE 
+9. Localized acute bacterial 
+lymphadenitis
+This chapter does not include severe or generalized infections or infections caused by viral, 
+fungal or parasitic pathogens.
+Key messages
+• Antibiotics are not needed for the great majority of cases of enlarged lymph nodes as 
+they are caused by viral infections.
+• A watchful waiting approach is reasonable when the patient is not severely ill and bacterial 
+lymphadenitis or a malignancy is not suspected, because the condition is usually selflimiting.
+• Human immunodeficiency virus (HIV) infection, tuberculosis and spreading dental infection 
+should always be considered in the differential diagnosis.
+• If bacterial lymphadenitis is suspected, empiric antibiotic treatment should cover 
+Staphylococcus aureus and Streptococcus pyogenes with Access group antibiotics.
+Definition
+Lymphadenitis is the inflammation and enlargement (> 1–2 cm) of one or several lymph 
+nodes. It can be classified as localized (most cases) where only one lymph node region 
+is affected or generalized when multiple lymph node regions are affected. Lymphadenitis 
+can also be classified based on the anatomical site of the lymph node region affected 
+(e.g. cervical or axillary) and on the depth of the lymph node affected, either superficial 
+or deep lymph nodes. Lymphadenitis has several infectious and non-infectious causes, 
+including skin infections, dental infections, cancer or lymphoproliferative disorders. The 
+term lymphadenitis (i.e. enlargement of a lymph node with inflammatory signs) and 
+lymphadenopathy (i.e. disease of a lymph node in which they are abnormal in size and/or 
+consistency) are often used interchangeably, although in lymphadenitis the inflammatory 
+component (redness, warmth and pain) is more pronounced. Infection in the lymph nodes 
+can be caused by bacteria, viruses, fungi or parasites. This chapter focuses on localized acute 
+bacterial lymphadenitis, although most enlarged lymph nodes are caused by viral infections.
+96
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+9. Localized acute bacterial lymphadenitis
+Localized acute bacterial lymphadenitis
+Page 1 of 2
+L ymphadenitis re fers to the in/g248ammation and acut e
+enlargement (>1-2 cm) of one or sev eral lymph nodes
+De/g246nition
+Diagnosis
+Usually not needed but ma y be consider ed in selec ted cases
+Other LaboratoryTests
+•U sually not needed
+•Ultrasound can be consider ed to con/g246rm lymph node
+in v olv ement, to quantify the enlargement and to detec t the
+pr esence of an abscess; it is not r eliable to rule out
+malignancies (biopsy should be per formed)
+Imaging
+•A cute onset of a palpable , painful r ed and in/g248amed
+enlarged lymph node (>1-2 cm) +/- fe v er (≥ 38.0 °C ), and
+other signs/symptoms of systemic disease & cellulitis
+•B ac terial cause mor e pr obable if unilateral in v olv ement,
+/g248uc tuance and sk in drainage of the lymph node
+Clinical Presentation
+Microbiology Tests
+This guidance excludes management of severe or generalized
+infections or those caused by viral, fungal or parasitic pathogens
+Classi/g246cation based on:
+•Number of lymph node re gions affec ted:
+- (most cases): 1 lymph node re gion affec te dLocalized
+-: >1 lymph node re gion affec te dGeneralized
+•L ocation of the affec ted lymph node (e .g . cer vical , axillar y)
+•D epth of the affec ted lymph node (super /g246cial or deep)
+Usually not needed; consider testing for HIV and
+tuber culosis if these ar e suspec te d
+Biopsy
+C onsider when a malignanc y is suspec te d
+Viruses (most cases):
+•Epstein-Barr virus , Cy tomegalovirus (both viruses can cause
+infec tious mononucleosis)
+•R espirator y viruses
+Bacteria (more rarely):
+• (including MRSA )Staphylococcus aureus
+•( group AStreptococcus pyogenes Streptococcus)
+Consider in speci/g246c situations (based on history and
+physical examination):
+•S exually transmitted infec tions (e .g . HIV )
+•Z oonoses (e .g . brucellosis , tular emia, bar tonellosis - the latter
+mostly following cat bites or scratches)
+•M yc obac terial infec tions (including nontuber culous)
+Most Likely Pathogens
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+97
+PRIMARY HEALTH CARE 
+9. Localized acute bacterial lymphadenitis
+Localized acute bacterial lymphadenitis
+Page 2 of 2
+Note: historyi sk ey in ordert o adaptt reatment if necessary
+Treatment
+Clinical Considerations Antibiotic Treatment
+Cefalexin 500 mg q8h ORAL
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+----------------------------------- -----------------------------------OR
+Amoxicillin+clavulanic acid 500 mg+125 mg
+q8h OR 1 g+200 mg q8hORAL IV
+Cloxacillin 500 mg q6h OR 2 g q6hORAL IV
+----------------------------------- -----------------------------------OR
+Cloxacillin and cefalexin have a narrower spectrum of
+antibacterial activity compared to amoxicillin+clavulanic acid
+with good effic acy in mild skin and soft tissue infections. From
+an antibiotic stewardship perspective, these would be the
+preferred options whenever possible
+If cloxacillin is unavailable, any other IV antistaphylococcal
+penicillin could be used. For oral administration, dicloxacillin
+and /g248ucloxacillin are preferred options within the class as they
+have better oral bioavailability
+5 days
+Antibiotic Treatment Duration
+Important:
+•The great majority of cases of enlarged lymph nodes
+are caused by viral infections and antibiotics are not
+needed
+•A watchful waiting approach with follow up is
+appropriate (except if malignancy is suspected)
+If symptoms are consistent with a bacterial infection,
+empiric treatment against andS. aureus Streptococcus
+pyogenes Streptococcus(group A) is indicated
+98
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+9. Localized acute bacterial lymphadenitis
+Localized acute bacterial lymphadenitis
+Page 1 of 2
+•L ymphadenitis re fers to the in/g248ammation and enlargemen t
+(>1-2 cm) of one or sev eral lymph nodes
+•L ymphadenopath y is another term often used
+De/g246nition
+Diagnosis
+Usually not needed but ma y be consider ed in selec ted cases
+Other LaboratoryTests
+•U sually not needed
+•Ultrasound can be consider ed to con/g246rm lymph node
+in v olv ement, to quantify the enlargement and to detec t the
+pr esence of an abscess; it is not r eliable to rule out
+malignancies (biopsy should be per formed)
+Imaging
+•A cute onset of a palpable , painful r ed and in/g248amed
+enlarged lymph node (>1-2 cm) +/- fe v er (≥ 38.0 °C ), and
+other signs/symptoms of systemic disease & cellulitis
+•B ac terial cause mor e pr obable if unilateral in v olv ement,
+/g248uc tuance and sk in drainage of the lymph node
+Clinical Presentation
+Microbiology Tests
+This guidance excludes management of severe or generalized
+infections or those caused by viral, fungal or parasitic pathogens
+Classi/g246cation based on:
+•Number of lymph node re gions affec ted:
+- (most cases): 1 lymph node re gion affec te dLocalized
+-: >1 lymph node re gion affec te dGeneralized
+•L ocation of the affec ted lymph node (e .g . cer vical , axillar y)
+•D epth of the affec ted lymph node (super /g246cial or deep)
+Usually not needed; consider testing for HIV and
+tuber culosis if these ar e suspec te d
+Biopsy
+C onsider when a malignanc y is suspec te d
+Viruses (most cases):
+•Epstein-Barr virus (can cause infec tious mononucleosis)
+•C ytomegalovirus (can cause infec tious mononucleosis)
+•R espirator y viruses
+Bacteria (more rarely):
+• (including MRSA )Staphylococcus aureus
+•( group AStreptococcus pyogenes Streptococcus)
+Consider in speci/g246c situations (based on history and
+physical examination):
+•S exually transmitted infec tions (e .g . HIV )
+•Z oonoses (e .g . brucellosis , tular emia, bar tonellosis - the latter
+mostly following cat bites or scratches)
+•M yc obac terial infec tions (including nontuber culous)
+Most Likely Pathogens
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+99
+PRIMARY HEALTH CARE 
+9. Localized acute bacterial lymphadenitis
+Localized acute bacterial lymphadenitis
+Page 2 of 2
+Amoxicillin+clavulanic acid
+IV:
+•1st week of life: 50 mg/kg/dose of amoxicillin
+component q12h
+•> 1st week of life: 50 mg/kg/dose of
+amoxicillin component q8h
+ORAL: 80-90 mg/kg/day of amoxicillin
+component
+•:Oral weight bands
+3-<6 kg 250 mg of amox/dose q12h
+6-<10 kg 375 mg of amox/dose q12h
+10-<15 kg 500 mg of amox/dose q12h
+15-<20 kg 750 mg of amox/dose q12h
+≥20 kg 500 mg of amox/dose q8h or
+1 g of amox/dose q12h
+Treatment
+Clinical Considerations
+If symptoms are consistent with a bacterial infection,
+empiric treatment against andS. aureus Streptococcus
+pyogenes Streptococcus(group A) is indicated
+Antibiotic Treatment
+5 days
+Antibiotic Treatment Duration
+Important:
+•The great majority of cases of enlarged lymph nodes
+are caused by viral infections and antibiotics are not
+needed
+•A watchful waiting approach with follow up is
+appropriate (except if malignancy is suspected)
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+----------------------------------- -----------------------------------OR
+Amox = amoxicillin
+Oral liquid must be refrigerated after reconstitution
+----------------------------------- -----------------------------------OR
+Cloxacillin and cefalexin have a narrower spectrum of
+antibacterial activity compared to amoxicillin+clavulanic acid
+with good effic acy in mild skin and soft tissue infections. From
+an antibiotic stewardship perspective, these would be the
+preferred options whenever possible
+If cloxacillin is unavailable, any other IV antistaphylococcal
+penicillin could be used. For oral administration, dicloxacillin
+and /g248ucloxacillin are preferred options within the class as they
+have better oral bioavailability
+Note: historyi sk ey in ordert o adaptt reatment if necessary
+Cloxacillin IV
+•Neonates: 25-50 mg/kg/dose q12h
+•Children: 25 mg/kg/dose q6h
+•ORAL: 15 mg/kg/dose q6h
+•:Oral weight bands
+3-<6 kg 62.5 mg q6h
+6-<10 kg 125 mg q6h
+10-<15 kg 250 mg q6h
+15-<20 kg 375 mg q6h
+≥20 kg 500 mg q6h
+Cefalexin 25 mg/kg/dose q12h ORAL
+•:Oral weight bands
+3-<6 kg 125 mg q12h
+6-<10 kg 250 mg q12h
+10-<15 kg 375 mg q12h
+15-<20 kg 500 mg q12h
+20-<30 kg 625 mg q12h
+≥30 kg 500 mg q8h
+100The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+9. Localized acute bacterial lymphadenitis
+Pathophysiology
+Lymph nodes are an important part of the immune system which act as filters of lymph 
+fluid. Lymphadenitis from an infectious cause is due to the immune system’s response to 
+localized or generalized inflammation and to the pathogen spreading to one or more lymph 
+node regions. 
+Epidemiology
+Lymphadenitis is a common condition worldwide and can occur at all ages; for example, 
+cervical lymphadenitis occurs very frequently in healthy children. Lymphadenitis is usually 
+associated with benign conditions (e.g. most infectious causes); however, it can also be a 
+sign of malignancy (e.g. lymphoma).
+Since lymphadenitis has many different causes, the epidemiology of the disease 
+will reflect the specific etiology. For example, in Africa, tuberculous lymphadenitis (the most 
+frequent cause of extrapulmonary tuberculosis (TB)) is still an important cause of persistent 
+lymphadenitis, and chronic lymphadenopathy may be a sign of HIV infection (81).
+Most likely pathogens
+Pathogens that can cause lymphadenitis are listed in Table 9.1.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book101
+PRIMARY HEALTH CARE 
+9. Localized acute bacterial lymphadenitis
+Table 9.1 – Pathogens most frequently associated with acute lymphadenitis (in 
+descending order of frequency)
+Viruses Bacteria
+Most cases
+Epstein–Barr virus
+Cytomegalovirus
+Respiratory viruses
+More rarely
+HIV
+Most cases
+Staphylococcus aureus (including MRSA)
+Streptococcus pyogenes (group A Streptococcus)
+More rarelya
+Anaerobes
+Bartonella henselae (mostly following cat bites or scratches)
+Chlamydia trachomatis (serovars L1, L2 and L3 which cause 
+lymphogranuloma venereum)
+Corynebacterium diphtheriae
+Francisella tularensis
+Haemophilus ducreyi
+Neisseria gonorrhoeae
+Rickettsia spp.
+Yersinia pestis
+MRSA: methicillin-resistant Staphylococcus aureus.
+Note. Pathogens associated with chronic lymphadenitis such as mycobacteria (including non-tuberculous) are not 
+included in the table.
+a This is not a full list but aims to show the variety of bacteria associated with localized lymphadenitis. The bacteria 
+are listed in alphabetical order. Sexually transmitted infections and zoonoses need to be considered in the 
+differential diagnosis.
+Clinical presentation 
+Lymphadenitis is a noticeable enlargement (> 1–2 cm) of a lymph node. Acute onset, 
+unilateral involvement, fluctuance and fluid that drains from the lymph node to the skin 
+suggest a bacterial cause. Tenderness and inflammation are frequently associated with 
+infectious causes. Fever (≥ 38.0 °C) and other signs and symptoms of systemic disease may 
+be present, accompanied by cellulitis. Viral respiratory infections, infectious mononucleosis 
+(caused by Epstein–Barr virus or cytomegalovirus), (acute) HIV infection and mycobacterial 
+infections (mostly TB) always need to be considered when diagnosing the cause of acute 
+lymphadenitis based on clinical history and findings. As the first step, it is important 
+to identify the cause of the enlargement. Location of the enlarged lymph node and 
+accompanying signs and symptoms of infection (e.g. symptoms of a dental infection, skin 
+lesions, pharyngitis and signs and symptoms of an STI) can help establish the diagnosis. 
+History and physical examination (including palpation of lymph nodes) usually help in the 
+diagnosis and guide the investigation and treatment.
+102The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+9. Localized acute bacterial lymphadenitis
+Laboratory tests 
+Patient microbiology tests
+Routine microbiology testing is usually not needed because in most cases with an infectious 
+cause, identifying the etiologic agent will not change the initial management. However, HIV 
+infection and tuberculosis should be considered in the differential diagnosis and adequate 
+testing should be done when these diseases are suspected. 
+Other tests
+Routine laboratory testing is usually not needed. However, it may be considered in certain 
+cases, for example, persistent lymph node enlargement for more than 4 weeks or the 
+presence of warning signs such as important weight loss.
+Using microbiology surveillance data
+Routine surveillance is not helpful to inform empiric guidance. 
+Biopsy
+An excisional biopsy of the lymph node could be considered if a malignancy is suspected. 
+An alternative technique that can be used is fine needle aspiration, another type of biopsy 
+technique where a very thin needle is inserted into the mass under examination for 
+sampling of cells/tissue.
+Imaging
+Routine imaging is usually not needed to begin with. An ultrasound can be considered to 
+confirm lymph node involvement, to measure the size of the enlargement and to detect 
+the presence of an abscess. However, ultrasound cannot reliably rule out malignancies; in 
+suspected cases an excisional biopsy should be performed.
+Antibiotic treatment
+In certain cases, a watchful waiting approach without antibiotics is indicated when follow-up 
+is feasible and the patient is not severely ill or a malignancy is not suspected. This approach 
+is reasonable because the condition is frequently self-limiting – for example, mild cervical 
+lymphadenitis is usually caused by a viral infection of the upper respiratory tract, especially 
+in children but could also be associated with a dental infection. 
+If symptoms are consistent with a bacterial infection (e.g. fever, and painful, 
+tender and inflamed lymph node), empiric treatment against Staphylococcus aureus and 
+Streptococcus pyogenes is indicated. Antibiotic options are given in Table 9.2.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book103
+PRIMARY HEALTH CARE 
+9. Localized acute bacterial lymphadenitis
+Table 9.2 – Empiric antibiotic treatment for bacterial lymphadenitisa
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Note
+Cloxacillin and cefalexin have a narrower spectrum of antibacterial activity compared to 
+amoxicillin+clavulanic acid and have good efficacy in mild skin and soft tissue infections. 
+Therefore, from an antibiotic stewardship perspective, these two antibiotics are the preferred 
+options whenever possible.
+Adults Children Total treatment 
+duration
+ Amoxicillin+clavulanic 
+ acid 
+IV: 1 g + 200 mg given every 
+8 hours
+Oral: 500 mg + 125 mg given 
+every 8 hours
+OR
+ Cefalexin (oral): 500 mg 
+given every 8 hours
+OR
+ Cloxacillin b IV: 2 g given 
+every 6 hours
+Oral: 500 mg given every 6 
+hours
+ Amoxicillin+clavulanic acid c (IV/
+oral): 80–90 mg/kg/day of amoxicillin 
+component
+Oral weight bands:
+3–< 6 kg: 250 mg of amoxicillin/dose 
+given every 12 hours
+6–< 10 kg: 375 mg of amoxicillin/dose 
+given every 12 hours
+10–< 15 kg: 500 mg of amoxicillin/dose 
+given every 12 hours
+15–< 20 kg: 750 mg of amoxicillin/dose 
+given every 12 hours
+≥ 20 kg: 500 mg of amoxicillin/dose 
+given every 8 hours or 1 g of amoxicillin/
+dose given every 12 hours
+OR
+5 days
+continues
+104The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+9. Localized acute bacterial lymphadenitis
+Table 9.2 continued
+Adults Children Total treatment 
+duration
+ Cefalexin (oral): 25 mg/kg/dose given 
+every 12 hours
+Oral weight bands:
+3–< 6 kg: 125 mg given every 12 hours
+6–< 10 kg: 250 mg given every 12 hours
+10–< 15 kg: 375 mg given every 12 hours
+15–< 20 kg: 500 mg given every 12 hours
+20–< 30 kg: 625 mg given every 12 hours
+≥ 30 kg: use adult dose
+OR
+ Cloxacillin b
+IV: 
+• Neonates: 25–50 mg/kg/dose given 
+every 12 hours
+• Children: 25 mg/kg/dose given every 
+6 hours
+Oral: 15 mg/kg/dose given every 6 hours
+Oral weight bands: 
+3–< 6 kg: 62.5 mg given every 6 hours
+6–< 10 kg: 125 mg given every 6 hours
+10–< 15 kg: 250 mg given every 6 hours
+15–< 20 kg: 375 mg given every 6 hours
+≥ 20 kg: 500 mg given every 6 hours
+IV: intravenous.
+Note. All dosages are for normal renal and hepatic function.
+a Patient history is key in order to adapt treatment if necessary; for example, lymphadenitis in the context of cat 
+scratch fever caused by Bartonella henselae would require a different antibiotic treatment.
+b If cloxacillin is unavailable, any other IV antistaphylococcal penicillin could be used. For oral administration, 
+dicloxacillin and flucloxacillin are preferred options within the class as they have better oral bioavailability.
+c Oral liquid formulations must be refrigerated after reconstitution as clavulanic acid is rapidly metabolized in high 
+ambient temperatures.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.

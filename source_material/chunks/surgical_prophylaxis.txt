@@ -1,0 +1,489 @@
+# TOPIC: surgical_prophylaxis
+
+--- [WHO AWaRe Antibiotic Book (2022) | 40. Surgical prophylaxis | p.578-590 | audience=general] ---
+562The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+40. Surgical prophylaxis
+Antibiotic prophylaxis prior to dental surgeries is not addressed in this chapter. 
+Key messages
+• Surgical site infections are an important complication of surgical procedures and appropriate 
+antibiotic prophylaxis can reduce the risk of surgical site infections for certain procedures.
+• Access group antibiotics are recommended as the first-choice options in most cases.
+• Depending on the type of surgery, antibiotic prophylaxis may need to be adapted in people 
+colonized with multidrug-resistant organisms.
+• The indication and choice of antibiotic prophylaxis depends on the type of surgical 
+procedure. Not all surgical procedures require prophylaxis.
+• Prophylaxis should not be continued after surgery to prevent infection. One antibiotic dose 
+covers the entire duration of potential contamination during surgery in most cases.
+Other relevant WHO resources (please check regularly for updates)
+• Global guidelines for the prevention of surgical site infection, second edition (280).
+Definition of terms used in this chapter
+Definitions are taken from the 2018 WHO publication: Global guidelines for the prevention of 
+surgical site infections (280).
+Antibiotic prophylaxis: prevention of infectious complications by administering 
+an effective antimicrobial agent before exposure to contamination during surgery.
+Surgical procedure : an operation where at least one incision (including 
+laparoscopic incisions) is made through the skin or mucous membrane, or a reoperation 
+through an incision that was left open after a previous operative procedure, and takes place 
+in the operating room.
+Surgical site infection : an infection that occurs after surgery in the part of the 
+body where the surgery took place. Surgical site infections can sometimes be superficial 
+infections involving the skin only. Other surgical site infections are more serious and can 
+involve tissues under the skin, organs or implanted material.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book563
+HOSPITAL FACILITY 
+40. Surgical prophylaxis
+Surgical site infection is also defined as an infection that occurs up to 30 days after 
+an operation and affects: 
+• the skin and subcutaneous tissue of the surgical incision (superficial incisional); 
+and/or 
+• the deep soft tissue (for example, fascia or muscle) of the incision (deep incisional) 
+and/or 
+• any part of the anatomy (e.g. organs and spaces) other than the incision that was 
+opened or manipulated during an operation (organ or space).
+Surgical wound: a wound created when an incision is made with a scalpel or other 
+sharp cutting device and then closed in the operating room by suture, staple, adhesive tape, 
+or glue and bringing the skin edges together.
+Categories of surgical wound
+• Clean: an uninfected surgical wound in which no inflammation is found, and 
+which is not in the respiratory, alimentary, genital or urinary tracts. In addition, 
+clean wounds are usually closed and, if necessary, drained with closed drainage. 
+Surgical incisional wounds that are done after non-penetrating (blunt) trauma 
+should be included in this category if they meet the criteria.
+• Clean-contaminated: a surgical wound in the respiratory, alimentary, genital or 
+urinary tracts which was made under controlled conditions and without unusual 
+contamination. Operations involving the biliary tract, appendix, vagina and 
+oropharynx are included in this category, provided no evidence of infection or 
+major (i.e. significant) break in sterile technique is found.
+• Contaminated: open, fresh, accidental wounds. Also included in this category are: 
+operations with major break in sterile technique (e.g. open cardiac massage) or 
+substantial spillage (of gastrointestinal contents) from the gastrointestinal tract; 
+and incisions in which acute, non-purulent inflammation is found, including 
+necrotic tissue, without evidence of purulent drainage such as dry gangrene.
+• Dirty or infected : old traumatic wounds with retained dead tissue and those that 
+involve existing clinical infection or perforated viscera. Such wounds suggest that 
+the organisms causing postoperative infection were present at the site of the 
+surgery before the operation.
+564
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+40. Surgical prophylaxis
+Surgical prophylaxis
+Page 1 of 2
+Clinical Considerations
+•Choice of antibiotic prophylaxis depends on the type and
+anatomical site of surgical procedure
+•Patients colonized with multidrug-resistant Gramnegative bacteria: Lack of high-quality evidence to support
+expanding the spectrum of antibiotic prophylaxis; decisions
+usually made on a case-by-case basis
+•Patients colonized with MRSA who will have a skin
+incision: Consider adding vancomycin to the routinely
+recommended surgical regimen
+Antibiotic Prophylaxis Before Surgical
+Procedures (Section 1 of 2)
+Depends on the anatomical site of the procedure; often bacteria
+belonging to the human microbiota
+Most Likely Pathogens
+Antibiotic prophylaxis prior to dental surgeries is not addressed
+Prevention of infectious complications by administering an
+effec tive antibiotic before exposure to contamination during
+surgery
+Types of surgical procedures:
+•: Respiratory, alimentary, genital or urinary tracts are notClean
+entered during surgery
+•: Respiratory, alimentary, genital orClean-contaminated
+urinary tracts are entered under controlled conditions and
+without unusual contamination
+•: Signi/g246cant interruptions in sterile technique orContaminated
+gross spillage from the gastrointestinal tract
+De/g246nition
+WHO guidelines for the prevention of surgical site
+infections: https://apps.who.int/iris/handle/10665/277399 120 minutes or less before starting surgery
+Single dose before surgery. Do not continue the antibiotic
+after the surgical procedure to prevent infection. Consider
+an additional dose only for prolonged procedures or if
+major blood loss.
+Timing of Antibiotic Prophylaxis
+Amoxicillin+clavulanic acid 2 g+200 mg single
+dose IV
+Bowel Surgery
+Includes appendectomy, small intestine and colorectal surgical
+procedures
+All dosages are for normal renal function
+First Choice
+Second Choice
+---------------------- ----------------------COMBINED WITH
+Metronidazole 500 mg single dose IV
+Cefazolin 2 g single dose IV
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+565
+HOSPITAL FACILITY 
+40. Surgical prophylaxis
+Surgical prophylaxis
+Page 2 of 2
+Gentamicin 5 mg/kg single dose IV
+Antibiotic Prophylaxis Before Surgical Procedures (Section 2 of 2)
+Urologic Procedure
+Clean or Clean-Contaminated
+Procedure
+All dosages are for normal renal function
+First Choice
+Cefazolin 2 g single dose IV
+Second Choice
+Cefuroxime 1.5 g single dose IV
+All dosages are for normal renal function
+First Choice
+Cefazolin 2 g single dose IV
+Second Choice
+Contaminated Procedure
+All dosages are for normal renal function
+Amoxicillin+clavulanic acid 2 g+200 mg single
+dose IV
+First Choice
+Second Choice
+---------------------- ----------------------COMBINED WITH
+Metronidazole 500 mg single dose IV
+Cefazolin 2 g single dose IV
+---------------------- ----------------------COMBINED WITH
+Metronidazole 500 mg single dose IV
+Gentamicin 5 mg/kg single dose IV
+----------------------------------- -----------------------------------OR
+Gentamicin should be given in combination with
+metronidazole because, if given alone, it provides insufficient
+coverage of anaerobic bacteria
+566
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+40. Surgical prophylaxis
+Surgical prophylaxis
+Page 1 of 2
+Clinical Considerations
+•Choice of antibiotic prophylaxis depends on the type and
+anatomical site of surgical procedure
+•Patients colonized with multidrug-resistant Gramnegative bacteria: Lack of high-quality evidence to support
+expanding the spectrum of antibiotic prophylaxis; decisions
+usually made on a case-by-case basis
+•Patients colonized with MRSA who will have a skin
+incision: Consider adding vancomycin to the routine
+recommended surgical regimen
+Antibiotic Prophylaxis Before Surgical
+Procedures (Section 1 of 2)
+Depends on the anatomical site of the procedure; often bacteria
+belonging to the human microbiota
+Most Likely Pathogens
+Antibiotic prophylaxis prior to dental surgeries is not addressed
+Prevention of infectious complications by administering an
+effec tive antibiotic before exposure to contamination during
+surgery
+Types of surgical procedures:
+•: Respiratory, alimentary, genital or urinary tracts are notClean
+entered
+•: Respiratory, alimentary, genital orClean-contaminated
+urinary tracts are entered under controlled conditions and
+without unusual contamination
+•: Signi/g246cant interruptions in sterile technique orContaminated
+gross spillage from the gastrointestinal tract
+De/g246nition
+WHO guidelines for the prevention of surgical site
+infections: https://apps.who.int/iris/handle/10665/277399 120 minutes or less before starting surgery
+Single dose before surgery. Do not continue the antibiotic
+after the surgical procedure to prevent infection. Consider
+an additional dose only for prolonged procedures or if
+major blood loss.
+Timing of Antibiotic Prophylaxis
+Amoxicillin+clavulanic acid 50 mg/kg of
+amoxicillin component single dose IV
+Bowel Surgery
+Includes appendectomy, small intestine and colorectal surgical
+procedures
+All dosages are for normal renal function
+First Choice
+Second Choice
+---------------------- ----------------------COMBINED WITH
+Metronidazole 7.5 mg/kg single dose IV
+Cefazolin 50 mg/kg single dose IV
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+567
+HOSPITAL FACILITY 
+40. Surgical prophylaxis
+Surgical prophylaxis
+Page 2 of 2
+Gentamicin single dose IV
+•Neonates: 5 mg/kg
+•Children: 7.5 mg/kg
+Antibiotic Prophylaxis Before Surgical Procedures (Section 2 of 2)
+Urologic Procedure
+Clean or Clean-Contaminated
+Procedure
+All dosages are for normal renal function
+First Choice
+Cefazolin 50 mg/kg single dose IV
+Second Choice
+Cefuroxime 50 mg/kg single dose IV
+All dosages are for normal renal function
+First Choice
+Cefazolin 50 mg/kg single dose IV
+Second Choice
+Contaminated Procedure
+All dosages are for normal renal function
+Amoxicillin+clavulanic acid 50 mg/kg of
+amoxicillin component single dose IV
+First Choice
+Second Choice
+---------------------- ----------------------COMBINED WITH
+Metronidazole 7.5 mg/kg single dose IV
+Cefazolin 50 mg/kg single dose IV
+Gentamicin single dose IV
+•Neonates: 5 mg/kg
+•Children: 7.5 mg/kg
+----------------------------------- -----------------------------------OR
+---------------------- ----------------------COMBINED WITH
+Metronidazole 7.5 mg/kg single dose IV
+Gentamicin should be given in combination with
+metronidazole because, if given alone, it provides insufficient
+coverage of anaerobic bacteria
+568The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+40. Surgical prophylaxis
+Epidemiology 
+The percentage of surgical site infections varies depending on the type of surgical procedure. 
+For example, in 2017 in 13 European countries reporting data on > 600 000 surgical 
+procedures, the overall percentage of infections per 100 operations ranged from 0.5% after 
+knee prosthesis surgery to 10.1% after colon surgery. For most types of surgery, more than 
+80% of patients received antibiotic prophylaxis. The only exception was cholecystectomy 
+for which a lower percentage of patients received antibiotic prophylaxis – 44% in case of 
+laparoscopic and 66% in case of open cholecystectomy (377).
+Another study included data collected in 2016 from more than 12 000 patients 
+from 66 countries with different human development indexes; 10.2% of patients were from 
+countries with a low human development index. Overall, 12.3% of patients undergoing 
+gastrointestinal surgery developed a surgical site infection within 30 days. However, 
+statistically significant differences in the incidence of surgical site infections were found 
+based on the human development indexes. In particular, the incidence of surgical site 
+infections was 9.4% in countries with a high human development index, 14.0% in countries 
+with a medium human development index and 23.2% in those with a low human 
+development index. Patients in countries with a low human development index were 1.6 
+times more likely to develop an infection than patients in countries with a higher human 
+development index (378). Variation in infection rates was also found after caesarean sections 
+with rates of infections ranging from 3% to 11% in high-income countries compared to 3% 
+to 24% in low- and middle-income countries (379).
+Surgical site infections and surgical prophylaxis to prevent them are a frequent 
+cause of antibiotic use in hospitals. The 2015 global point prevalence survey on antibiotic 
+use (reporting data from 303 hospitals in 53 countries) reported that on the day of the 
+survey, 1.6% of admitted patients were receiving antibiotics for a postoperative surgical site 
+infection (291). Of note, 34.4% of adult inpatients were receiving at least one antibiotic on the 
+day of the survey. Of the total antibiotic prescriptions, 17.8% were for surgical prophylaxis. 
+The most frequently prescribed antibiotic was cefazolin, prescribed in 27.5% of patients 
+receiving surgical prophylaxis. Prolonged surgical prophylaxis (> 1 day) was common in all 
+regions, ranging from 40.6% in Oceania to 86.3% in eastern Europe (291).
+Most likely pathogens
+The pathogens causing surgical site infections vary based on the type of surgical procedure 
+(Table 40.1).
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book569
+HOSPITAL FACILITY 
+40. Surgical prophylaxis
+Table 40.1 – Pathogens most frequently associated with surgical site infections by 
+anatomical site of the procedure
+Type of procedure Pathogens most frequently associated with surgical site 
+infections
+Cardiac procedures Staphylococcus aureus and coagulase-negative staphylococci
+Cardiac device insertion 
+procedures (e.g. 
+pacemaker implantation)
+Staphylococcus aureus and coagulase-negative staphylococci
+Non-cardiac thoracic 
+procedures (e.g. 
+pulmonary resection)
+Staphylococcus aureus and coagulase-negative staphylococci
+Haemophilus influenzae
+Enterobacter cloacae
+Klebsiella pneumoniae
+Acinetobacter spp.
+Pseudomonas aeruginosa
+Moraxella catarrhalis
+Gastroduodenal 
+procedures
+Staphylococcus aureus and coagulase-negative staphylococci
+Enterococcus spp.
+Enterobacterales
+Anaerobes (Bacteroides spp.)
+Biliary tract procedures Enterobacterales
+Anaerobes
+Enterococcus spp.
+Streptococcus spp.
+Staphylococcus aureus and coagulase-negative staphylococci
+Appendectomy Escherichia coli
+Anaerobes (Bacteroides fragilis)
+Small intestine procedures Enterobacterales
+Anaerobes
+Enterococcus spp.
+Streptococcus spp.
+Staphylococcus aureus and coagulase-negative staphylococci
+continues
+570The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+40. Surgical prophylaxis
+Type of procedure Pathogens most frequently associated with surgical site 
+infections
+Hernia repair procedures Enterococcus spp.
+Streptococcus spp.
+Staphylococcus aureus and coagulase-negative staphylococci
+Colorectal procedures Escherichia coli
+Anaerobes (Bacteroides fragilis)
+Head and neck procedures Streptococcus spp.
+Staphylococcus aureus and coagulase-negative staphylococci
+Enterobacterales 
+Anaerobes (from the oral microbiota)
+Neurosurgical procedures Staphylococcus aureus and coagulase-negative staphylococci
+Gram-negative bacteria
+Gynaecological 
+procedures
+Streptococcus agalactiae (group B streptococcus)
+Staphylococcus aureus
+Enterococcus spp.
+Anaerobes
+Ophthalmic procedures Staphylococcus aureus and coagulase-negative staphylococci
+Orthopaedic procedures Staphylococcus aureus and coagulase-negative staphylococci
+Urological procedures Enterobacterales (mostly Escherichia coli)
+Enterococcus spp.
+Vascular procedures Staphylococcus aureus and coagulase-negative staphylococci
+Note. This list is based on data from high-income settings and aims to give a general overview (380). The distribution 
+of the pathogens most frequently associated with surgical site infections may vary in other settings.
+Antibiotic prophylaxis
+The choice of the antibiotic should be based on the type of surgical procedure because not 
+all procedures are associated with the same risk of developing infection (Table 40.2).
+In general, antibiotic prophylaxis before surgery where the most likely pathogens 
+causing infection are Gram-positive bacteria should consist of intravenous first- or second-
+Table 40.1 continued
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book571
+HOSPITAL FACILITY 
+40. Surgical prophylaxis
+generation cephalosporins – cefazolin or, as an alternative second choice, cefuroxime. These 
+surgeries include clean procedures such as cardiac and vascular surgery but also procedures 
+that involve the placement of a prosthesis or implant.
+If additional pathogens (e.g. anaerobes) could cause infection (e.g. in abdominal 
+procedures), antibiotic prophylaxis should be adapted accordingly. In these cases, cefazolin 
+in combination with metronidazole would be an appropriate option. 
+In patients known to be colonized with MRSA and who will have a skin incision, 
+vancomycin prophylaxis (in addition to the routine recommended antibiotic prophylaxis) 
+may be justified. This is recommended because vancomycin alone is less effective than 
+cefazolin (the antibiotic recommended as prophylaxis in most surgical procedures) against 
+methicillin-sensitive Staphylococcus aureus and because vancomycin has no activity against 
+Gram-negative bacteria. It should be noted that in patients colonized with MRSA, procedurespecific preventive measures other than antibiotic prophylaxis (e.g. nasal decolonization 
+with mupirocin ointment, skin antisepsis) may be beneficial but such measures are not 
+specifically addressed in this chapter. Please refer to the WHO guidelines for the prevention 
+of surgical site infections (280) for information on such preventive measures.
+In the context of patients known to be colonized with multidrug-resistant Gramnegative bacteria (e.g. bacteria producing ESBLs or carbapenemases), the WHO guidelines 
+acknowledged a lack of high quality evidence to make recommendations on the need to 
+include other antibiotics for prophylaxis to cover these pathogens (280). However, certain 
+factors, such as the closeness of the likely reservoir of these bacteria to the operative site or 
+characteristics of the patient, could help to make decision on a case-by-case basis.
+572The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+40. Surgical prophylaxis
+Table 40.2 – Antibiotic prophylaxis before surgical procedures (all single dose)
+Type of procedure First choice Second choice
+Clean procedurea Cefazolin (IV):
+• Children: 50 mg/kg
+• Adults: 2 gb
+ Cefuroxime (IV):
+• Children: 50 mg/kg
+• Adults: 1.5 g
+Clean contaminated 
+procedurec (except 
+bowel surgery and 
+urological procedures)
+ Cefazolin (IV):
+• Children: 50 mg/kg
+• Adults: 2 gb
+ Cefuroxime (IV):
+• Children: 50 mg/kg
+• Adults: 1.5 g
+Contaminated 
+procedured
+ Cefazolin (IV):
+• Children: 50 mg/kg
+• Adults: 2 gb
+AND
+ Metronidazole (IV):
+• Children: 7.5 mg/kg
+• Adults: 500 mg
+ Amoxicillin+clavulanic acid (IV): 
+• Children: 50 mg/kg of 
+amoxicillin component
+• Adults: 2 g + 200 mg
+OR 
+ Gentamicin e (IV):
+• Neonates: 5 mg/kg
+• Children: 7.5 mg/kg
+• Adults: 5 mg/kg
+AND
+ Metronidazole (IV):
+• Children: 7.5 mg/kg
+• Adults: 500 mg
+Bowel surgeryf Cefazolin (IV):
+• Children: 50 mg/kg
+• Adults: 2 gb
+AND
+ Metronidazole (IV):
+• Children: 7.5 mg/kg
+• Adults: 500 mg
+ Amoxicillin+clavulanic acid (IV): 
+• Children: 50 mg/kg of 
+amoxicillin component
+• Adults: 2 g + 200 mg
+Urologic procedures Cefazolin (IV):
+• Children: 50 mg/kg
+• Adults: 2 gb
+ Gentamicin (IV):
+• Neonates: 5 mg/kg
+• Children: 7.5 mg/kg
+• Adults: 5 mg/kg
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book573
+HOSPITAL FACILITY 
+40. Surgical prophylaxis
+IV: intravenous.
+Note: All dosages are for normal renal and hepatic function.
+a Surgical procedures where the respiratory, alimentary, genital or urinary tracts are not entered.
+b Higher doses of cefazolin (e.g. 3 g) may be required in obese patients, > 120 kg.
+c Surgical procedures where the respiratory, alimentary, genital or urinary tracts are entered under controlled 
+conditions and without unusual contamination. Operations involving the biliary tract, appendix, vagina and 
+oropharynx are included in this category.
+d Operations with major (i.e. significant) interruptions in sterile technique (e.g. open cardiac massage) or substantial 
+spillage from the gastrointestinal tract. 
+e Gentamicin should be given in combination with metronidazole and not as a stand-alone option in contaminated 
+surgical procedures because, if given alone, it provides insufficient coverage of anaerobic bacteria. Amikacin could 
+be used instead of gentamicin based on local availability.
+f Bowel surgery includes appendectomy, small intestine and colorectal surgical procedures.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+Timing of antibiotic prophylaxis before surgery
+According to the previously cited WHO guidelines, the antibiotic should be given 120 
+minutes or less before incision (280).
+Duration of antibiotic prophylaxis
+Antibiotic prophylaxis should not be continued after surgery for the purpose of 
+preventing surgical site infections including in the presence of a surgical wound drain (280). 
+This is because one dose of the prophylactic antibiotic should cover the entire period of 
+potential contamination (i.e. from the time of the incision until final closure of the wound) 
+in most cases and continuing prophylaxis does not offer additional benefit in reducing the 
+incidence of surgical site infections compared with discontinuing it (381). At the same time, 
+limiting the duration to one single dose reduces the risk of selecting resistant bacteria in the 
+patient’s own microbiota and the risk of developing Clostridioides difficile infections.
+Only in certain cases may a further dose of antibiotic be required, such as for 
+prolonged surgical procedures (exceeding about two times the half-life of the antibiotic) 
+or when there is major blood loss (380). If another dose is necessary, the half-life of the 
+antibiotic should be considered, for example, giving a second dose of cefazolin 4 hours after 
+the initial preoperative dose in long surgeries (Table 40.3).
+Table 40.2 continued
+574The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+40. Surgical prophylaxis
+Table 40.3 – Half-life of the antibiotics recommended for surgical prophylaxis in 
+the WHO EML (8)
+Antibiotic Half-lifea (hours)
+Amoxicillin+clavulanic acid 1–2
+Cefazolin 1.2–2.2
+Cefuroxime 1–2
+Gentamicin 2–3
+Metronidazole 6–8
+EML: Model List of Essential Medicines.
+a In adults with normal renal function

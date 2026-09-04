@@ -1,0 +1,883 @@
+# TOPIC: septic_arthritis
+
+--- [WHO AWaRe Antibiotic Book (2022) | 36. Septic arthritis | p.523-538 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book507
+HOSPITAL FACILITY 
+36. Septic arthritis
+Key messages
+• Septic arthritis can occur alone or in combination with osteomyelitis.
+• Ideally microbiology test (e.g. synovial fluid culture) results should be obtained before 
+starting antibiotics.
+• Targeted treatment is preferable whenever possible in adults because of the large number 
+of potential causative pathogens, while in children empiric treatment is usually given.
+• In general, the intravenous route is preferred for initial antibiotic treatment, but rapid oral 
+step down is increasingly used.
+• Surgical lavage or needle aspiration as a form of source control is important in adults.
+Other relevant WHO resources (please check regularly for updates)
+• Pocket book of hospital care for children: guidelines for the management of common 
+childhood illnesses, 2013 (31).
+Definition
+Septic arthritis is an infection usually of bacterial origin of one or several joints. Infections 
+can be classified based on the causative pathogen (gonococcal or non-gonococcal), on the 
+type of affected joint (large or small joint) and on the concomitant presence or absence of 
+osteomyelitis.
+508
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+36. Septic arthritis
+Septic arthritis
+Bone and joint infection • Page 1 of 2
+An infection of one or several joints, usually of bacterial origin
+Gonococcal arthritis:
+•Rare complication of gonococcal infection (predominantly
+affec ts women)
+•Characterized by dissemination of the infection via the
+bloodstream
+De/g246nition
+Bacteria (most cases):
+• (including MRSA)Staphylococcus aureus
+• spp. other thanStaphylococcus S. aureus
+• spp.Streptococcus
+Additionally in immunocompromised patients:
+• spp.Candida
+• spp.Cryptococcus
+• spp.Histoplasma
+•Mycobacterium tuberculosis
+•Pseudomonas aeruginosa
+Consider in speci/g246c situations:
+•( open skin wounds with exposed joint)Acinetobacter baumannii
+•Anaerobes (penetrating injuries)
+• spp. (history of cat bite wounds)Bartonella
+• spp. (exposure to infected animals or ingestion ofBrucella
+contaminated food, mostly dairy products)
+•Enterobacterales (pressure ulcers, diabetic foot infections,
+and open skin wounds with exposed joint)
+• (if gonococcal infection)Neisseria gonorrhoeae
+Most Likely Pathogens
+Diagnosis
+Clinical Presentation
+•Acute onset (usually a few days, but up to 2 weeks) of joint
+pain and reduced range of motion with redness, swelling,
+warmth of the joint (may be less evident in“deep”joints)
+•Usually, a single joint is affected (often k nee)
+•Polyarticular infection is more common in patients with
+underlying rheumatoid arthritis
+•Other signs of systemic infection are usually present
+•Septic arthritis can occur with/without osteomyelitis
+Gonococcal arthritis:
+•Typical signs and symptoms of septic arthritis (usually
+affec ting knees and ankles) + skin manifestations (rash,
+small papules)
+•Often no signs/symptoms of cervicitis/urethritis
+To differentiate betw een bacterial and reactive viral
+infections:
+•White blood cell count (WBC)
+To detect in/g248ammation:
+•C-reactive protein (CRP)
+•Erythrocyte sedimentation rate (ESR could complement
+CRP especially during follow up)
+Synovial /g248uid examination:
+•WBC and microscopy for crystals
+•WBC usually >20 000 cells/μL (> 20 x 10⁹/L) with >90%
+neutrophils
+Other LaboratoryTests
+Microbiology Tests
+This guidance does not cover prosthetic-joint infections in detail
+•Ultrasound of the affec ted joint to detect joint effusion
+and synovial swelling (due to increased intra-articular /g248uid)
+•Consider MRI if available, especially if concomitant
+osteomyelitis is suspected (more sensitive/speci/g246c to detect
+bone changes)
+Imaging
+All microbiology tests ideally before starting antibiotics
+•Blood cultures
+•Microscopy and culture of synovial /g248uid
+-C ulture is usually negative in gonococcal arthritis
+•Microscopy and culture of deep samples of tissue collected
+during debridement in prosthetic joint implant to adjust
+empiric antibiotic treatment
+•Nucleic acid ampli/g246cation test of urogenital specimens and
+urine for infectionNeisseria gonorrhoeae
+Classi/g246cation based on:
+•: Gonococcal or non-gonococcalCausative pathogen
+•: Large or small jointType of affected joint
+•:Mechanism of dissemination in the body
+- Spread through the bloodstream (more common)
+-L ocal spread or direct inoculation
+Important: if left untreated, septic arthritis can rapidly
+lead to destruction of the cartilage; it therefore needs
+to be rapidly diagnosed and treated
+It is to determine the causative pathogenimportant
+to adequately target antibiotic treatment because the
+number of potential pathogens is large and antibiotic
+resistant pathogens (e.g. MRSA) are not infrequent
+•Samples should also be tested for special pathogens
+(e.g.m ycobacteria, fungi, spp.,Brucella Neisseria
+gonorrhoeae) based on clinical/epidemiologicalf eatures
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+509
+HOSPITAL FACILITY 
+36. Septic arthritis
+Septic arthritis
+Bone and joint infection • Page 2 of 2
+Clindamycin 600 mg q8h IV/ORAL
+Acceptable option for community-acquired-MRSA if MRSA is
+susceptible or in settings where MRSA maintains high levels of
+susceptibility to clindamycin, otherwise consider vancomycin
+Second Choice
+----------------------------------- -----------------------------------OR
+Amoxicillin+clavulanicacid1g+ 200 mg q8h IV
+Cefazolin 2 g q8h IV
+Cefotaxime 2 g q8h IV
+Ceftriaxone 2 g q24h IV
+----------------------------------- -----------------------------------OR
+----------------------------------- -----------------------------------OR
+Clinical Considerations
+•Prompt surgical drainage of purulent material and
+lavage of the joint is a key part of the management of
+septic arthritis (antibiotic treatment alone is usually not
+sufficient) and can r educe risk of complications
+•Immobilization of the joint is not necessary except for pain
+control
+•Prosthetic-joint infections: Surgical approach depends on
+the location of the prosthesis, characteristics of the patient
+and local practices
+Antibiotic treatment:
+•The intravenous route is preferred at least in the /g246rst week
+of treatment
+• based on microbiologyTargeted antibiotic treatment
+results always preferred (many potential causative
+pathogens and high levels of resistance)
+• is required consider most likelyIf empiric treatment
+pathogens including local prevalence and individual risk
+factors for MRSA or based on individual riskN. gonorrhoeae
+factors
+•Adjust therapy once microbiology results available
+Treatment
+•4 to 6 weeks
+• in case of gonococcal infection2 weeks
+Based on:
+•Presence/absence/removal of foreign bodies
+•Causative organism and its resistance pro/g246le
+•Presence/absence of osteomyelitis
+Antibiotic Treatment Duration
+First Choice
+Antibiotic Treatment
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Important:
+•Simplify empiric treatment to a more narrowspectrum antibiotic based on culture results or rapid
+clinical improvement if culture results unavailable
+•Step down to oral treatment is based on
+improvement of symptoms, signs of infection and the
+ability to take oral antibiotics
+Cloxacillin 2 g q6h IV
+If cloxacillin is unavailable, any other IV antistaphylococcal
+penicillin could be used. A higher dose (e.g. 12 g/day) could be
+considered given the concerns with bone penetration
+Ceftriaxone or cefotaxime are the preferred options if invasive
+non-typhoidal Salmonella or Enterobacterales infection is
+suspected
+----------------------------------- -----------------------------------OR
+510
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+36. Septic arthritis
+Septic arthritis
+Bone and joint infection • Page 1 of 2
+Bacteria (most cases):
+• (including MRSA)Staphylococcus aureus
+• spp. (mostly Group A)Streptococcus Streptococcus
+•( young children, usually with milder clinicalKingella kingae
+disease)
+•t ype b (young children not vaccinatedHaemophilus in/g248uenzae
+against Hib)
+•Invasive non-typhoidal spp. (in children with sickleSalmonella
+cell disease)
+Most Likely Pathogens
+Diagnosis
+Clinical Presentation
+•Acute onset (usually a few days, but up to 2 weeks) of joint
+pain and reduced range of motion with redness, swelling,
+warmth of the joint (may be less evident in“deep”joints)
+•Usually, a single joint is affected (often k nee)
+•Other signs of systemic infection are usually present
+•Septic arthritis can occur alone or with osteomyelitis
+To differentiate betw een bacterial and reactive viral
+infections:
+•White blood cell count (WBC)
+To detect in/g248ammation:
+•C-reactive protein (CRP)
+•Erythrocyte sedimentation rate (ESR could complement
+CRP especially during follow up)
+Synovial /g248uid examination:
+•WBC and microscopy for crystals
+•WBC usually >20 000 cells/μL (> 20 x 10⁹/L) with >90%
+neutrophils
+Other LaboratoryTests
+Microbiology Tests
+•Ultrasound of the affec ted joint to detect joint effusion
+and synovial swelling (due to increased intra-articular /g248uid)
+•Consider MRI if available, especially if concomitant
+osteomyelitis is suspected (more sensitive/speci/g246c to detect
+bone changes)
+Imaging
+All microbiology tests ideally before starting antibiotics
+•Blood cultures
+•Microscopy and culture of synovial /g248uid
+•Microscopy and culture of deep samples of tissue collected
+during debridement in case of prosthetic joint implant to
+adjust empiric antibiotic treatment
+An infection of one or several joints, usually of bacterial origin
+De/g246nition
+It is to determine the causative pathogenimportant
+to adequately target antibiotic treatment because the
+number of potential pathogens is large and antibiotic
+resistant pathogens (e.g. MRSA) are not infrequent
+•Samples should also be tested for special pathogens
+(e.g.m ycobacteria, fungi, spp.) based onBrucella
+clinical/epidemiologicalf eatures
+Classi/g246cation based on:
+•: Large or small jointType of affected joint
+•:Mechanism of dissemination in the body
+- Spread through the bloodstream (more common)
+-L ocal spread or direct inoculation
+Important: if left untreated, septic arthritis can rapidly
+lead to destruction of the cartilage (especially in
+young children); it therefore needs to be rapidly
+diagnosed and treated
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+511
+HOSPITAL FACILITY 
+36. Septic arthritis
+Septic arthritis
+Bone and joint infection • Page 2 of 2
+Treatment
+Antibiotic Treatment
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+If cloxacillin is unavailable, any other IV antistaphylococcal
+penicillin could be used. For oral administration, dicloxacillin
+and /g248ucloxacillin are preferred options within the class as they
+have better oral bioavailability
+First Choice
+Second Choice
+Amox = amoxicillin
+Oral liquid must be refrigerated after reconstitution
+Clindam y cin IV/ORAL
+•Neonates: 5 mg/kg/dose q8h
+•Childr en: 10 mg/kg/dose q8h
+----------------------------------- -----------------------------------OR
+C efazolin 25 mg/kg/dose q12h IV
+Ce fotaxime 50 mg/kg/dose q8h IV
+Ce ftriax one 80 mg/kg/dose q24h IV
+----------------------------------- -----------------------------------OR
+----------------------------------- -----------------------------------OR
+Ceftriaxone or cefotaxime are the preferred options if invasive
+non-typhoidal Salmonella or Enterobacterales infection is
+suspected
+----------------------------------- -----------------------------------OR
+Acceptable option for community-acquired-MRSA if MRSA is
+susceptible or in settings where MRSA maintains high levels of
+susceptibility to clindamycin, otherwise consider vancomycin
+Clo xacillin IV
+•Neonates: 25-50 mg/kg/dose q12h
+•Childr en: 25 mg/kg/dose q6h
+•ORAL: 15 mg/kg/dose q6h
+•:Oral weight bands
+3-<6 kg 62.5 mg q6h
+6-<10 kg 125 mg q6h
+10-<15 kg 250 mg q6h
+15-<20 kg 375 mg q6h
+≥20 kg 500 mg q6h
+Amo xicillin+clavulanic acid
+IV:
+•1st w eek of life: 50 mg/kg/dose of amo xicillin
+component q12h
+•> 1st w eek of life: 50 mg/kg/dose of
+amo xicillin component q8h
+ORAL: 80-90 mg/kg/day of amo xicillin
+componen t
+•:Oral weight bands
+3-<6 kg 250 mg of amo x/dose q12h
+6-<10 kg 375 mg of amo x/dose q12h
+10-<15 kg 500 mg of amo x/dose q12h
+15-<20 kg 750 mg of amo x/dose q12h
+≥20 kg 500 mg of amo x/dose q8h or
+1 g of amo x/dose q12h
+Clinical Considerations
+•P r ompt surgical drainage of purulent material and lavage
+of the joint can r educe risk of complications
+•I mmobilization of the joint is not necessar y ex cept for pain
+contro l
+•P r osthetic-joint infec tions: Surgical appr oach depends on
+the location of the pr osthesis , charac teristics of the patien t
+and local prac tices
+Antibiotic treatment:
+•T he intrav enous r oute is pr eferr ed at least in the /g246rst fe w
+days of tr eatmen t
+•In children empiric treatment is common practice
+•, empiric tr eatment should also co ve rIn neonates
+Enter obac terales (ver y ra re in older childr en)
+-F or Enter obac terales use:
+· Ce fotaxime or
+· Ce ftriax one (not in infants with h yperbilirubinemia)
+About 3 weeks
+Based on:
+•P r esence/absence/r emoval of for eign bodies
+•C ausativ e organism and its r esistance pr o/g246le
+•P r esence/absence of osteom y elitis
+Antibiotic Treatment Duration
+Important:
+•Simplify empiric tr eatment to a mor e narr owspec trum antibiotic based on cultur e r esults or rapid
+clinical impr ovement if culture results unavailable
+•Step down to oral treatment is based on
+impr ovement of symptoms, signs of infec tion and the
+ability to take oral antibiotics
+•Early oral step down in the /g246rst w eek may be used in
+uncomplicated patients
+512The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+36. Septic arthritis
+Pathophysiology
+In septic arthritis, bacteria can reach the joint through dissemination through the bloodstream, 
+by local spread or by direct inoculation from a contiguous infected bone or soft tissue, for 
+example, local spread following trauma or bites, bone surgery, prosthetic joint implantation, 
+pressure and decubitus ulcers and diabetic foot infections (350). Dissemination through the 
+bloodstream is more common in both children and adults. Once bacteria gain access to the 
+joint space, they can adhere to the articular cartilage, produce an inflammatory response 
+and promote cartilage destruction within hours. If left untreated, septic arthritis can rapidly 
+lead to destruction of the cartilage. It therefore needs to be rapidly diagnosed and treated.
+Epidemiology
+Septic arthritis is associated with substantial morbidity (e.g. adverse joint outcomes) and 
+low mortality (350,351). People at risk of septic arthritis are people with a higher risk of 
+bacteraemia (e.g. those with indwelling vascular catheters, injection drug users, patients 
+on haemodialysis) and those with a higher likelihood of the joint becoming infected, for 
+example, patients with rheumatoid arthritis, diabetes, sickle-cell disease and prosthetic 
+joints and other foreign material. Post-surgical infections are common in adults. Communityacquired infections are quite rare in adults, while they are common in children.
+In children, septic arthritis is more frequent in low- and middle-income countries 
+and in boys more than girls. If left untreated or managed late, septic arthritis can leave 
+children with long-term disability.
+Gonococcal arthritis, characterized by dissemination of the infection through the 
+bloodstream, is a rare complication of gonorrhoea that mostly affects women. 
+Most likely pathogens
+A large variety of pathogens can cause septic arthritis with some differences between 
+children and adults (Table 36.1 and Table 36.2).
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book513
+HOSPITAL FACILITY 
+36. Septic arthritis
+Table 36.1 – Pathogens most frequently associated with acute septic arthritis in 
+children (in descending order of frequency)
+Pathogen Most common 
+mechanism of 
+dissemination
+Patients most at risk
+Staphylococcus aureus (including 
+MRSA)
+Bloodborne or by 
+local spread
+Usually, no risk factors are identified 
+but consider with penetrating 
+injuries, recent surgical procedures or 
+bite wounds
+Streptococcus pyogenes (group A 
+Streptococcus) and less commonly 
+Streptococcus pneumoniae 
+Streptococcus agalactiae (group 
+B Streptococcus) is a potential 
+pathogen for neonates
+Bloodborne Usually, no risk factors are identified 
+but consider with penetrating 
+injuries or recent surgical procedures
+Kingella kingae (a species of 
+anaerobic Gram-negative bacilli)
+Bloodborne Young children, usually with milder 
+clinical disease
+Haemophilus influenzae type b Bloodborne Young children not vaccinated 
+against Haemophilus influenzae type b
+Invasive non-typhoidal Salmonella Bloodborne Children with sickle-cell disease
+Enterobacterales Bloodborne Neonates and immunocompromised 
+children. Consider also in case of 
+open skin wounds with exposed joint
+MRSA: methicillin-resistant Staphylococcus aureus.
+Table 36.2 – Pathogens most frequently associated with acute septic arthritis in adults
+Pathogen Main dissemination 
+mechanism
+Patients most at risk
+Staphylococcus aureus 
+(including MRSA)
+Bloodborne or by 
+local spread
+Patients with penetrating injuries, recent 
+surgical procedures, bite wounds or 
+intravenous drug injection
+Staphylococcus 
+spp. other than 
+Staphylococcus aureus
+Bloodborne or by 
+local spread
+Patients who had implantation of prosthetic 
+joint implants or arthroscopy, and patients 
+with bite wounds
+Streptococcus spp. Bloodborne or by 
+local spread
+Splenic dysfunction (S. pneumoniae)
+continues
+514The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+36. Septic arthritis
+Pathogen Main dissemination 
+mechanism
+Patients most at risk
+Less frequent (in 
+alphabetical order)
+Acinetobacter 
+baumannii
+Bloodborne or by 
+local spread
+Consider in case of open skin wounds with 
+exposed joint
+Anaerobes By local spread Patients with penetrating injuries (e.g. bite 
+wounds)
+Bartonella spp. Bloodborne Patients with cat bite wounds
+Brucella spp. Bloodborne Patients with occupational or domestic 
+exposure to infected animals (e.g. farmers, 
+shepherds, veterinarians) or who have 
+ingested contaminated food, mostly dairy 
+products. Endemic in the Middle East and 
+Mediterranean regions
+Candida spp. Bloodborne or by 
+local spread
+Immunocompromised patients, patients with 
+invasive devices, patients who inject drugs 
+(haematogenous spread) or patients with 
+deep wounds (dissemination by local spread)
+Cryptococcus spp. Bloodborne Immunocompromised patients
+Enterobacterales Bloodborne or by 
+local spread
+Patients with decubitus or pressure ulcers, 
+diabetic foot infections, burn wounds 
+(especially if the wound is close to the 
+perineum) and those having undergone 
+recent abdominal surgery. Consider also in 
+case of open skin wounds with exposed joint.
+Histoplasma spp. Bloodborne Immunocompromised patients
+Neisseria gonorrhoeae Bloodborne Mostly women with disseminated gonococcal 
+infection
+Mycobacterium 
+tuberculosis
+Bloodborne Immunocompromised patients because of 
+the risk of reactivation of tuberculosis
+Pseudomonas 
+aeruginosa
+Bloodborne or by 
+local spread
+Immunocompromised patients and people 
+who inject drugs
+MRSA: methicillin-resistant Staphylococcus aureus.
+Table 36.2 continued
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book515
+HOSPITAL FACILITY 
+36. Septic arthritis
+Clinical presentation
+Note
+Septic arthritis can occur alone or in combination with osteomyelitis.
+Septic arthritis is characterized by acute onset (usually a few days, but up to 2 weeks) of 
+joint pain (moderate to severe) and reduced range of motion with redness, swelling and 
+warmth of the joint. The condition may be less evident when “deep” joints such as the hip, 
+shoulder or sacroiliac joint are affected. In most cases, one single joint is affected (often 
+the knee). Involvement of more than one joint (polyarticular infection) is more common 
+with underlying rheumatoid arthritis. Other signs of systemic infection (e.g. fever ≥ 38.0 °C, 
+tachycardia, increased biomarkers of inflammation) are usually present.
+In certain situations (e.g. septic arthritis of multiple joints), it is important to exclude 
+an extra-articular source of infection such as endocarditis.
+In young children permanent destruction of the joint cartilage and long-term 
+disability can occur rapidly, therefore rapid diagnosis and prompt empiric antibiotic 
+treatment are essential.
+In case of gonococcal arthritis, typical signs and symptoms of septic arthritis (mostly 
+affecting one or a few joints and usually the knees and ankles) are usually accompanied by 
+skin manifestations such as rash or small papules on the trunk and distal extremities. Often 
+patients with gonococcal arthritis have no signs or symptoms of cervicitis or urethritis.
+Laboratory tests
+Patient microbiology data
+Determining the causative pathogen of septic arthritis is important for targeted antibiotic 
+treatment because the number of potential causative pathogens is large (making it difficult 
+to select empiric treatment) and treatment duration may be long, increasing the risk of sideeffects from the antibiotic therapy. 
+Whenever possible, a microbiology sample should therefore be obtained to guide 
+antibiotic treatment (Table 36.3). Ideally microbiology test results should be obtained before 
+starting antibiotic treatment. However, because cartilage destruction can occur within 
+hours, tests should never delay the start of antibiotic treatment.
+516The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+36. Septic arthritis
+Table 36.3 – Microbiology tests to consider when septic arthritis is suspected, as 
+indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Synovial fluid for microscopy, 
+culturea and antimicrobial 
+susceptibility testing
+Initial step to detect and 
+identify bacterial and fungal 
+species for selection of 
+appropriate antimicrobial 
+regimens
+Health care facilities with 
+clinical laboratories
+Blood cultures and antimicrobial 
+susceptibility testing
+To detect bacterial 
+bloodstream infections
+Health care facilities with 
+clinical laboratories
+Microscopy, culture and 
+antimicrobial susceptibility 
+testing of deep samples 
+collected at debridement in case 
+of prosthetic joint implant
+Initial step to detect and 
+identify bacterial and fungal 
+species for selection of 
+appropriate antimicrobial 
+regimens
+Health care facilities with 
+clinical laboratories
+Nucleic acid amplification test 
+of urogenital specimens and 
+urine for Neisseria gonorrhoeae 
+infectionb
+To diagnose gonorrhoeal 
+urogenital disease and 
+extragenital infection
+Health care facilities with 
+clinical laboratories
+Synovial fluid for Mycobacterium 
+tuberculosis DNA 
+To diagnose active tuberculosis 
+and detect rifampicin 
+resistance
+Health care facilities with 
+clinical laboratories
+EDL: Model List of Essential In Vitro Diagnostics.
+a Examination for particular pathogens (e.g. mycobacteria, fungi, Brucella spp.) should be done if clinical/
+epidemiological features are compatible. In cases of gonococcal arthritis, the culture of the synovial fluid is usually 
+negative.
+b This test is not validated on the synovial fluid but is used in some settings.
+Other tests
+Laboratory tests can be used to complement the clinical examination and history and may 
+help decide between bacterial septic arthritis and a viral reactive arthritis. Table 36.4 and 
+Table 36.5 list tests that could be considered in the initial assessment of the patient to help 
+make a diagnosis and guide the duration of antibiotic treatment.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book517
+HOSPITAL FACILITY 
+36. Septic arthritis
+Table 36.4 – Laboratory tests (other than microbiology) to consider to identify a 
+bacterial joint infection, as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+White blood count To help in the diagnosis of 
+infections
+Health care facilities 
+with clinical laboratories 
+but also in primary care 
+settings
+C-reactive protein To detect inflammation as an 
+indicator of various conditions
+Health care facilities with 
+clinical laboratories
+Procalcitonin To guide antibiotic therapy or 
+discontinuation in sepsis
+Only in tertiary care 
+facilities
+Erythrocyte sedimentation rate To detect inflammation as an 
+indicator of various conditions 
+when C-reactive protein is not 
+available
+Community settings and 
+health facilities without 
+laboratoriesa
+EDL: Model List of Essential In Vitro Diagnostics.
+a Community and health settings without laboratories are settings such as health posts and centres, doctors’ offices, 
+outreach clinics and ambulatory care. These tests are also assumed to be available at health care facilities with 
+laboratories.
+Table 36.5 – Synovial fluid examination
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Synovial fluid: white cell count 
+and crystalsa
+To detect the presence or 
+absence of white blood cells 
+and crystals
+Health care facilities with 
+clinical laboratories
+a With septic arthritis, it is helpful to know the number of white blood cells in the synovial fluid and microscopy 
+should also be done to investigate alternative diagnoses such as gout or chondrocalcinosis. Compared to noninfectious arthritis, acute bacterial infections are characterized by a much higher white cell count in the synovial 
+fluid, usually > 20 000 cells/μL (20 × 109 cells/L) with > 90% being neutrophils.
+Using microbiology surveillance data 
+Due to the wide number of pathogens identified, there is no role for routine surveillance 
+cultures to inform empiric guidance.
+518The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+36. Septic arthritis
+Imaging
+Initial imaging with an ultrasound is useful when joint infections are suspected to detect 
+joint effusion and synovial swelling due to the presence of increased intra-articular fluid.
+MRI could also be considered, if available, in certain patients particularly when 
+concomitant osteomyelitis is suspected, because MRI is more sensitive and specific than 
+ultrasound in detecting bone changes.
+Treatment
+Prompt surgical drainage of any purulent material (aspiration) and washing of the joint 
+(lavage) is a key part of the management of septic arthritis since antibiotics alone are 
+usually not sufficient to control the source of the infection, at least in adults. Aspiration 
+and lavage can reduce the risk of complications, such as permanent cartilage destruction, 
+joint deformity and instability and degenerative arthritis. Immobilization of the joint is not 
+necessary except for pain control.
+Note
+For prosthetic-joint infections, treatment can be in one or two stages depending on the 
+location of the prosthesis (e.g. hip, knee), characteristics of the patient (e.g. older age, 
+comorbidities) and on local practices. In the one-stage procedure, the old device is surgically 
+removed and the new prosthesis is immediately inserted. In the two-stage procedure, the 
+infected prosthesis is removed, the area is debrided and antibiotic treatment is given for several 
+weeks. Then, in the second stage, the new prosthesis is inserted. 
+A detailed discussion of prosthetic-joint infections is beyond the scope of this chapter.
+Antibiotic treatment
+Note
+In adults, targeted antibiotic treatment based on microbiology results is always preferred 
+(unless the patient is severely ill or it is impossible to obtain a clinical sample for microbiological 
+examination) because there are many potential causative pathogens, which makes it difficult to 
+select an appropriate empiric treatment.
+In young children, the treatment is often empiric.
+When patients require empiric treatment (mostly young children or severely ill patients 
+or when it is impossible to obtain a clinical sample for microbiological examination), the
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book519
+HOSPITAL FACILITY 
+36. Septic arthritis
+choice should be based on the most probable pathogens in this type of infection, mostly 
+Staphylococcus aureus and Streptococcus spp. (Table 36.6). In addition, empiric treatment 
+against community-acquired MRSA or Neisseria gonorrhoeae may be considered in certain 
+cases based on individual risk factors (e.g. known MRSA colonization) and compatible 
+clinical and epidemiological features.
+The duration of treatment is long – several weeks, except for gonococcal arthritis 
+which requires shorter treatment. Duration of treatment is influenced by: duration of 
+symptoms (acute or chronic); presence, absence or removal of foreign bodies (including 
+devitalized bone if concomitant osteomyelitis is present); type of causative pathogen and its 
+resistance profile; and concomitant presence of osteomyelitis, and therefore the availability 
+of antibiotics with good bone penetration.
+The total treatment duration is generally 3 weeks in children and 4–6 weeks in 
+adults. With gonococcal arthritis, a shorter treatment duration (10–14 days) is adequate.
+Simplify empiric treatment to a more narrow-spectrum antibiotic (often also 
+called de-escalation) based on culture results (targeted treatment) or rapid clinical 
+improvement if culture results unavailable. Historically, the intravenous route has always 
+been preferred at least in the first week of treatment. However, recent evidence suggests 
+that a change to oral antibiotics in the first week of treatment can be used for patients with 
+uncomplicated disease.
+Step down to oral treatment is based on improvement of symptoms and signs 
+of infection, improvement in joint function and the ability to take oral antibiotics allowing 
+discharge of the patient home when clinically appropriate.
+520The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+36. Septic arthritis
+Table 36.6 – Empiric antibiotic treatment for septic arthritis
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Adults Children Total 
+treatment 
+duration
+First choice
+ Cloxacillin a (IV): 2 g given 
+every 6 hours
+First choice
+ Cloxacillin a 
+IV: 
+• Neonates: 25–50 mg/kg/dose given 
+every 12 hours
+• Children: 25 mg/kg/dose given every 
+6 hours
+Oral: 15 mg/kg/dose given every 6 hours
+Oral weight bands
+3–< 6 kg: 62.5 mg given every 6 hours
+6–< 10 kg: 125 mg given every 6 hours
+10–< 15 kg: 250 mg given every 6 hours
+15–< 20 kg: 375 mg given every 6 hours
+≥ 20 kg: 500 mg given every 6 hours
+Children: 3 
+weeks
+Adults: 4–6 
+weeksb
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book521
+HOSPITAL FACILITY 
+36. Septic arthritis
+Adults Children Total 
+treatment 
+duration
+Second choice
+ Amoxicillin+clavulanic acid 
+(IV): 1g + 200 mg given every 
+8 hours 
+OR
+ Cefazolin (IV): 2 g given 
+every 8 hours
+OR
+ Cefotaxime c (IV) 2 g given 
+every 8 hours
+OR
+ Ceftriaxone c (IV): 2 g given 
+once a day 
+OR
+ Clindamycin d (IV/oral): 
+600 mg given every 8 hours
+Second choice
+ Amoxicillin+clavulanic acid e 
+IV: 
+First week of life: 50 mg/kg of amoxicillin/
+dose given every 12 hours 
+Beyond first week of life: 50 mg/kg of 
+amoxicillin/dose given every 8 hours
+Oral: 80–90 mg/kg/day of amoxicillin 
+component
+Oral weight bands
+3–< 6 kg: 250 mg of amoxicillin/dose given 
+every 12 hours
+6–< 10 kg: 375 mg of amoxicillin/dose given 
+every 12 hours
+10–< 15 kg: 500 mg of amoxicillin/dose 
+given every 12 hours
+15–< 20 kg: 750 mg of amoxicillin/dose 
+given every 12 hours
+≥ 20kg: 500 mg of amoxicillin/dose given 
+every 8 hours or 1 g of amoxicillin/dose 
+given every 12 hours 
+OR
+ Cefazolin (IV): 25 mg/kg/dose given every 
+12 hours 
+OR
+ Cefotaxime c (IV): 50mg/kg/dose given 
+every 8 hours
+OR
+ Ceftriaxone c (IV): 80 mg/kg/dose given 
+once a day 
+OR
+ Clindamycin d (IV/oral):
+• Neonates: 5 mg/kg/dose given every 8 
+hours
+• Children: 10 mg/kg/dose given every 8 
+hours
+Children: 3 
+weeks
+Adults: 4–6 
+weeksb
+Table 36.6 continued
+continues
+522The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+36. Septic arthritis
+IV: intravenous; MRSA: methicillin-resistant Staphylococcus aureus.
+Notes. All dosages are for normal renal and hepatic function.
+As mentioned in the text, targeted treatment is preferable whenever possible in adults because of the large 
+number of potential causative pathogens, while in children empiric treatment is often given.
+In neonates, empirical antibiotic therapy should also cover Enterobacterales because infections caused by Gramnegative bacteria can occur, but Staphylococcus aureus remains the most common pathogen. Therefore, in 
+neonates, empiric use of cefotaxime (or ceftriaxone) is appropriate; ceftriaxone should be avoided in infants with 
+hyperbilirubinaemia. In older children, joint infections caused by Enterobacterales are very rare.
+a If cloxacillin is unavailable, any other IV antistaphylococcal penicillin could be used. For oral administration, 
+dicloxacillin and flucloxacillin are preferred options within the class as they have better oral bioavailability. In adults, 
+a higher dose (e.g. 12 g/day) could be considered given the concerns with bone penetration.
+b Shorter duration (10–14 days) in cases of gonococcal arthritis.
+c Ceftriaxone or cefotaxime is preferred in cases of suspected invasive non-typhoidal Salmonella infection or 
+Enterobacterales infection or gonococcal arthritis. In neonates, cefotaxime is recommended in these cases.
+d Clindamycin is still an acceptable option when community-acquired MRSA is suspected if antimicrobial 
+susceptibility tests show that MRSA is sensitive to clindamycin or in settings where MRSA maintains high levels 
+of susceptibility to clindamycin; suspicion should be based on local prevalence of community-acquired MRSA. 
+Clindamycin can also be used when changing from the IV to oral route, and in patients allergic to penicillin. For 
+severe disease potentially caused by MRSA, vancomycin can be considered in settings with local high prevalence 
+of community-acquired MRSA, even though this is not a recommendation included in the current EML and EMLc 
+(8,9). In case of MRSA and based on susceptibility results, alternative oral options that could be considered to 
+complete the course of treatment include sulfamethoxazole+trimethoprim and doxycycline. 
+e Oral liquid formulations must be refrigerated after reconstitution as clavulanic acid is rapidly metabolized in high 
+ambient temperatures.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+Table 36.6 continued
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 10.1.1 Pyogenic Arthritis (Septic Arthritis) | p.620-622 | audience=general] ---
+Acute infection of a single joint (usually a large joint), commonly affecting
+children.
+Causes
+~ Usually haematologenous spread from a primary focus
+following bacteraemia (e.g. septic skin lesions, sinus infections, throat infections, abrasions, wounds, pressure sores,
+and osteomyelitis)
+~ Commonly involved in acute arthritis: Staphylococcus aureus and Gram negative bacilli, e.g., Salmonella spp, Streptococcus spp, Gonococcus
+~ In chronic septic arthritis: Brucella, tuberculosis
+Clinical features
+~ Swollen and warm joint
+~ Severe pain, reduced or abolished movement, temporary
+loss of limb function (pseudoparalysis)
+~ Localised heat and tenderness
+~ Systemic symptoms: fever (neonates may not show fever
+but refuse to feed), general malaise
+~ Complications: irreversible joint damage if immediate treatment is not established
+554
+Uganda Clinical Guidelines 2023CHAPTER 10: Musculoskeletal andJoint Diseases
+Differential diagnosis
+~ Inflammatory joint disease
+~ Intra-articular haemorrhage, e.g., haemophilia and other
+bleeding disorders
+~ Trauma
+~ Osteomyelitis of neighbouring bone
+Investigations
+- Blood: Full blood count, C&S, ESR (usually elevated)
+- Joint fluid: Aspirate for C&S; in case of failure to get pus by
+aspiration, use arthrotomy (in theatre)
+- Joint fluid: Gram stain
+Management
+TREATMENT LOC
+- Provide pain relief, e.g., paracetamol, or ibuprofen
+- Immobilise the involved limb, try splinting
+- REFER URGENTLY to HC4, or hospital
+HC2
+- Aspirate articular fluid for gram stain, and C&S if
+available (use local skin and subcutaneous anaesthesia
+if indicated)
+- Repeat daily until no further pus is obtained
+- Use diazepam 2.5 mg rectal for sedation in
+children
+- Or open drainage in theatre
+HC4
+RR
+- Continue pain relief, use paracetamol, ibuprofen
+- Or diclofenac 50 mg every 8 hours Child: 0.3-
+2 mg/kg rectally every 6-8 hours (max 150
+mg)
+- Or indomethacin 25-50 mg every 8 hours
+Child:
+0.5-1 mg/kg every 12 hours
+HC4
+H
+555
+Uganda Clinical Guidelines 2023CHAPTER 10: Musculoskeletal andJoint Diseases
+TREATMENT LOC
+Antibiotics: if possible, get guidance from gram
+stain, and culture and sensitivity results
+If Gram positive at gram stain, or negative stain but
+immunocompetent adult patient:
+- Cloxacillin 500-1 g IV every 6 hours Child: 50
+mg/kg IV every 6 hours
+- Give IV for 2 weeks, then if better, switch to
+oral to complete 4 weeks
+- Alternative/second line: Chloramphenicol 500 mg
+IV every 6 hours for at least 2 weeks Child: 12.5 mg
+every 6 hours
+If Gram negative at gram stain
+- Ceftriaxone 1 g IV for 2-4 weeks Alternatives
+- Ciprofloxacin 500 mg every 12 hours for 3 weeks
+In adults with negative stain and underlying
+conditions (suspect gram negative, e.g. Salmonella
+in Sickle Cell Disease), and all children with
+negative stain, or underlying conditions
+- Cloxacillin + ceftriaxone
+If suspicion of gonococcal (e.g. in sexually active
+adolescents)
+- Ceftriaxone 1 g IV daily for 1 week
+HC4

@@ -1,0 +1,590 @@
+# TOPIC: aware_classification
+
+--- [WHO AWaRe Antibiotic Book (2022) | 2. Improving the use of antibiotics with the AWaRe book | p.21-35 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book5
+2. Improving the use of antibiotics 
+with the AWaRe book
+Background
+About 90% of all antibiotics are taken by patients in the primary health care setting. It is 
+estimated that around half of all antibiotic use is inappropriate in some way, such as: the 
+use of an antibiotic when none is indicated; the choice of an antibiotic with unnecessarily 
+broad spectrum (e.g. Watch instead of Access antibiotics; see the following section); and the 
+wrong dose, duration of treatment, and delivery or formulation of the antibiotic (7).
+Note
+The term antibiotic stewardship is preferred to antimicrobial stewardship and is used 
+throughout the AWaRe book to acknowledge the fact that the book only provides guidance on 
+antibiotic treatment. 
+AWaRe 
+The AWaRe book gives guidance on first- and second-choice antibiotics for common 
+infections in line with the recommendations in the EML and EMLc (8,9). WHO has 
+classified antibiotics into four groups, Access, Watch, Reserve (AWaRe) and a fourth – Not 
+Recommended – group. As well as the antibiotics in the EML and EMLc, more than 200 
+other antibiotics have now been classified into AWaRe groups to help inform local and 
+national policy development and implementation (10). 
+Access antibiotics have a narrow spectrum of activity, lower cost, a good safety 
+profile and generally low resistance potential. They are often recommended as empiric first- 
+or second-choice treatment options for common infections (see Box 2.1 for WHO’s target 
+for their use).
+Watch antibiotics are broader-spectrum antibiotics, generally with higher costs 
+and are recommended only as first-choice options for patients with more severe clinical 
+presentations or for infections where the causative pathogens are more likely to be resistant 
+to Access antibiotics, such as upper urinary tract infections (UTIs). 
+Reserve antibiotics are last-choice antibiotics used to treat multidrug-resistant 
+infections (see chapter on Reserve antibiotics).
+6The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ 2. Improving the use of antibiotics with the AWaRe book
+The AWaRe system is also represented as a traffic-light approach: Access = green, 
+Watch = orange and Reserve = red. Simple graphics using the traffic light approach can be 
+used to show the proportions of Access and Watch antibiotics used in settings such as a 
+community clinic or pharmacy or as part of central monitoring of antibiotic consumption. 
+Countries, regions and districts are encouraged to use the AWaRe book as a basis 
+for developing their own quality indicators and targets for safely reducing total levels of 
+inappropriate antibiotic prescribing to improve patient safety and care, while reducing 
+resistant infections and costs for patients and health systems (see Box 2.2 for goals of the 
+AWaRe book).
+Box 2.1 – WHO target for the use of Access antibiotics
+To promote responsible use of antibiotics and slow the spread of antibiotic resistance, the WHO 
+Global Programme of Work includes a target that at least “60% of total antibiotic prescribing 
+at the country level should be Access antibiotics by 2023” (11,12)
+Box 2.2 – Improving the use of antibiotics with the AWaRe book
+• No antibiotic care – safely reducing antibiotic use
+• Improving Access antibiotic use and reducing inappropriate use of oral and IV Watch antibiotics 
+• Reducing the use of Not Recommended antibiotics 
+• Improving AWaRe-ness!
+• Improving appropriate antibiotic dosing and duration
+No antibiotic care – safely reducing antibiotic use
+Key messages
+• Most otherwise healthy patients with mild common infections can be treated without 
+antibiotics as these infections are frequently self-limiting and the potential medicinerelated adverse events outweigh the clinical benefits.
+• The risks of taking antibiotics when they are not needed should always be considered, such as 
+side-effects, allergic reactions, Clostridioides difficile infection and selection of resistant bacteria.
+• Patients treated with symptomatic care only (no antibiotic care) should be clearly informed 
+of what danger signs to monitor and what to do if they occur.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book7
+2. Improving the use of antibiotics with the AWaRe book 
+Management of low risk (mild) infections in primary health care
+Most infections encountered in primary health care are not caused by bacteria (e.g. most 
+respiratory tract infections have a viral cause) and therefore the patient will not benefit 
+from antibiotic treatment (Table 2.1). Even when the cause of the infection is bacterial, 
+many infections are frequently self-limiting, with a low risk of severe complications and 
+the benefit of antibiotics is limited, shortening of the duration of symptoms by usually 
+only around 1 or 2 days. Most otherwise healthy patients with mild infections may safely 
+receive symptomatic treatment alone, such as anti-inflammatory medicines, pain killers or 
+complementary medicines. Whenever appropriate, guidance on diagnosing mild infections 
+that can be treated with No Antibiotic Care is given in the AWaRe book.
+Table 2.1 – Common infections in primary health care where mild cases can be 
+safely treated with No Antibiotic Care (i.e. symptomatic management only) – see 
+individual chapters for more details
+Infection (in 
+alphabetical 
+order)
+Can it be safely 
+treated without 
+antibiotics?
+Comment
+Acute diarrhoea Yes, in the great 
+majority of cases 
+(unless there is 
+significant bloody 
+diarrhoea)
+Most cases do not require antibiotic 
+treatment because the infection is of viral 
+origin and the illness is usually self-limiting 
+regardless of the causative pathogen. 
+The cornerstone of treatment is rehydration 
+and electrolyte replacement.
+Bronchitis Yes Nearly all cases have a viral origin and there 
+is no evidence that antibiotics are needed.
+COPD 
+exacerbations 
+Yes, in most mild 
+cases
+Most exacerbations of COPD are not 
+triggered by bacterial infections; only certain 
+cases will benefit from antibiotic treatment.
+Dental infections Yes, in most mild 
+cases
+Dental treatment rather than prescribing 
+antibiotics is generally more appropriate in 
+the management of dental infections.
+Otitis media Yes, in most mild 
+cases
+Most mild cases of acute otitis media can 
+be managed symptomatically and do not 
+require antibiotic treatment.
+Pharyngitis Yes, in most mild 
+cases
+Most cases do not require antibiotics 
+because the infection is viral.a
+continues
+8The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ 2. Improving the use of antibiotics with the AWaRe book
+Table 2.1 continued
+Infection (in 
+alphabetical 
+order)
+Can it be safely 
+treated without 
+antibiotics?
+Comment
+Sinusitis Yes, in most mild 
+cases
+Most cases do not require antibiotics as the 
+infections is viral.
+Skin and soft tissue 
+infections (mild)
+Only for certain 
+conditions and in 
+certain patients
+In cases of wounds at low risk of becoming 
+infected, antibiotic treatment is not needed. 
+In cases of animal bites, only wounds in 
+high-risk anatomical locations and patients 
+with severe immunosuppression benefit 
+from antibiotic treatment.
+Urinary tract 
+infection (lower)
+Only in very select 
+patients with 
+no risk factors 
+for complicated 
+infections
+In young women who are not pregnant, 
+with mild symptoms and who may wish 
+to avoid or delay antibiotic treatment, 
+symptomatic treatment alone can be 
+considered.
+COPD: chronic obstructive pulmonary disease.
+a Refer to the pharyngitis chapter for situations that require antibiotic treatment, for example, pharyngitis in settings 
+where rheumatic fever is endemic.
+Are antibiotics needed?
+In 2006, WHO proposed that the percentage of patients attending a primary health care 
+facility receiving an antibiotic should be less than 30% (13). However, on average, around 
+half of patients presenting with any infection in primary care still receive an antibiotic, 
+thus contributing to the emergence and spread of antimicrobial resistance (AMR) (14). It 
+is therefore important that both health care professionals and patients consider the risks of 
+taking antibiotics when they are not needed. These risks include the immediate risk of sideeffects of the medicine, most commonly diarrhoea or allergic reactions (such as a rash; see 
+chapter on allergy to antibiotics) and rarely more serious side-effects. Bacteria in patients 
+prescribed an antibiotic for a respiratory infection or a UTI – as examples of infections for 
+which antibiotics are often prescribed – commonly develop antibiotic resistance to the 
+prescribed (and other) antibiotics. These patients are also more likely to transmit resistant 
+bacteria to other people (14). Patients with infections caused by antibiotic-resistant bacteria 
+are more likely to have a delayed clinical recovery (15). Furthermore, antibiotic treatment 
+alters the patient’s microbiota (i.e. all microorganisms that live in or on the human body), 
+with potential long-term consequences and an increased risk of infection by Clostridioides 
+difficile, a bacterium that can cause severe diarrhoea.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book9
+2. Improving the use of antibiotics with the AWaRe book 
+Think D8 – before prescribing!
+Before prescribing antibiotics to patients, prescribers should consider the eight Ds (Box 2.3).
+Box 2.3 – Points to always consider when prescribing
+Diagnose – what is the clinical diagnosis? Is there evidence of a significant bacterial infection? 
+Decide – are antibiotics really needed? Do I need to take any cultures or other tests?
+Drug (medicine) – which antibiotic to prescribe? Is it an Access or Watch or Reserve antibiotic? 
+Are there any allergies, interactions or other contraindications?
+Dose – what dose, how many times a day? Are any dose adjustments needed, for example, 
+because of renal impairment?
+Delivery – what formulation to use? Is this a good quality product? If intravenous treatment is 
+needed, when is step down to oral delivery possible? 
+Duration – for how long? What is the stop date? 
+Discuss – inform the patient of the diagnosis, likely duration of symptoms, any likely medicine 
+toxicity and what to do if not recovering.
+Document – write down all decisions and the management plan.
+Improving Access antibiotic use and reducing 
+inappropriate use of oral Watch antibiotics
+Key messages
+• The great majority of common infections in primary health care can be treated without any 
+antibiotics or with Access antibiotics.
+• Reducing the inappropriate use of Watch antibiotics is key to control antibiotic resistance.
+The Sixty-eighth World Health Assembly in May 2015 endorsed a global action plan to 
+tackle AMR (Box 2.4) (16).
+10The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ 2. Improving the use of antibiotics with the AWaRe book
+Box 2.4 – The five objectives of the global action plan
+1. Improve awareness and understanding of antimicrobial resistance.
+2. Strengthen surveillance and research.
+3. Reduce the incidence of infection.
+4. Optimize the use of antimicrobial medicines. 
+5. Ensure sustainable investment in countering antimicrobial resistance
+The AWaRe book therefore aims to address one of the objectives of the WHO global 
+action plan “Optimize the use of antimicrobial medicines” with a focus on antibacterial 
+medicines or antibiotics (antimicrobials also include antifungal, antiviral and antiprotozoal 
+medicines). The AWaRe book provides guidance on when not to prescribe antibiotics and, if 
+indicated, which antibiotics to prescribe for the most common infections. The AWaRe book 
+focusses on the optimal use of Access antibiotics as they remain the first-choice options for 
+most infections. 
+The AWaRe book recommends that nine of the 10 most common infections seen 
+in primary health care can be treated safely with either no antibiotics or Access antibiotics 
+(Table 2.2). Only one infection, acute bloody diarrhoea (dysentery), requires the empiric 
+treatment with antibiotics in the Watch category, such as ciprofloxacin or azithromycin. 
+The use of oral Watch antibiotics globally is increasing. They are now very commonly 
+taken by patients in primary health care for minor infections (fever/cough/diarrhoea) in both 
+high-income countries and low- and middle-income countries. Reducing the inappropriate 
+use of both oral and intravenous Watch antibiotics is a critical strategy for the global control 
+of antibiotic resistance, while ensuring vulnerable populations have continued or, where 
+appropriate, improved access to Access antibiotics.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book11
+2. Improving the use of antibiotics with the AWaRe book 
+Table 2.2 – Common infections seen in primary health care settings and the 
+antibiotic options recommended in the AWaRe book
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Infection ACCESS / WATCH First-choice antibiotic option (when an 
+antibiotic is indicateda)
+Bronchitis No antibiotic No antibiotic
+Communityacquired pneumonia 
+(mild cases)
+ ACCESS Amoxicillin 
+OR
+ Phenoxymethylpenicillin 
+Chronic obstructive 
+pulmonary disease 
+exacerbations 
+ ACCESS Amoxicillin 
+(for most mild cases the first choice is 
+symptomatic treatment and antibiotics are 
+not necessary)
+Dental infections ACCESS Amoxicillin 
+OR
+ Phenoxymethylpenicillin 
+(for most cases the first choice is a dental 
+procedure and antibiotics are not necessary)
+Infectious diarrhoeab No antibiotic or 
+ WATCH 
+Most mild non-bloody diarrhoea is caused 
+by viral infections and antibiotics are not 
+necessary 
+For acute severe bloody diarrhoea/
+dysentery - Ciprofloxacin 
+Otitis media ACCESS Amoxicillin 
+(for most mild cases the first choice is 
+symptomatic treatment and antibiotics are 
+not necessary)
+continues
+12The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ 2. Improving the use of antibiotics with the AWaRe book
+Table 2.2 continued
+Infection ACCESS / WATCH First-choice antibiotic option (when an 
+antibiotic is indicateda)
+Pharyngitis ACCESS Amoxicillin 
+OR
+ Phenoxymethylpenicillin 
+(for most mild cases the first choice is 
+symptomatic treatment and antibiotics are 
+not necessary)
+Sinusitis ACCESS Amoxicillin 
+OR
+ Amoxicillin+clavulanic acid 
+(for most mild cases the first choice is 
+symptomatic treatment and antibiotics are 
+not necessary)
+Skin and soft tissue 
+infection (mild 
+cases)c
+ ACCESS Amoxicillin+clavulanic acid 
+OR
+ Cefalexin 
+OR
+ Cloxacillin 
+Urinary tract 
+infection, lower
+ ACCESS Amoxicillin+clavulanic acid 
+OR
+ Nitrofurantoin 
+OR
+ Sulfamethoxazole+trimethoprim 
+OR
+ Trimethoprim 
+a The decision to treat is based on assessment of the patient and on a minimum set of criteria to start antibiotics 
+described in the chapters for each infection.
+b Only oral antibiotic options are reported here.
+c Cloxacillin and cefalexin have a narrower spectrum of antibacterial activity compared to
+amoxicillin+clavulanic acid with good efficacy in mild skin and soft tissue infections. Therefore, from an antibiotic 
+stewardship perspective, these two antibiotics are the preferred options whenever possible (except for bite wounds).
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book13
+2. Improving the use of antibiotics with the AWaRe book 
+Reducing the use of Not Recommended antibiotics
+Key messages
+• The wide use of fixed-dose combinations of antibiotics that are not compatible with the 
+EML and not approved by the major regulatory agencies is of concern. Their use should be 
+reduced as these combinations may result in increased toxicity and selection of resistance.
+• WHO has developed a list of fixed-dose combinations of antibiotics whose use is strongly 
+discouraged (10).
+In some countries, there is substantial use of fixed-dose combinations of antibiotics, 
+which contain two or more agents in a single formulation. Recent data suggest that these 
+combinations represent up to 20% of global antibiotic prescribing, especially in middleincome countries (17). Some fixed-dose combinations of antibiotics are well established 
+(e.g. sulfamethoxazole+trimethoprim) but other combinations often consisting of two or 
+more broad-spectrum antibiotics, combined with antifungal and probiotic agents are of 
+concern because they may contribute to the emergence and spread of AMR.
+Improving AWaRe-ness!
+Key messages
+• All prescribers and dispensers have a responsibility to improve the use of antibiotics.
+• Patients also have responsibilities and efforts should be made to ensure they know basic 
+principles of appropriate antibiotic use (e.g. taking antibiotics as prescribed and not using 
+leftover antibiotics for a later illness) and symptomatic care.
+All prescribers, dispensers and users of antibiotics, including both private and public 
+providers, have a clear responsibility to ensure the best use of the medicines they give or 
+take. Table 2.3 outlines some of the responsibilities of these various stakeholders. The aim is 
+to provide a general framework of responsibility with broad examples that could lead into a 
+programme of interventions.
+14The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ 2. Improving the use of antibiotics with the AWaRe book
+Table 2.3 – Responsibilities of different stakeholders for improving the use of 
+antibiotics
+Group Responsibility Examples of practical actions
+Health care 
+policymakers and 
+relevant 
+programme 
+managers
+• Discourage the unnecessary use 
+of antibiotics.
+• Focus on promoting the use 
+of Access antibiotics where 
+appropriate.
+• Ensure local access to and 
+availability of antibiotics in the 
+national EML at the appropriate 
+cost, quality and in the correct 
+formulationa.
+• Make sure that the national EML 
+is regularly updated and aligned 
+with the WHO Model Lists 
+where appropriate.
+• Undertake regular surveillance 
+of antibiotic use at all levels, 
+including by AWaRe group (e.g. 
+Access/Watch ratio).
+• Review national and local 
+guidance documents and 
+compare them with the AWaRe 
+book.
+• Disseminate new guidance to all 
+levels of the health care services.
+• Review provision of Access 
+antibiotics, cost, qualityb, 
+sustainability and barriers to use.
+• Develop a monitoring programme 
+for antibiotic use across all levels 
+of health care provision, including 
+the Access/Watch antibiotics ratio.
+• Regularly review the national EML 
+and align to the WHO Model Lists 
+where synergies exist.
+• Disseminate data to providers on 
+antibiotic use appropriately and 
+regularly.
+Physicians • Be AWaRe of the AWaRe book 
+and focus clinical care on D8!
+ - Diagnosis – which infection
+ - Decide – are antibiotics 
+needed
+ - Drug (medicine) – which 
+antibiotic
+ - Dose – at what dose
+ - Delivery – what formulation
+ - Duration – for how long
+ - Discuss – with patient
+ - Document – in the notes.
+• Know which infections could 
+be managed with antibiotics in 
+your setting.
+• Know which signs and symptoms 
+would require hospital referral.
+• Review national and local 
+guidance documents and 
+compare them with the AWaRe 
+book.
+• Adapt or adopt EML guidance. 
+• Assist with developing and 
+implementing educational 
+programmes.
+• Develop local tools for monitoring 
+local patterns of antibiotic use and 
+disseminate data appropriately 
+and regularly to relevant 
+stakeholders. 
+• Act as local champions of the 
+AWaRe book.
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book15
+2. Improving the use of antibiotics with the AWaRe book 
+Table 2.3 continued
+Group Responsibility Examples of practical actions
+Pharmacists • Be AWaRe of the AWaRe book.
+• Do not provide antibiotics 
+without a prescription.
+• Discourage self-medication with 
+antibiotics.
+• Monitor relative use of Access 
+and Watch antibiotics. 
+• Review, adapt or adopt the AWaRe 
+book in line with local guidance 
+documents.
+• Ensure in-pharmacy availability 
+of the most common infection 
+chapters of the AWaRe book and 
+summaries of Access and Watch 
+lists. 
+• Monitor local patterns of 
+antibiotic use such as Access/
+Watch ratios and disseminate data 
+appropriately and regularly to 
+relevant stakeholders.
+Professional 
+societies
+• Be aware of AWaRe and the 
+AWaRe book.
+• Contribute to awareness 
+campaigns. 
+• Educate health care workers 
+about AWaRe.
+• Disseminate new guidance to all 
+levels of the health care services.
+Nurses • Be AWaRe of the AWaRe 
+book and advise or prescribe 
+accordingly.
+• Review, adapt or adopt the AWaRe 
+book in line with local guidance 
+documents.
+• Review local availability of 
+antibiotics.
+• Review practices and procedures 
+that are non-compliant with the 
+AWaRe book.
+• Monitor patterns of antibiotic use.
+Community 
+health 
+workers
+• Know which infections could 
+be managed with antibiotics or 
+with symptomatic treatment 
+alone in your setting.
+• Know which signs and 
+symptoms would require 
+medical referral.
+• Be AWaRe of the AWaRe book.
+continues
+16The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ 2. Improving the use of antibiotics with the AWaRe book
+Table 2.3 continued
+Group Responsibility Examples of practical actions
+Patients • Be aware of AWaRe.
+• Avoid using leftover antibiotics.
+• Avoid asking for antibiotics over 
+the counter in pharmacies and 
+asking physicians to prescribe 
+them.
+• Avoid stockpiling leftover 
+antibiotics 
+• Contribute to awareness 
+campaigns (e.g. with family 
+members and the community).
+• Return any expired, unwanted 
+or unused antibiotic to a 
+pharmacy or health centre for 
+safe disposal.
+• Act as champions for the better 
+use of antibiotics.
+• Promote antibiotic-related 
+educational activities for patients.
+AWaRe: Access Watch and Reserve; EML: WHO Model Lists of Essential Medicines (8).
+a This includes discouraging the excessive use of fixed-dose combinations of antibiotics.
+b This includes preventing and detecting the production and use of substandard and falsified medicinal antibiotics. 
+Substandard and falsified medicinal antibiotics
+As antibiotics are the most common medicines used globally, the production and use of 
+substandard and falsified medicinal antibiotics is a major problem. WHO estimates that up 
+to one in 10 medical products in low- and middle-income country settings are substandard 
+or falsified with antibiotics amongst the most commonly reported (18). These products 
+are typically found in informal market settings, which are a major source of antibiotics for 
+patients globally, but also in less well-regulated pharmacies. All those involved in giving 
+antibiotics to patients should take all reasonable steps to ensure that good quality medicinal 
+products are provided, which are registered and licensed by the relevant national medicines 
+regulatory authorities. Guidance on how to identify a possible problem of substandard and 
+falsified medicinal antibiotics is provided in the WHO publication: Substandard and falsified 
+medical products (18). 
+Community health care workers
+Community health care workers include informal health care providers, that is providers 
+with no or limited formal training. In rural areas in low- and middle-income country settings,
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book17
+2. Improving the use of antibiotics with the AWaRe book 
+they are often the first medical contact for many people in the community. Antibiotics are 
+commonly prescribed by these informal providers, including the inappropriate prescription 
+of broad-spectrum antibiotics or frequent prescription of antibiotics to treat upper 
+respiratory tract infections that are often of viral origin (19).
+Improved antibiotic use could be helped by further education of this sector with a 
+focus on the optimal use of Access antibiotics. Educational activities and training on how 
+to manage common infections using the AWaRe book could be considered, for example, 
+to decrease the use of oral Watch antibiotics and limit the use of antibiotics for severe 
+infections only.
+Appropriate antibiotic dosing and duration
+Key messages
+• Prescribers should always consult local and national dosing guidelines, where available.
+• The dosing guidance provided in the AWaRe book is for the most common clinical 
+infections in patients with normal kidney and liver function but the need for dose 
+adjustments should always be considered.
+• The guidance on duration of treatment is generally the shortest suggested duration 
+for specific infections. More severe infections or patients with underlying conditions or 
+immunosuppression may require longer courses of treatment than suggested in the AWaRe 
+book.
+Other relevant WHO resources (please check regularly for updates)
+• WHO report on consensus guidance on paediatric dosing regimens for access antibiotics on 
+the essential medicines list for children (20). 
+For each infection discussed in the AWaRe book, guidance is given for both children and 
+adults on the dose of antibiotic to be prescribed, how often the dose should be taken, the 
+route of administration of the antibiotic and the duration of antibiotic treatment. 
+The guidance is based on: (i) existing WHO guidelines, (ii) a review of recent literature, 
+(iii) a review of recent guidelines from different WHO regions and (iv) expert opinion (the 
+EML Antimicrobial Working Group). 
+Users of the AWaRe book should be aware of the limited evidence underlying many 
+antibiotic prescribing strategies, particularly the very poor evidence for dosing guidance for 
+older antibiotics (when approval processes were less stringent and methods to determine
+18The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ 2. Improving the use of antibiotics with the AWaRe book
+pharmacokinetic/pharmacodynamic target attainment less developed), which may explain 
+some of the variation in international recommendations. The AWaRe book therefore does not 
+provide formal recommendations for dosage, frequency of use, route of administration and 
+duration, but rather provides general guidance on what would be considered appropriate 
+dosing strategies and duration in most clinical cases.
+Dosing
+Wherever appropriate the same dose is given for each antibiotic for all infections to help 
+local procurement and prescribing. In the hospital facility section, guidance is also given on 
+when to consider step down from intravenous to oral antibiotics, encouraging the early 
+discharge of patients from hospital when clinically appropriate. 
+Guidance on dose adjustments for abnormal kidney and liver function is not 
+covered, and the summary of product characteristics should be consulted. In addition, 
+detailed information on antibiotic administration, for example, the use of continuous or 
+prolonged infusion times of beta-lactams in multidrug-resistant infections, is not covered as 
+this is beyond the scope of the AWaRe book (21,22). 
+Even though this dosing is not covered in the AWaRe book, higher doses or more 
+frequent administration may be required in certain situations such as: patients with very 
+severe infections (including sepsis / septic shock) or infections of certain body sites such as 
+infections of the central nervous system; patients with significant underlying disease (e.g. 
+severe immunosuppression); and overweight patients.
+Dosing in children
+For children, weight-based dosing was generally used for oral treatments based on WHO 
+ranges. For children weighing more than 30 kg, adult dosing should be considered. The 
+2019 EML report on consensus guidance on paediatric dosing regimens was used as a 
+reference but adapted by infection and severity of disease (20). 
+Treatment duration
+For treatment duration, where there was an acceptable range for the duration of therapy, the 
+lowest number of days supported by the review of guidelines and expert opinion is used. 
+Strong evidence-based guidance on the most appropriate duration of treatment 
+for many infections is limited. Therefore, duration is often individualized based on clinical 
+response, on the success of surgical source control and, if available, changes in laboratory 
+markers of infection. When an alternative diagnosis is established which does not require 
+antibiotics, antibiotic treatment should be stopped. Shorter treatment where clinically 
+appropriate is generally associated with less toxicity and a lower risk of selection and 
+transmission of antibiotic resistance, with equivalent clinical outcomes.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book19
+2. Improving the use of antibiotics with the AWaRe book 
+Intravenous or oral antibiotics
+Most non-severe infections can be safely treated with oral antibiotics and this approach is 
+encouraged as it has several advantages, for example, less risk of line-associated infections 
+and avoidance of hospitalizations. However, this is provided that there is no risk of poor 
+enteral absorption (e.g. no vomiting) or need to treat pathogens for which effective oral 
+options are not available, for example in the case of infections caused by certain multidrugresistant pathogens. 
+When intravenous treatment is started (e.g. for severe infections), rapid oral step 
+down should be considered as soon as this can be safely done.

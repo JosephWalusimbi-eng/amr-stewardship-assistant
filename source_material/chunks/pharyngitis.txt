@@ -1,0 +1,941 @@
+# TOPIC: pharyngitis
+
+--- [WHO AWaRe Antibiotic Book (2022) | 6. Pharyngitis | p.62-76 | audience=general] ---
+46The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+6. Pharyngitis
+Key messages
+• Antibiotics are not needed for most cases since most cases are self-limiting and of viral 
+origin. 
+• Pharyngitis (sore throat) is a very common condition and one of the main causes of 
+antibiotic overuse in primary health care.
+• In bacterial pharyngitis, antibiotic treatment only reduces sore throat pain for around 1 day.
+• Cases caused by Streptococcus pyogenes (group A Streptococcus) can very rarely be 
+complicated by, for example, rheumatic fever, rheumatic heart disease and acute 
+glomerulonephritis.
+• The only clear indication for antibiotic treatment of pharyngitis is to reduce the probability 
+of developing rheumatic fever in endemic settings. 
+Other relevant WHO resources (please check regularly for updates)
+• Pocket book of hospital care for children: guidelines for the management of common 
+childhood illnesses, 2013 (31).
+• Rheumatic heart disease – fact sheet (52).
+• Rheumatic fever and rheumatic heart disease: report of a WHO expert consultation, Geneva, 
+20 October–1 November 2001 (53).
+• Diphtheria vaccine: WHO position paper – August 2017 (54).
+Definition
+Pharyngitis is commonly defined as an inflammation of the pharynx characterized by sore 
+throat and painful swallowing.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+47
+PRIMARY HEALTH CARE 
+6. Pharyngitis
+Pharyngitis
+Page 1 of 2
+In /g248ammation of the phar ynx charac terized by sor e thr oat and
+painful swallowing
+De/g246nition
+Most Likely Pathogens
+Diagnosis
+Microbiology Tests
+Blood tests usually not needed
+Other LaboratoryTests
+Usually not needed unless a complication is suspec te d
+Imaging
+Clinical Presentation
+Low likelihood of Group A (GAS)Streptococcus
+(Centor score 0-2):
+•T ests usually not needed
+Higher likelihood of GAS (Centor score 3-4):
+•R apid antigen test or thr oat cultur e could be consider ed ,
+especially in countries wher e rheumatic fev er (RF) and
+rheumatic hear t disease ar e fr equen t
+•T ests should only be per formed if antibiotic tr eatment is
+consider ed following a positiv e test r esult
+Sor e thr oat and painful swallowing
+• : Symptoms ar e often the same as those of a viralViral
+upper r espirator y trac t infec tion (URTI) with cough,
+headache and m yalgia
+• : Mor e sev er e pr esentation, fev er (≥38.0 °C ),Bacterial
+tender cer vical lymph nodes and phar yngeal exudates (see
+"Centor Clinical Scoring System" )
+Bacteria:
+•G r oup A (5-10% in adults)Streptococcus
+•S tr eptococci (gr oup C and G)
+Other infectious causes:
+•A cute HIV -infec tion and other sexually transmitted diseases
+(syphilis , gonorrhea)
+•A cute t ox oplasmosis
+•D iphtheria
+Non infectious (rare):
+•P ollution
+•A llergens
+•Smok ing
+Viruses (> 80% of cases):
+•R espirator y viruses (most cases)
+•Epstein Barr virus (rar ely)
+48
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+6. Pharyngitis
+Pharyngitis
+Page 2 of 2
+Centor Clinical Scoring System
+Treatment
+Depending on the local prevalence or previous history of
+rheumatic fever:
+•Low Risk of RF: 5 days
+•High Risk of RF: 10 days
+Note: when clarithromycin or cefalexin are used treatment
+duration is always 5 days
+Antibiotic Treatment Duration
+Medicines are listed in alphabetical order and should be
+considered equal treatment options
+Symptomatic Treatment
+Ibuprofen 200-400 mg q6-8h (Max 2.4 g/day)
+----------------------------------- -----------------------------------OR
+Paracetamol (acetaminophen) 500 mg-1 g
+q4-6h (max 4 g/day)
+•: Max 2 g/dayHepatic impairment/cirrhosis
+Signs & Symptoms
+(1 point each)
+/c162Fever > 38.0 °C
+/c162No cough
+/c162Tender anterior cervical
+lymphadenitis
+/c162Tonsillar exudates
+Score 0-2
+•GAS pharyngitis unlikely
+•Symptomatic treatment only
+Score 3-4 - In case of low risk of RF (e.g.
+countries with prevalence of RF)low
+•Antibiotic treatment can be withheld
+even in cases of likely GAS pharyngitis
+Score 3-4 - In case of high risk of RF (e.g.
+countries with prevalence of RF)med/high
+•Antibiotic treatment recommended
+•This system can help indicate infection
+origin (bacterial or viral) and whether
+antibiotics are necessary
+•However even with a score of 4, the
+probability of GAS infection is only 50% and
+this score has only been validated in highincome settings
+Antibiotic Treatment
+The only clear indication for antibiotic treatment is to
+reduce the probability of developing rheumatic fever in
+endemic settings (however, after 21 years of age the risk
+of RF is lower)
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise
+indicated
+First Choice
+Second Choice
+----------------------------------- -----------------------------------OR
+Amoxicillin 500 mg q8h ORAL
+Phenoxymethylpenicillin( as potassium) 500 mg
+(800 000 IU)q 6h ORAL
+----------------------------------- -----------------------------------OR
+Cefalexin 500 mg q8h ORAL
+Clarithromycin 500 mg q12h ORAL
+GAS remains universally susceptible to penicillin.
+However, resistance to macrolides is common in some
+communities
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+49
+PRIMARY HEALTH CARE 
+6. Pharyngitis
+Pharyngitis
+Page 1 of 2
+In /g248ammation of the phar ynx charac terized by sor e thr oat and
+painful swallowing
+De/g246nition Diagnosis
+Microbiology Tests
+Blood tests usually not needed
+Other LaboratoryTests
+Usually not needed unless a complication is suspec te d
+Imaging
+Clinical Presentation
+Most Likely Pathogens
+Viruses (> 80% of cases):
+•R espirator y viruses (most cases)
+•E pstein Barr virus
+Bacteria:
+•G r oup A (20-30% in childr en)Streptococcus
+•S tr eptococci (gr oup C and G)
+Other infectious causes:
+•A cute t ox oplasmosis
+•D iphtheria
+Non infectious (rare):
+•P ollution
+•A llergens
+•Smok ing
+Sor e thr oat and painful swallowing
+• : Symptoms ar e often the same as those of a viralViral
+upper r espirator y trac t infec tion (URTI) with cough,
+headache and m yalgia
+• : Mor e sev er e pr esentation, fev er (≥38.0 °C ),Bacterial
+tender cer vical lymph nodes and phar yngeal exudate s
+Lower likelihood to be caused by Group A Streptococcus
+(GAS) (Centor score 0-2):
+•T ests usually not needed
+Higher likelihood to be caused by GAS (Centors core 3-4):
+•R apid antigen test or thr oat cultur e could be consider ed ,
+especially in countries wher e rheumatic fev er (RF) and
+rheumatic hear t disease ar e fr equen t
+•Negativ e rapid antigen test could be con/g246rmed with a
+thr oat cultur e if available
+50
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+6. Pharyngitis
+Pharyngitis
+Page 2 of 2
+Centor Clinical Scoring System
+Treatment
+Depending on the local pr evalence or pr evious histor y of
+rheumatic fe ve r:
+•L ow R isk of RF : 5 days
+•H igh Risk of RF : 10 days
+Note: when clarithromycin or cefalexin are used treatment
+duration is always 5 days
+Antibiotic Treatment Duration
+Signs & Symptoms
+(1 point each)
+/c162Fe ve r > 38.0 °C
+/c162No cough
+/c162T ender anterior cer vical
+lymphadenitis
+/c162T onsillar exudate s
+Symptomatic Treatment
+Medicines are listed in alphabetical order and should be
+considered equal treatment options
+----------------------------------- -----------------------------------OR
+Ibupr ofen (do not use if <3 months of age)
+•: 5-10 mg/kg q6-8hPain control/antipyretic
+•:Oral weight bands
+6-<10 kg 50 mg q8h
+10-<15 kg 100 mg q8h
+15-<20 kg 150 mg q8h
+20-<30 kg 200 mg q8h
+≥30 kg 200-400 mg q6-8h
+(Max 2.4 g/day)
+Pa racetamol (acetaminophen)
+•: 10-15 mg/kg q6 hPain control/antipyretic
+•:Oral weight bands
+3-<6 kg 60 mg q6h
+6-<10 kg 100 mg q6h
+10-<15 kg 150 mg q6h
+15-<20 kg 200 mg q6h
+20-<30 kg 300 mg q6h
+≥30 kg 500 mg-1 g q4-6h
+(Max 4 g/day or 2 g/day if
+hepatic impairment/cirrhosis)
+•T his system can help indicate infec tion
+origin (bac terial or viral) and whether
+antibiotics ar e necessar y
+•H owever even with a score of 4, the
+pr obability of GAS infec tion is only 50% and
+this scor e has only been validated in highincome settings
+Score 0-2
+•GAS phar yngitis unlikely
+•Symptomatic treatment only
+Score 3-4 - In case of low risk of RF (e .g .
+countries with pr evalence of RF)low
+•Antibiotic treatment can be withheld
+ev en in cases of likely GAS phar yngitis
+Score 3-4 - In case of high risk of RF (e .g .
+countries with pr evalence of RF)med/high
+•A ntibiotic tr eatment re commended
+Antibiotic Treatment
+The only clear indication for antibiotic treatment is to
+reduce the probability of developing rheumatic fever in
+endemic settings
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Amo xicillin 80-90 mg/kg/da y ORAL
+•:Oral weight bands
+3-<6 kg 250 mg q12h
+6-<10 kg 375 mg q12h
+10-<15 kg 500 mg q12h
+15-<20 kg 750 mg q12h
+≥20 kg 500 mg q8h or 1 g q12h
+First Choice
+Pheno xy meth ylpenicillin (as potassium):
+10-15 mg/kg/dose (16 000-24 000 IU/kg/dose)
+q6-8h ORAL
+----------------------------------- -----------------------------------OR
+C efalexin 25 mg/kg/dose q12h ORAL
+•:Oral weight bands
+3-<6 kg 125 mg q12h
+6-<10 kg 250 mg q12h
+10-<15 kg 375 mg q12h
+15-<20 kg 500 mg q12h
+20-<30 kg 625 mg q12h
+≥30 kg 500 mg q8h
+Second Choice
+Clarithr om y cin 7.5 mg/kg/dose q12h ORAL
+GAS remains universally susceptible to penicillin.
+However, resistance to macrolides is common in some
+communities
+----------------------------------- -----------------------------------OR
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book51
+PRIMARY HEALTH CARE 
+6. Pharyngitis
+Pathophysiology
+Viruses and bacteria responsible for pharyngitis gain access to the mucosal cells of the 
+pharynx through different mechanisms and start replicating in these cells. Damage is 
+caused to the cells where pathogens are replicating.
+Epidemiology 
+Sore throat is one of the most common conditions in patients presenting to primary health 
+care and remains a very frequent cause of inappropriate antibiotic prescribing. Up to 60% of 
+patients with sore throat are given antibiotics in many high-income outpatient settings (55,56).
+Incidence and prevalence data on sore throat are unavailable for most low- and 
+middle-income country settings. Most cases of pharyngitis are self-limiting and of viral 
+origin. Cases of sore throat caused by bacteria (mostly Streptococcus pyogenes) are rare and 
+were responsible for about 10% of cases among patients with sore throat of all ages in a 
+meta-analysis, but severe complications can occur (57). These complications are either due 
+to invasion of the organism in the pharynx (e.g. suppurative complications such as quinsy) 
+or to an abnormal immunological response (e.g. acute rheumatic fever) (58,59). Suppurative 
+complications occur in a very small number of cases, are difficult to predict and most can be 
+readily treated (60,61). For this reason, the prevention of suppurative complications should 
+not be considered an indication for antibiotic treatment in sore throat.
+Rheumatic fever is also a rare complication due to an autoimmune inflammatory 
+reaction to untreated streptococcal pharyngitis; usually less than 3% of untreated cases of 
+pharyngitis caused by Streptococcus pyogenes trigger rheumatic fever in settings where this 
+condition is endemic (53,62). The incidence of rheumatic fever peaks between 5 and 15 
+years of age and is rare in people older than 30 years. 
+When rheumatic fever develops, it usually presents (70–75% of cases) as an acute 
+febrile illness with joint manifestations (e.g. pain or tenderness) and carditis. Less frequently, 
+rheumatic fever can present as a predominantly neurological and/or behavioural disorder. 
+Symptoms usually develop 2–3 weeks after the initial symptoms of pharyngitis are evident. 
+Ultimately, rheumatic fever can result in damage to the heart valves (rheumatic heart 
+disease). About 60% of people with rheumatic fever will develop rheumatic heart disease 
+and the risk is two times higher for females than males.
+Despite the lack of data from many countries, 30 million people worldwide are thought 
+to be affected by rheumatic heart disease, with an estimated 320 000 deaths in 2015 (63).
+Cases of rheumatic fever are concentrated in the WHO African, South-East Asian and 
+Western Pacific regions; these regions account for about 84% of cases. With 27% of all cases 
+of rheumatic fever in 2015 India has the highest burden worldwide (53).
+52The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+6. Pharyngitis
+Most likely pathogens
+Most (> 80%) cases of pharyngitis are caused by a viral infection (respiratory viruses have 
+been identified in 25–45% of cases; less frequently, the Epstein–Barr virus or other viruses 
+of the herpesvirus family or SARS-CoV-2 are the cause). A minority of cases of pharyngitis 
+are caused by bacteria, mainly Streptococcus pyogenes (group A Streptococcus). Other 
+streptococci (group C and G) have also been implicated as causes of pharyngitis (Table 6.1). 
+Other infectious causes that need to be considered are acute human immunodeficiency 
+virus (HIV) infection and other sexually transmitted infections (STIs) such as syphilis and 
+gonorrhoea, acute toxoplasmosis and diphtheria – consider diphtheria if fever and greyishwhite membranes covering the tonsil(s) are present in a child not vaccinated against 
+diphtheria. Rarely, the cause of pharyngitis is non-infectious, for example, exposure to 
+pollution, allergens and smoking.
+Table 6.1 – Pathogens most frequently associated with pharyngitis (in descending 
+order of frequency)
+Viruses (most cases) Bacteria (rarely)
+Respiratory syncytial virus 
+Rhinovirus 
+Coronavirus (including SARS-CoV-2)
+Influenza virus (A and B)
+Other respiratory viruses
+Other viruses (rarely)
+Epstein–Barr virus
+HIV
+Streptococcus pyogenes (group A Streptococcus)
+Group C Streptococcus
+Group G Streptococcus
+Treponema pallidum
+Neisseria gonorrhoeae
+HIV: human immunodeficiency virus; SARS-CoV-2: severe acute respiratory syndrome coronavirus 2.
+Pharyngitis caused by antibiotic-resistant pathogens
+Streptococcus pyogenes is still universally very susceptible to penicillin. Resistance to 
+penicillin has never been reported and there is no evidence of increasing minimal inhibitory 
+concentrations. However, resistance to macrolides is common in some settings. 
+Clinical presentation
+Pharyngitis is characterized by sore throat and painful swallowing. Typical accompanying 
+signs and symptoms can vary depending on the etiology. If the cause is viral, symptoms
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book53
+PRIMARY HEALTH CARE 
+6. Pharyngitis
+match those of a viral upper respiratory tract infection, and cough, headache and myalgia 
+are likely to be present. If the cause is bacterial, a more severe presentation is usually seen, 
+with fever (≥ 38.0 °C), tender cervical lymph nodes and pharyngeal exudates. Several 
+clinical scoring systems have been developed to identify patients with higher likelihood of 
+pharyngitis being caused by Streptococcus pyogenes (see the next section).
+Scoring symptoms of pharyngitis
+The specific cause of pharyngitis may be difficult to recognize based on symptoms alone. 
+Scoring systems can help differentiate a viral infection from one of bacterial origin. The 
+rationale is to help health care workers standardize the therapeutic approach and decide 
+whether antibiotic treatment could be given based on the most likely etiology. However, 
+scoring systems have a low specificity (i.e. high risk of incorrectly identifying patients with 
+viral pharyngitis as having a Streptococcus pyogenes infection) and can lead to unnecessary 
+antibiotic treatment. Moreover, most systems have only been validated in high-income 
+settings. 
+One of the most widely used systems in the adult population is the Centor clinical 
+scoring system (Table 6.2). However, even with the highest score of 4, the probability of an 
+infection caused by Streptococcus pyogenes is only 50% (64).
+In low- and middle-income countries, other scores could be considered that have 
+been specifically validated in these settings (65).
+Table 6.2 – Centor score for the clinical assessment of pharyngitis
+Relevant signs and symptoms Points
+Fever > 38.0 °C 1
+No cough 1
+Tender anterior cervical lymphadenitis 1
+Tonsillar exudates 1
+Total score Likelihood of Streptococcus pyogenes infection (%)
+0 1–2.5
+1 5–10
+2 11–17
+3 28–35
+continues
+54The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+6. Pharyngitis
+Table 6.2 continued
+4 51–53
+Centor score 0 – 1 – 2 • Streptococcus pyogenes pharyngitis unlikely 
+• Give symptomatic treatment only
+Centor score 3 – 4 • Score suggestive of Streptococcus pyogenes 
+pharyngitis
+• In countries with a low prevalence of rheumatic 
+fever, antibiotic treatment can be withheld 
+even in cases of likely Streptococcus pyogenes 
+pharyngitis
+• In countries with medium to high prevalence 
+of rheumatic fever, antibiotic treatment is 
+recommended as it reduces the likelihood of 
+developing rheumatic fever by around two thirds. 
+Laboratory tests 
+Patient microbiology tests
+The choice of whether microbiological tests are helpful and which to consider is based on 
+the likelihood of Streptococcus pyogenes infection. In many settings no tests are routinely 
+available. The rationale for identifying cases caused by Streptococcus pyogenes is that those 
+are the cases that may benefit the most from antibiotic treatment in certain settings (mostly 
+to prevent rheumatic fever). In general, most guidelines prefer rapid antigen tests to cultures 
+because they give results more quickly. Table 6.3 summarizes the microbiology tests that 
+could be considered to diagnose pharyngitis.
+Table 6.3 – Microbiology tests that could be considered if available for the 
+diagnosis of pharyngitis as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Group A 
+Streptococcus 
+antigena (RDT)
+To aid in the diagnosis of Group A 
+streptococcal pharyngitis
+Community settings and health 
+facilities without laboratoriesb
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book55
+PRIMARY HEALTH CARE 
+6. Pharyngitis
+Table 6.3 continued
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Throat culture First step in detection and 
+identification of bacterial species 
+for selection of appropriate 
+antibiotic regimens
+Health care facilities with 
+clinical laboratories
+EDL: Model List of Essential In Vitro Diagnostics; RDT: rapid diagnostic test.
+a Possible specimens include: throat swabs.
+b Community and health settings without laboratories are settings such as health posts and centres, doctors’ offices, 
+outreach clinics, ambulatory care. These tests are also assumed to be available at health care facilities with laboratories.
+In the case of a low likelihood of Streptococcus pyogenes as the causative pathogen 
+(i.e. a Centor score of 0 to 2; see Table 6.2), rapid antigen test or throat culture are not usually 
+needed.
+In the case of a higher likelihood of Streptococcus pyogenes as the causative 
+pathogen (i.e. Centor score 3–4), rapid antigen test or throat culture could be considered, 
+especially in countries where rheumatic fever and rheumatic heart disease are important 
+problems. (Note: WHO recommends the use of a rapid antigen test as part of the strategy 
+for primary prevention of rheumatic fever through the effective treatment of streptococcal 
+pharyngitis (53)). 
+In children and adolescents with a Centor score of 3 or 4, a negative rapid antigen 
+test could be confirmed with a throat culture if available.
+Other tests
+When pharyngitis is suspected, blood tests are not usually needed unless a complication is 
+thought to be present.
+Using microbiology surveillance data
+As amoxicillin or penicillin are the recommended first line treatment and Streptococcus 
+pyogenes is still universally very susceptible to these antibiotics, there is no role for routine 
+surveillance to inform empiric guidance.
+Imaging
+When pharyngitis is thought to be the cause of clinical symptoms, imaging is usually not 
+required unless a complication is suspected.
+56The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+6. Pharyngitis
+No antibiotic care
+Most cases of pharyngitis are of viral origin and do not benefit from antibiotics. In most 
+cases, including those of bacterial origin, symptoms resolve within a week. Symptomatic 
+treatment with oral analgesics and/or antipyretics, such as paracetamol and/or ibuprofen 
+(Table 6.4) may be helpful.
+Table 6.4 – Medicines to consider for pain control of pharyngitis 
+Important
+Medicines are listed in alphabetical order and they should all be considered equal treatment options.
+Medicine Formulation Dose and frequency
+Ibuprofena Oral liquid: 200 mg/5 mL
+Tablet: 200 mg; 400 mg; 
+600 mg
+Adults: 200–400 mg given every 6 to 8 
+hours (maximum dose of 2.4 g a day)
+Children: 
+• Pain control/antipyretic treatment: 
+5–10 mg/kg given every 6 to 8 hours
+6–< 10 kg: 50 mg given every 8 hours
+10–< 15 kg: 100 mg given every 8 hours
+15–< 20 kg: 150 mg given every 8 hours
+20–< 30 kg: 200 mg given every 8 hours
+≥ 30 kg: use adult dose
+Paracetamol 
+(acetaminophen)b
+Oral liquid: 120 mg/5 mL; 
+125 mg/5 mL
+Suppository: 100 mg
+Tablet: 100 mg to 500 mg
+Adults: 500 mg–1 g given every 4 to 6 
+hours (maximum dose of 4 g a day)c
+Children:
+• Pain control/antipyretic treatment: 
+10–15 mg/kg given every 6 hours
+3–< 6 kg: 60 mg given every 6 hours
+6–< 10 kg: 100 mg given every 6 hours
+10–< 15 kg: 150 mg given every 6 hours
+15–< 20 kg: 200 mg given every 6 hours
+20–< 30 kg: 300 mg given every 6 hours
+≥ 30 kg: use adult dose
+a Not for children < 3 months.
+b Not recommended for use as an anti-inflammatory as it has not been proven to have such an effect.
+c In patients with hepatic impairment or cirrhosis, maximum daily dose should be 2 g.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book57
+PRIMARY HEALTH CARE 
+6. Pharyngitis
+Antibiotic treatment 
+Most cases of pharyngitis are of viral origin and do not benefit from antibiotics.
+When bacterial pharyngitis is suspected or proven, the decision to give antibiotic 
+treatment is usually based on the likelihood of Streptococcus pyogenes infection and on 
+the local prevalence or patient history of rheumatic fever. Options to consider are given in 
+Table 6.5. Second choice options reported in Table 6.5 should only be considered in patients 
+allergic to first-choice options. In the case of clarithromycin, the prevalence of macrolide 
+resistance in the setting where the patient acquired the infection should be considered 
+since macrolide resistance among Streptococcus pyogenes is high is certain countries.
+In general, patients will fall into one of the following two categories.
+• Patients treated in settings with a low prevalence of rheumatic fever. Antibiotic 
+treatment is not needed in most cases . Antibiotics could be considered in 
+some patients who have a high likelihood of pharyngitis caused by Streptococcus 
+pyogenes (i.e. Centor score 3–4). However, even with a Centor score of 3 or 4, 
+antibiotic treatment is not necessary in most cases. Antibiotic treatment reduces 
+sore throat pain only by around 1 day and the pain can alternatively be managed 
+by regular analgesia.
+ Antibiotic treatment could be discussed with patients or their caregivers on a 
+case-by-case basis, weighing the benefits (e.g. reduced transmission and slight 
+reduction in duration of symptoms) and risks (e.g. side-effects of antibiotics, 
+effect on the intestinal microbiota) (66). Relief of symptoms or prevention of 
+suppurative complications is not considered an indication for antibiotic treatment. 
+The rationale is that most suppurative complications are not severe and can be 
+readily recognized and treated. 
+• Patients treated in settings with a medium to high prevalence of rheumatic fever 
+and rheumatic heart disease or patients with a history of rheumatic fever or 
+rheumatic heart disease. Antibiotic treatment is usually given if the likelihood of 
+Streptococcus pyogenes pharyngitis is high (i.e. Centor score 3–4). The rationale is 
+to prevent rheumatic fever or its recurrence. However, after 21 years of age, the 
+risk of rheumatic fever is usually lower.
+58The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+6. Pharyngitis
+Table 6.5 – Empiric antibiotic treatment in patients with a high likelihood of 
+Streptococcus pyogenes pharyngitis 
+Note
+The only clear indication for antibiotic treatment is to reduce the probability of developing 
+rheumatic fever in endemic settings; however, after 21 years of age, the risk of rheumatic fever 
+is lower.
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Adults Children Total treatment 
+duration (67,68)
+First 
+choice
+ Amoxicillin (oral): 500 mg 
+given every 8 hours
+OR
+ Phenoxymethylpenicillin 
+(oral): 500 mg (800 000 IUa) 
+given every 6 hours 
+ Amoxicillin (oral): 80–90 
+mg/kg/day 
+Oral weight bands:
+3–6 kg: 250 mg given every 
+12 hours
+6–< 10 kg: 375 mg given 
+every 12 hours
+10–< 15 kg: 500 mg given 
+every 12 hours
+15–< 20 kg: 750 mg given 
+every 12 hours
+≥ 20 kg: 500 mg given every 
+8 hours or 1 g given every 
+12 hours
+OR
+ Phenoxymethylpenicillin 
+(oral): 10–15 mg/kg/dose 
+(16 000–24 000 IU/kg/dosea) 
+given every 6 to 8 hours
+5b or 10c days 
+depending on the 
+local prevalence or 
+previous history of 
+rheumatic fever
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book59
+PRIMARY HEALTH CARE 
+6. Pharyngitis
+Table 6.5 continued
+Adults Children Total treatment 
+duration (67,68)
+Second 
+choice
+ Cefalexin (oral): 500 mg 
+given every 8 hours
+OR
+ Clarithromycin d (oral): 
+500 mg given every 
+12 hours
+ Cefalexin (oral): 25 mg/kg/
+dose given every 12 hours
+Oral weight bands:
+3–< 6 kg: 125 mg given 
+every 12 hours
+6–< 10 kg: 250 mg given 
+every 12 hours
+10–< 15 kg: 375 mg given 
+every 12 hours
+15–< 20 kg 500 mg given 
+every 12 hours
+20–< 30 kg: 625 mg given 
+every 12 hours
+≥ 30 kg: use adult dose
+OR
+ Clarithromycin d (oral): 
+7.5 mg/kg/dose given every 
+12 hours
+5 days
+IU: international units.
+Note. All dosages are for normal renal and hepatic function.
+a Units of the potassium salt.
+b In settings with a low prevalence of rheumatic fever or in patients with no history of rheumatic fever or rheumatic 
+heart disease.
+c In settings with a high prevalence of rheumatic fever or in patients with a history of rheumatic fever or rheumatic 
+heart disease and who are aged between 3 and 21 years.
+d In settings with a high prevalence of macrolide resistance among Streptococcus pyogenes, clarithromycin should 
+not be recommended for the empiric treatment of Streptococcus pyogenes pharyngitis. Azithromycin could be used 
+as an alternative (e.g. when clarithromycin is not available) but there are increasing concerns about its potential for 
+the emergence and spread of antibiotic resistance because of its long half-life.
+ACCESS antibiotics are highlighted in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+Prevention
+Streptococcus pyogenes pharyngitis, rheumatic fever and 
+rheumatic heart disease
+Currently, there is no licensed vaccine to prevent pharyngitis caused by Streptococcus 
+pyogenes. Hand and respiratory hygiene are the best methods to limit transmission to
+60The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+6. Pharyngitis
+others. In countries where rheumatic fever is endemic, primary prevention of rheumatic 
+fever relies on effective treatment of Streptococcus pyogenes pharyngitis.
+In patients with a previous episode of rheumatic fever, long-term antibiotic 
+prophylaxis with benzathine benzylpenicillin every 3–4 weeks is recommended in order to 
+prevent subsequent episodes of Streptococcus pyogenes pharyngitis, which would carry a 
+higher risk of a new episode of rheumatic fever and ultimately rheumatic heart disease (53). 
+The duration of prophylaxis should be decided on a case-by-case basis.
+Of note, WHO is currently developing guidelines for the prevention and management 
+of rheumatic fever and rheumatic heart disease (52).
+Other causes of bacterial pharyngitis: diphtheria
+WHO recommends that all children worldwide be immunized against diphtheria and that 
+people of any age who are unvaccinated or not fully vaccinated against diphtheria receive 
+the doses necessary to complete their vaccination (54).
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.129 | p.129-129 | audience=pediatric] ---
+105
+4. COUGH
+Monitoring
+The child’s condition, especially respiratory status, should be assessed by 
+nurses every 3 h and by doctors twice a day. The child should occupy a bed 
+close to the nursing station, so that any sign of incipient airway obstruction 
+can be detected as soon as it develops.
+4.6.2 Diphtheria 
+Diphtheria is a bacterial infection, which can be prevented by immunization. 
+Infection in the upper airway or nasopharynx produces a grey membrane, which, 
+when present in the larynx or trachea, can cause stridor and obstruction. Nasal 
+involvement produces a bloody discharge. 
+Diphtheria toxin causes muscular paralysis 
+and myocarditis, which are associated with 
+mortality. 
+Diagnosis
+ ■Carefully examine the child’s nose and 
+t
+hroat and look for a grey, adherent 
+membrane. Great care is needed when 
+examining the throat, as the examination 
+may precipitate complete obstruction 
+of the airway. A child with pharyngeal 
+diphtheria may have an obviously swollen neck, termed a ‘bull neck’.
+Treatment
+Antitoxin 
+ /L50776Give 40 000 U diphtheria antitoxin (IM 
+o
+r IV) immediately, because delay can 
+increase the risk for mortality. As there 
+is a small risk for a serious allergic reaction to the horse serum in the antitoxin, an initial intradermal test to detect 
+hypersensitivity should be carried out, as described in the instructions, and 
+treatment for anaphylaxis should be available (see p. 108).
+Antibiotics
+ /L50776Any child with suspected diphtheria should be given a daily deep IM injection 
+o
+f procaine benzylpenicillin at 50 mg/kg (maximum, 1.2 g) daily for 10 days. 
+This drug should not be given IV.
+DIPHTHERIA
+Pharyngeal membrane 
+of diphtheria. Note: the 
+membrane extends beyond 
+the tonsils and covers the 
+adjacent pharyngeal wall.
+PB2_ch4.indd 105PB2_ch4.indd 105 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 4.1.9 Rheumatic Fever | p.388-391 | audience=general] ---
+A systemic connective tissue disease which follows a streptococcal
+upper respiratory tract infection. It may involve the heart, joints, skin,
+subcutaneous tissue, and CNS. The first attack usually occurs between
+ages of 3–15 years.
+Causes
+~ Hypersensitivity reaction to group A streptococcal throat
+infection
+Clinical features
+~ Arthritis (migrating asymmetric polyarthritis)
+~ Acute rheumatic carditis, signs of cardiac failure, murmurs
+and pericarditis
+~ Subcutaneous nodules
+~ Chorea (involuntary movements of limbs)
+~ Skin rash
+~ Other minor signs/symptoms: fever, arthralgia, laboratory
+findings
+Differential diagnosis
+~ Any form of arthralgia/arthritis including sickle cell disease,
+haemophilia
+~ Pyrexia with cardiac failure
+Investigations
+- Blood: Haemogram (raised ESR)
+- Chest X-ray
+- ECG
+- Echocardiography
+- Antistreptolysin O titre (ASOT)
+Diagnostic criteria (revised Jones criteria)
+~ Evidence of recent streptococcal infection
+322
+Uganda Clinical Guidelines 2023CHAPTER 4: Cardiovascular Diseases
+- Elevated ASO-titer or other streptococcal Ab titres or positive
+throat swab for group A beta-hemolyticus streptococcus
+PLUS
+~ Two major manifestations or one major and two minor
+manifestations
+MAJOR MANIFESTATIONS MINOR MANIFESTATIONS
+~ Polyarthritis
+~ Carditis
+~ Erythema marginatum
+~ Subcutaneous nodules
+~ Sydehnam’s chorea
+~ Polyarthralgia
+~ Fever
+~ Acute phase reactants (increased ESR/
+CRP)
+~ ECG: prolonged PR
+in
+TREATMENT LOC
+- Bed rest
+To eradicate any streptococci:
+- Phenoxymethylpenicillin (Pen V) 250 mg every 6 hours
+for 10 days
+Child: 125 mg per dose
+- Or Benzathine benzylpenicillin dose 1.2 MU IM stat
+Child < 30 kg: 0.6 MU
+Child > 30 kg: 1.2 MU
+To treat the inflammation
+- Acetylsalicylic acid 4-8 g/day untill signs of inflammation
+subside (usually 4-8 weeks)
+Child: 80-100 mg/kg/day in 3 doses
+- Plus magnesium trisilicate compound 2-4 tablets every 8 hours
+HC4
+Management of stable angina
+323
+Uganda Clinical Guidelines 2023CHAPTER 4: Cardiovascular Diseases
+TREATMENT LOC
+Taken 30 minutes after the acetylsalicylic acid tablets
+If allergic to aspirin
+- Low dose steroid
+HC4
+If carditis/heart failure symptoms
+- Treat as per heart failure guidelines (section 4.1.3)
+- Consider high dose steroids (specialist only)
+If chorea:
+- Valproate 10-20 mg/kg/day
+H
+Prophylaxis
+To prevent further episodes
+- Pen V 500 mg 12 hourly
+Child: 125-250 mg 12 hourly
+- Or Benzathine benzylpenicillin 1.2 MU IM every 4 weeks
+Child <30 kg: 0.6 MU
+If allergic to penicillin:
+- Erythromycin 250 mg 12 hourly
+- Child: 10 mg/kg twice a day
+Duration of prophylaxis depends on severity of disease:
+- Rheumatic fever without carditis: for 5 years or
+until age 18 or 21 years old
+- Carditis but no residual heart disease: for 10 years
+- or until age 25 years old
+- Carditis with residual heart disease: untill age 40-
+45 years or for life
+HC3
+Management of stable angina
+324
+Uganda Clinical Guidelines 2023CHAPTER 4: Cardiovascular Diseases
+Prevention
+~ Early diagnosis and treatment of group A Streptococcus
+throat infection
+~ Avoid overcrowding, good housing
+~ Good nutrition
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 21.3.3 Pharyngitis (Sore Throat) | p.1035-1036 | audience=general] ---
+Inflammation of the throat
+Causes
+~ Most cases are viral
+~ Bacterial: commonly Group A haemolytic Streptococci, diphtheria in non-immunized children
+~ Gonorrhoea (usually from oral sex)
+~ May also follow ingestion of undiluted spirits
+~ Candida albicans in the immunosuppressed
+Clinical features
+~ Abrupt onset
+~ Throat pain
+~ Pain on swallowing
+~ Mild fever, loss of appetite, general malaise
+~ In children: nausea, vomiting, and diarrhoea
+~ The presence of runny nose, hoarseness, cough, conjunctivitis,
+viral rash, diarrhea suggests viral infection
+~ The presence of tonsilar exudates, tender neck glands, high fever, and absence of cough suggest a bacterial pharyngotonsillitis
+(see section 21.3.4)
+Differential diagnosis
+~ Tonsillitis, epiglottitis, laryngitis
+~ Otitis media if there is referred pain
+Investigations
+- Throat examination with torch and tongue depressor
+- Throat swab for microscopy, C&S
+970
+Uganda Clinical Guidelines 2023CHAPTER 21 : Ear, Nose & Throat Conditions
+- Blood: Full blood count
+- Serological test for haemolytic streptococci (ASOT)
+TREATMENT LOC
+Supportive care
+Most cases are viral and do not require antibiotics
+- Keep the patient warm
+- Give plenty of (warm) oral fluids e.g., tea
+- Give analgesics, e.g., Paracetamol for 3 days
+- Review the patient for progress
+For Streptococcal pharyngitis: see section 21.3.4
+HC2
+Notes
+- If not properly treated, streptococcal pharyngitis may
+lead to acute rheumatic fever and retropharyngeal or
+peritonsillar abscess
+- Therefore ensure that the full 10-day courses of
+antibiotics are completed where applicable
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 21.3.4 Pharyngo-Tonsillitis | p.1036-1037 | audience=general] ---
+Inflammation of the tonsils
+Cause
+~ Streptococcal infection (most common)
+~ Viral infection (less common)
+Clinical features
+~ Sudden onset, most common in children
+~ Sore throat
+~ Fever, shivering, headache, vomiting
+~ Tonsils enlarged and with exudate and cervical lymph nodes
+Complications
+~ Local: peritonsillar cellulitis and abscess (quinsy),
+971
+Uganda Clinical Guidelines 2023CHAPTER 21 : Ear, Nose & Throat Conditions
+~ Systemic complications: bacterial endocarditis, glomerulonephritis, rheumatic fever (see section 4.1.9)
+Differential diagnosis
+~ Pharyngitis
+~ Submandibular lymphadenitis
+~ Investigations
+~ Throat swab: For C&S
+Management
+TREATMENT LOC
+Bacterial pharyngotonsillitis
+- Phenoxymethylpenicillin 500 mg every 6 hours for 10 days
+- Child: 10-20 mg/kg per dose
+- Or Benzathine penicillin 1.2 MU IM single dose
+- Child: <30 kg: 30,000 IU/kg
+If allergic to penicillin
+- Erythromycin 500 mg every 6 hours for 10 days
+- Child: 12.5 mg/kg per dose
+Viral pharyngotonsillitis
+- Treat symptomatically with analgesics and increased
+oral fluids
+HC2
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 21.3.5 Peritonsillar Abscess (Quinsy) | p.1037-1040 | audience=general] ---
+An abscess between the tonsil capsule and the lateral wall of the pharynx
+Cause
+~ Follows (often mild) tonsillitis attack
+Clinical features
+~ Severe throat pain
+~ Fever, headache, malaise, rigors may occur
+~ Inability to open the mouth; salivation and dribbling
+972
+Uganda Clinical Guidelines 2023CHAPTER 21 : Ear, Nose & Throat Conditions
+~ Bad mouth odour
+~ Thickened muffled (unclear) speech
+~ Ear pain
+~ Enlarged cervical lymph nodes
+~ Tonsil and soft palate reddish and oedematous
+~ Swelling pushing the uvula to opposite side
+~ – May be pointing (bulging collection of pus)
+Differential diagnosis
+~ Tumour
+~ Tonsillitis
+~ Abscess in the pharynx
+Investigations
+- Carry out C&S on pus if present or after drainage
+Management
+TREATMENT LOC
+Early stages: Disease of adolescents and adults
+- Conservative management
+- Bed rest
+- Adult: Benzylpenicillin 2 MU IV or IM every 6 hours
+for 48 hours then switch to amoxicillin 500 mg every 8
+hours to complete a total of 7 days
+If not better in 48 hours
+- Ceftriaxone 1 g IV once daily for 7 days Child: 50 mg/
+kg IV
+- Plus metronidazole 500 mg IV every 8 hours Child: 10
+mg/kg IV every 8 hours
+HC2
+973
+Uganda Clinical Guidelines 2023CHAPTER 21 : Ear, Nose & Throat Conditions
+TREATMENT LOC
+If unable to take oral fluids
+- Set up an IV drip e.g. Normal saline
+When swelling is marked
+- Surgery (which should be done by a trained person)
+- Suction facility will be needed
+- Carry out incision and drainage at the most
+pointing area with the protected tip of no.11
+surgical blade
+- 6 weeks later: Refer for tonsillectomy as this condition
+might recur
+Prevention
+~ Prompt and adequate treatment of tonsillitis
+974
+Uganda Clinical Guidelines 2023CHAPTER 22 : Skin Diseases

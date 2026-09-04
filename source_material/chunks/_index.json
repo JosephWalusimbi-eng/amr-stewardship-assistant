@@ -1,0 +1,1724 @@
+{
+  "acute_bronchitis": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "4. Bronchitis",
+      "pages": "45-51",
+      "audience": "general",
+      "chars": 13537
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "5.2.1 Bronchiolitis",
+      "pages": "410-412",
+      "audience": "general",
+      "chars": 2184
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "5.2.2 Acute Bronchitis",
+      "pages": "412-413",
+      "audience": "general",
+      "chars": 1528
+    }
+  ],
+  "acute_diarrhoea": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "14. Acute infectious diarrhoea/gastroenteritis",
+      "pages": "185-200",
+      "audience": "general",
+      "chars": 33796
+    },
+    {
+      "doc": "WHO IMCI Chart Booklet",
+      "section": "p.1",
+      "pages": "1-1",
+      "audience": "pediatric",
+      "chars": 5879
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.2",
+      "pages": "2-2",
+      "audience": "pediatric",
+      "chars": 4629
+    },
+    {
+      "doc": "WHO IMCI Chart Booklet",
+      "section": "p.3",
+      "pages": "3-3",
+      "audience": "pediatric",
+      "chars": 2055
+    },
+    {
+      "doc": "WHO IMCI Chart Booklet",
+      "section": "p.7",
+      "pages": "7-7",
+      "audience": "pediatric",
+      "chars": 2773
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.8",
+      "pages": "8-8",
+      "audience": "pediatric",
+      "chars": 1034
+    },
+    {
+      "doc": "WHO IMCI Chart Booklet",
+      "section": "p.12",
+      "pages": "12-12",
+      "audience": "pediatric",
+      "chars": 2568
+    },
+    {
+      "doc": "WHO IMCI Chart Booklet",
+      "section": "p.13",
+      "pages": "13-13",
+      "audience": "pediatric",
+      "chars": 2216
+    },
+    {
+      "doc": "WHO IMCI Chart Booklet",
+      "section": "p.14",
+      "pages": "14-14",
+      "audience": "pediatric",
+      "chars": 2462
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.14",
+      "pages": "14-14",
+      "audience": "pediatric",
+      "chars": 1632
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.15",
+      "pages": "15-15",
+      "audience": "pediatric",
+      "chars": 2099
+    },
+    {
+      "doc": "WHO IMCI Chart Booklet",
+      "section": "p.23",
+      "pages": "23-23",
+      "audience": "pediatric",
+      "chars": 2079
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.30",
+      "pages": "30-30",
+      "audience": "pediatric",
+      "chars": 1955
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.37",
+      "pages": "37-37",
+      "audience": "pediatric",
+      "chars": 1881
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.41",
+      "pages": "41-41",
+      "audience": "pediatric",
+      "chars": 1714
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.43",
+      "pages": "43-43",
+      "audience": "pediatric",
+      "chars": 2487
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.46",
+      "pages": "46-46",
+      "audience": "pediatric",
+      "chars": 1374
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "1.1.3 Dehydration",
+      "pages": "74-74",
+      "audience": "general",
+      "chars": 451
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "1.1.3.1 Dehydration in Children under 5 years",
+      "pages": "74-78",
+      "audience": "pediatric",
+      "chars": 5250
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "1.1.3.2 Dehydration in Older Children and Adults",
+      "pages": "79-81",
+      "audience": "pediatric",
+      "chars": 2590
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.149",
+      "pages": "149-149",
+      "audience": "pediatric",
+      "chars": 1796
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.150",
+      "pages": "150-150",
+      "audience": "pediatric",
+      "chars": 1481
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.151",
+      "pages": "151-151",
+      "audience": "pediatric",
+      "chars": 1290
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.152",
+      "pages": "152-152",
+      "audience": "pediatric",
+      "chars": 1280
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.153",
+      "pages": "153-153",
+      "audience": "pediatric",
+      "chars": 1263
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.154",
+      "pages": "154-154",
+      "audience": "pediatric",
+      "chars": 2284
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.155",
+      "pages": "155-155",
+      "audience": "pediatric",
+      "chars": 2175
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.156",
+      "pages": "156-156",
+      "audience": "pediatric",
+      "chars": 1871
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.157",
+      "pages": "157-157",
+      "audience": "pediatric",
+      "chars": 1955
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.158",
+      "pages": "158-158",
+      "audience": "pediatric",
+      "chars": 2122
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.159",
+      "pages": "159-159",
+      "audience": "pediatric",
+      "chars": 1623
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.160",
+      "pages": "160-160",
+      "audience": "pediatric",
+      "chars": 1742
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.161",
+      "pages": "161-161",
+      "audience": "pediatric",
+      "chars": 2007
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.162",
+      "pages": "162-162",
+      "audience": "pediatric",
+      "chars": 2047
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.163",
+      "pages": "163-163",
+      "audience": "pediatric",
+      "chars": 2308
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.164",
+      "pages": "164-164",
+      "audience": "pediatric",
+      "chars": 2128
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.165",
+      "pages": "165-165",
+      "audience": "pediatric",
+      "chars": 1630
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.166",
+      "pages": "166-166",
+      "audience": "pediatric",
+      "chars": 1928
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.167",
+      "pages": "167-167",
+      "audience": "pediatric",
+      "chars": 2011
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.168",
+      "pages": "168-168",
+      "audience": "pediatric",
+      "chars": 1523
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.169",
+      "pages": "169-169",
+      "audience": "pediatric",
+      "chars": 2205
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.170",
+      "pages": "170-170",
+      "audience": "pediatric",
+      "chars": 2248
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.227",
+      "pages": "227-227",
+      "audience": "pediatric",
+      "chars": 1937
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.228",
+      "pages": "228-228",
+      "audience": "pediatric",
+      "chars": 2555
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.243",
+      "pages": "243-243",
+      "audience": "pediatric",
+      "chars": 1983
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.431",
+      "pages": "431-431",
+      "audience": "pediatric",
+      "chars": 1777
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.437",
+      "pages": "437-437",
+      "audience": "pediatric",
+      "chars": 4629
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "6.1.5 Diarrhoea",
+      "pages": "469-471",
+      "audience": "general",
+      "chars": 2514
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "6.2.1 Amoebiasis",
+      "pages": "471-473",
+      "audience": "general",
+      "chars": 1694
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "6.2.2 Bacillary Dysentery (Shigellosis)",
+      "pages": "473-475",
+      "audience": "general",
+      "chars": 2095
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "6.2.4 Giardiasis",
+      "pages": "475-476",
+      "audience": "general",
+      "chars": 1142
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "17.2.3 Check for Diarrhoea/Dehydration",
+      "pages": "877-881",
+      "audience": "general",
+      "chars": 2633
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "17.3.3 Child Has Diarrhoea",
+      "pages": "896-900",
+      "audience": "pediatric",
+      "chars": 4057
+    }
+  ],
+  "acute_otitis_media": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "5. Acute otitis media",
+      "pages": "52-61",
+      "audience": "general",
+      "chars": 17263
+    },
+    {
+      "doc": "WHO IMCI Chart Booklet",
+      "section": "p.16",
+      "pages": "16-16",
+      "audience": "pediatric",
+      "chars": 2570
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.207",
+      "pages": "207-207",
+      "audience": "pediatric",
+      "chars": 1344
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.208",
+      "pages": "208-208",
+      "audience": "pediatric",
+      "chars": 1864
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "21.1.3 Otitis External",
+      "pages": "1015-1017",
+      "audience": "general",
+      "chars": 1283
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "21.1.4 Otitis Media (Suppurative)",
+      "pages": "1017-1019",
+      "audience": "general",
+      "chars": 2261
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "21.1.5 Glue Ear (Otitis Media with Effusion)",
+      "pages": "1019-1020",
+      "audience": "general",
+      "chars": 1170
+    }
+  ],
+  "acute_sinusitis": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "7. Acute sinusitis",
+      "pages": "77-87",
+      "audience": "general",
+      "chars": 19611
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "21.2.4 Sinusitis (Acute)",
+      "pages": "1026-1028",
+      "audience": "general",
+      "chars": 1858
+    }
+  ],
+  "antibiotic_allergy": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "3. Allergy to antibiotics",
+      "pages": "36-42",
+      "audience": "general",
+      "chars": 15101
+    }
+  ],
+  "aware_classification": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "2. Improving the use of antibiotics with the AWaRe book",
+      "pages": "21-35",
+      "audience": "general",
+      "chars": 29326
+    }
+  ],
+  "bacterial_meningitis": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "26. Bacterial meningitis",
+      "pages": "361-377",
+      "audience": "general",
+      "chars": 37545
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.9",
+      "pages": "9-9",
+      "audience": "pediatric",
+      "chars": 1047
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.49",
+      "pages": "49-49",
+      "audience": "pediatric",
+      "chars": 1891
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.79",
+      "pages": "79-79",
+      "audience": "pediatric",
+      "chars": 1716
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.1.5 Meningitis",
+      "pages": "173-177",
+      "audience": "general",
+      "chars": 4384
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.173",
+      "pages": "173-173",
+      "audience": "pediatric",
+      "chars": 1084
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.1.5.1 Neonatal Meningitis",
+      "pages": "177-178",
+      "audience": "pediatric",
+      "chars": 1522
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.1.5.2 Cryptococcal Meningitis",
+      "pages": "178-178",
+      "audience": "general",
+      "chars": 516
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.1.5.3 TB Meningitis",
+      "pages": "179-179",
+      "audience": "general",
+      "chars": 480
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.184",
+      "pages": "184-184",
+      "audience": "pediatric",
+      "chars": 2059
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.191",
+      "pages": "191-191",
+      "audience": "pediatric",
+      "chars": 1417
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.192",
+      "pages": "192-192",
+      "audience": "pediatric",
+      "chars": 918
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.193",
+      "pages": "193-193",
+      "audience": "pediatric",
+      "chars": 2046
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.194",
+      "pages": "194-194",
+      "audience": "pediatric",
+      "chars": 2250
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.195",
+      "pages": "195-195",
+      "audience": "pediatric",
+      "chars": 2355
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.196",
+      "pages": "196-196",
+      "audience": "pediatric",
+      "chars": 2176
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.197",
+      "pages": "197-197",
+      "audience": "pediatric",
+      "chars": 2647
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.203",
+      "pages": "203-203",
+      "audience": "pediatric",
+      "chars": 1786
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.206",
+      "pages": "206-206",
+      "audience": "pediatric",
+      "chars": 1614
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "3.1.10.2 Cryptococcal Meningitis",
+      "pages": "321-326",
+      "audience": "general",
+      "chars": 6923
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.1.5.1 meningitis, 2.1.8.1",
+      "pages": "863-867",
+      "audience": "general",
+      "chars": 3014
+    }
+  ],
+  "burn_wound_infections": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "17. Burn wound-related infections",
+      "pages": "222-230",
+      "audience": "general",
+      "chars": 18023
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "1.2.3 Burns",
+      "pages": "111-118",
+      "audience": "general",
+      "chars": 8733
+    }
+  ],
+  "c_difficile": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "33. Intra-abdominal infections - Clostridioides difficile infection",
+      "pages": "480-489",
+      "audience": "general",
+      "chars": 21604
+    }
+  ],
+  "copd_exacerbation": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "13. Exacerbation of chronic obstructive pulmonary disease",
+      "pages": "178-184",
+      "audience": "general",
+      "chars": 13026
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "5.1.2 Chronic Obstructive Pulmonary Disease (COPD)",
+      "pages": "406-410",
+      "audience": "general",
+      "chars": 4974
+    }
+  ],
+  "dosing_guidance_adults": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "49. Dosing guidance - Adults",
+      "pages": "645-654",
+      "audience": "general",
+      "chars": 11892
+    }
+  ],
+  "dosing_guidance_children": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "50. Dosing guidance - Children",
+      "pages": "655-668",
+      "audience": "general",
+      "chars": 14711
+    }
+  ],
+  "enteric_fever": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "15. Enteric fever",
+      "pages": "201-208",
+      "audience": "general",
+      "chars": 19653
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.1.9 Typhoid Fever (Enteric Fever)",
+      "pages": "190-192",
+      "audience": "general",
+      "chars": 1845
+    }
+  ],
+  "eye_infections": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "10. Bacterial eye infections (excluding trachoma)",
+      "pages": "121-155",
+      "audience": "general",
+      "chars": 67993
+    },
+    {
+      "doc": "WHO IMCI Chart Booklet",
+      "section": "p.4",
+      "pages": "4-4",
+      "audience": "pediatric",
+      "chars": 3049
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.90",
+      "pages": "90-90",
+      "audience": "pediatric",
+      "chars": 1631
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "3.2.9.1 Neonatal Conjunctivitis (Ophthalmia Neonatorum)",
+      "pages": "360-361",
+      "audience": "pediatric",
+      "chars": 1740
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "20.1.2 Conjunctivitis (\u201cRed Eye\u201d)",
+      "pages": "989-991",
+      "audience": "general",
+      "chars": 1628
+    }
+  ],
+  "febrile_neutropenia": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "39. Febrile neutropenia",
+      "pages": "561-577",
+      "audience": "general",
+      "chars": 39771
+    }
+  ],
+  "formulary_antibacterials": [
+    {
+      "doc": "EMHSLU 2023",
+      "section": "6.2 Antibacterials",
+      "pages": "31-51",
+      "audience": "general",
+      "chars": 37008
+    }
+  ],
+  "formulary_other_anti_infectives": [
+    {
+      "doc": "EMHSLU 2023",
+      "section": "6.1 Sutures",
+      "pages": "56-56",
+      "audience": "general",
+      "chars": 2723
+    }
+  ],
+  "infective_endocarditis": [
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "4.1.2 Infective Endocarditis",
+      "pages": "367-370",
+      "audience": "general",
+      "chars": 3125
+    }
+  ],
+  "intraabdominal_appendicitis": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "31. Intra-abdominal infections - acute appendicitis",
+      "pages": "450-469",
+      "audience": "general",
+      "chars": 36564
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "6.1.4 Peritonitis",
+      "pages": "467-469",
+      "audience": "general",
+      "chars": 2425
+    }
+  ],
+  "intraabdominal_cholecystitis": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "29. Intra-abdominal infections - acute cholecystitis and cholangitis",
+      "pages": "412-429",
+      "audience": "general",
+      "chars": 35376
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "6.5.9 Acute Cholecystitis/Cholangitis",
+      "pages": "511-514",
+      "audience": "general",
+      "chars": 2142
+    }
+  ],
+  "intraabdominal_diverticulitis": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "32. Intra-abdominal infections - acute diverticulitis",
+      "pages": "470-479",
+      "audience": "general",
+      "chars": 20439
+    }
+  ],
+  "intraabdominal_liver_abscess": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "30. Intra-abdominal infections - pyogenic liver abscess",
+      "pages": "430-449",
+      "audience": "general",
+      "chars": 36976
+    }
+  ],
+  "lower_uti": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "23. Lower urinary tract infection",
+      "pages": "294-308",
+      "audience": "general",
+      "chars": 27444
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "7.2.1 Acute Cystitis",
+      "pages": "524-526",
+      "audience": "general",
+      "chars": 2147
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "7.2.3 Prostatitis",
+      "pages": "529-529",
+      "audience": "general",
+      "chars": 654
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "16.2.6 Urinary Tract Infections in Pregnancy",
+      "pages": "779-780",
+      "audience": "general",
+      "chars": 1083
+    }
+  ],
+  "lymphadenitis": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "9. Localized acute bacterial lymphadenitis",
+      "pages": "111-120",
+      "audience": "general",
+      "chars": 19193
+    }
+  ],
+  "necrotizing_fasciitis": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "37. Skin and soft tissue infections - necrotizing fasciitis",
+      "pages": "539-550",
+      "audience": "general",
+      "chars": 25074
+    }
+  ],
+  "oral_dental_infections": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "8. Oral and dental infections",
+      "pages": "88-110",
+      "audience": "general",
+      "chars": 51564
+    }
+  ],
+  "osteomyelitis": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "35. Acute bacterial osteomyelitis",
+      "pages": "505-522",
+      "audience": "general",
+      "chars": 37587
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "10.1.2 Osteomyelitis",
+      "pages": "622-625",
+      "audience": "general",
+      "chars": 2989
+    }
+  ],
+  "other_bacterial_infections": [
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.1.1 Anthrax",
+      "pages": "161-163",
+      "audience": "general",
+      "chars": 2884
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.1.2 Brucellosis",
+      "pages": "163-165",
+      "audience": "general",
+      "chars": 2359
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.1.3 Diphtheria",
+      "pages": "166-167",
+      "audience": "general",
+      "chars": 1983
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.1.4 Leprosy/Hansens disease",
+      "pages": "167-173",
+      "audience": "general",
+      "chars": 7040
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.1.6 Plague",
+      "pages": "179-181",
+      "audience": "general",
+      "chars": 1607
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.1.8 Tetanus",
+      "pages": "185-188",
+      "audience": "general",
+      "chars": 3729
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.1.8.1 Neonatal Tetanus",
+      "pages": "189-190",
+      "audience": "pediatric",
+      "chars": 1878
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.1.10 Typhus Fever",
+      "pages": "192-193",
+      "audience": "general",
+      "chars": 1334
+    }
+  ],
+  "other_respiratory_infections": [
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "5.2.4 Acute Epiglottitis",
+      "pages": "415-416",
+      "audience": "general",
+      "chars": 1441
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "5.2.6 Laryngitis",
+      "pages": "418-419",
+      "audience": "general",
+      "chars": 1105
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "5.2.7 Acute Laryngotracheobronchitis (Croup)",
+      "pages": "419-421",
+      "audience": "general",
+      "chars": 2014
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "5.2.8 Pertussis (Whooping Cough)",
+      "pages": "421-423",
+      "audience": "general",
+      "chars": 2139
+    }
+  ],
+  "pelvic_inflammatory_disease": [
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "14.1.2 Pelvic Inflammatory Disease (PID)",
+      "pages": "710-713",
+      "audience": "general",
+      "chars": 3154
+    }
+  ],
+  "pharyngitis": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "6. Pharyngitis",
+      "pages": "62-76",
+      "audience": "general",
+      "chars": 28595
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.129",
+      "pages": "129-129",
+      "audience": "pediatric",
+      "chars": 1841
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "4.1.9 Rheumatic Fever",
+      "pages": "388-391",
+      "audience": "general",
+      "chars": 3084
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "21.3.3 Pharyngitis (Sore Throat)",
+      "pages": "1035-1036",
+      "audience": "general",
+      "chars": 1586
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "21.3.4 Pharyngo-Tonsillitis",
+      "pages": "1036-1037",
+      "audience": "general",
+      "chars": 1060
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "21.3.5 Peritonsillar Abscess (Quinsy)",
+      "pages": "1037-1040",
+      "audience": "general",
+      "chars": 1713
+    }
+  ],
+  "pneumonia_hospital_acquired": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "28. Hospital-acquired pneumonia",
+      "pages": "397-411",
+      "audience": "general",
+      "chars": 36076
+    }
+  ],
+  "pneumonia_mild": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "12. Community-acquired pneumonia - mild",
+      "pages": "163-177",
+      "audience": "general",
+      "chars": 33444
+    },
+    {
+      "doc": "WHO IMCI Chart Booklet",
+      "section": "p.2",
+      "pages": "2-2",
+      "audience": "pediatric",
+      "chars": 2557
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.7",
+      "pages": "7-7",
+      "audience": "pediatric",
+      "chars": 1331
+    },
+    {
+      "doc": "WHO IMCI Chart Booklet",
+      "section": "p.11",
+      "pages": "11-11",
+      "audience": "pediatric",
+      "chars": 1496
+    },
+    {
+      "doc": "WHO IMCI Chart Booklet",
+      "section": "p.20",
+      "pages": "20-20",
+      "audience": "pediatric",
+      "chars": 1452
+    },
+    {
+      "doc": "WHO IMCI Chart Booklet",
+      "section": "p.22",
+      "pages": "22-22",
+      "audience": "pediatric",
+      "chars": 3260
+    },
+    {
+      "doc": "WHO IMCI Chart Booklet",
+      "section": "p.33",
+      "pages": "33-33",
+      "audience": "pediatric",
+      "chars": 4714
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.99",
+      "pages": "99-99",
+      "audience": "pediatric",
+      "chars": 1346
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.101",
+      "pages": "101-101",
+      "audience": "pediatric",
+      "chars": 1358
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.104",
+      "pages": "104-104",
+      "audience": "pediatric",
+      "chars": 1514
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.105",
+      "pages": "105-105",
+      "audience": "pediatric",
+      "chars": 1271
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.106",
+      "pages": "106-106",
+      "audience": "pediatric",
+      "chars": 2063
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.107",
+      "pages": "107-107",
+      "audience": "pediatric",
+      "chars": 2500
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.108",
+      "pages": "108-108",
+      "audience": "pediatric",
+      "chars": 2113
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.109",
+      "pages": "109-109",
+      "audience": "pediatric",
+      "chars": 856
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.110",
+      "pages": "110-110",
+      "audience": "pediatric",
+      "chars": 1766
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.111",
+      "pages": "111-111",
+      "audience": "pediatric",
+      "chars": 1292
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.112",
+      "pages": "112-112",
+      "audience": "pediatric",
+      "chars": 2180
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.115",
+      "pages": "115-115",
+      "audience": "pediatric",
+      "chars": 1784
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.116",
+      "pages": "116-116",
+      "audience": "pediatric",
+      "chars": 1671
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.118",
+      "pages": "118-118",
+      "audience": "pediatric",
+      "chars": 1849
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.119",
+      "pages": "119-119",
+      "audience": "pediatric",
+      "chars": 2246
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.136",
+      "pages": "136-136",
+      "audience": "pediatric",
+      "chars": 1952
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.138",
+      "pages": "138-138",
+      "audience": "pediatric",
+      "chars": 1887
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.144",
+      "pages": "144-144",
+      "audience": "pediatric",
+      "chars": 2101
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.178",
+      "pages": "178-178",
+      "audience": "pediatric",
+      "chars": 1865
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.186",
+      "pages": "186-186",
+      "audience": "pediatric",
+      "chars": 2452
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.200",
+      "pages": "200-200",
+      "audience": "pediatric",
+      "chars": 2216
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.251",
+      "pages": "251-251",
+      "audience": "pediatric",
+      "chars": 2024
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.255",
+      "pages": "255-255",
+      "audience": "pediatric",
+      "chars": 1894
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.268",
+      "pages": "268-268",
+      "audience": "pediatric",
+      "chars": 2108
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "3.1.10.4 Pneumocystis Pneumonia",
+      "pages": "329-330",
+      "audience": "general",
+      "chars": 1513
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "5.2.9 Pneumonia",
+      "pages": "423-424",
+      "audience": "general",
+      "chars": 1510
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "5.2.9.1 Pneumonia in an Infant (up to 2 months)",
+      "pages": "424-426",
+      "audience": "pediatric",
+      "chars": 1697
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "5.2.9.2 Pneumonia in a Child of 2 months-5 years",
+      "pages": "426-428",
+      "audience": "pediatric",
+      "chars": 2485
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "5.2.9.3 Pneumonia in Children > 5 years and adults",
+      "pages": "429-430",
+      "audience": "pediatric",
+      "chars": 1865
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "5.2.9.4 Pneumonia by Specific Organisms",
+      "pages": "430-431",
+      "audience": "general",
+      "chars": 958
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "5.2.9.6 Lung Abscess",
+      "pages": "432-433",
+      "audience": "general",
+      "chars": 1696
+    }
+  ],
+  "pneumonia_severe": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "27. Community-acquired pneumonia - severe",
+      "pages": "378-396",
+      "audience": "general",
+      "chars": 41974
+    }
+  ],
+  "pyomyositis": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "38. Skin and soft tissue infections - pyomyositis",
+      "pages": "551-560",
+      "audience": "general",
+      "chars": 20617
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "10.1.3 Pyomyositis",
+      "pages": "625-626",
+      "audience": "general",
+      "chars": 1058
+    }
+  ],
+  "reserve_antibiotics": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "41. Overview",
+      "pages": "593-597",
+      "audience": "general",
+      "chars": 12471
+    },
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "42. Cefiderocol",
+      "pages": "598-604",
+      "audience": "general",
+      "chars": 14398
+    },
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "43. Ceftazidime+avibactam",
+      "pages": "605-610",
+      "audience": "general",
+      "chars": 13614
+    },
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "44. Fosfomycin (intravenous)",
+      "pages": "611-616",
+      "audience": "general",
+      "chars": 13562
+    },
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "45. Linezolid",
+      "pages": "617-621",
+      "audience": "general",
+      "chars": 10015
+    },
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "46. Meropenem+vaborbactam",
+      "pages": "622-626",
+      "audience": "general",
+      "chars": 10944
+    },
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "47. Plazomicin",
+      "pages": "627-632",
+      "audience": "general",
+      "chars": 11286
+    },
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "48. Polymyxin B and colistin (polymyxin E)",
+      "pages": "633-642",
+      "audience": "general",
+      "chars": 20347
+    }
+  ],
+  "sepsis_adults": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "24. Sepsis in adults (including septic shock)",
+      "pages": "311-334",
+      "audience": "general",
+      "chars": 52484
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.1.7 Septicaemia",
+      "pages": "181-183",
+      "audience": "general",
+      "chars": 2404
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.1.7.2 Septic Shock Management, In Adults",
+      "pages": "184-185",
+      "audience": "general",
+      "chars": 1415
+    }
+  ],
+  "sepsis_neonatal_paediatric": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "25. Sepsis in neonates (< 28 days) and children (28 days-12 years)",
+      "pages": "335-360",
+      "audience": "general",
+      "chars": 55825
+    },
+    {
+      "doc": "WHO Pocket Book of Hospital Care for Children (2nd ed.)",
+      "section": "p.78",
+      "pages": "78-78",
+      "audience": "pediatric",
+      "chars": 1642
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.1.7.1 Neonatal Septicaemia",
+      "pages": "183-184",
+      "audience": "pediatric",
+      "chars": 975
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "16.4.7 Puerperal Fever/Sepsis",
+      "pages": "816-818",
+      "audience": "general",
+      "chars": 2286
+    }
+  ],
+  "septic_arthritis": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "36. Septic arthritis",
+      "pages": "523-538",
+      "audience": "general",
+      "chars": 34865
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "10.1.1 Pyogenic Arthritis (Septic Arthritis)",
+      "pages": "620-622",
+      "audience": "general",
+      "chars": 2929
+    }
+  ],
+  "skin_soft_tissue_mild": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "16. Skin and soft tissue infections - mild bacterial impetigo, erysipelas and cellulitis",
+      "pages": "209-221",
+      "audience": "general",
+      "chars": 25744
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "16.6.3 Mastitis/Breast Abscess",
+      "pages": "848-850",
+      "audience": "general",
+      "chars": 2053
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "22.1.1 Impetigo",
+      "pages": "1040-1042",
+      "audience": "general",
+      "chars": 1860
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "22.1.3 Cellulitis and Erysipelas",
+      "pages": "1043-1045",
+      "audience": "general",
+      "chars": 1793
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "23.2.4 Acute Periapical Abscess or Dental Abscess",
+      "pages": "1079-1081",
+      "audience": "general",
+      "chars": 1773
+    }
+  ],
+  "sti_chlamydia": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "19. Sexually transmitted infections - chlamydial urogenital infection",
+      "pages": "246-256",
+      "audience": "general",
+      "chars": 24346
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "3.2.5 Inguinal Swelling (Bubo)",
+      "pages": "352-354",
+      "audience": "general",
+      "chars": 2120
+    }
+  ],
+  "sti_gonorrhoea": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "20. Sexually transmitted infections - gonococcal infection",
+      "pages": "257-269",
+      "audience": "general",
+      "chars": 28496
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "3.2.1 Urethral Discharge Syndrome (Male)",
+      "pages": "342-344",
+      "audience": "general",
+      "chars": 2643
+    }
+  ],
+  "sti_syphilis": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "21. Sexually transmitted infections - syphilis",
+      "pages": "270-286",
+      "audience": "general",
+      "chars": 38827
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "3.2.4 Genital Ulcer Disease (GUD) Syndrome",
+      "pages": "349-350",
+      "audience": "general",
+      "chars": 1627
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "3.2.7 Syphilis",
+      "pages": "356-358",
+      "audience": "general",
+      "chars": 2685
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "3.2.9.2 Congenital Syphilis",
+      "pages": "361-362",
+      "audience": "general",
+      "chars": 1294
+    }
+  ],
+  "sti_trichomoniasis": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "22. Sexually transmitted infections - trichomoniasis",
+      "pages": "287-293",
+      "audience": "general",
+      "chars": 14879
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "3.2.2 Abnormal Vaginal Discharge Syndrome",
+      "pages": "345-349",
+      "audience": "general",
+      "chars": 4470
+    }
+  ],
+  "surgical_prophylaxis": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "40. Surgical prophylaxis",
+      "pages": "578-590",
+      "audience": "general",
+      "chars": 23030
+    }
+  ],
+  "trachoma": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "11. Trachoma",
+      "pages": "156-162",
+      "audience": "general",
+      "chars": 15207
+    }
+  ],
+  "upper_uti": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "34. Upper urinary tract infection",
+      "pages": "490-504",
+      "audience": "general",
+      "chars": 32270
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "7.2.2 Acute Pyelonephritis",
+      "pages": "526-529",
+      "audience": "general",
+      "chars": 2609
+    }
+  ],
+  "viral_infections_no_antibiotic": [
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.3.1 Avian Influenza",
+      "pages": "196-199",
+      "audience": "general",
+      "chars": 3616
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.3.2 Chicken pox",
+      "pages": "199-200",
+      "audience": "general",
+      "chars": 1925
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.3.3 Measles",
+      "pages": "200-202",
+      "audience": "general",
+      "chars": 1919
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.3.4 Poliomyelitis",
+      "pages": "202-204",
+      "audience": "general",
+      "chars": 2321
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.3.5 Rabies",
+      "pages": "204-205",
+      "audience": "general",
+      "chars": 1654
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.3.6.1 Ebola and Marburg",
+      "pages": "206-209",
+      "audience": "general",
+      "chars": 4212
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.3.6.2 Yellow Fever",
+      "pages": "209-210",
+      "audience": "general",
+      "chars": 1570
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "2.3.7 COVID-19 Disease",
+      "pages": "210-216",
+      "audience": "general",
+      "chars": 6383
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "5.2.3 Coryza (Common Cold)",
+      "pages": "413-415",
+      "audience": "general",
+      "chars": 1402
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "5.2.5 Influenza (\u201d Flu\u201d)",
+      "pages": "416-417",
+      "audience": "general",
+      "chars": 1536
+    }
+  ],
+  "wound_bite_infections": [
+    {
+      "doc": "WHO AWaRe Antibiotic Book (2022)",
+      "section": "18. Wound and bite-related infections",
+      "pages": "231-245",
+      "audience": "general",
+      "chars": 26778
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "1.2.1.3 Animal and Human Bites",
+      "pages": "100-101",
+      "audience": "general",
+      "chars": 1614
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "1.2.1.4 Rabies Post Exposure Prophylaxis",
+      "pages": "102-107",
+      "audience": "general",
+      "chars": 7527
+    },
+    {
+      "doc": "Uganda Clinical Guidelines 2023 (4th ed.)",
+      "section": "1.2.4 Wounds",
+      "pages": "118-120",
+      "audience": "general",
+      "chars": 2794
+    }
+  ]
+}

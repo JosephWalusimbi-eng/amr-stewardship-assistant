@@ -1,0 +1,741 @@
+# TOPIC: sti_gonorrhoea
+
+--- [WHO AWaRe Antibiotic Book (2022) | 20. Sexually transmitted infections - gonococcal infection | p.257-269 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book241
+PRIMARY HEALTH CARE 
+20. Sexually transmitted infections 
+– gonococcal infection
+Note
+In general this chapter applies to adults and young people older than 12 years. In children, 
+specialist advice should be sought where possible. Consideration should be given that an STI in 
+a child may be due to child sexual abuse.
+Key messages
+• Neisseria gonorrhoeae is a common curable sexually transmitted infection (STI) and resistance 
+to antibiotics (including extensively resistant strains) is an increasing public health problem.
+• Symptoms overlap with urogenital Chlamydia trachomatis infection and co-infection is frequent. 
+Therefore, patients should be tested for both pathogens simultaneously, when available, and 
+evaluated for other STIs (human immunodeficiency virus (HIV) infection, syphilis, trichomoniasis).
+• Asymptomatic people should also be treated because they can transmit the infection to others.
+• Preventive services should be offered (e.g. condoms, brief sexuality education, HIV preexposure prophylaxis for people at high risk of HIV infection) and sexual partners should be 
+informed and treated.
+• Reporting of this infection to health authorities is encouraged according to local regulations.
+Other relevant WHO resources (please check regularly for updates)
+• Sexually transmitted infections (STIs) – fact sheets (189).
+• Global action plan to control the spread and impact of antimicrobial resistance in Neisseria 
+gonorrhoeae (201).
+• WHO guidelines for the treatment of Neisseria gonorrhoeae (89). 
+• WHO guidelines for the management of symptomatic sexually transmitted infections (191).
+• Laboratory diagnosis of sexually transmitted infections including human immunodeficiency 
+virus (192).
+• Global progress report on HIV, viral hepatitis and sexually transmitted infections, 2021 (193).
+• Global Antimicrobial Resistance and Use Surveillance System (GLASS) Report: 2021 (202).
+242
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+20. Sexually transmitted infections – gonococcal infection
+Gonococcal infection
+Sexually transmitted infection • Page 1 of 3
+•See WHO guidance “Laboratory diagnosis of sexually
+transmitted infections”
+https://apps.who.int/iris/handle/10665/85343
+•: all patients with suspected gonococcalImportant
+infection should also be tested for chlamydial
+urogenital infection (as symptoms overlap) and other
+STIs (e.g. HIV, syphilis)
+A sexually transmitted infection (STI) caused by the bacterium
+Neisseria gonorrhoeae
+De/g246nition
+Clinical Presentation
+•Some persons remain asymptomatic (women>men)
+though they can still transmit the infection
+•If symptoms occur they overlap with those of chlamydial
+infection (co-infection possible and common)
+Most common symptoms (usually occur a few days
+after infection):
+•: acute urethritis with profuse mucopurulentIn men
+urethral discharge and dysuria +/- testicular discomfort
+•: mucopurulent vaginal discharge and dysuriaIn women
++/- vaginitis with vaginal pain and in/g248ammation and lower
+abdominal pain. Cervical discharge, cervical ectopy and
+friability and easy bleeding on contact may also occur
+•:Additionally in both sexes
+-S ymptoms of acute proctitis with pain, pruritus, anal
+discharge and bleeding
+-P haryngitis and conjunctivitis are other possible
+presentations
+-R arely infection can disseminate, typically leading to
+localized infection in one or more joints
+•:In pregnant women
+-I nfection can transmit to the child during vaginal delivery
+•:In newborns
+-A cute ocular infection and pharyngitis can occur a few
+days after birth
+-D isseminated infection with septic arthritis (usually in
+multiple joints) may also occur
+Diagnosis
+Reference standard:
+•Nucleic acid ampli/g246cation test (a test for bothN.
+gonorrhoeae Chlamydiaand is available)
+-S amples that can be used: urine (lower sensitivity and
+speci/g246city in women), urethral, vulvovaginal,
+endocervical or anorectal samples collected with a swab
+Other tests to consider:
+•Culture + antimicrobial susceptibility testing: If symptoms
+persist despite adequate treatment and for surveillance of
+Neisseria gonorrhoeae resistance
+•Microscopy (Gram stain)
+-S amples that can be used: urethral, endocervical,
+conjunctival samples collected with a swab
+•Blood cultures: If disseminated infection is suspected
+Microbiology Tests
+In general this guidance applies to adults and young people aged
+over 12 years. In children, specialist advice should be sought where
+possible. Consideration should be given that an STI in a child may be
+due to child sexual abuse
+• is a Gram-negative bacterium that canNeisseria gonorrhoeae
+easily develop resistance to antibiotics leading to infections that
+are difficult to tr eat, which is an increasing public health
+problem worldwide
+•Data on resistance is available throughNeisseria gonorrhoeae
+GLASS (The WHO Global Antimicrobial Resistance Surveillance
+System) and GASP (The WHO Gonococcal AMR surveillance
+program)
+https://www.who.int/data/gho/data/themes/topics/whogonococcal-amr-surveillance-programme-who-gasp
+Pathogen
+Usually not needed
+Other LaboratoryTests
+Usually not needed
+Imaging
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+243
+PRIMARY HEALTH CARE 
+20. Sexually transmitted infections – gonococcal infection
+Gonococcal infection
+Sexually transmitted infection • Page 2 of 3
+Treatment (Section 1 of 2)
+Clinical Considerations
+•Treatment is always indicated when infection is diagnosed,
+including in asymptomatic patients because they can
+transmit the infection to others
+•Local resistance data should determine the most
+appropriate therapy and if data not available, dual therapy
+is preferred
+•If symptoms do not resolve in approximately 5 days,
+resistant infection or alternative diagnosis should be
+suspected
+Important elements of prevention include:
+•Sexuality education
+•Promoting consistent use of condoms
+•Pre- and post-test counselling
+•Safe sex and risk reduction counselling
+•Interventions targeting high-risk groups
+Prevention
+Important:
+•Sexual partners should be informed of the disease and
+treated
+•Reporting of this infection to health authorities is
+encouraged according to local regulations
+•Treatment is aligned with the WHO 2016 guidelines for the
+treatment of gonococcal infection (https://apps.who.int/
+iris/handle/10665/246114) and the WHO 2021 guidelines
+for the management of symptomatic sexually transmitted
+infections (https://apps.who.int/iris/handle/10665/34252)
+but only options listed in the 2021 EML are reported
+•WHO is in the process of revising current treatment
+recommendations and dosages, please check the WHO
+website regularly for possible updates
+Treatment Recommendations
+Single Dose
+Antibiotic Treatment Duration
+All dosages are for normal renal function
+Genital and Anorectal Infections
+First Choice
+---------------------- ----------------------COMBINED WITH
+Ceftriaxone 250 mg IM
+Azithromycin 1 g ORAL
+Dual Therapy
+Second Choice
+---------------------- ----------------------COMBINED WITH
+Ce/g246xime 400 mgORAL
+Azithromycin 1 g ORAL
+Single Therapy
+Only use single therapy if local resistance data con/g246rm
+susceptibility to the antibiotic
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Ce/g246xime 400 mgORAL
+Ceftriaxone 250 mg IM
+A single dose of 500 mg or 1 g ceftriaxone IM is recommended
+in some international guidelines
+----------------------------------- -----------------------------------OR
+Spectinomycin 2 g IM
+----------------------------------- -----------------------------------OR
+244
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+20. Sexually transmitted infections – gonococcal infection
+Gonococcal infection
+Sexually transmitted infection • Page 3 of 3
+Treatment (Section 2 of 2)
+Single Dose
+Antibiotic Treatment Duration
+Consider treatment failure if symptoms persist after 5 days of
+adequate treatment
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Retreatment afterT reatment Failure
+----------------------------- -----------------------------OR
+Ce/g246xime 800 mgORAL
+Ceftriaxone 500 mg IM
+----------------------------- -----------------------------OR
+Gentamicin 240 mg IM
+----------------------------- -----------------------------OR
+Spectinomycin 2 g IM
+Do not use for spectinomycin for oropharyngeal
+infections
+---------------------- ----------------------COMBINED WITH
+Azithromycin 2 g ORAL
+All dosages are for normal renal function
+Oropharyngeal Infections
+First Choice
+---------------------- ----------------------COMBINED WITH
+Ceftriaxone 250 mg IM
+Azithromycin 1 g ORAL
+Dual Therapy
+Second Choice
+---------------------- ----------------------COMBINED WITH
+Ce/g246xime 400 mgORAL
+Azithromycin 1 g ORAL
+Single Therapy
+Only use single therapy if local resistance data con/g246rm
+susceptibility to the antibiotic
+Ceftriaxone 250 mg IM
+A single dose of 500 mg or 1 g ceftriaxone IM is recommended
+in some international guidelines
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book245
+PRIMARY HEALTH CARE 
+20. Sexually transmitted infections – gonococcal infection
+Definition
+Gonococcal infection is an STI caused by the bacterium Neisseria gonorrhoeae.
+Pathogen
+Neisseria gonorrhoeae, the organism causing gonorrhoea, is a Gram-negative bacterium.
+The bacterium easily develops resistance to antibiotics, which has led to infections that 
+are difficult to treat. As a result, resistance to antibiotics used for treatment (including thirdgeneration cephalosporins) is a serious problem worldwide. Therefore, in 2012, WHO launched a 
+global action plan to control the spread and impact of resistance in Neisseria gonorrhoeae (201).
+Data on Neisseria gonorrhoeae resistance are collected through the WHO Global 
+Antimicrobial Resistance Surveillance System (GLASS) and the WHO Global Gonococcal 
+Antimicrobial Surveillance Programme (GASP network) and are regularly published (202–205). 
+Pathophysiology
+Neisseria gonorrhoeae usually enters the mucosa (mostly of the genital tract) during 
+sexual contact. Because of its many virulence factors, this bacterium can adapt to the 
+local environment, evade immune response mechanisms and proliferate causing local 
+inflammatory response and disease and, more rarely, systemic infection (i.e. gonococcal 
+bacteraemia). If left untreated, or if it is inappropriately treated, complications may occur. 
+In particular in women, pelvic inflammatory disease (i.e. an infection of the upper female 
+reproductive tract) with inflammation of the uterine tubes (i.e. salpingitis), endometrium 
+(i.e. endometritis) or abscess formation in the ovary/ovaries and tubes can occur. In men, 
+complications include epididymitis and periurethritis with abscess formation. These 
+complications can lead to infertility. 
+Disseminated gonococcal infection can occur as a result of bacteraemia secondary 
+to mucosal infection (mostly of the genital tract) and can lead to arthritis, skin manifestations 
+and other complications.
+Infants of mothers with gonococcal infection can be infected at delivery, resulting 
+in neonatal conjunctivitis which manifests as purulent ocular discharge and swollen eyelids. 
+Untreated conjunctivitis may lead to scarring and blindness.
+Epidemiology
+Gonococcal infection is one of the most common STIs worldwide. 
+The 2021 WHO global progress report on HIV, viral hepatitis and STIs reported an 
+estimated 82 million new gonococcal infections in 2020 among adults aged 15 to 49 years (193).
+246The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+20. Sexually transmitted infections – gonococcal infection
+The highest incidence of gonococcal infection is in the Africa and Western Pacific 
+regions; this includes China and Australia among others (206). Gonococcal infection 
+increases the risk of HIV infection two- or three-fold.
+Risk factors for gonococcal infection include HIV infection, young age, having 
+multiple sexual partners or a new sexual partner, having partners with STIs, having had 
+previous gonococcal infection and/or other STIs and several socioeconomic factors, such 
+as low socioeconomic or educational level or substance abuse. Infection does not induce 
+protective immunity therefore reinfection is possible. Resistance of Neisseria gonorrhoeae 
+to antibiotics used to treat the infection is a concern; see the pathogen section for more 
+information about resistance (204).
+Clinical presentation
+Signs and symptoms of gonococcal infection vary in men and women and overlap with 
+those of chlamydial infection. Some people with gonococcal infection may be asymptomatic 
+even though they can still transmit the infection. When symptoms occur (usually a few days 
+after being infected), the most common clinical presentation in men is acute urethritis 
+characterized by profuse mucopurulent urethral discharge and dysuria; testicular discomfort 
+can also be present. In women, mucopurulent vaginal discharge and dysuria are the most 
+common symptoms. Several women may have lower abdominal pain because of ascending 
+infection causing pelvic inflammatory disease. Gonorrhoea causes cervical infection that 
+presents with cervical discharge, cervical ectopy and friability and easy bleeding on contact. 
+In both sexes (but in males more than females), symptoms of acute proctitis with pain, 
+pruritus, discharge and bleeding of the rectum may occur. Pharyngitis (mostly manifesting as a 
+mild sore throat) and conjunctivitis are other conditions that usually coexist with genital infection.
+Rarely, the infection can disseminate (i.e. gonococcal bacteraemia) and this can 
+typically lead to localized infection in one or more joints (i.e. gonococcal arthritis). Please 
+refer to the chapter on septic arthritis for more information on this topic.
+In pregnant women, the infection can be transmitted to the child during vaginal 
+delivery. In newborns, gonococcal infection can present with acute ocular infection (i.e. 
+conjunctivitis) or pharyngitis which manifest a few days after birth. Disseminated infection 
+with septic arthritis (usually with multiple joints involved) can also occur in newborns.
+Laboratory tests 
+Patient microbiology tests
+Molecular testing has greatly improved the detection of Neisseria gonorrhoeae and 
+Chlamydia trachomatis among both symptomatic and asymptomatic men and women. 
+Molecular testing has become the recommended gold standard technology to diagnose
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book247
+PRIMARY HEALTH CARE 
+20. Sexually transmitted infections – gonococcal infection
+and screen populations for Neisseria gonorrhoeae and Chlamydia trachomatis. Table 20.1 
+indicates the types of specimens that can be used for this purpose.
+Culture of Neisseria gonorrhoeae is still the standard method for performing antibiotic 
+susceptibility testing. However, this organism is not easy to grow in the laboratory and 
+requires special training and a special culture medium. For this reason, culture of Neisseria 
+gonorrhoeae is not routinely performed as part of managing people with gonococcal 
+infection in resource-limited settings. 
+Neisseria gonorrhoeae can also be identified by light microscopy of Gram-stained 
+samples and a presumptive diagnosis can be made if intracellular Gram-negative diplococci 
+are observed in polymorphonuclear leukocytes, best seen when there is a urethral discharge. 
+Gram-stained smears from the cervix are also considered positive for the presumptive 
+diagnosis of gonorrhoea in women if intracellular Gram-negative diplococci are observed 
+in polymorphonuclear leukocytes. Gram stain of urethral samples among women has low 
+yield and may not be cost-effective. 
+For more comprehensive information on the diagnosis of gonococcal infection, 
+please refer to the most recent (2013) WHO guideline for the laboratory diagnosis of STIs 
+(192). Please check the WHO website regularly for possible updates. Patients with gonococcal 
+infection are also usually evaluated for other STIs, such as chlamydial infection, hepatitis B, 
+hepatitis C, HIV infection and syphilis.
+Tests to consider when gonococcal infection is suspected are listed in Table 20.1. 
+Additional tests for other STIs that could be considered when gonococcal infection is 
+confirmed or suspected are shown in Table 20.2.
+Table 20.1 – Microbiology tests to consider when gonococcal infection is 
+suspected as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where 
+the test should 
+be available
+Qualitative test for Neisseria gonorrhoeae and 
+Chlamydia trachomatis infections (i.e. nucleic 
+acid amplification test)a,b
+This is the recommended reference 
+standard
+To diagnose 
+gonorrhoeal and/or 
+chlamydial urogenital 
+disease and extragenital 
+infection
+Health care 
+facilities 
+with clinical 
+laboratories
+Microscopy (Gram stain)c To assess microbial 
+morphology, and 
+presence or absence of 
+white blood cells
+Health care 
+facilities 
+with clinical 
+laboratories
+continues
+248The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+20. Sexually transmitted infections – gonococcal infection
+Table 20.1 continued
+Diagnostic test Purpose of the test Settings where 
+the test should 
+be available
+Cultured and antimicrobial susceptibility 
+testing
+Consider if symptoms persist despite 
+adequate treatment and for surveillance 
+purposes.
+Initial step to detect 
+and identify bacterial 
+species for selection of 
+appropriate antibiotic 
+regimens
+Health care 
+facilities 
+with clinical 
+laboratories
+Blood cultures
+Consider if disseminated infection is 
+suspected.
+To detect bacterial 
+bloodstream infections 
+(sepsis)
+Health care 
+facilities 
+with clinical 
+laboratories
+EDL: Model List of Essential In Vitro Diagnostics.
+a Usually gonococcal and chlamydial infections are tested at the same time since their clinical presentations are 
+very similar.
+b Possible specimens among women include a vulvovaginal specimen, which may be self-collected. An endocervical 
+swab can be an alternative but requires a speculum. First-catch urine is another option, but the sensitivity and 
+specificity tend to be lower in women. Among men, first-catch urine or urethral swabs are appropriate. Anorectal 
+and pharyngeal samples are also adequate. Nucleic acid amplification tests also perform well for pharyngeal and 
+anorectal samples.
+c Possible specimens are: urethral swabs, endocervical swabs and conjunctival swabs. Note. Urine samples are not 
+good specimens for microscopy.
+d Possible specimens are: urethral swabs, endocervical swabs, vaginal swabs, rectal swabs, oropharyngeal swabs 
+and conjunctival swabs. Note. Urine samples are not good specimens for culture. Culture is the standard method 
+for performing antibiotic susceptibility testing.
+Table 20.2 – Additional tests for other sexually transmitted infections to consider 
+in patients with confirmed or suspected gonococcal infection as indicated in the 
+WHO EDL (6)
+Infection Diagnostic test Purpose of the test Settings where the test 
+should be available
+Chlamydial 
+urogenital 
+infection
+Chlamydia 
+trachomatis NAAT
+To diagnose chlamydial 
+urogenital disease and 
+extragenital infection
+Health care facilities 
+with clinical laboratories
+HIV Anti-HIV-1 and -HIV-2 
+antibody (RDT)
+Self-testing to screen 
+for HIV
+Community settings 
+and health facilities 
+without laboratoriesa
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book249
+PRIMARY HEALTH CARE 
+20. Sexually transmitted infections – gonococcal infection
+Table 20.2 continued
+Infection Diagnostic test Purpose of the test Settings where the test 
+should be available
+HIV Anti-HIV-1 and -HIV-2 
+antibody (RDT and 
+immunoassay)
+To screen for HIV 
+infection
+Community settings 
+and health facilities 
+without laboratoriesa 
+(RDT)
+Health care facilities 
+with clinical laboratories 
+(immunoassay)
+HIV Combined anti-
+HIV-1/HIV-2 antibody 
+and p24 antigen (RDT 
+and immunoassay)
+To screen for HIV 
+infection
+Community settings 
+and health facilities 
+without laboratoriesa 
+(RDT)
+Health care facilities 
+with clinical laboratories 
+(immunoassay)
+Hepatitis B Hepatitis B virus 
+surface antigen (RDT, 
+immunoassay)
+To screen for acute 
+and chronic hepatitis 
+B virus infection in 
+people aged > 12 
+months
+Community settings 
+and health facilities 
+without laboratoriesa 
+(RDT)
+Health care facilities 
+with clinical laboratories 
+(immunoassay)
+Hepatitis B IgM-specific 
+antibodies 
+to hepatitis B 
+core antigen 
+(immunoassay)
+To aid in the diagnosis 
+of acute HBV infection 
+in the context of 
+outbreak investigation
+Health care facilities 
+with clinical laboratories
+Hepatitis C Anti-hepatitis C 
+antibody (RDT, 
+immunoassay)
+To screen for hepatitis 
+C virus infection in 
+people aged > 18 
+months
+Community settings 
+and health facilities 
+without laboratoriesa 
+(RDT)
+Health care facilities 
+with clinical laboratories 
+(immunoassay)
+continues
+250The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+20. Sexually transmitted infections – gonococcal infection
+Table 20.2 continued
+Infection Diagnostic test Purpose of the test Settings where the test 
+should be available
+Syphilis Antibodies to 
+Treponema pallidumb 
+(RDT)
+To diagnose or help to 
+diagnose Treponema 
+pallidum
+Community settings 
+and health facilities 
+without laboratoriesa
+Syphilis and 
+HIV (combined 
+test)
+Combined antibodies 
+to Treponema 
+pallidum and to HIV-1 
+and HIV-2 (RDT)
+To diagnose or help to 
+diagnose HIV and/or 
+Treponema pallidum
+Community settings 
+and health facilities 
+without laboratoriesa
+Trichomoniasis Microscopy To assess microbial 
+morphology, and 
+presence or absence of 
+white blood cells
+Health care facilities 
+with clinical laboratories
+EDL: Model List of Essential In Vitro Diagnostics; HIV: human immunodeficiency virus; NAAT: nucleic acid 
+amplification test; RDT: rapid diagnostic test.
+a Community and health settings without laboratories are defined as community and health facilities such as 
+health posts and centres, doctors’ offices, outreach clinics and ambulatory care. These tests are also assumed to be 
+available at health care facilities with laboratories.
+b Usually a non-treponemal test (e.g. rapid plasma reagin, Venereal Disease Research Laboratory test) is used for 
+screening. Please refer to the chapter on syphilis for more details on testing.
+Other tests
+When gonococcal infection is suspected, laboratory tests other than microbiology are not 
+usually needed. However, microscopy of vaginal or urethral secretions will usually show the 
+presence of leukocytes (> 10 leukocytes/field).
+Using microbiology surveillance data
+Monitoring antibiotic resistance in Neisseria gonorrhoeae is recommended to inform local, 
+national and global guidance.
+Imaging
+When gonococcal infection is suspected, imaging is not usually needed.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book251
+PRIMARY HEALTH CARE 
+20. Sexually transmitted infections – gonococcal infection
+Antibiotic treatment
+The recommendations on antibiotic treatment reported here are based on the most 
+recent WHO guidelines for the treatment of gonorrhoea and on the management of 
+symptomatic STIs (89,191). Because of increasing antibiotic resistance to azithromycin in 
+Neisseria gonorrhoeae and Mycoplasma genitalium and reduced susceptibility of Neisseria 
+gonorrhoeae to cephalosporins, WHO is currently revising treatment recommendations 
+and dosages (please check the WHO website regularly for possible updates).
+All people (including pregnant women) diagnosed with gonorrhoea should receive 
+adequate antibiotic treatment. Antibiotic treatment options are shown in Table 20.3. 
+When choosing treatment, local resistance data should determine the choice of the 
+most appropriate therapy. If data are not available, dual therapy (i.e. two antibiotics) should 
+be given. If symptoms do not resolve within about 5 days of adequate antibiotic treatment, 
+a resistant infection should be suspected, or an alternative diagnosis sought.
+Table 20.3 – Antibiotic treatment for gonococcal infection as indicated in the 2016 
+WHO guidelines for the treatment of gonorrhoea (89)
+Important
+WHO is currently revising treatment recommendations and dosages (please check the WHO 
+website regularly for possible updates). 
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Type of gonococcal 
+infection
+Treatment Total treatment 
+duration
+Genital and anorectal 
+infections (dual therapya)
+First choice
+ Ceftriaxone (IM): 250 mg AND
+ Azithromycin (oral): 1 g
+Second choice
+ Cefixime (oral): 400 mg AND
+ Azithromycin (oral): 1 g
+Single dose
+Genital and anorectal 
+infections (single therapy), 
+if local resistance data 
+confirm susceptibility to the 
+antibiotic
+ Cefixime (oral): 400 mg
+OR
+ Ceftriaxone (IM): 250 mgb
+OR
+ Spectinomycin (IM): 2 g
+Single dose
+continues
+252The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+20. Sexually transmitted infections – gonococcal infection
+Table 20.3 continued
+Type of gonococcal 
+infection
+Treatment Total treatment 
+duration
+Oropharyngeal infectionsc 
+(dual therapya)
+First choice
+ Ceftriaxone (IM): 250 mg AND
+ Azithromycin (oral): 1 g
+Second choice
+ Cefixime (oral): 400 mg AND
+ Azithromycin (oral): 1 g
+Single dose
+Oropharyngeal infectionsc 
+(single therapy), if local 
+resistance data confirm 
+susceptibility to the antibiotic
+ Ceftriaxone (IM): 250 mgb Single dose
+Gonococcal ophthalmia 
+neonatorum (i.e. gonococcal 
+conjunctivitis)
+ Ceftriaxone d (IM): 50mg/kg Single dose
+Ocular prophylaxise (topical 
+treatment for the prevention 
+of both chlamydial and 
+gonococcal ophthalmia 
+neonatorum)
+ Erythromycin (eye ointment): 0.5% Antibiotic needs 
+to be applied to 
+both eyes soon 
+after birth (single 
+dose)
+Retreatment after treatment 
+failure
+Consider treatment failure 
+if symptoms persist after 5 
+days of adequate treatment
+ Cefixime (oral): 800 mg AND
+ Azithromycin (oral): 2 g
+OR
+ Ceftriaxone (IM): 500 mg AND
+ Azithromycin (oral): 2 g
+OR
+ Gentamicin (IM): 240 mg AND
+ Azithromycin (oral): 2 g
+OR
+ Spectinomycin c (IM): 2 g AND
+ Azithromycin (oral): 2 g
+Single dose
+IM: intramuscular.
+Note. All dosages are for normal renal and hepatic function.
+a Dual therapy should be given if no reliable local data on resistance are available.
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book253
+PRIMARY HEALTH CARE 
+20. Sexually transmitted infections – gonococcal infection
+Table 20.3 continued
+b A single dose of 500 mg or 1 g of ceftriaxone (IM) is recommended in some international guidelines (207–209). 
+c Do not use spectinomycin to treat cases of oropharyngeal infection.
+d Ceftriaxone should not be administered in neonates receiving calcium-containing intravenous fluids and it should 
+be avoided in infants with hyperbilirubinaemia. Cefotaxime can be used as an alternative. Alternatives to ceftriaxone 
+indicated in the 2016 WHO guidelines include kanamycin (IM) 25mg/kg or spectinomycin (IM) 25mg/kg (89).
+e Alternatives indicated in the 2016 WHO guidelines include tetracycline hydrochloride (eye ointment) 1%; 
+povidone–iodine (water-based solution. Do not use alcohol-based solutions) 2.5%; silver nitrate (solution) 1%; 
+chloramphenicol (eye ointment) 1%.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+Prevention
+No effective vaccine against Neisseria gonorrhoeae is available. Prevention is therefore one 
+of the key elements included in the 2012 WHO global action plan to control the spread and 
+impact of AMR in Neisseria gonorrhoeae (201).
+Important elements of prevention include counselling and behavioural approaches 
+including comprehensive sexuality education, pre- and post-test counselling, safe sex 
+and risk reduction counselling and promoting consistent use of condoms. Interventions 
+targeting high-risk groups (e.g. men who have sex with men, transgender people, sex 
+workers, people who inject drugs) and offering HIV pre-exposure prophylaxis to people at 
+high risk of HIV infection may be considered. Sexual partners should always be informed of 
+the infection and treated. Reporting of this infection to health authorities according to local 
+regulations should also be done.
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 3.2.1 Urethral Discharge Syndrome (Male) | p.342-344 | audience=general] ---
+ICD10 CODE: R36
+It refers to urethral discharge in men with or without dysuria,
+caused by a number of diseases usually spread by sexual intercourse, which produce similar manifestations in males and may
+be difficult to distinguish clinically.
+Causes
+~ Common: Neisseria gonorrhoea (causing gonorrhoea),
+~ Chlamydia trachomatis and Ureaplasma urealyticum
+~ Uncommon: Trichomonas vaginalis
+276
+Uganda Clinical Guidelines 2023CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
+Clinical features
+~ Mucus or pus at the tip of the penis; staining underwear
+~ Burning pain on passing urine (dysuria), frequent urition
+Investigations
+- Pus swab: Gram stain, culture and sensitivity
+- Blood: Screen for syphilis and HIV
+- Examine patient carefully to confirm discharge
+Patient complains of urethral discharge or dysuria
+Take history and examine.
+Milk urethra if necessary.
+Retract prepuce and
+examine for ulcers.
+Cefixime 400 mg stat plus Doxycycline
+100 mg 12 hourly for 7 days. Treat
+partner with similar drugs.
+If partner is pregnant, instead of Doxycycline give Erythromycim 500 mg every 6
+hours for 7 days.
+Discharge not
+confirmed
+If discharge persists, find
+out if partners were treated
+If discharge persists
+If discharge persists
+Ceftriaxone
+injection, 1g stat
+Refer for specialist’s
+management
+If partners were not
+treated: Re-start
+treatment all over
+If partners were treated,
+repeat Doxycycline 100
+mg 12 hourly for 7 days
+plus Metronidazole 2 g
+single dose
+•Reassure
+•Educate and counsel
+•Promote and provide
+condoms
+•Offer or refer for HCT
+Discharge
+confirmed
+277
+Uganda Clinical Guidelines 2023CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
+TREATMENT LOC
+- Take history and examine the client. Milk urethra if
+discharge is not obvious
+Retract prepuce and examine for ulcers f Treat both patient
+and sexual partners f Advise abstinence or condom use
+Medicines
+- Ceftriaxone 250 mg IM or Cefixime 400 mg single
+dose plus
+- Doxycycline 100 mg every 12 hours for 7 days
+If partner is pregnant
+- Substitute doxycycline with erythromycin 500 mg every
+6 hours for 7 days
+- or Azithromycin 1 g stat if available
+If discharge or dysuria persists and partners were treated:
+- Exclude presence of ulcers under prepuce
+- Repeat doxycycline 100 mg every 12 hours for 7 days
+- Also give metronidazole 2 g single dose
+If discharge or dysuria persists and partners were not treated:
+- Start the initial treatment all over again and treat partners
+If dicharge persists still
+- Ceftriaxone 1 g IM
+- Refer for specialist management if not better
+HC2
+HC3
+278
+Uganda Clinical Guidelines 2023CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections

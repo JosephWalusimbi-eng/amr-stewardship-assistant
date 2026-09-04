@@ -1,0 +1,2571 @@
+# TOPIC: pneumonia_mild
+
+--- [WHO AWaRe Antibiotic Book (2022) | 12. Community-acquired pneumonia - mild | p.163-177 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book147
+PRIMARY HEALTH CARE 
+12. Community-acquired 
+pneumonia – mild
+Key messages
+• Rapidly decide if the patient has mild community-acquired pneumonia (CAP), which can be 
+managed in primary care with oral antibiotic treatment, or severe CAP , which has a higher 
+short-term mortality risk and requires hospital admission. Scores can be helpful to make this 
+distinction.
+• Clinically relevant high-level beta-lactam resistance in Streptococcus pneumoniae (the main 
+bacterial cause of CAP) is rare in most countries and oral Access group penicillins (amoxicillin, 
+phenoxymethylpenicillin) remain first choice for mild and moderate cases of CAP .
+• Laboratory tests are usually not needed in mild cases. 
+• Treatment duration can be limited to 5 days in most cases (3 days in children in areas of low 
+prevalence of human immunodeficiency virus (HIV)). 
+Other relevant WHO resources (please check regularly for updates)
+• Pocket book of hospital care for children: guidelines for the management of common 
+childhood illnesses, 2013 (31).
+• Revised WHO classification and treatment of pneumonia in children at health facilities: 
+evidence summaries (118).
+• Coronavirus disease (COVID-19) pandemic (32).
+• Living guidance for clinical management of COVID-19: living guidance, 23 November 2021 (33).
+• Therapeutics and COVID-19: living guideline, 16 September 2022 (34).
+• Pneumococcal conjugate vaccines in infants and children under 5 years of age: WHO position 
+paper –February 2019 (35).
+• Haemophilus influenzae type b (Hib) vaccination position paper – July 2013: Introduction (36).
+• Vaccines against influenza WHO position paper – May 2022 (37).
+• WHO consolidated guidelines on tuberculosis: module 4: treatment: drug-susceptible 
+tuberculosis treatment (119).
+148The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+12. Community-acquired pneumonia – mild
+Definition
+CAP is an acute illness affecting the lungs caused by pathogens, most often bacteria and 
+viruses. It usually presents with fever, cough, sputum production (in adults), rapid and 
+difficult breathing with new or worsening pulmonary infiltrate(s) on chest imaging.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+149
+PRIMARY HEALTH CARE 
+12. Community-acquired pneumonia – mild
+Community-acquired pneumonia
+Page 1 of 2
+An acut e illness affec ting the lungs usually pr esenting with c ough,
+sputum pr oduc tion, and r apid and d ifficult br eathing with a new
+or wo r sening pulmona ry in/g246ltrat e on a chest radiograph
+De/g246nition Diagnosis
+Clinical Presentation
+“Typical” bacteria:
+• (most cases)Streptococcus pneumoniae
+•( chr onic lung diseases , smok ing)Haemophilus in/g248uenzae
+•( chr onic lung diseases , smok ing)Moraxella catarrhalis
+•( often associated with in/g248uenza)Staphylococcus aureus
+• (sev er e comorbidities , e. g. chr onic lungEnterobacterales
+diseases , dementia, str oke)
+“Atypical” bacteria:
+• (mor e fr equent in y oung adults)Mycoplasma pneumoniae
+• and (mor e fr equent in y oungChlamydia pneumoniae psittaci
+adults)
+• spp . (chr onic lung diseases or other underlyingLegionella
+illness , trav el , exposur e to hot tubs)
+• (rural ar eas , exposur e to liv estock)Coxiella burnetii
+Respiratory viruses:
+•I n/g248uenza viruses (A and B)
+•R espirator y sync ytial virus (RSV )
+•M etapneumovirus
+•P arain/g248uenza virus
+•C or onavirus (including SARS -C oV -2)
+•A denovirus
+•R hinovirus
+•O ther r espirator y viruses
+Pathogens to consider in speci/g246c settings:
+• (SE Asia, Australia)Burkholderia pseudomallei
+•Mycobacterium tuberculosis
+• (people with HIV or otherPneumocystis jirovecii
+immunosuppr ession)
+Most Likely Pathogens
+•New onset (<2 w eeks) or w orsening c ough with feve r
+(≥ 38.0 °C ), sputum pr oduc tion, dyspnea, tach ypnea, r educed
+ox y gen saturation, cr epitations on lung auscultation, chest
+pain/discomfor t without alternativ ee xplanation
+•E xt r apulmona ry features (i.e . c onfusion, disorientation)
+may pr edominate in elderl y, and immunoc ompr omised
+patients and fe ve r ma y be absent
+•C onsider speci/g246c in v estigations for TB in endemic settings
+especially in high-risk patients (e .g . HIV )
+•A rapid molecular test per formed on a single sputum specimen
+is the pr eferr ed /g246rst line diagnostic test for pulmonar y TB and to
+detec t rifampicin r esistanc e
+•C onsider a lipoarabinomannan rapid urinar y antigen test in
+sev er ely immunocompr omised HIV patients with signs and
+symptoms of tuber culosis
+Investigating for Tuberculosis (TB)
+Mild cases: usually not needed
+Severe cases (to guide antimicrobial treatment): blood
+cultur es , urinar y antigens for andL. pneumophila S.
+pneumoniae
+Selected cases (depending on epidemiology and risk
+factors): sputum rapid molecular test fo r, M. tuberculosis
+nasophar yngeal swab for in/g248uenza viruses and SARS -C oV -
+2, HIV testing in settings with high HIV pr evalence and in
+case of r ecurr ent and/or sev er e pneumonia
+Microbiology Tests
+Determine disease severity: blood ur ea nitr ogen (see
+CURB-65 Scoring System bo x), blood pH and gases , whit e
+blood cell coun t
+Differentiate bacterial and viral (taking into account pretest probability): C-r eac tiv e pr otein and/or pr ocalcitonin
+Note: tests depend on availability and clinical severity (e.g.
+blood gases will only be done in severe cases)
+Other LaboratoryTests
+•Chest X- ray not necessar y in mild cases
+•I n/g246ltrate may not always be evident (e .g . deh yd ration) and
+non-infec tious etiologies may mimic in/g246ltrates (e .g . lung
+edema, pulmonar y embolism)
+•R adiologic appearance cannot be used to accurately
+pr edic t pathogen
+Imaging
+150
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+12. Community-acquired pneumonia – mild
+Community-acquired pneumonia
+Page 2 of 2
+Treatment
+Treat for 5 days
+If severe disease, consider longer treatment and look for
+complications such as empyema, if patient not clinically
+stable at day 5
+Antibiotic Treatment Duration
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Mild to Moderate Cases
+----------------------------------- -----------------------------------OR
+Amoxicillin 1 g q8h ORAL
+Doxycycline 100 mg q12h ORAL
+First Choice
+Phenoxymethylpenicillin (as potassium) 500
+mg (800 000 IU) q6h ORAL
+Amoxicillin+clavulanic acid 875 mg+125 mg
+q8h ORAL
+Second Choice
+----------------------------------- -----------------------------------OR
+CURB-65 Severity Scoring System
+Signs & Symptoms
+(1 point each)
+/c162Presence of onfusionC
+(new onset)
+/c162rea > 19 mg/dL (or >U
+7 mmol/L)*
+/c162espiratory rate >R
+30/min
+/c162Systolic P < 90 mmHgB
+(<12 kPa) or Diastolic
+BP≤6 0 mmHg (<8 kPa)
+/c162Age≥ years65
+Score 0-1
+•Consider outpatient
+treatment
+Score 2
+•Consider inpatient treatment
+•Consider adding
+clarithromycin to betalactam for atypical coverage
+•Perform microbiology tests
+Score≥ 3
+•Inpatient treatment (consider
+ICU)
+•Consider adding
+clarithromycin
+•Perform microbiology tests
+Other considerations such as severe comorbid illnesses or inability
+to maintain oral therapy should be taken into account. CURB-65
+has not been extensively validated in low-income settings.
+*The score, which does not require laboratory values forCRB-65
+its calculation, can also be used, the score value interpretation is
+the same as for CURB-65
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Severe Cases
+First Choice
+-------------------------------- --------------------------------OR
+Cefotaxime 2 g q8h IV/IM
+Ceftriaxone 2 g q24h (1 g q24h *)IV IM
+*A larger volume would be painful to give as
+intramuscular injection
+IF CURB-65 ≥2,
+CONSIDER ADDING
+Clarithromycin 500 mg q12h (or)ORAL IV
+Clarithromycin has excellent oral bioavailability and the
+intravenous route should be reserved for patients with
+impaired gastrointestinal function
+Second Choice
+Amoxicillin+clavulanic acid 1 g+200 mg q8h IV
+•A higher daily dose can be considered:
+1 g+200 mg q6h
+IF CURB-65 ≥2,
+CONSIDER ADDING
+Clarithromycin 500 mg q12h (or)ORAL IV
+Clarithromycin has excellent oral bioavailability and the
+intravenous route should be reserved for patients with
+impaired gastrointestinal function
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+151
+PRIMARY HEALTH CARE 
+12. Community-acquired pneumonia – mild
+Community-acquired pneumonia
+Page 1 of 2
+An acut e illness affec ting the lungs usually pr esenting with c ough,
+and r apid and d ifficult br eathing with a new or wo r sening
+p ulmona ry in/g246ltrat e on a chest radiograph
+De/g246nition Diagnosis
+Clinical Presentation
+Mild cases: usually not needed
+Severe cases (to guide antimicrobial treatment): blood
+cultur es
+T ests for C OVID -19 and in/g248uenza can be consider ed if
+clinically indicated and available
+Microbiology Tests
+No test clearly differentiates viral or bac terial CAP
+Consider: full blood count and C-r eac tiv e pr otein
+Note: tests depend on availability and clinical severity (e.g.
+blood gases will only be done in severe cases)
+Other LaboratoryTests
+•Chest X- ray not necessar y in mild cases
+•L ook for lobar consolidation or pleural effusion
+•R adiologic appearance cannot be used to accurately
+pr edic t pathogen
+Imaging
+“Typical” bacteria:
+• (most common cause of CA PStreptococcus pneumoniae
+bey ond the 1st w eek of life)
+•Haemophilus in/g248uenzae
+•Moraxella catarrhalis
+•Staphylococcus aureus
+•Enterobacterales
+“Atypical”p athogens (mor e fr equent in childr en >5 y ears
+compar ed to y ounger childr en):
+•Mycoplasma pneumoniae
+•Chlamydophila pneumoniae
+Respiratory viruses:
+•R espirator y sync ytial virus (RSV )
+•I n/g248uenza viruses (A and B)
+•M etapneumovirus
+•P arain/g248uenza virus
+•C or onavirus (including SARS -C oV -2)
+•A denovirus
+•R hinovirus
+•O ther r espirator y viruses
+Most Likely Pathogens
+•C onsider speci/g246c in v estigations for TB in endemic settings
+especially in high-risk patients (e .g . HIV )
+•A rapid molecular test per formed on a single sputum specimen
+is the pr eferr ed /g246rst line diagnostic test for pulmonar y TB and to
+detec t rifampicin r esistanc e
+Investigating for Tuberculosis (TB)
+•N ew onset (<2 we eks) or wo rsening cough with fe ve r
+(≥ 38.0 °C ), dyspnea, tach ypnea, re duced ox ygen saturation,
+cr epitations , cy anosis , grunting , nasal /g248 arin g, pallor
+•P neumonia is diagnosed on: fast br eathing for age and/or
+chest indrawin g
+-C heck for hy po xia with ox y gen satur ometer if availabl e
+•C hild re n with runn y nose and c ough and no signs of
+sev erity usually do not ha ve pneumonia and should not
+re ceiv e an antibioti c, only home ca re advic e
+152
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+12. Community-acquired pneumonia – mild
+Community-acquired pneumonia
+Page 2 of 2
+Severity Assessment and
+Considerations
+Treatment
+Please see Severity Assessment and Considerations for
+diagnosis of severe cases
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Severe Cases
+First Choice
+Amo xicillin 80-90 mg/kg/da y ORAL
+•:Oral weight bands
+3-<6 kg 250 mg q12h
+6-<10 kg 375 mg q12h
+10-<15 kg 500 mg q12h
+15-<20 kg 750 mg q12h
+≥20 kg 500 mg q8h or 1 g q12h
+All dosages are for normal renal function
+Mild to Moderate Cases
+----------------------------- -----------------------------OR
+Amo xicillin 50 mg/kg/dose IV/IM
+•≤1wk of life: q12h
+•>1wk of life: q8h
+Ampicillin 50 mg/kg/dose IV/IM
+•≤1wk of life: q12h
+•>1wk of life: q8h
+----------------------------- -----------------------------OR
+Benz ylpenicillin 30 mg/kg/dose
+(50 000 IU/kg/dose) q8h IV
+Gentamicin IV/IM
+•Neonates: 5 mg/kg/dose q24h
+•Childr en: 7.5 mg/kg/dose q24h
+Sulfametho xazole+trimethoprim 40 mg/k g
+SMX+8 mg/k gT MP q8h for 3 w eeksIV/ORAL
+IF HIV POSITIVE AND <1 YR OLD
+To treat potential Pneumocystis
+jirovecii pneumonia, ADD
+Second Choice
+If NO Clinical Response to First Choice after 48-72 hours
+Ce fotaxime 50 mg/kg/dose q8h IV/IM
+Ce ftriax one 80 mg/kg/dose q24h IV/IM
+---------------------- ----------------------COMBINED WITH
+----------------------------------- ------------------------------OR
+Childr en with :pneumonia
+•S hould be tr eated with oral am ox icillin at home with hom e
+care advic e
+•P neumonia is diagnosed on either:
+1. F ast br eathing (r espirator y rate > 50 br eaths/minute in
+childr en aged 2-11 months; r esp rate > 40 br eaths/min in
+childr en aged 1-5 y ears)
+2. Chest indrawing
+Childr en with (o r a child with pneumoni asevere pneumonia
+who cannot tolerate oral antibiotics):
+•Should be admitted to hospital and treated with
+intravenous antibiotics
+•S ev er e pneumonia is cha ra ct erized by signs of pneumonia:
+-F ast br eathing (+/- chest indrawing)
+PL US
+-A gene ra l danger sig n:
+· Inability to br eastfeed or drin k
+· Co nv ulsions
+· L ethargy or re duced le ve l of consciousness
+3 days: in ar eas of low HIV pr evalence and no chest
+indrawing
+5 days: in ar eas of high HIV pr evalence and the child has
+chest indrawing
+If sev er e disease , consider longer tr eatment and look fo r
+complications such as empy ema, if patient not clinically
+stable at day 5
+Antibiotic Treatment Duration
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book153
+PRIMARY HEALTH CARE 
+12. Community-acquired pneumonia – mild
+Pathophysiology
+CAP occurs when microbial pathogens (usually inhaled in the upper airways) reach the 
+lower respiratory tract and proliferate in the alveoli. Less frequently, these pathogens can 
+also reach the alveoli via the blood or by direct spread, for example, from an infection of the 
+pleural or intra-abdominal space. Once in the alveoli, host immune defences are activated 
+to eliminate the pathogens. Only when these defences fail, pneumonia manifests itself 
+because of the tissue damage and inflammatory response triggered by the proliferation of 
+microorganisms in the affected lung(s).
+Epidemiology 
+CAP is common worldwide and is a leading cause of morbidity and mortality, with an 
+especially high burden in low-income countries (120). According to the Global Burden of 
+Disease study, in 2017 there were an estimated 471 million new cases of lower respiratory 
+tract infections globally among all ages and sexes combined. This number included 
+CAP cases but also a majority of cases of viral bronchitis – therefore caution is needed in 
+interpreting this number (44). The incidence of CAP varies with age and a country’s income 
+level. The most common causative pathogens worldwide are Streptococcus pneumoniae and 
+viruses (see the following section); viral–bacterial coinfections may occur. 
+In low-income countries, lower respiratory tract infections (including CAP) were the 
+leading cause of death in 2016, with a crude yearly attributable mortality of about 75 per 
+100 000 population (121). In general, the incidence of CAP is highest in children younger 
+than 5 years in these countries. In 2015, an estimated 0.9 million children younger than 5 
+years died of pneumonia and of these, about 0.5 million occurred in sub-Saharan Africa 
+(122). Undernutrition, HIV infection, exposure to smoke and air pollution are common 
+risk factors for severe CAP in children younger than 5 years. As a result of better access to 
+medical care, better nutrition and greater vaccination coverage, global mortality rates in 
+children have declined by more than 30% since 2000. In high-income countries, CAP mainly 
+affects adults 65 years and older and, in general, the incidence of CAP and risk of death 
+increase with age (123). 
+Most likely pathogens
+In neonates and young infants aged up to 2 months , pneumonia is mainly caused by 
+Streptococcus pneumoniae, group B Streptococcus, Enterobacterales or Staphylococcus aureus. 
+In children aged 2 months to 5 years , pneumonia is more likely to be of viral 
+origin, for example, respiratory syncytial virus, influenza and parainfluenza virus. The most 
+important bacterial pathogen in children younger than 5 years is Streptococcus pneumoniae.
+154The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+12. Community-acquired pneumonia – mild
+In older children Streptococcus pneumoniae is still common but atypical bacteria such as 
+Mycoplasma pneumoniae and Chlamydia pneumoniae may be the cause. So-called atypical 
+bacteria have intrinsic resistance to beta-lactam antibiotics and cannot by visualized by 
+Gram staining. Haemophilus influenzae, Moraxella catarrhalis and Staphylococcus aureus also 
+cause CAP in some children (Table 12.1). 
+In adults, viruses are common causes of CAP , either by directly causing pneumonia 
+or by favouring superinfection with bacteria. Among bacteria, the most common causative 
+agents are Streptococcus pneumoniae, followed by atypical bacteria (see definition in the 
+paragraph above) such as Mycoplasma pneumoniae, Chlamydia pneumoniae and Legionella 
+pneumophila. Haemophilus influenzae, Moraxella catarrhalis and Staphylococcus aureus are 
+also quite common (Table 12.1). 
+However, determining the cause of bacterial pneumonia is difficult in all age groups 
+and no causative pathogen is identified in most cases, even if extensive microbiological 
+tests are performed, which is usually not the case for mild cases. Furthermore, there may 
+be important geographic differences in the cause of pneumonia; for example, Burkholderia 
+pseudomallei is a cause of CAP in South-East Asia, while Coxiella burnetii is more common in 
+regions where exposure to livestock is common.
+Table 12.1 – Pathogens most frequently associated with community-acquired 
+pneumonia (in descending order of frequency)
+Typical bacteria Atypical 
+bacteriab
+Respiratory viruses Other pathogens 
+to consider in 
+specific settings
+Streptococcus 
+pneumoniaea
+Haemophilus 
+influenzae
+Moraxella catarrhalis
+Staphylococcus aureus
+Enterobacterales 
+(e.g. Escherichia coli, 
+Klebsiella pneumoniae)
+Mycoplasma 
+pneumoniaeb
+Chlamydia 
+pneumoniaeb 
+and Chlamydia 
+psittacib
+Legionella spp.
+Coxiella burnetii
+Influenza virus (A and B)
+Respiratory syncytial virusc
+Metapneumovirus
+Parainfluenza virus 
+Coronavirus (including 
+SARS-CoV-2)
+Adenovirus
+Rhinovirus
+Other respiratory viruses
+Burkholderia 
+pseudomallei (South-
+East Asia, Australia)
+Mycobacterium 
+tuberculosis
+Pneumocystis 
+jirovecii (in people 
+with HIV or other 
+types of cellular 
+immunosuppression)
+HIV: human immunodeficiency virus; SARS-CoV-2: severe acute respiratory syndrome coronavirus-2.
+a The most common bacterial cause of community acquired pneumonia in all age groups (beyond the first week of 
+life) is Streptococcus pneumoniae.
+b Atypical bacteria remain colourless with Gram staining. They also have intrinsic resistance to beta-lactams. 
+Mycoplasma pneumoniae and Chlamydia spp. are more frequent in children > 5 years (compared with younger 
+children) and in young adults. Risk factors for Chlamydia psittaci include exposure to birds.
+c Up to 50% of cases of pneumonia in children < 5 years are caused by a virus, most commonly respiratory syncytial virus.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book155
+PRIMARY HEALTH CARE 
+12. Community-acquired pneumonia – mild
+Community-acquired pneumonia caused by 
+antibiotic-resistant pathogens
+AMR is a potential problem with all pathogens associated with CAP . However, clinically 
+relevant high-level beta-lactam resistance in Streptococcus pneumoniae is still rare globally. 
+Resistance to macrolides in Streptococcus pneumoniae and Mycoplasma pneumoniae is 
+highly prevalent in some settings (124,125).
+Note
+CAP caused by low-level and intermediate-level pneumococcal penicillin resistance can be 
+successfully treated with higher oral doses of the Access antibiotics amoxicillin or penicillin in 
+children and adults.
+There is no evidence of improved clinical outcomes in patients with pneumococcal 
+pneumonia in the primary health care setting treated with oral cephalosporins, 
+amoxicillin+clavulanic acid or macrolides compared to amoxicillin and penicillin, and these 
+antibiotics are associated with higher rates of toxicity. 
+Clinical presentation
+Nearly all respiratory diseases can mimic the symptoms of CAP . Based on clinical features 
+alone it is often impossible to distinguish bacterial from viral pneumonia or from other noninfectious causes. Local epidemiology and laboratory tests may help.
+Well established clinical features of CAP include a combination of new onset (less 
+than 2 weeks) of symptoms, worsening cough with or without sputum production, dyspnoea 
+(difficulty in breathing), tachypnoea (abnormal respiratory rates to diagnose rapid breathing 
+vary with age), reduced oxygen saturation, crepitations on lung auscultation, or chest pain or 
+discomfort without an alternative explanation. Fever ≥ 38.0 °C for 3–4 days is usually present 
+but may be absent, especially in elderly people. Extrapulmonary features such as confusion 
+or disorientation may be the main symptoms in elderly people, immunocompromised 
+patients and malnourished children. The severity of signs and symptoms may range from 
+a mild disease that can be safely managed in an outpatient setting with oral antibiotic 
+treatment to severe pneumonia with respiratory distress, sepsis requiring intensive care and 
+intravenous antibiotic treatment, and a high associated mortality.
+In children, WHO defines fast breathing pneumonia as a child with a high respiratory 
+rate for their age (> 50 breaths/minute in children 2–11 months of age; > 40 breaths/minute 
+in children aged 1–5 years). They may or may not have chest indrawing.
+156The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+12. Community-acquired pneumonia – mild
+Laboratory tests 
+Patient microbiology tests
+In mild cases that can be managed in the outpatient setting, microbiology tests are usually 
+not needed. Tests for COVID-19 and influenza can be considered if clinically indicated and 
+available. The TB lipoarabinomannan rapid antigen urinary test should be considered in 
+patients living with HIV who are severely immunocompromised and who present with signs 
+and symptoms of TB.
+For more information on this topic, the interested reader can refer to the 2019 WHO 
+policy update: Lateral flow urine lipoarabinomannan assay (LF-LAM) for the diagnosis of active 
+tuberculosis in people living with HIV: policy update 2019 (126).
+Other tests
+In mild cases, laboratory tests are usually not needed. If available, point-of-care testing for 
+C-reactive protein could be considered in adult patients if there is diagnostic uncertainty.
+In general, C-reactive protein has good negative predictive value, and a negative 
+test can be used to help rule out bacterial pneumonia, unless the pre-test probability is high 
+or the clinical presentation is severe.
+Using microbiology surveillance data
+The great majority of episodes of CAP in the primary care setting are caused by pneumococcal 
+isolates that clinically respond to oral penicillins. Therefore, routine clinical microbiology 
+surveillance of CAP does not help to inform local empiric guidance. 
+Imaging
+When mild CAP is suspected clinically, a chest X-ray is usually not necessary.
+Scores to determine disease severity and guide 
+treatment decisions
+WHO recommends that children who meet the criteria of severe pneumonia should be 
+admitted to hospital (see the hospital facility section for the management of severe cases). 
+As a general rule for children, hospitalization is indicated in cases of severe illness 
+(e.g. cough and severe respiratory distress, marked tachypnoea and tachycardia) and/or if 
+the child is unable to take oral therapy.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book157
+PRIMARY HEALTH CARE 
+12. Community-acquired pneumonia – mild
+In children , severe pneumonia is characterized by signs of pneumonia (fast 
+breathing with or without chest indrawing) plus a general danger sign, such as inability to 
+breastfeed or drink, convulsions, lethargy or a reduced level of consciousness (118).
+In adults , several scores exist that measure severity and help predict 30-day 
+mortality. These scores, in addition to clinical judgement, can be used to determine the need 
+for hospitalization in immunocompetent adults diagnosed with CAP . In view of its simplicity, 
+one of the more frequently used scores is the CURB-65 (127), or its modification, CRB-65, 
+which does not require laboratory values for its calculation (Table 12.2). However, it should 
+be noted that these scores have not been extensively validated in low-income settings and 
+for this reason there is no clear consensus about their use in these settings (128). As well 
+as severity scores, other factors, such as severe comorbid illnesses (e.g. HIV infection) or 
+inability to maintain oral therapy, should always be taken into account in determining the 
+need for hospital admission.
+Table 12.2 – CURB-65 criteria and scoring, and treatment decisions for communityacquired pneumonia
+Criterion Points
+Presence of confusion (new onset) 1
+Urea > 19 mg/dL (or > 7 mmol/L)a 1
+Respiratory rate > 30 breaths/min 1
+Systolic blood pressure < 90 mmHg (< 12 kPa) 
+or diastolic blood pressure ≤ 60 mmHg (≤ 8 kPa)
+1
+Age ≥ 65 years 1
+CURB-65 score/CRB-65 score Where to treat
+0–1 Candidate for outpatient treatment
+Low 30-day mortality risk (< 1.5%)
+2 Consider inpatient treatment
+30-day mortality risk ≈ 10%
+Consider adding clarithromycin (see 
+Community-acquired pneumonia – severe)
+If tests are available, consider testing for 
+atypical pathogens (e.g. Legionella spp., 
+Mycoplasma spp.)
+continues
+158The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+12. Community-acquired pneumonia – mild
+Table 12.2 continued
+CURB-65 score/CRB-65 score Where to treat
+≥ 3 Inpatient treatment (consider 
+admission to intensive care)
+High 30-day mortality risk (≈ 20%)
+Consider adding clarithromycin (see 
+Community-acquired pneumonia – severe)
+Consider testing for atypical pathogens 
+(e.g. Legionella spp., Mycoplasma spp.)
+Note. The CURB-65 score is not validated in low-and middle-income countries.
+a Urea is not required for the calculation of the CRB-65 score, a modification of the CURB-65 score that does not 
+require laboratory tests.
+Ruling out tuberculosis
+TB is a cause of subacute lower respiratory tract infection and should be considered in 
+settings endemic for TB, especially in high-risk patients (e.g. children or adults with HIV), 
+with a slow onset of symptoms and persistent cough, or those who do not respond to the 
+initial antibiotic treatment. In such cases, specific investigations for TB should be done. A 
+rapid molecular test (GeneXpert® MTB/RIF assay) performed on a single sputum specimen 
+is currently the preferred first-line diagnostic test for pulmonary TB and to detect rifampicin 
+resistance in both children and adults. When this rapid test is not available, microscopy 
+examination of sputum smears could be considered for the detection of acid-fast bacilli 
+(129). For TB management and treatment, refer to the WHO consolidated guidelines on 
+tuberculosis (119). 
+Symptomatic care
+Patients and/or their caregivers in the primary health care setting should be informed about 
+the natural course of CAP , including the possibility of a viral etiology that would not benefit 
+from antibiotic treatment and that cough and other symptoms often take 2–3 weeks to 
+fully recover from. Patients should also receive clear advice on seeking medical care with 
+any worsening of symptoms and recommended symptomatic treatment (e.g. antipyretics) 
+(Table 12.3).
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book159
+PRIMARY HEALTH CARE 
+12. Community-acquired pneumonia – mild
+Table 12.3 – Medicines to consider for symptomatic treatment of communityacquired pneumonia
+Important
+Medicines are listed in alphabetical order and they should all be considered equal treatment options.
+Medicine Formulation Dose and frequency
+Ibuprofena Oral liquid: 200 mg/5 mL
+Tablet: 200 mg; 400 mg; 
+600 mg
+Adults: 200–400 mg given every 6 to 8 
+hours (maximum dose of 2.4 g a day)
+Children: 
+• Pain control/antipyretic treatment: 
+5–10 mg/kg given every 6 to 8 hours
+6–< 10 kg: 50 mg given every 8 hours
+10–< 15 kg: 100 mg given every 8 hours
+15–< 20 kg: 150 mg given every 8 hours
+20–< 30 kg: 200 mg given every 8 hours
+≥ 30 kg: use adult dose
+Paracetamol 
+(acetaminophen)b
+Oral liquid: 120 mg/5 mL; 
+125 mg/5 mL
+Suppository: 100 mg
+Tablet: 100 mg to 500 mg
+Adults: 500 mg–1 g given every 4 to 6 
+hours (maximum dose of 4 g a day)c
+Children:
+• Pain control/antipyretic treatment: 
+10–15 mg/kg given every 6 hours
+3–< 6 kg: 60 mg given every 6 hours
+6–< 10 kg: 100 mg given every 6 hours
+10–< 15 kg: 150 mg given every 6 hours
+15–< 20 kg: 200 mg given every 6 hours
+20–< 30 kg: 300 mg given every 6 hours
+≥ 30 kg: use adult dose
+a Not for children < 3 months.
+b Not recommended for use as an anti-inflammatory as it has not been proven to have such an effect.
+c In patients with hepatic impairment or cirrhosis, maximum daily dose should be 2 g.
+Antibiotic treatment 
+The primary goal of empiric antibiotic treatment in CAP is to provide effective and timely 
+treatment for Streptococcus pneumoniae infection because this is the predominant bacterial
+160The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+12. Community-acquired pneumonia – mild
+pathogen and untreated pneumococcal pneumonia is associated with high mortality (see 
+Table 12.4 for adults and Table 12.5 for children for treatment recommendations). Amoxicillin 
+or phenoxymethylpenicillin (sometimes also called penicillin V) are the recommended first 
+choice options for mild-to-moderate CAP .
+Empiric treatment should be guided by the age of the patient, severity of symptoms, 
+presence of comorbidities and previous antibiotic treatment. Clinical improvement should 
+be evident within 48–72 hours of starting antibiotic therapy. If there is no response to 
+treatment, a complication (such as empyema) should be considered. Duration of treatment 
+should be guided by measures of clinical improvement (e.g. resolution of fever); usually 5 
+days of treatment are adequate for adults and 3–5 days for children.
+Table 12.4 – Empiric antibiotic treatment for mild cases of community-acquired 
+pneumonia in adults
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Adults Total treatment 
+duration (130,131)
+First choice Amoxicillin (oral): 1 g given every 8 hours
+OR
+ Phenoxymethylpenicillin (oral): 500 mg 
+(800 000 IUa) given every 6 hours
+5 days
+Second choice Amoxicillin+clavulanic acid (oral): 875 mg + 
+125 mg given every 8 hours
+OR
+ Doxycycline (oral): 100 mg given every 12 hours
+5 days
+IU: international units.
+Note. All dosages are for normal renal and hepatic function.
+a Units of the potassium salt.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book161
+PRIMARY HEALTH CARE 
+12. Community-acquired pneumonia – mild
+Table 12.5 – Empiric antibiotic treatment for mild cases of community-acquired 
+pneumonia in children
+Children Total treatment 
+duration
+Pneumonia 
+(fast breathing 
+and/or chest 
+indrawing) – 
+treat at home 
+with oral 
+antibiotic
+ Amoxicillin (oral): 80–90 mg/kg/day 
+Oral weight bands:
+3–< 6 kg: 250 mg given every 12 hours
+6–< 10 kg: 375 mg given every 12 hours
+10–< 15 kg: 500 mg given every 12 hours
+15–< 20 kg: 750 mg given every 12 hours
+≥ 20 kg: 500 mg given every 8 hours or 1 g given 
+every 12 hours
+Children with fast-breathing pneumonia who fail 
+to respond to first-line treatment with amoxicillin 
+should have the option of referral to a facility 
+where there is appropriate second-line treatment.
+3 days for children 
+in areas of low HIV 
+prevalence and no 
+chest indrawing
+5 days if the child 
+has chest indrawing 
+or lives in region 
+of higher HIV 
+prevalence
+HIV: human immunodeficiency virus.
+Note: All dosages are for normal renal and hepatic function.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+Prevention
+Vaccination can prevent many cases of CAP . Available vaccines are active against 
+pneumococcal infection, Haemophilus influenzae type b disease and influenza, and several 
+vaccines against SARS-CoV-2 are available. Vaccines are never 100% effective and because 
+they are serogroup-specific, they do not protect against all strains of bacteria or viruses. 
+Duration of protection is also variable. As a result, even vaccinated people can develop 
+CAP . Haemophilus influenzae type b conjugate vaccines and pneumococcal conjugate 
+vaccines should be included in all routine infant immunization programmes as they have 
+been very successful in reducing invasive disease and in many countries, in reducing rates 
+of pneumococcal resistance. Countries should consider the inclusion of yearly seasonal 
+influenza vaccination for high-risk populations (pregnant women, elderly people, patients 
+with chronic medical conditions and health care workers) in their vaccination plan.
+
+--- [WHO IMCI Chart Booklet | p.2 | p.2-2 | audience=pediatric] ---
+2 
+ASSESS AND CLASSIFY THE SICK CHILD 
+AGE 2 MONTHS UP TO 5 YEARS 
+ 1) ASK THE MOTHER WHAT THE CHILD’S PROBLEMS ARE 
+ Determine if this is an initial or follow-up visit for this problem— 
+ If initial visit assess as follows; if a follow-up for this problem go to follow-up 
+2) CHECK FOR GENERAL DANGER SIGNS 
+ 
+ASK: 
+- Child is unable to drink or breastfeed 
+- Child vomits everything 
+- Child had convulsions 
+LOOK: 
+- Child is lethargic or unconscious 
+- Child is convulsing now 
+Does the child have cough or difficult breathing? If yes... 
+ 
+ASK How many days? 
+ 
+LOOK if breathing fast 
+LOOK for chest indrawing 
+LISTEN for Stridor 
+Look and listen for wheeze 
+ 
+ 
+ 
+ 
+ TREATMENT 
+(Urgent pre-referral treatments are in bold print.) 
+ 
+SEVERE 
+PNEUMONIA 
+ 
+Stridor or chest indrawing 
+ 
+( If wheeze, go to treatment of wheezing) 
+►Give first dose Ampicillin & Gentamicin 
+►Treat wheeze if present treat with aerosolized salbutamol 
+►Refer URGENTLY to hospital.* 
+ 
+ 
+PNEUMONIA 
+ 
+►Give Cotrimoxazole for 5 days. 
+►Treat wheeze if present. 
+►Follow-up in 2 days 
+►Advise mother to return immediately if breathing faster or with more 
+difficulty 
+►Counsel mother about safe home remedy 
+No signs of pneumonia or very severe disease 
+ 
+( If wheeze, go to treatment of wheezing) 
+ 
+NO PNEUMONIA: 
+COUGH OR 
+COLD 
+ 
+►Treat wheeze if present 
+►If coughing more than 14 days refer for non-urgent assessment. 
+►Follow-up in 5 days if not improving 
+►Advise mother to return immediately 
+►Counsel mother about safe home remedy 
+ 
+ 
+ 
+ 
+VERY SEVERE DISEASE 
+ 
+►ASK if cough, fever, diarrhea, sore throat & LOOK for severe 
+ malnutrition 
+►If convulsing give diazepam, Ampicillin & Gentamicin and 
+ manage the airway 
+►If cough or sore throat give Ampicillin & Gentamicin and refer 
+►If diarrhea, hydrate (Plan C), reassess and if child did not 
+ respond to hydration, refer 
+►If fever give quinine (if malaria endemic), Ampicillin, Gentamicin 
+ and Paracetamol ( If fever 38.5 C or more) 
+► Treat the child to prevent low blood sugar 
+►If severe malnutrition give Vit A and refer 
+3) IF NO DANGER SIGNS ASSESS COUGH, FEVER, DIARRHOEA, THROAT/EAR PROBLEM: 
+fast Breathing 
+ 
+( If wheeze, go to treatment of wheezing) 
+If YES 
+YES 
+YES 
+YES 
+*If referral is not possible, manage the child as described in Integrated Management of Childhood Illness, Treat the Child, Annex: Where Referral Is Not Possible, and WHO guidelines for inpatient care. 
+Fast breathing: 2 to 12 months old 50 or more breaths each minute 
+ 
+ 12 to 59 months old 40 or more breaths each minute
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.7 | p.7-7 | audience=pediatric] ---
+v
+3.5 Management of the infant with hypoxic ischaemic encephalopathy 51
+3.6 Danger signs in newborns and young infants 52
+3.7 Convulsions or fi ts 53
+3.8 Serious bacterial infection 54
+3.9 Meningitis 55
+3.10 Supportive care for sick neonates 56
+ 3.10.1 Thermal environment 56
+ 3.10.2 Fluid management 57
+ 3.10.3 Oxygen therapy 58
+ 3.10.4 High fever 58
+3.11 Preterm and low-birth-weight infants 58
+ 3.11.1 Infants with a birth weight of 2.0–2.5 kg
+ (35–36 weeks’ gestation) 58
+ 3.11.2 Infants with a birth weight < 2.0 kg
+ (< 35 weeks’ gestation) 59
+ 3.11.3 Common problems of low-birth-weight infants 61
+ 3.11.4 Discharge and follow-up of low-birth-weight infants 63
+3.12 Other common neonatal problems 64
+ 3.12.1 Jaundice 64
+ 3.12.2 Conjunctivitis 66
+ 3.12.3 Congential malformations 67
+3.13 Infants of mothers with infectious diseases 67
+ 3.13.1 Congenital syphilis 67
+ 3.13.2 Infants of mothers with tuberculosis 68
+ 3.13.3 Infants of mothers with HIV infection 68
+3.14 Doses of common drugs for neonates and low-birth-weight 
+infants 69
+4. COUGH OR DIFFICULTY IN BREATHING 75
+4.1 Child presenting with cough 76
+4.2 Pneumonia 80
+ 4.2.1 Severe pneumonia 80
+ 4.2.2 Pneumonia 86
+4.3 Complications of pneumonia 88
+ 4.3.1 Pleural effusion and empyema 88
+CO NTENTS
+PB2_Prelims.indd vPB2_Prelims.indd v 5/06/13 10:00 AM5/06/13 10:00 AM
+
+--- [WHO IMCI Chart Booklet | p.11 | p.11-11 | audience=pediatric] ---
+11 INTRAMUSCULAR ANTIBIOTIC 
+INTRAMUSCULAR QUININE 
+LOW BLOOD SUGAR 
+ 
+► Prevent Low Blood Sugar 
+ 
+ ► Best option: Counsel the mother to breastfeed the child if the child is able 
+► Second Best: Give sugar water if the child is unable to breastfeed 
+ Make sugar water by dissolving 4 level teaspoons of sugar 
+ (20 grams) in a 200-ml cup of clean water 
+► If necessary: If the child is not able to swallow give 50 ml of milk or sugar water by 
+nasogastric tube 
+- Treat Wheezing 
+ 
+ - Children with wheezing and 
+ GENERAL DANGER SIGN -> Give one dose of pre referral antibiotic and one 
+OR STRIDOR or chest indrawing dose of rapid acting bronchodilator and refer immediately 
+STRIDOR or chest indrawing 
+ 
+ - Children with wheezing and 
+ fast breathing but NO GENERAL -> Treat for PNEUMONIA & 
+DANGER SIGN, NO STRIDOR give oral salbutamol for 5 days, If child is 6 or more 
+ than 6 months old 
+ 
+- Children with ONLY wheezing -> Treat for NO PNEUMONIA: COUGH OR COLD 
+ Give oral salbutamol for 5 days , If child is 6 or more 
+ than 6 months old 
+ 
+ 
+ 
+RAPID ACTING 
+BRONCHODILATOR 
+ORAL 
+SALBUTAMOL 
+ORAL 
+SALBUTAMOL 
+ 
+ 
+AGE or WEIGHT Nebulized Salbutamol 
+(5mg/ml) 
+TABLET 
+(2 mg) 
+TABLET 
+(4 mg) 
+2 months up to 6 
+months (4 - <7 kg) 
+0.25ml plus 
+2.0ml sterile water 
+NONE NONE 
+6 months up to 12 
+months (7 - <10 kg) 
+0.5ml Salbutamol plus 
+2.0 ml sterile water 
+1/2 TABLET 1/4 TABLET 
+12 months up to 5 years 
+(10 - <19 kg) 
+0.5ml Salbutamol plus 
+2.0 ml sterile water 
+1 TABLET 1/2 TABLET
+
+--- [WHO IMCI Chart Booklet | p.20 | p.20-20 | audience=pediatric] ---
+20
+FLUID 
+WHEN TO RETURN 
+ ►Advise the Mother When to Return to Health Worker 
+ 
+FOLLOW-UP VISIT 
+ 
+Advise the mother to come for follow-up at the earliest time listed for 
+tthe child’s problems. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NEXT WELL-CHILD VISIT 
+Advise mother when to return for next immunization according to 
+immunization schedule. 
+ 
+ ► Advise the Mother to Increase Fluid During Illness 
+ 
+FOR ANY SICK CHILD: 
+ 
+► Breastfeed more frequently and for longer at each feed. 
+► Increase fluid. For example, give soup, rice water, yoghurt drinks or clean water. 
+ 
+FOR CHILD WITH DIARRHOEA: 
+ 
+► Giving extra fluid can be lifesaving. Give fluid according to Plan A or Plan B on TREAT THE CHILD chart. 
+ 
+If the child has: Return for 
+follow-up in: 
+PNEUMONIA 
+DYSENTERY 
+MALARIA, if fever persists 
+FEVER-MALARIA UNLIKELY, if fever persists 
+MEASLES WITH EYE OR MOUTH COMPLICATIONS 
+ 
+ 
+2 days 
+PERSISTENT DIARRHOEA 
+ACUTE EAR INFECTION 
+CHRONIC EAR INFECTION 
+FEEDING PROBLEM 
+ANY OTHER ILLNESS, if not improving 
+ 
+ 
+5 days 
+PALLOR 14 days 
+VERY LOW WEIGHT FOR AGE. 30 days 
+WHEN TO RETURN IMMEDIATELY 
+Advise mother to return immediately if the child has any of these signs: 
+Any sick child - Not able to drink or breastfeed 
+- Becomes sicker 
+- Develops a fever 
+If child has NO PNEUMONIA: 
+COUGH OR COLD, also return if: 
+- Fast breathing 
+- Difficult breathing 
+If child has Diarrhoea, also return if: - Blood in stool 
+- Drinking poorly
+
+--- [WHO IMCI Chart Booklet | p.22 | p.22-22 | audience=pediatric] ---
+22 
+ASSESS, CLASSIFY AND TREAT THE SICK YOUNG INFANT 
+FROM BIRTH UP TO 2 MONTHS 
+ASSESS CLASSIFY IDENTIFY 
+TREATMENT 
+ASK THE MOTHER WHAT THE YOUNG INFANT’S PROBLEMS ARE 
+ 
+- Determine if this is an initial or follow-up visit for this problem. 
+ - if follow-up visit, use the follow-up instructions on the bottom of this chart. 
+ - if initial visit, assess the young infant as follows: 
+USE ALL BOXES THAT MATCH INFANT’S 
+SYMPTOMS AND PROBLEMS TO 
+CLASSIFY THE ILLNESS. 
+ 
+CHECK FOR POSSIBLE BACTERIAL INFECTION 
+ 
+ 
+ 
+- ASK: Has infant had convulsions 
+- ASK: Is The infant vomiting everything 
+- LOOK: Is infant is convulsing now 
+- ASK/LOOK: Is infant unable to suck 
+- LOOK: More than 60 breaths in one minute 
+ -Repeat count if more than 60 
+- LOOK for severe chest indrawing. 
+- LISTEN for wheeze. 
+- FEEL for bulging fontanelle. 
+- LOOK for pus draining from the ear 
+- LOOK for pus draining from red, swollen eyes 
+- LOOK for redness or pus draining from the umbilicus 
+ -Does the redness extend to the skin? 
+- Measure temperature (or feel for fever or low body temperature) 
+- LOOK for skin pustules. Are there many or severe pustules? 
+- LOOK: Does the infant move only if stimulated 
+- LOOK: Is the infant unconscious 
+ 
+ 
+SIGNS CLASSIFY AS TREATMENT 
+- Unable to suck or poor suck or 
+- Convulsions or 
+- Fast breathing (60 breaths per minute 
+or more) or 
+- Severe chest indrawing or 
+- Wheeze or 
+- Bulging fontanelle or 
+- Pus draining from ear or 
+- Pus draining from red & swollen eyes or 
+- Umbilical redness extending 
+to the skin or 
+- Fever (37.5°C* or above or feels hot) 
+or low body temperature (less than 
+35.5°C* or feels cold) or 
+- Many or severe skin pustules or 
+- Unconscious or 
+- Moving only when stimulated 
+ 
+ 
+ 
+ 
+ 
+POSSIBLE 
+SERIOUS 
+BACTERIAL 
+INFECTION 
+ 
+► Treat convulsions if present now 
+► Give first dose of intramuscular 
+antibiotics. 
+ 
+► Treat to prevent low blood sugar. 
+ 
+► Advise mother how to keep the 
+infant warm on the way to the 
+hospital. 
+ 
+► Refer URGENTLY to hospital.** 
+ 
+ 
+- Red umbilicus or draining pus OR 
+- Some skin pustules OR 
+- Pus draining from eyes (no swelling; 
+no redness) 
+ 
+LOCAL 
+BACTERIAL 
+INFECTION 
+ 
+► Give oral amoxycillin . 
+►Mother to treat local infections at home. 
+► Mother to give home care for young 
+ infant. 
+► Follow-up in 2 days. 
+► When to return immediately 
+} 
+YOUNG 
+INFANT 
+MUST BE 
+CALM 
+Classify 
+ALL 
+YOUNG 
+INFANTS 
+ 
+ - ASK if Jaundice started in first 24 hours of life? 
+- ASK age 
+- LOOK for Jaundice : 
+-Is it severe jaundice seen in the sclera? 
+-Is it extending to palms and/or soles? 
+ 
+- Jaundice started in first 24 hours of 
+life and is still present OR 
+- Sever jaundice seen in sclera OR 
+- Jaundice extending to palms and/or 
+soles OR 
+- Jaundiced Infant age 2 weeks or more 
+ 
+SIGNIFICANT 
+JAUNDICE 
+- Encourage breastfeeding to prevent 
+low blood sugar 
+- Advise mother how to keep the infant 
+warm on the way to the hospital 
+- Refer URGENTLY to hospital 
+CHECK FOR SIGNIFICANT JAUNDICE 
+ 
+Classify 
+JAUNDICE 
+- Jaundice exists on day 2 to 13 of life 
+AND 
+- No jaundice on palms or soles 
+NOT 
+SIGNIFICANT 
+JAUNDICE 
+►Reassure mother, 
+►Suggest frequent breastfeeding 
+►Follow-up in 2 days or if danger signs 
+► When to return immediately
+
+--- [WHO IMCI Chart Booklet | p.33 | p.33-33 | audience=pediatric] ---
+Recording Form 
+33 
+ CHECK FOR POSSIBLE SERIOUS BACTERIAL INFECTION / JAUNDICE 
+ ▪ Count the breaths in one minute. breaths per minute 
+- Has the infant had convulsions? Repeat if elevated_____Fast breathing? 
+- Is the infant vomiting everything? 
+- Is the infant convulsing now? ▪ Look for severe chest indrawing 
+- Is infant unable to suck ▪ Look and feel for bulging fontanelle. 
+Look for Jaundice ▪ Look for nasal flaring 
+▪ Is severe jaundice seen in the sclera? ▪ Look at the umbilicus. Is it red or draining pus? 
+▪ Is it extending to palms and soles? ▪ Look for skin pustules. Are there 10 or more pustules 
+▪ Ask If jaundice started in first 24 hourse? or a big boil? 
+- ▪ Measure axillary temperature (if not possible, feel for fever. 
+- Listen for wheeze or low body temperature): 
+- Look for pus draining from the ear - 37.5°C or more (or feels hot)? 
+- Look for pus draining from red, swollen eyes - Less than 35.5°C ? 
+ 
+ ▪ See if young infant is lethargic or unconscious 
+ ▪ Look at young infant’s movements. Less than normal? 
+__________________________________________________________________________________________________________________________________ 
+ DOES THE YOUNG INFANT HAVE DIARRHOEA? Yes ___ No _ 
+- 
+ ▪ Look at the young infant’s general condition. Is the infant: 
+- Is there blood in the stool? - Lethargic or unconscious? 
+ - Restless and irritable? 
+ ▪ Look for sunken eyes. 
+ 
+go back: 
+ - Very slowly (longer than 2 seconds) - Slowly? 
+_____________________________________________________________________________________________________________________ 
+THEN CHECK FOR FEEDING PROBLEM & MALNUTRITION 
+- Is there any difficulty feeding? Yes __ No ___ ▪ Determine weight for age. Very low ___ Low ___ Not Low ___ 
+- Is the infant breastfed? Yes _____ No ___ 
+ If Yes, how many times in 24 hours? ____ times 
+- Does the infant usually receive any other foods or drinks? Yes ___ No ___ 
+ If Yes, how often? 
+- What do you use to feed the infant? 
+If the infant has any difficulty feeding, is feeding less than 8 times in 24 hours, is taking any other food or drinks, 
+or is low weight for age AND has no indications to refer urgently to hospital: 
+ASSESS BREASTFEEDING: 
+- Has the infant breastfed in the previous hour? 
+ If infant has not fed in the previous hour, ask the mother to put her infant 
+ to the breast. Observe the breastfeed for 4 minutes. 
+ 
+ ▪ Is the infant able to attach? To check attachment, look for: 
+ - Chin touching breast Yes ___ No ___ 
+ - Mouth wide open Yes _____ No ___ 
+ - Lower lip turned outward Yes ____ No ___ 
+ - More areola above than below the mouth Yes ___ No ___ 
+ no attachment at all not well attached good attachment 
+ 
+ ▪ Is the infant suckling effectively (that is, slow deep sucks, sometimes pausing)? 
+ not suckling at all not suckling effectively suckling effectively 
+ ▪ Look for ulcers or white patches in the mouth (thrush). 
+● Does the mother have pain while brteastfeeding? If yes, then look for: 
+ - Flat or inverted nipples, or sore nipples 
+- Engorged breasts or breast abscess __________________________________________________________________________________________________________________ 
+CHECK THE YOUNG INFANT’S IMMUNIZATION STATUS Circle immunizations needed today. Return for next 
+_______ ______ ______ ______ Immunizat on: 
+ ------------------- 
+ BCG DPT 1 OPV 0 OPV 1 HEP-B 1 Date 
+_____________________________________________________________________________________________________________________ 
+MANAGEMENT OF THE SICK YOUNG INFANT AGE UP TO 2 MONTHS 
+Name:___________________________________________ Age: Weight: kg Temperature: °C Date: 
+ 
+ASK: What are the infant’s problems? _______________________________________ Initial visit? _______ Follow-up Visit?______ 
+ ASSESS (Circle all signs present) CLASSIFY 
+Assess other problems: 
+TREAT (√ all that apply and write dose of medication) 
+Medication Dose Refer Counsel Follow-up 
+___Diazepam and keep the airway open 
+___Ampicillin + gentamycin 
+___Paracetamol 
+ ___Refer URGENTLY to 
+hospital 
+___Refer for assessment 
+ 
+ 
+ ___Encourage breastfeeding to 
+prevent low blood sugar 
+-- Teach correct positioning 
+-- Home care for young infant 
+—- Keep the young infant warm 
+ 
+ 
+ 
+ 
+ 
+ 
+___Follow-up in ____ days 
+___Return immediately if 
+___Breast feeding or drinking poorly 
+—–Difficult breathing 
+_ Becomes sicker 
+_ Fast breathing 
+_ Blood in Stool 
+_ Develop Fever 
+ 
+ 
+ 
+___Rehydrate child (Plan A, Plan B or Plan C) 
+ 
+ 
+ 
+ 
+ 
+ 
+___Rapid acting bronchodilator 
+___Give Antibiotic ( Amoxycilli, Co-trimoxazole, n) 
+___ chloroquin+ pyramethanmine sulphadoxone 
+ 
+___Apply tetracycline eye ntment 
+ I f pus in eyes 
+___Gentian violet if umbilical infection
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.99 | p.99-99 | audience=pediatric] ---
+75
+4. COUGH
+CHAPTER 4
+Cough or difficulty in breathing
+Cough and difficulty in breathing are common problems in young children. The 
+causes range from a mild, self-limited illness to severe, life-threatening disease. 
+This chapter provides guidelines for managing the most important conditions 
+that cause cough, difficulty in breathing or both in children aged 2 months to 
+5 years. The differential diagnosis of these conditions is described in Chapter 
+2. Management of these problems in infants < 2 months of age is described 
+in Chapter 3 and management in severely malnourished children in Chapter 7.
+4.1 Child presenting with cough 76
+4.2 Pneumonia 80
+ 4.2.1 Severe pneumonia 80
+ 4.2.2 Pneumonia 86
+4.3 Complications of pneumonia 88
+ 4.3.1 Pleural effusion and empyema 88
+ 4.3.2 Lung abscess 89
+ 4.3.3 Pneumothorax 90
+4.4 Cough or cold 90
+4.5 Conditions presenting with wheeze 91
+ 4.5.1 Bronchiolitis 94
+ 4.5.2 Asthma 96
+ 4.5.3 Wheeze with cough or cold 101
+4.6 Conditions presenting with stridor 102
+ 4.6.1 Viral croup 102
+ 4.6.2 Diphtheria 105
+ 4.6.3 Epiglottitis 107
+ 4.6.4 Anaphylaxis 108
+4.7 Conditions presenting with chronic cough 109
+ 4.7.1 Pertussis 111
+ 4.7.2 Tuberculosis 115
+ 4.7.3 Foreign body inhalation 119
+4.8 Heart failure 120
+4.9 Rheumatic heart disease 122
+PB2_ch4.indd 75PB2_ch4.indd 75 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.101 | p.101-101 | audience=pediatric] ---
+77
+4. COUGH
+ ■lower chest wall indrawing 
+ ■hyperinflated chest
+ ■apex beat displaced or trachea shifted from midline
+ ■raised jugular venous pressure
+ ■on auscultation, coarse crackles, no air entry or bronchial breath sounds 
+or
+ wheeze
+ ■abnormal heart rhythm on auscultation
+ ■percussion signs of pleural effusion (stony dullness) or pneumothorax 
+(h
+yper-resonance)
+Note: Lower chest wall indrawing is when the lower chest wall goes in when the 
+child breathes in; if only the soft tissue between the ribs or above the clavicle 
+goes in when the child breathes, this is not lower chest wall indrawing.
+Abdomen
+ • abdominal masses (e.g. lymphadenopathy)
+ • enlarged liver and spleen
+Investigations
+ • pulse oximetry to detect hypoxia and as a guide to when to start or stop 
+oxygen therapy
+ • full blood count
+ • chest X-ray only for children with severe pneumonia or pneumonia that 
+does not respond to treatment or complications or unclear diagnosis or 
+associated with HIV. 
+Table 6. Differential diagnosis in a child presenting with cough 
+or difficulty in breathing 
+Diagnosis In favour
+Pneumonia – Cough with fast breathing
+ – Lower chest wall indrawing
+ –F e v e r
+ – Coarse crackles or bronchial breath sounds or dullness 
+to percussion
+ –G r u n t i n g
+CHILD PRESENTING WITH COUGH
+PB2_ch4.indd 77PB2_ch4.indd 77 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.104 | p.104-104 | audience=pediatric] ---
+80
+4. COUGH
+4.2 Pneumonia 
+Pneumonia is caused by viruses or bacteria. It is usually not possible to 
+determine the specific cause of pneumonia by clinical features or chest X-ray 
+appearance. Pneumonia is classified as severe or non-severe on the basis of 
+clinical features, the management being based on the classification. Antibiotic 
+therapy should be given in most cases of pneumonia and severe pneumonia. 
+Severe pneumonia may require additional supportive care, such as oxygen, 
+to be given in hospital.
+4.2.1 Severe pneumonia 
+Diagnosis
+Cough or difficulty in breathing, plus at least one of the following:
+ ■central cyanosis or oxygen saturation < 90% on pulse oximetry
+ ■severe respiratory distress (e.g. grunting, very severe chest indrawing)
+ ■signs of pneumonia with a general danger sign:
+ –
+inability to breastfeed or drink, 
+ – lethargy or unconscious, 
+ –c o n v u l s i o n s .
+ ■In addition, some or all of the other signs of pneumonia may be present, 
+su
+ch as:
+ – signs of pneumonia
+ • fast breathing: age 2–11 months, ≥ 50/min
+ age 1–5 years, ≥ 40/min 
+ – chest indrawing: lower chest wall indrawing (i.e. lower chest wall goes 
+in when the child breathes in) 
+ –c h e s t a u s c u l t a t i o n s i g n s :
+ • decreased breath sounds 
+ • bronchial breath sounds 
+ •c r a c k l e s
+ • abnormal vocal resonance (decreased over a pleural effusion or 
+empyema, increased over lobar consolidation) 
+ •p l e u r a l r u b
+PNEUMONIA
+PB2_ch4.indd 80PB2_ch4.indd 80 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.105 | p.105-105 | audience=pediatric] ---
+81
+4. COUGH
+Table 7. Classification of the severity of pneumonia
+Sign or symptom Classification Treatment
+Cough or difficulty in 
+breathing with: 
+■ Oxygen saturation < 90% 
+o
+r central cyanosis
+■ Severe respiratory distress 
+(
+e.g. grunting, very severe 
+chest indrawing)
+■ Signs of pneumonia with 
+a g
+eneral danger sign 
+(inability to breastfeed or 
+drink, lethargy or reduced 
+level of consciousness, 
+convulsions)
+Severe 
+pneumonia
+– Admit to hospital. 
+– Give oxygen if saturation 
+< 90%.
+– Manage airway as 
+appropriate. 
+– Give recommended 
+antibiotic.
+– Treat high fever if 
+present. 
+■ Fast breathing:
+– ≥ 5
+0 breaths/min in a 
+child aged 2–11 months
+– ≥ 40 breaths/min in a 
+child aged 1–5 years
+■ Chest indrawing
+Pn
+eumonia – Home care
+– Give appropriate 
+antibiotic. 
+– Advise the mother when 
+to return immediately 
+if symptoms of severe 
+pneumonia.
+– Follow up after 3 days.
+■ No signs of pneumonia or 
+sev
+ere pneumonia
+No 
+pneumonia: 
+cough or cold
+– Home care
+– Soothe the throat and 
+relieve cough with safe 
+remedy.
+– Advise the mother when 
+to return.
+– Follow up after 5 days if 
+not improving
+– If coughing for more than 
+14 days, refer to chronic 
+cough (see p. 109)
+SEVERE PNEUMONIA
+PB2_ch4.indd 81PB2_ch4.indd 81 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.106 | p.106-106 | audience=pediatric] ---
+82
+4. COUGH
+Investigations
+ ■Measure oxygen saturation with pulse oximetry in all children suspected 
+o
+f having pneumonia. 
+ ■If possible, obtain a chest X-ray to identify pleural effusion, empyema, pneum
+othorax, pneumatocoele, interstitial pneumonia or pericardial effusion.
+Treatment
+ /L50776Admit the child to hospital.
+Oxygen therapy
+Ensure c ontinuous oxygen supply, either as cylinders or oxygen concentrator, 
+at all times.
+ /L50776Give oxygen to all children with oxygen saturation < 90%
+ /L50776Use nasal prongs as the preferred method of oxygen delivery to young 
+i
+nfants; if not available, a nasal or nasopharyngeal catheter may be used. 
+The different methods of oxygen administration and diagrams showing their 
+use are given in section 10.7, p. 312.
+ /L50776Use a pulse oximetry to guide oxygen therapy (to keep oxygen saturation 
+> 
+90%). If a pulse oximeter is not available, continue oxygen until the signs 
+of hypoxia (such as inability to breastfeed or breathing rate ≥ 70/min) are 
+no longer present. 
+ /L50776Remove oxygen for a trial period each day for stable children while continuing 
+t
+o use a pulse oximeter to determine oxygen saturation. Discontinue oxygen 
+if the saturation remains stable at > 90% (at least 15 min on room air). 
+Nurses should check every 3 h that the nasal prongs are not blocked with mucus 
+and are in the correct place and that all connections are secure. 
+Antibiotic therapy 
+ /L50776Give intravenous ampicillin (or benzylpenicillin) and gentamicin.
+ –
+Ampicillin 50 mg/kg or benzylpenicillin 50 000 U/kg IM or IV every 6 h 
+for at least 5 days
+ – Gentamicin 7.5 mg/kg IM or IV once a day for at least 5 days.
+ /L50776If the child does not show signs of improvement within 48 h and staphylococc
+al pneumonia is suspected, switch to gentamicin 7.5 mg/kg IM or IV once 
+a day and cloxacillin 50 mg/kg IM or IV every 6 h (p. 83).
+ /L50776Use ceftriaxone (80 mg/kg IM or IV once daily) in cases of failure of fi rstlin
+e treatment.
+SEVERE PNEUMONIA
+PB2_ch4.indd 82PB2_ch4.indd 82 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.107 | p.107-107 | audience=pediatric] ---
+83
+4. COUGH
+Supportive care
+ /L50776Remove by gentle suction any thick secretions at the entrance to the nasal 
+p
+assages or throat, which the child cannot clear.
+ /L50776If the child has fever ( ≥ 3 9 °C or ≥ 102.2 °F) which appears to be causing 
+distress, give paracetamol. 
+ /L50776If wheeze is present, give a rapid-acting bronchodilator (see p. 98), and star t 
+st
+eroids when appropriate.
+ /L50776Ensure that the child receives daily maintenance fl uids appropriate for his 
+o
+r her age (see section 10.2, p. 304), but avoid over-hydration.
+ – Encourage breastfeeding and oral fl uids. 
+ – If the child cannot drink, insert a nasogastric tube and give maintenance 
+fl uids in frequent small amounts. If the child is taking fl uids adequately by 
+mouth, do not use a nasogastric tube as it increases the risk for aspiration 
+pneumonia and obstructs part of the nasal airway. If oxygen is given by 
+nasal catheter at the same time as nasogastric fl uids, pass both tubes 
+through the same nostril. 
+ /L50776Encourage the child to eat as soon as food can be taken.
+Monitoring
+The child should be checked by a nurse at least every 3 h and by a doctor at 
+least twice a day. In the absence of complications, within 2 days there should 
+be signs of improvement (breathing slower, less indrawing of the lower chest 
+wall, less fever, improved ability to eat and drink, better oxygen saturation). 
+Other alternative diagnosis and treatment
+ ■If the child has not improved after 2 days or if the child’s condition has worse
+ned, look for complications (see section 4.3) or alternative diagnoses. If 
+possible, obtain a chest X-ray. The commonest other possible diagnoses are:
+Staphylococcal pneumonia . This is suggested if there is rapid clinical deterioration despite treatment, by a pneumatocoele or pneumothorax with effusion 
+on chest X-ray, numerous Gram-positive cocci in a smear of sputum or heavy 
+growth of S. aureus in cultured sputum or empyema fl uid. The presence of 
+septic skin pustules supports the diagnosis.
+ /L50776Treat with cloxacillin (50 mg/kg IM or IV every 6 h) and gentamicin (7.5 mg/
+k
+g IM or IV once a day). When the child improves (after at least 7 days of 
+IV or IM antibiotics), continue cloxacillin orally four times a day for a total 
+course of 3 weeks. Note that cloxacillin can be replaced by another antistaphylococcal antibiotic, such as oxacillin, fl ucloxacillin or dicloxacillin.
+SEVERE PNEUMONIA
+PB2_ch4.indd 83PB2_ch4.indd 83 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.108 | p.108-108 | audience=pediatric] ---
+84
+4. COUGH
+Tuberculosis. A child with persistent cough and fever for more than 2 weeks 
+and signs of pneumonia after adequate antibiotic treatment should be evaluated 
+for TB. If another cause of the fever cannot be found, TB should be considered, 
+particularly in malnourished children. Further investigations and treatment 
+for TB, following national guidelines, may be initiated and response to anti-TB 
+treatment evaluated (see section 4.7.2, p. 115). The HIV status of all children 
+suspected of having TB should be confirmed if not known.
+HIV infection or exposure to HIV. Some aspects of antibiotic treatment are different for children who are HIV positive or in whom HIV infection is suspected. 
+Although pneumonia in many of these children has the same etiology as that 
+in children without HIV, Pneumocystis pneumonia (PCP), often at the age of 
+4–6 months (see section 8.4, p. 244) is an important cause to be suspected 
+and treated. 
+ /L50776Treat as for severe pneumonia above; give ampicillin plus gentamicin IM 
+o
+r IV for 10 days.
+ /L50776If the child does not improve within 48 h, switch to ceftriaxone at 80 mg/kg 
+I
+V once daily over 30 min. If ceftriaxone is not available, give gentamicin 
+plus cloxacillin, as above. 
+ /L50776For children < 12 months, also give high-dose co-trimoxazole (8 mg/kg 
+t
+rimethoprim and 40 mg/kg sulfamethoxazole IV every 8 h or orally three 
+times a day) for 3 weeks. For a child aged 12–59 months, give this treatment only if there are clinical signs of PCP (such as chest X-ray fi ndings of 
+interstitial pneumonia). 
+ /L50776For further management of the child, including PCP prophylaxis, see Chapter 
+8
+, p. 225). 
+Discharge
+Children with severe pneumonia can be discharged when:
+ • Respiratory distress has resolved.
+ • There is no hypoxaemia (oxygen saturation, > 90%).
+ • They are feeding well.
+ • They are able to take oral medication or have completed a course of parenteral antibiotics.
+ • The parents understand the signs of pneumonia, risk factors and when 
+to return.
+SEVERE PNEUMONIA
+PB2_ch4.indd 84PB2_ch4.indd 84 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.109 | p.109-109 | audience=pediatric] ---
+85
+4. COUGH
+SEVERE PNEUMONIA
+Normal chest X-ray Lobar pneumonia of the right lower zone 
+indicated by a consolidation (X-ray)
+Staphylococcal pneumonia. Typical 
+features include pneumatocoeles (right), 
+and an abscess with an air-fl uid level (left) 
+(X-ray).
+Pneumothorax. The right lung (left side 
+on image) is collapsed towards the hilus, 
+leaving a transparent margin without lung 
+structure. In contrast, the right side (normal) 
+demonstrates markings extending to the 
+periphery (X-ray).
+Hyperinflated chest. Features are an 
+increased transverse diameter, ribs running 
+more horizontally, a small contour of the 
+heart, and fl attened diaphragm (X-ray).
+Appearance of miliary tuberculosis: 
+widespread small patchy infiltrates 
+throughout both lungs: “snow storm 
+appearance” (X-ray).
+PB2_ch4.indd 85PB2_ch4.indd 85 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.110 | p.110-110 | audience=pediatric] ---
+86
+4. COUGH
+Follow-up
+Children with severe pneumonia may cough for several weeks. As they have 
+been very sick, their nutrition is often poor. Give the vaccinations that are due, 
+and arrange follow-up 2 weeks after discharge, if possible, to check the child’s 
+nutrition. Also address risk factors such as malnutrition, indoor air pollution 
+and parental smoking.
+4.2.2 Pneumonia 
+Diagnosis
+Cough or difficult breathing plus at least one of the following signs:
+ ■fast breathing: age 2–11 months, ≥ 50/ min
+ age 1–5 years, ≥ 40/min
+ ■lower chest wall indrawing
+I
+n addition, either crackles or pleural rub may be present on chest auscultation.
+Check that there are no signs of severe pneumonia, such as:
+ – oxygen saturation < 90% on pulse oximetry or central cyanosis
+ – severe respiratory distress (e.g. grunting, very severe chest indrawing)
+ – inability to breastfeed or drink or vomiting everything
+ – convulsions, lethargy or reduced level of consciousness
+ – auscultatory fi ndings of decreased or bronchial breath sounds or signs 
+of pleural effusion or empyema. 
+Treatment
+ /L50776Treat child as outpatient.
+ /L50776Advise carers to give normal fl uid requirements plus extra breast milk or 
+fl
+ uids if there is a fever. Small frequent drinks are more likely to be taken 
+and less likely to be vomited
+Antibiotic therapy
+ /L50776Give the fi rst dose at the clinic and teach the mother how to give the other 
+d
+oses at home.
+ /L50776Give oral amoxicillin: 
+ –
+In settings with high HIV infection rate, give oral amoxicillin at least 
+40 mg/kg per dose twice a day for 5 days. 
+ – In areas with low HIV prevalence, give amoxicillin at least 40 mg/kg per 
+dose twice a day for 3 days.
+PNEUMONIA
+PB2_ch4.indd 86PB2_ch4.indd 86 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.111 | p.111-111 | audience=pediatric] ---
+87
+4. COUGH
+ /L50776Avoid unnecessary harmful medications such as remedies containing 
+a
+tropine, codeine derivatives or alcohol.
+Follow-up
+Encourage the mother to feed the child. Advise her to bring the child back after 
+3 days, or earlier if the child becomes sicker or is unable to drink or breastfeed. 
+When the child returns, check:
+ • Whether the breathing has improved (slower), there is no chest indrawing, 
+less fever, and the child is eating better; complete the antibiotic treatment.
+ • If the breathing rate and/or chest indrawing or fever and/or eating have not 
+improved, exclude a wheeze. If no wheeze, admit to hospital for investigations to exclude complications or alternative diagnosis. 
+ • If signs of severe pneumonia are present, admit the child to hospital and 
+treat as above.
+ • Address risk factors such as malnutrition, indoor air pollution and parental 
+smoking.
+Pneumonia in children with HIV infection
+ /L50776Admit to hospital and manage as severe pneumonia (see section 4.2.1, p. 80).
+ /L50776For further management of these children, including PCP prophylaxis (see 
+C
+hapter 8, p. 225).
+PNEUMONIA
+Lower chest wall 
+indrawing: with 
+inspiration, the lower 
+chest wall moves in.
+ out in
+ breathing
+PB2_ch4.indd 87PB2_ch4.indd 87 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.112 | p.112-112 | audience=pediatric] ---
+88
+4. COUGH
+4.3 Complications of pneumonia
+Septicaemia is the most common pneumonia complication and occurs when 
+the bacteria causing pneumonia spreads into the bloodstream (see section 6.5, 
+p. 179). The spread of bacteria can lead to septic shock or metastatic secondary 
+infections like meningitis especially in infants, peritonitis, and endocarditis 
+especially in patients with vulvar hear t disease or septic ar thritis. Other common 
+complication include pleural effusion, empyema and lung abscess.
+4.3.1 Pleural effusion and empyema 
+Diagnosis
+A child with pneumonia may develop pleural effusion or empyema. 
+ ■On examination, the chest is dull to percussion, and breath sounds are 
+r
+educed or absent over the affected area. 
+ ■A pleural rub may be heard at an early stage before the effusion is fully 
+developed
+.
+ ■A chest X-ray shows fl uid on one or both sides of the chest. 
+ ■When empyema is present, fever persists despite antibiotic therapy, and the 
+p
+leural fl uid is cloudy or frankly purulent.
+Treatment
+Drainage
+ /L50776Pleural effusions should be drained, unless they are very small. If effusions 
+a
+re present on both sides of the chest, drain both. It may be necessary to 
+repeat drainage two or three times if fl uid returns. See Annex A1.5, p. 348, 
+for guidelines on chest drainage. 
+Subsequent management depends on the character of the fl uid obtained. When 
+possible, pleural fl uid should be analysed for protein and glucose content, 
+cell count and differential count, and examined after Gram and Ziehl-Neelsen 
+staining and bacterial and Mycobacterium tuberculosis culture.
+Antibiotic therapy
+ /L50776Give ampicillin or cloxacillin or fl ucloxacillin (50 mg/kg IM or IV every 6 h) 
+a
+nd gentamicin (7.5 mg/kg IM or IV once a day). When the child improves 
+(after at least 7 days of IV or IM antibiotics), continue cloxacillin orally four 
+times a day for a total course of 3 weeks. 
+Note: Cloxacillin is preferable if staphylococcal infection is suspected; it can be 
+replaced by another anti-staphylococcal antibiotic such as oxacillin, fl ucloxacillin 
+COMPLICATIONS OF PNEUMONIA
+PB2_ch4.indd 88PB2_ch4.indd 88 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.115 | p.115-115 | audience=pediatric] ---
+91
+4. COUGH
+The following are absent :
+ – general danger signs. 
+ – signs of severe pneumonia or pneumonia
+ – stridor when the child is calm
+Wheezing may occur in young children (see below). 
+Treatment
+ /L50776Treat the child as an outpatient.
+ /L50776Soothe the throat and relieve the cough with a safe remedy, such as a warm, 
+swe
+et drink.
+ /L50776Relieve high fever ( ≥ 3 9 °C or ≥ 102.2 °F) with paracetamol if the fever is 
+causing distress to the child.
+ /L50776Clear secretions from the child’s nose before feeds with a cloth soaked in 
+w
+ater that has been twisted to form a pointed wick.
+Give normal fl uid requirements plus extra breast milk or fl uids if there is fever. 
+Small frequent drinks are more likely to be taken and less likely to be vomited.
+ /L50776Do no t give any of the following:
+ – an antibiotic (they are not effective and do not prevent pneumonia)
+ – remedies containing atropine, codeine or codeine derivatives, or alcohol 
+(these may be harmful) or mucolytics
+ – medicated nose drops.
+Follow-up
+Advise the mother to:
+ • feed the child 
+ • watch for fast or difficult breathing and return if either develops 
+ • return if the child becomes sicker or is unable to drink or breastfeed.
+4.5 Conditions presenting with wheeze 
+Wheeze is a high-pitched whistling sound on expiration. It is caused by spasmodic narrowing of the distal airway. To hear a wheeze, even in mild cases, 
+place your ear next to the child’s mouth and listen to the breathing while the 
+child is calm, or use a stethoscope. 
+In the fi rst 2 years of life, wheezing is most commonly caused by acute viral 
+respiratory infections such as bronchiolitis or coughs and colds. After 2 years 
+CONDITIONS PRESENTING WITH WHEEZE
+PB2_ch4.indd 91PB2_ch4.indd 91 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.116 | p.116-116 | audience=pediatric] ---
+92
+4. COUGH
+CONDITIONS PRESENTING WITH WHEEZE
+of age, most wheezing is due to asthma (Table 8, p. 93). Some children with 
+pneumonia present with wheeze. It is important always to consider treatment 
+for pneumonia, particularly in the fi rst 2 years of life. Children with wheeze but 
+no fever, chest indrawing or danger signs are unlikely to have pneumonia and 
+should therefore not be given antibiotics. 
+History
+ ■previous episodes of wheeze
+ ■night-time or early morning shortness of breath, cough or wheeze
+ ■response to bronchodilators
+ ■asthma diagnosis or long-term treatment for asthma
+ ■family history of allergy or asthma
+Examination
+ ■wheezing on expiration
+ ■prolonged expiration
+ ■resonant percussion note
+ ■hyperinflated chest
+ ■rhonchi on auscultation
+ ■shortness of breath at rest or on exertion
+ ■lower chest wall indrawing if severe.
+Response to rapid-acting bronchodilator
+ /L50776If the cause of the wheeze is not clear or if the child has fast breathing or 
+c
+hest indrawing in addition to wheeze, give a rapid-acting bronchodilator 
+and assess after 15 min. The response to a rapid-acting bronchodilator helps 
+to determine the underlying diagnosis and treatment.
+ /L50776Give the rapid-acting bronchodilator by one of the following methods:
+ –
+nebulized salbutamol
+ – salbutamol by a metered dose inhaler with spacer device
+ – if neither of the above methods is available, give a subcutaneous injection of adrenaline.
+For details of administering the above, see pp. 98–99.
+ ■Assess the response after 15 min. Signs of improvement are:
+ –
+less respiratory distress (easier breathing) 
+PB2_ch4.indd 92PB2_ch4.indd 92 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.118 | p.118-118 | audience=pediatric] ---
+94
+4. COUGH
+ – less lower chest wall indrawing
+ – improved air entry.
+ /L50776Children who still have signs of hypoxia (central cyanosis, low oxygen 
+sa
+turation ≤ 90%, unable to drink due to respiratory distress, severe lower 
+chest wall indrawing) or have fast breathing should be given a second dose 
+of bronchodilator and admitted to hospital for further treatment. 
+4.5.1 Bronchiolitis
+Bronchiolitis is a lower respiratory viral infection, which is typically most 
+severe in young infants, occurs in annual epidemics and is characterized by 
+airways obstruction and wheezing. It is most commonly caused by respiratory 
+syncytial virus. Secondary bacterial infection may occur. The management of 
+bronchiolitis associated with fast breathing or other sign of respiratory distress 
+is therefore similar to that of pneumonia. Episodes of wheeze may occur for 
+months after an attack of bronchiolitis, but will eventually stop.
+Diagnosis
+Typical features of bronchiolitis, on examination, include:
+ ■wheezing that is not relieved by up to three doses of a rapid-acting bronchod
+ilator
+ ■hyperinflation of the chest, with increased resonance to percussion
+ ■lower chest wall indrawing
+ ■fi ne crackles and wheeze on auscultation of the chest
+ ■difficulty in feeding, breastfeeding or drinking owing to respiratory distress
+ ■nasal discharge, which can cause severe nasal obstruction.
+Treatment
+Most children can be treated at home, but those with the following signs of 
+severe pneumonia (see section 4.2.1) should be treated in hospital:
+ ■oxygen saturation < 90% or central cyanosis.
+ ■apnoea or history of apnoea
+ ■inability to breastfeed or drink, or vomiting everything
+ ■convulsions, lethargy or unconsciousness
+ ■gasping and grunting (especially in young infants).
+BRONCHIOLITIS
+PB2_ch4.indd 94PB2_ch4.indd 94 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.119 | p.119-119 | audience=pediatric] ---
+95
+4. COUGH
+BRONCHIOLITIS
+Oxygen
+ /L50776Give oxygen to all children with severe respiratory distress or oxygen satura
+tion ≤ 90% (see section 4.2.1). The recommended method for delivering 
+oxygen is by nasal prongs or a nasal catheter (see p. 312).
+ /L50776The nurse should check, every 3 h, that the prongs are in the correct position 
+a
+nd not blocked with mucus, and that all connections are secure.
+Antibiotic treatment
+ /L50776If the infant is treated at home, give amoxicillin (40 mg/kg twice a day) orally 
+f
+or 5 days only if the child has signs of pneumonia (fast breathing and lower 
+chest wall indrawing).
+ /L50776If there are signs of severe pneumonia, give ampicillin at 50 mg/kg or 
+b
+enzylpenicillin at 50 000 U/kg IM or IV every 6 h for at least 5 days and 
+gentamicin 7.5 mg/kg IM or IV once a day for at least 5 days (see p. 82).
+Supportive care
+ /L50776If the child has fever ( ≥ 39 °C or ≥ 102.2 °F) that appears to be causing 
+distress, give paracetamol.
+ /L50776Ensure that the hospitalized child receives daily maintenance fl uids appropria
+te for age (see section 10.2, p. 304), but avoid overhydration. Encourage 
+breastfeeding and oral fl uids. 
+ /L50776Encourage the child to eat as soon as food can be taken. Nasogastric feeding 
+s
+hould be considered in any patient who is unable to maintain oral intake or 
+hydration (expressed breast milk is the best).
+ /L50776Gentle nasal suction should be used to clear secretions in infants where 
+n
+asal blockage appears to be causing respiratory distress.
+Monitoring
+A hospitalized child should be assessed by a nurse every 6 h (or every 3 h 
+if there are signs of very severe illness) and by a doctor at least once a day. 
+Monitor oxygen therapy as described on p. 314. Watch for signs of respiratory 
+failure, i.e. increasing hypoxia and respiratory distress leading to exhaustion. 
+Complications
+If the child fails to respond to oxygen therapy or the child’s condition worsens 
+suddenly, obtain a chest X-ray to look for evidence of pneumothorax. 
+Tension pneumothorax associated with severe respiratory distress and shift of 
+the heart requires immediate relief by placing a needle to allow the air that is 
+PB2_ch4.indd 95PB2_ch4.indd 95 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.136 | p.136-136 | audience=pediatric] ---
+112
+4. COUGH
+ ■paroxysmal coughing followed by a 
+w
+hoop when breathing in, often with 
+vomiting
+ ■subconjunctival haemorrhages
+ ■child not vaccinated against pertussis
+ ■young infants may not whoop; ins
+tead, the cough may be followed 
+by suspension of breathing (apnoea) 
+or cyanosis, or apnoea may occur 
+without coughing. 
+Also examine the child for signs of 
+pneumonia, and ask about convulsions.
+Treatment
+Treat mild cases in children aged ≥ 6 months at home with supportive care 
+(see below). Admit infants aged < 6 months to hospital; also admit any child 
+with pneumonia, convulsions, dehydration, severe malnutrition or prolonged 
+apnoea or cyanosis after coughing.
+Antibiotics
+ /L50776Give oral erythromycin (12.5 mg/kg four times a day) for 10 days. This does 
+n
+ot shorten the illness but reduces the period of infectiousness. 
+ /L50776Alternatively, if available, give azithromycin at 10 mg/kg (maximum, 500 mg) 
+o
+n the fi rst day, then 5 mg/kg (maximum, 250 mg) once a day for 4 days.
+ /L50776If there is fever, if erythromycin or azithromycin is not available, or if there 
+ar
+e signs of pneumonia, treat with amoxicillin as possible secondary pneumonia. Follow the other guidelines for severe pneumonia (see 4.2.1, p. 80). 
+Oxygen
+ /L50776Give oxygen to children who have spells of apnoea or cyanosis, severe 
+p
+aroxysms of coughing or low oxygen saturation ≤ 90% on a pulse oximeter.
+Use nasal prongs, not a nasopharyngeal catheter or nasal catheter, which 
+can provoke coughing. Place the prongs just inside the nostrils and secure 
+with a piece of tape just above the upper lip. Care should be taken to keep the 
+nostrils clear of mucus, as this blocks the fl ow of oxygen. Set a fl ow rate of 
+1–2 litres/min (0.5 litre/min for young infants). Humidification is not required 
+with nasal prongs.
+PERTUSSIS
+Subconjunctival haemorrhages 
+prominent on the white sclera
+PB2_ch4.indd 112PB2_ch4.indd 112 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.138 | p.138-138 | audience=pediatric] ---
+114
+4. COUGH
+Complications
+Pneumonia: This is the commonest complication of pertussis and is caused by 
+secondary bacterial infection or inhalation of vomit. 
+ ■Signs suggesting pneumonia include fast breathing between coughing 
+e
+pisodes, fever and the rapid onset of respiratory distress. 
+ /L50776Treat pneumonia in children with pertussis as follows:
+ –
+Give parenteral ampicillin (or benzylpenicillin) and gentamicin for 5 days, 
+or alternatively give azithromycin for 5 days.
+ – Give oxygen as described for the treatment of severe pneumonia (see 
+sections 4.2.1 and 10.7, pp. 80 and 312).
+Convulsions . These may result from anoxia associated with an apnoeic or 
+cyanotic episode or toxin-mediated encephalopathy. 
+ /L50776If a convulsion does not stop within 2 min, give diazepam, following the 
+g
+uidelines in Chapter 1 (Chart 9, p. 15).
+Malnutrition . Children with pertussis may become malnourished as a result of 
+reduced food intake and frequent vomiting. 
+ /L50776Prevent malnutrition by ensuring adequate feeding, as described above, 
+u
+nder ‘Supportive care’.
+Haemorrhage and hernias
+ ■Subconjunctival haemorrhage and epistaxis are common during pertussis. 
+ /L50776No specific treatment is needed. 
+ ■Umbilical or inguinal hernias may be caused by violent coughing. 
+ /L50776Do not treat them unless there are signs of bowel obstruction, but refer the 
+c
+hild for surgical evaluation after the acute phase.
+Public health measures
+ /L50776Give DPT vaccine to any child in the family who is not fully immunized and 
+t
+o the child with pertussis. 
+ /L50776Give a DPT booster to previously vaccinated children. 
+ /L50776Give erythromycin estolate (12.5 mg/kg four times a day) for 10 days to any 
+i
+nfant in the family who is < 6 months old and has fever or other signs of a 
+respiratory infection.
+PERTUSSIS
+PB2_ch4.indd 114PB2_ch4.indd 114 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.144 | p.144-144 | audience=pediatric] ---
+120
+4. COUGH
+ /L50776If necessary, repeat this sequence with back slaps.
+For older children:
+ /L50776While the child is sitting, kneeling or lying, strike the child’s back fi ve times 
+w
+ith the heel of the hand.
+ /L50776If the obstruction persists, go behind the child and pass your arms around 
+t
+he child’s body; form a fi st with one hand immediately below the sternum; 
+place the other hand over the fi st, and thrust sharply upwards into the abdomen. Repeat this up to fi ve times.
+ /L50776Then check the child’s mouth for any obstruction that can be removed. 
+ /L50776If necessary, repeat the sequence with back slaps.
+O
+nce this has been done, it is important to check the patency of the airway by:
+ ■looking for chest movements
+ ■listening for breath sounds and
+ ■feeling for breath.
+I
+f further management of the airways is required after the obstruction is removed, Chart 4, pp. 9–10 describes actions that will keep the child’s airways 
+open and prevent the tongue from falling back to obstruct the pharynx while 
+the child recovers. 
+ /L50776Later treatment of suspected foreign body aspiration . I f a foreign body is 
+suspected, refer the child to a hospital where diagnosis is possible and the 
+object can be removed after bronchoscopy. If there is evidence of pneumonia, 
+begin treatment with ampicillin (or benzylpenicillin) and gentamicin, as for 
+severe pneumonia (see p. 82), before attempting to remove the foreign body.
+4.8 Heart failure 
+Heart failure causes fast breathing and respiratory distress. The underlying 
+causes include congenital heart disease (usually in the fi rst months of life), 
+acute rheumatic fever, cardiac arrhythmia, myocarditis, suppurative pericarditis with constriction, infective endocarditis, acute glomerulonephritis, 
+severe anaemia, severe pneumonia and severe malnutrition. Heart failure 
+can be precipitated or worsened by fl uid overload, especially when large 
+volumes of IV fl uids are given.
+Diagnosis
+The commonest signs of heart failure, on examination, are:
+HEART FAILURE
+PB2_ch4.indd 120PB2_ch4.indd 120 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.178 | p.178-178 | audience=pediatric] ---
+154
+6. FEVER
+History
+Take a history, as for fever (see p. 150). In addition, consider the possibility of 
+HIV, TB or malignancy, which can cause persistent fever.
+Examination
+Fully undress the child, and examine the whole body for the following signs:
+ - fast breathing or chest indrawing (pneumonia)
+ - stiff neck or bulging fontanel (meningitis)
+ - red tender joint (septic arthritis or rheumatic fever)
+ - fast breathing or chest indrawing (pneumonia or severe pneumonia)
+ - petaechial or purpuric rash (meningococcal disease or dengue)
+ - maculopapular rash (viral infection or drug reaction)
+ - inflamed throat and mucous membranes (throat infection)
+ - red, painful ear with immobile ear-drum (otitis media)
+ - jaundice or anaemia (malaria, hepatitis, leptospirosis or septicaemia)
+ - painful spine, hips or other joints (septic arthritis)
+ - tender abdomen (suprapubic or loin in urinary tract infection)
+Some causes of persistent fever may have no localizing diagnostic signs, such 
+as septicaemia, Salmonella infections, miliary TB, HIV infection or urinary 
+tract infection.
+Laboratory investigations
+When available, perform the following:
+ - blood fi lms or rapid diagnostic test for malaria parasites (a positive test in 
+an endemic area does not exclude other, co-existing causes of fever)
+ - full blood count, including platelet count, and examination of a thin fi lm for 
+cell morphology 
+ - urinalysis, including microscopy
+Mantoux test ( Note: often negative in a child who has miliary TB, severe malnutrition or HIV infection )
+ - c h e s t X - r a y
+ - b l o o d c u l t u r e
+ - HIV testing (if the fever has lasted > 30 days and there is reason to suspect 
+HIV infection)
+ - lumbar puncture (to exclude meningitis if there are suggestive signs).
+FEVER LASTING LONGER THAN 7 DAYS
+PB2_ch6.indd 154PB2_ch6.indd 154 5/06/13 10:07 AM5/06/13 10:07 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.186 | p.186-186 | audience=pediatric] ---
+162
+6. FEVER
+Monitor blood glucose and signs of fl uid overload. If the child develops fl uid 
+overload and blood glucose is still low, stop the infusion; repeat 10% glucose 
+(5 ml/kg), and feed the child by nasogastric tube as appropriate. 
+Once the child can take food orally, stop IV treatment and feed the child by 
+nasogastric tube. Breastfeed every 3 h, if possible, or give milk feeds of 15 ml/
+kg if the child can swallow. If the child cannot feed without risk of aspiration, 
+especially if the gag reflex is still absent, give sugar solution or small feeds by 
+nasogastric tube (see Chart 10, p. 16). Continue monitoring blood glucose, and 
+treat accordingly (as above) if it is < 2.5 mmol/litre or < 45 mg/dl.
+Respiratory distress (acidosis)
+Respiratory distress presents as deep, laboured breathing, while the chest is 
+c
+lear on auscultation, often accompanied by lower chest wall indrawing. It is 
+commonly caused by systemic metabolic acidosis (frequently lactic acidosis). 
+It may develop in a fully conscious child but more often occurs in children with 
+an altered level of consciousness, prostration, cerebral malaria, severe anaemia 
+or hypoglycaemia. Respiratory distress due to acidosis must be distinguished 
+from that caused by pneumonia (including history of aspiration) or pulmonary 
+oedema due to fl uid overload. If acidosis is present:
+ - Give oxygen. 
+ - Correct reversible causes of acidosis, especially dehydration and severe 
+anaemia:
+ – If Hb is ≥ 5 g/dl, give 20 ml/kg normal saline or Ringer’s lactate (Hartmann’s solution) IV over 30 min.
+ – If Hb is < 5 g/dl, give whole blood (10 ml/kg) over 30 min and a further 
+10 ml/kg over 1–2 h without diuretics. Check the respiratory rate and pulse 
+rate every 15 min. If either shows any rise, transfuse more slowly to avoid 
+precipitating pulmonary oedema (see guidelines on blood transfusion, 
+section 10.6, p. 308).
+ /L50776Monitor response by continuous clinical observation (oxygen saturation, 
+H
+b, packed cell volume, blood glucose and acid–base balance if available)
+Aspiration pneumonia
+Treat aspiration pneumonia immediately, as it can be fatal. 
+ - 
+Place the child on his or her side or at least 30° head-up.
+ - Give oxygen if oxygen saturation is ≤ 90% or, if you cannot do pulse oximetry, if there is cyanosis, severe lower chest wall indrawing or a respiratory 
+rate ≥ 70/min.
+SEVERE MALARIA
+PB2_ch6.indd 162PB2_ch6.indd 162 5/06/13 10:07 AM5/06/13 10:07 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.200 | p.200-200 | audience=pediatric] ---
+176
+6. FEVER
+ /L50776Vitamin A therapy. G ive oral vitamin A to all children with measles, unless 
+the child has already had adequate vitamin A treatment for this illness as an 
+outpatient. Give oral vitamin A at 50 000 IU (for a child aged < 6 months), 
+100 000 IU (6–11 months) or 200 000 IU (1–5 years). See details on p. 369. 
+If the child shows any eye sign of vitamin A deficiency, give a third dose 2–4 
+weeks after the second dose on follow-up. 
+Supportive care
+Fever
+ /L50776If the child’s temperature is ≥ 3 9 °C ( ≥ 102.2 °F) and is causing distress, 
+give paracetamol.
+Nutritional support
+Assess the nutritional status by weighing the child and plotting the weight on 
+a g
+rowth chart (rehydrate before weighing). Encourage continued breastfeeding. Encourage the child to take frequent small meals. Check for mouth ulcers 
+and treat them, if present (see below). Follow the guidelines on nutritional 
+management given in Chapter 10 (p. 294).
+Complications
+Follow the guidelines given in other sections of this manual for the management 
+of the following complications: 
+ - Pneumonia: Give antibiotics for pneumonia to all children with measles and 
+signs of pneumonia, as over 50% of all cases of pneumonia in measles have 
+secondary bacterial infection (section 4.2, p. 80).
+ - Otitis media (pp. 183–4). 
+ /L50776Diarrhoea: T reat dehydration, bloody diarrhoea or persistent diarrhoea (see 
+Chapter 5, p. 125).
+ /L50776Measles croup ( see section 4.6.1, p. 102): Give supportive care. Do not 
+give steroids.
+ /L50776Eye problems. C onjunctivitis and corneal and retinal damage may occur due 
+to infection, vitamin A deficiency or harmful local remedies. In addition to 
+giving vitamin A (as above), treat any infection present. If there is a clear 
+watery discharge, no treatment is needed. If there is pus discharge, clean 
+the eyes with cotton-wool boiled in water or a clean cloth dipped in clean 
+water. Apply tetracycline eye ointment three times a day for 7 days. Never 
+use steroid ointment. Use a protective eye pad to prevent other infections. 
+If there is no improvement, refer to an eye specialist. 
+SEVERE COMPLICATED MEASLES
+PB2_ch6.indd 176PB2_ch6.indd 176 5/06/13 10:07 AM5/06/13 10:07 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.251 | p.251-251 | audience=pediatric] ---
+227
+8. HIV/AIDS
+Suspect HIV if any of the following signs, which are not common in HIV-negative 
+children, are present:
+Signs that may indicate possible HIV infection 
+ •recurrent infection: three or more severe episodes of a bacterial infection 
+(such as pneumonia, meningitis, sepsis, cellulitis) in the past 12 months
+ •oral thrush: erythema and white-beige pseudomembranous plaques on the 
+palate, gums and buccal mucosa. After the neonatal period, the presence 
+of oral thrush is highly suggestive of HIV infection when it lasts > 30 days 
+despite antibiotic treatment, recurs, extends beyond the tongue or presents 
+as oesophageal candidiasis.
+ •chronic parotitis: unilateral or bilateral parotid swelling (just in front of the 
+ear) for ≥ 14 days, with or without associated pain or fever. 
+ •generalized lymphadenopathy: enlarged lymph nodes in two or more extrainguinal regions with no apparent underlying cause.
+ •hepatomegaly with no apparent cause: in the absence of concurrent viral 
+infections such as cytomegalovirus.
+ •persistent and/or recurrent fever: fever (> 38 °C) lasting ≥ 7 days or occurring 
+more than once over 7 days.
+ •neurological dysfunction: progressive neurological impairment, microcephaly, delay in achieving developmental milestones, hypertonia or mental 
+confusion
+ •herpes zoster (shingles): painful rash with blisters confined to one dermatome 
+on one side
+ •HIV dermatitis: erythematous papular rash. Typical skin rashes include 
+extensive fungal infections of the skin, nails and scalp and extensive molluscum contagiosum.
+ • chronic suppurative lung disease
+Signs or conditions specific to HIV-infected children
+Strongly suspect HIV infection if the following are present: 
+ •Pneumocystis jiroveci (formerly carinii ) pneumonia (PCP) 
+ • oesophageal candidiasis 
+ • lymphocytic interstitial pneumonia
+ • Kaposi sarcoma
+ • acquired recto-vaginal fi stula (in girls)
+SICK CHILD WITH SUSPECTED OR CONFIRMED HIV INFECTION
+PB2_ch8.indd 227PB2_ch8.indd 227 5/06/13 10:08 AM5/06/13 10:08 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.255 | p.255-255 | audience=pediatric] ---
+231
+8. HIV/AIDS
+CLINICAL STAGING
+Table 23. WHO paediatric clinical staging system for HIV infection
+For use in children aged < 13 years with confirmed laboratory evidence of HIV 
+infection (HIV antibodies for children > 18 months, virological testing for those 
+aged < 18 months) 
+STAGE 1
+ –A s y m p t o m a t i c
+ – Persistent generalized lymphadenopathy
+STAGE 2
+ –H e p a t o s p l e n o m e g a l y
+ – Papular pruritic eruptions
+ –S e b o r r h o e i c d e r m a t i t i s
+ – Fungal nail infections
+ – Angular cheilitis
+ – Linear gingival erythema
+ – Extensive human papillomavirus infection or molluscum infection (> 5% 
+body area)
+ – Recurrent oral ulcerations (two or more episodes in 6 months)
+ – Parotid enlargement
+ – Herpes zoster
+ – Recurrent or chronic upper respiratory tract infection (otitis media, otorrhoea, 
+sinusitis; two or more episodes in any 6-month period)
+STAGE 3
+ – Unexplained moderate malnutrition that does not respond to standard therapy 
+ – Unexplained persistent diarrhoea (> 14 days)
+ – Unexplained persistent fever (intermittent or constant, for > 1 month)
+ – Oral candidiasis (outside neonatal period)
+ – Oral hairy leukoplakia
+ –P u l m o n a r y T Ba 
+ – Severe recurrent presumed bacterial pneumonia (two or more episodes in 
+6 months)
+ – Acute necrotizing ulcerative gingivitis or periodontitis 
+ – Lymphoid interstitial pneumonia
+ – Unexplained anaemia (< 8 g/dl), neutropenia (< 500/mm 3) or thrombocytopenia 
+(< 30 000/mm 3) for > 1 month
+ – HIV-related cardiomyopathy
+ – HIV-related nephropathy
+STAGE 4
+ – Unexplained severe wasting or severe malnutrition that does not respond to 
+standard therapy
+ –P C P
+ – Recurrent severe presumed bacterial infections (two or more episodes within 
+1 year, e.g. empyema, pyomyositis, bone or joint infection, meningitis, but 
+excluding pneumonia)
+PB2_ch8.indd 231PB2_ch8.indd 231 5/06/13 10:08 AM5/06/13 10:08 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.268 | p.268-268 | audience=pediatric] ---
+244
+8. HIV/AIDS
+Isoniazid preventive therapy
+All HIV-infected infants and children should be screened for TB infection, as 
+they are at special risk. If a child has cough, fever or weight loss, assess for 
+TB. If the child does not have TB, give isoniazid preventive therapy (IPT) daily 
+for 6 months. 
+ /L50776Give isoniazid preventive therapy to:
+ •
+all HIV-infected infants and children exposed to TB from household 
+contacts, but with no evidence of active disease, are well and thriving.
+ • children > 12 months living with HIV infection, including those previously 
+treated for TB, who are not likely to have active TB and are not known 
+to be exposed to TB
+ /L50776Give 10 mg/kg isoniazid daily for at least 6 months. See the child monthly 
+a
+nd give a 1-month supply of isoniazid at each visit.
+Note: Infants living with HIV infection who are unlikely to have active TB and are 
+not known to have been exposed to TB should not receive isoniazid preventive 
+therapy as part of HIV care. 
+8.4.2 Pneumocystis jiroveci pneumonia
+PCP should be suspected in any HIV-positive infant with severe pneumonia. 
+If PCP is untreated, mortality from this condition is very high. It is therefore 
+imperative to provide treatment as early as possible. 
+Diagnosis
+ ■is most likely in a child < 12 months (peak age, 4–6 months),
+ ■subacute or acute onset of non-productive cough and difficulty in breathing, 
+ ■no or low-grade fever, 
+ ■cyanosis or persistent hypoxia, 
+ ■poor response to 48 h of fi rst-line antibiotics for pneumonia, and 
+ ■elevated levels of lactate dehydrogenase. 
+A
+lthough clinical and radiological signs are not diagnostic, the presence of 
+severe respiratory distress (tachypnoea, chest indrawing and cyanosis), with 
+disproportionate clear chest or diffuse signs on auscultation and low oxygen 
+saturation are typical of PCP infection. 
+ • A chest X-ray is falsely negative in 10–20% of proven cases of PCP but typically shows a bilateral diffuse interstitial reticulogranular (‘ground glass’) 
+PNEUMOCYSTIS JIROVECI PNEUMONIA
+PB2_ch8.indd 244PB2_ch8.indd 244 5/06/13 10:08 AM5/06/13 10:08 AM
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 3.1.10.4 Pneumocystis Pneumonia | p.329-330 | audience=general] ---
+Interstitial pneumonitis caused by the parasite Pneumocystis jirovecii
+(formerly carinii). It is common in severely immunosuppresed patients
+(e.g. in HIV).
+~ Clinical features
+~ Fever
+~ Dry cough
+~ Shortness of breath (significant hypoxemia)
+~
+Investigations
+- Chest x-ray shows characteristic bilateral interstitial infiltrates
+Management
+Pre-emptive treatment for cryptococcal disease
+TREATMENT LOC
+Pneumocystis Jirovecii pneumonia
+- Give oxygen if SpO2 <94%
+- Cotrimoxazole 120 mg/kg/daily in 2-4 divided doses
+for 21 days
+- For example cotrimoxazole 480 mg tablets:
+- If patient is < 60 kg: give 3 tablets If patient >60
+kg: give 4 tablets
+- Plus prednisolone 2 mg/kg daily in 3 divided doses for 5
+days, then reduce dose to complete 21 days of treatment
+Or (in patients who cannot tolerate or do not respond
+to cotrimoxazole)
+- Pentamidine 4 mg/kg by IV infusion daily for 21 days
+- Reduce dose in renal impairment
+HC4
+RR
+H
+263
+Uganda Clinical Guidelines 2023CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
+TREATMENT LOC
+- Reduce dose in renal impairment
+- Avoid direct bolus injections whenever possible
+but if unavoidable, never give rapidly
+Alternative regimen (21-day course) if above not available/ tolerated
+- Clindamycin 600 mg every 8 hours
+- Plus dapsone 100 mg daily
+Prophylaxis
+Give to all patients with history of PCP infection and consider
+also for severely immunocompromised patients
+- Cotrimoxazole 960 mg daily or
+- Dapsone 100 mg daily
+- Continue until immunity recovers sufficiently
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 5.2.9 Pneumonia | p.423-424 | audience=general] ---
+Acute infection and inflammation of the lungs alveoli. There are two
+major types:
+~ Bronchopneumonia: involves both the lung parenchyma
+and the bronchi. Common in children and the elderly
+~ Lobar pneumonia: involves one or more lobes of the lung.
+Common in young people
+Causes
+Causative agents can be viral, bacterial or parasitic. Pathogens vary
+according to age, patient’s condition and whether infection was acquired in the community or hospital (Gram negative are more common
+in hospital).
+~ Neonates: group B streptococcus, Klebsiella, E.coli, Chlamydia and S. aureus
+~ Children <5 years: Pneumococcus, Haemophilus influenzae, less frequently: S. aureus, M. catarrhalis, M. Pneumoniae, viruses (RSV, influenza, measles)
+~ Adults and children >5 years: most commonly S.pneumo -
+357
+Uganda Clinical Guidelines 2023CHAPTER 5: Respiratory Diseases
+niae, followed by atypical bacteria, e.g. Mycloplasma pneumoniae, viruses
+~ Immunosuppressed: Pneumocystis (in HIV infected)
+Predisposing factors
+~ Malnutrition
+~ Old age
+~ Immunosuppression (HIV, cancer, alcohol dependence)
+~ Measles, pertussis
+~ Pre-existing lung or heart diseases, diabetes
+Investigations
+If facilities are available
+- Do a chest X-ray and look for complications, e.g.
+- Pneumothorax, pyothorax
+- Pneumonitis suggestive of pneumocystis jiroveci pneumonia
+(PCP)
+- Pneumatocoeles (cavities filled with air) suggestive of
+staphylococcal pneumonia
+- Sputum: For Gram stain, Ziehl-Neelsen (ZN) stain, culture for
+AFB
+- Blood: Complete blood count
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 5.2.9.1 Pneumonia in an Infant (up to 2 months) | p.424-426 | audience=pediatric] ---
+In infants, not all respiratory distress is due to infection. But as pneumonia
+may be rapidly fatal in this age group,
+suspected cases should be treated promptly and referred for parenteral
+treatment with antimicrobials. Consider all children < 2 months with
+pneumonia as SEVERE disease.
+Clinical features
+~ Rapid breathing ( 60 breaths/minute)
+358
+Uganda Clinical Guidelines 2023CHAPTER 5: Respiratory Diseases
+~ Severe chest in drawing, grunting respiration
+~ Inability to breastfeed
+~ Convulsions
+~ Drowsiness
+~ Stridor in a calm child, wheezing
+~ Fever may or may not be present
+~ Cyanosis and apnoeic attacks (SpO2 less than 90%)
+Management
+Infants with suspected pneumonia should be referred to hospital after
+pre-referral dose of antibiotics.
+Management
+TREATMENT LOC
+- Admit
+- Keep baby warm
+- Prevent hypoglycaemia by breastfeeding/giving expressed
+breast milk/NGT
+- If child is lethargic, do not give oral feeds. Use IV fluids
+with care (see section 1.1.4)
+- Give oxygen to keep SpO2 >94% f Ampicillin 50 mg/
+kg IV every 6 hours f Plus gentamicin 7.5 mg/kg IV
+once daily
+- Neonates < 7 days old: 5 mg/kg IV once daily
+- In premature babies, the doses may need to be reduced
+(specialist only)
+In severely ill infants
+- Ceftriaxone 100 mg/kg IV once daily
+Alternative (only use if above not available)
+- Chloramphenicol 25 mg/kg IV every 6 hours (contraindicated in premature babies and neonates < 7 days old)
+H
+359
+Uganda Clinical Guidelines 2023CHAPTER 5: Respiratory Diseases
+Management
+TREATMENT LOC
+- Continue treatment for at least 5 days, and for 3 days
+after the child is well
+- If meningitis is suspected, continue for 21 days
+- If septicaemia is suspected, continue for 10 days
+H
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 5.2.9.2 Pneumonia in a Child of 2 months-5 years | p.426-428 | audience=pediatric] ---
+Clinical features
+~ Fever - may be high, low grade or absent (in severe illness)
+Pneumonia
+~ Cough
+~ Fast breathing (2-12 months: 50 bpm, 1-5 years: 40
+bpm)
+~ Mild chest wall in-drawing
+Severe pneumonia
+~ As above plus at least one of the following
+~ Central cyanosis (blue lips, oral mucosa, finger nails or oxygen saturation < 90% using a pulse oximeter)
+~ Inability to feed, vomiting everything
+~ Convulsions, lethargy, decreased level of consciousness
+~ Severe respiratory distress (severe chest indrawing, grunting, nasal flaring)
+~ Extrapulmonary features, e.g. confusion or disorientation,
+may predominate and may be the only signs of pneumonia
+in malnourished or immunosuppressed children
+360
+Uganda Clinical Guidelines 2023CHAPTER 5: Respiratory Diseases
+Management of pneumonia
+TREATMENT LOC
+Non-severe pneumonia
+- Give oral amoxicillin dispersible tabs (DT) 40 mg/kg
+every 12 hours for 5 days O
+- 2-12 months 250 mg (1 tab) every 12 hours for
+5 days
+- 1-3 years 500 mg (2 tabs) every 12 hours for 5
+days
+- 3-5 years 750 mg (3 tabs) every 12 hours for 5
+days
+If wheezing present
+- Salbutamol inhaler 1-2 puffs every 4-6 hours until
+wheezing stops
+- Reassess child for progress after 3 days
+HC2
+HC3
+Severe pneumonia
+- Refer to hospital after 1st dose of antibiotic
+- Admit
+- Give Oxygen if SpO2 < 90% with nasal prongs and
+monitor through pulse oximetry
+- Give ampicillin 50 mg/kg IV every 6 hours or
+- benzyl penicillin 50,000 IU/kg IM or IV
+- Plus gentamicin 7.5 mg/kg IM or IV once daily
+- Continue treatment for at least 5 days, up to 10
+days
+- If not better after 48 hours, use second line f Ceftriaxone 80 mg/kg IM or IV once daily f If staphylococcus
+is suspected (empyema, pneumatocele at X ray) , give
+gentamicin 7.5 mg/ kg once daily plus cloxacillin 50
+mg/kg IM or IV every 6 hours
+HC4
+HC4
+361
+Uganda Clinical Guidelines 2023CHAPTER 5: Respiratory Diseases
+TREATMENT LOC
+Once the patient improves
+- Switch to oral amoxicillin 40 mg/kg every 12 hours for
+5 days to complete a total of at least 5 days of antibiotics
+Alternative (if above not available/not working)
+- Chloramphenicol 25 mg/kg IV every 6 hours
+Other treatments
+- Give Paracetamol 10 mg/kg every 4-6 hours for fever
+- If wheezing, give salbutamol 1-2 puffs every 4-6 hours
+- Gentle suction of thick secretions from upper airway
+- Daily maintenance fluids – careful to avoid overload
+especially in small and malnourished children (see
+section 1.1.4)
+- If convulsions, give diazepam 0.5 mg/kg rectally or
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 5.2.9.3 Pneumonia in Children > 5 years and adults | p.429-430 | audience=pediatric] ---
+Clinical features
+Moderate
+~ Fever, chest pain, cough (with or without sputum), rapid
+breathing (> 30 bpm), no chest indrawing
+Severe
+~ As above plus
+~ Chest indrawing
+~ Pulse >120/minute
+~ Temperature > 39.5 o C
+~ Low BP < 90/60 mmHg
+~ Oxygen saturation less than 90%
+Note
+- Extrapulmonary features, e.g. confusion or disorientation, may
+predominate and may be the only signs of pneumonia in elderly
+or immunosuppressed patients
+TREATMENT LOC
+Moderate pneumonia (ambulatory patients)
+- Amoxicillin 500 mg-1 g every 8 hours for 5 days
+- Children: 40 mg/kg every 12 hours for 5 days.
+- Preferably use dispersible tablets in younger children
+If penicillin allergy or poor response after 48 hours
+(possible atypical pneumonia), give:
+- Doxycycline 100 mg every 12 hours for 7-10 days
+- Child > 8 years only: 2 mg/kg per dose
+- Or Erythromycin 500 mg every 6 hours for 5 days
+Management of pneumonia
+363
+Uganda Clinical Guidelines 2023CHAPTER 5: Respiratory Diseases
+TREATMENT LOC
+– 14 days in cases of atypical pneumonia
+Child: 10-15 mg/kg per dose
+Severe pneumonia (hospitalised patients)
+- Give oxygen and monitor SpO2 saturation with pulse
+oximeter
+- Benzylpenicillin 2 MU IV or IM daily every 4-6 hours
+Child: 50,000-100,000 IU/kg per dose
+If not better in 48 hours:
+- Ceftriaxone 1 g IV or IM every 24 hours
+Child: 50 mg/kg per dose (max: 1 g)
+If S. Aureus is suspected
+- Cloxacillin 500 mg IV every 6 hours
+If other options are not available
+- Chloramphenicol 1 g IV every 6 hours for 7 days
+Child: 25 mg/kg per dose (max: 750 mg)
+HC3
+Management of pneumonia
+TREATMENT LOC
+Stapylococcus pneumonia
+This form is especially common following a recent
+influenza infection. It can cause empyema and pneumatocele.
+Adults and children >5 years:
+- Cloxacillin 1-2 g IV or IM every 6 hours for 10-14 days
+Child >5 years: 50 mg/kg per dose (max: 2 g)
+Child 2 months-5 years
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 5.2.9.4 Pneumonia by Specific Organisms | p.430-431 | audience=general] ---
+364
+Uganda Clinical Guidelines 2023CHAPTER 5: Respiratory Diseases
+Management of pneumonia
+TREATMENT LOC
+- Cloxacillin 25-50 mg/kg IV or IM every 6 hours
+- Plus gentamicin 7.5 mg/kg IV in 1-3 divided doses daily
+- Continue both medicines for at least 21 days
+Mycoplasma pneumoniae
+- Doxycycline 100 mg every 12 hours for 7-10 days
+Child >8 years: 2 mg/kg per dose
+- Contraindicated in pregnancy
+- Or erythromycin 500 mg every 6 hours for 5 days
+Child: 10-15 mg/kg per dose
+H
+Klebsiella pneumonia
+- Gentamicin 5-7 mg/kg IV daily in divided doses
+- Or ciprofloxacin 500 mg every 12 hours
+Child: chloramphenicol 25 mg/kg every 6 hours
+- Give a 5-day course
+- Amend therapy as guided by C&S results
+H
+Pneumococcal pneumonia
+- Benzylpenicillin 50,000 IU/kg IV or IM every 6 hours
+for 2-3 days then switch to oral Amoxicillin 500 mg-1
+g every 8 hours for 5 days Children: 40 mg/kg every
+12 hours for 5 days.
+Preferably use dispersible tablets in younger children
+H
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 5.2.9.6 Lung Abscess | p.432-433 | audience=general] ---
+Localised inflammation and necrosis (destruction) of lung tissue leading
+to pus formation. It is most commonly
+caused by aspiration of oral secretions by patients who have impaired
+consciousness.
+Cause
+~ Infection of lungs with pus forming organisms: e.g.
+~ Klebsiella pneumoniae, Staphylococcus aureus
+Clinical features
+~ Onset is acute or gradual
+~ Malaise, loss of appetite, sweating with chills and fever
+~ Cough with purulent sputum, foul-smelling breath (halitosis)
+~ Chest pain indicates pleurisy
+~ Finger clubbing
+Complications
+~ Pus in the pleural cavity (empyema)
+~ Coughing out blood (haemoptysis)
+~ Septic emboli to various parts of the body, e.g. brain (causing brain abscess)
+~ Bronchiectasis (pus in the bronchi)
+Differential diagnosis
+~ Bronchogenic carcinoma
+~ Bronchiectasis
+~ Primary empyema communicating with a bronchus
+~ TB of the lungs
+~ Liver abscess communicating into the lung
+366
+Uganda Clinical Guidelines 2023CHAPTER 5: Respiratory Diseases
+Investigations
+- Chest X-ray
+- Early stages: Signs of consolidation
+- Later stages: A cavity with a fluid level
+- Sputum: For microscopy and culture and sensitivity
+Management of pneumonia
+TREATMENT LOC
+- Benzylpenicillin 1-2 MU IV or IM every 4-6 hours
+- Child: 50,000-100,000 IU/kg per dose (max: 2 MU)
+- Plus metronidazole 500 mg IV every 8-12 hours
+Child: 12.5 mg/kg per dose
+Once improvement occurs, change to oral medication and
+continue for 4-8 weeks f Metronidazole 400 mg every 12 hours
+Child: 10 mg/kg per dose
+Plus Amoxicillin 500 mg-1 g 8 hourly
+Child: 25-50 mg/kg per dose for 4-6 weeks
+Postural drainage/physiotherapy
+Surgical drainage may be necessary
+HC4
+Prevention
+~ Early detection and treatment of pneumonia

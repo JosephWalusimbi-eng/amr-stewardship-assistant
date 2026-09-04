@@ -1,0 +1,731 @@
+# TOPIC: skin_soft_tissue_mild
+
+--- [WHO AWaRe Antibiotic Book (2022) | 16. Skin and soft tissue infections - mild bacterial impetigo, erysipelas and cellulitis | p.209-221 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book193
+PRIMARY HEALTH CARE 
+16. Skin and soft tissue infections – 
+mild bacterial impetigo, erysipelas 
+and cellulitis
+This chapter does not cover severe skin infections or skin infections caused by viral, fungal or 
+parasitic pathogens, or management of diabetic foot infections. Please refer to the specific 
+chapters about other skin and soft tissue infections – traumatic wounds (including bite 
+wounds), burn wounds, necrotizing fasciitis, pyomyositis, if these infections are suspected. 
+Key messages
+• Topical treatment can be used for mild impetigo.
+• Diagnostic tests are usually not needed in mild cases (avoid swabs of intact skin).
+• The most likely causative pathogens are Staphylococcus aureus and Streptococcus spp. 
+• Oral antibiotics of the Access group are adequate for most cases.
+• There is no need to empirically treat for MRSA in most cases.
+Other relevant WHO resources (please check regularly for updates)
+• Pocket book of hospital care for children: guidelines for the management of common 
+childhood illnesses, 2013 (31).
+Definition
+The terminology used to define skin and soft tissue infections has changed over the years. 
+In general, the terms bacterial skin and soft tissue infections and bacterial skin and skin 
+structures infections are often used interchangeably. 
+While there is no universally accepted classification of skin infections, there are 
+numerous ways to classify skin and soft tissue infections based on certain characteristics 
+of the infection such as anatomic location (folliculitis, fasciitis, myositis), body location (e.g. 
+extremities, face), timing (acute, chronic, recurrent), presence of tissue necrosis (necrotizing 
+or not necrotizing), macroscopic presence of pus (purulent or non-purulent) or involvement
+194The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+16. Skin and soft tissue infections – mild bacterial impetigo, erysipelas and cellulitis
+of deep subcutaneous tissue and/or severity of disease (complicated or uncomplicated). 
+Further classifications are based on the origin of the infection (bites, burns; see corresponding 
+chapters) or host characteristics (e.g. immunosuppression, diabetes).
+A more recent definition by the United States Food and Drug Administration uses 
+the term acute bacterial skin and skin structure infections (ABSSSI) to include a subset 
+of conditions such as cellulitis and erysipelas, wound infections and major cutaneous 
+abscesses, provided the area of the skin surface affected is at least 75 cm 2. This definition 
+was introduced “to assist sponsors developing drugs for the treatment of skin infections” 
+and has limited clinical applicability outside trials (165).
+This chapter focuses on the mild superficial forms of skin infections that do not affect 
+deeper tissue layers: impetigo, erysipelas and cellulitis. For the more severe forms of skin 
+and soft tissue infections, please refer to the corresponding chapters: necrotizing fasciitis, 
+pyomyositis, burn wounds and severe infections with sepsis. The following syndromes are 
+not covered in the current edition of the AWaRe book: acne, diabetic foot infections and 
+surgical site infections.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+195
+PRIMARY HEALTH CARE 
+16. Skin and soft tissue infections – mild bacterial impetigo, erysipelas and cellulitis
+Impetigo / Erysipelas / Cellulitis
+Skin and soft tissue infection
+Super /g246cial bac terial sk in infec tions , not affec ting the deeper
+tissue lay ers
+De/g246nition
+Treatment
+Clinical Considerations
+• need to hav e good activit yEmpiric antibiotic options
+against both (gr oup A )Streptococcus pyogenes Streptococcus
+and MSSA
+•:Empiric treatment against community-acquired MRSA
+C onsider in selec te d cases based on individual risk fact ors ,
+kn ow n colonization and local p re valenc e
+• : Oral t re atment is adequa teMild infections
+• : Ma y be r equir ed if inf ec tionIntravenous antibiotics
+rapidly spr eading and not r esponding to oral antibiotics
+Tr ea t f or 5 days
+L onge r duration s m a y b e r equir e d i n c as e o f n o c linical
+impr ovemen t o r i f a n u nderlyin g medica l c onditio n i s p r esen t
+Antibiotic Treatment Duration
+Diagnosis
+Clinical Presentation
+Not needed in most mild cases
+•T issue swab cultur es ar e to be av oided , especially in case
+of intac t sk in
+Microbiology Tests
+Not needed in most mild cases
+Other LaboratoryTests
+Routine imaging of mild cases not necessar y
+•Ultrasound may be consider ed if abscess or subdermal
+in v olv ement suspec te d
+Imaging
+Topical Treatment
+Impetigo: A cute onset of super /g246cial sk in lesions usually
+without systemic symptoms
+•M ost cases: papules pr ogr essing to v esicles and pustules
+that br eak to form crusts ( )non-bullous form
+•M inority of cases: v esicles ev olv e to form larger bullae
+() bullous form
+Erysipelas: A cute onset of a painful r ed sk in lesion with
+w ell- de/g246ned indurated margins usually on face or legs
+•Bullae may be pr esent or dev elop in /g246rst days
+•F ev er (≥ 38.0 °C ) and other signs of systemic infec tion may
+be pr esen t
+Cellulitis: A cute onset of a sk in lesion pr esenting with
+r edness , sw elling and induration, warmth and pain or
+tenderness of the affe ct ed ar ea
+•M ost commonly affect ed ar eas: legs and fac e
+•F ev er (≥ 38.0 °C ) and other signs of systemic infec tion may
+be pr esen t
+•R edness alone may not indicate an infec tion
+•A clear clinical distinction between cellulitis and
+erysipelas is often difficult to mak e
+Bacteria (most cases):
+•( group A ) - especially inStreptococcus pyogenes Streptococcus
+case of er ysipelas
+• (including MRSA )Staphylococcus aureus
+Additional bacteria (more rarely e.g immunocompromised
+and/or diabetic patients, traumatic skin lesions):
+•Enterobacterales
+• spp .Pseudomonas
+•A naer obes
+Most Likely Pathogens
+This guidance excludes skin infections caused by viral, fungal or
+parasitic pathogens; diabetic foot infections; necrotizing fasciitis;
+pyomyositis; severe infections with sepsis; and surgical site infections
+Localized non-bullous impetigo:T opical tre atment i s
+pr eferr ed o ve r an oral antibiotic , whenev er possible .
+Fo r example , a 5 da y course with mupir ocin 2% ointmen t
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Antibiotic Treatment
+Amo xicillin+clavulanic acid 500 mg+125 mg
+q8h ORAL
+C efalexin 500 mg q8h ORAL
+----------------------------------- -----------------------------------OR
+Clo xacillin 500 mg q6h ORAL
+----------------------------------- -----------------------------------OR
+Cloxacillin and cefalexin have a narrower spectrum of
+antibacterial activity compared to amoxicillin+clavulanic acid
+with good effic acy in mild skin and soft tissue infections. From
+an antibiotic stewardship perspective, these would be the
+preferred options whenever possible (except for bite wounds)
+If cloxacillin is unavailable, dicloxacillin or /g248ucloxacillin could
+be used
+196
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+16. Skin and soft tissue infections – mild bacterial impetigo, erysipelas and cellulitis
+Impetigo / Erysipelas / Cellulitis
+Skin and soft tissue infection • Page 1 of 2
+Not needed in most mild cases
+Other LaboratoryTests
+Clinical Presentation
+Impetigo: A cute onset of super /g246cial sk in lesions usually
+without systemic symptoms
+•M ost cases: papules pr ogr essing to v esicles and pustules
+that br eak to form crusts () non-bullous form
+•M inority of cases: v esicles ev olv e to form larger bullae
+() bullous form
+Erysipelas: A cute onset of a painful r ed sk in lesion with
+w ell- de/g246ned indurated margins usually on face or legs
+•Bullae may be pr esent or dev elop in /g246rst days
+•F ev er (≥ 38.0 °C ) and other signs of systemic infec tion ma y
+be pr esen t
+Cellulitis: A cute onset of a sk in lesion pr esenting with
+r edness , sw elling and induration, warmth and pain or
+tenderness of the affec ted ar ea
+•M ost commonly affec ted ar eas: legs and fac e
+•F ev er (≥ 38.0 °C ) and other signs of systemic infec tion ma y
+be pr esen t
+•R edness alone may not indicate an infec tion
+•A clear clinical distinction between cellulitis and
+erysipelas is often difficult to ma ke
+Super /g246cial bac terial sk in infec tions , not affec ting the deeper
+tissue lay ers
+De/g246nition
+Bacteria (most cases):
+•( group A) - especially inStreptococcus pyogenes Streptococcus
+case of er ysipelas
+• (including MRSA )Staphylococcus aureus
+Most Likely PathogensThis guidance excludes skin infections caused by viral, fungal or
+parasitic pathogens; necrotizing fasciitis; pyomyositis; severe
+infections with sepsis; and surgical site infections
+Diagnosis
+Not needed in most mild cases
+•T issue swab cultur es ar e to be av oided , especially in case
+of intac t sk in
+Microbiology Tests
+Routine imaging of mild cases not necessar y
+•Ultrasound may be consider ed if abscess or subdermal
+in v olv ement suspec te d
+Imaging
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+197
+PRIMARY HEALTH CARE 
+16. Skin and soft tissue infections – mild bacterial impetigo, erysipelas and cellulitis
+Impetigo / Erysipelas / Cellulitis
+Skin and soft tissue infection • Page 2 of 2
+Clinical Considerations
+• need to have good activityEmpiric antibiotic options
+against both Group A and MSSAStreptococcus
+•:Empiric treatment against community-acquired MRSA
+Consider in selected cases based on individual risk factors,
+known colonization and local prevalence
+•: Oral treatment is adequateMild infections
+•: May be required if infectionIntravenous antibiotics
+rapidly spreading and not responding to oral antibiotics
+Treatment
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Antibiotic Treatment
+Treat for 5 days
+Longer durations may be required in case of no clinical
+improvement or if an underlying medical condition is present
+Antibiotic Treatment Duration
+Topical Treatment
+Localized non-bullous impetigo:Topical treatment is
+preferred over an oral antibiotic, whenever possible.
+For example, a 5 day course with mupirocin 2% ointment
+----------------------------------- -----------------------------------OR
+Amoxicillin+clavulanic acid 80-90 mg/kg/day
+of amoxicillin component ORAL
+•:Oral weight bands
+3-<6 kg 250 mg of amox/dose q12h
+6-<10 kg 375 mg of amox/dose q12h
+10-<15 kg 500 mg of amox/dose q12h
+15-<20 kg 750 mg of amox/dose q12h
+≥20 kg 500 mg of amox/dose q8h or
+1 g of amox/dose q12h
+Amox = amoxicillin
+Oral liquid must be refrigerated after reconstitution
+Cefalexin 25 mg/kg/dose q12h ORAL
+•:Oral weight bands
+3-<6 kg 125 mg q12h
+6-<10 kg 250 mg q12h
+10-<15 kg 375 mg q12h
+15-<20 kg 500 mg q12h
+20-<30 kg 625 mg q12h
+≥30 kg 500 mg q8h
+----------------------------------- -----------------------------------OR
+Cloxacillin 15 mg/kg/dose q6h ORAL
+•:Oral weight bands
+3-<6 kg 62.5 mg q6h
+6-<10 kg 125 mg q6h
+10-<15 kg 250 mg q6h
+15-<20 kg 375 mg q6h
+≥20 kg 500 mg q6h
+Cloxacillin and cefalexin have a narrower spectrum of
+antibacterial activity compared to amoxicillin+clavulanic acid
+with good effic acy in mild skin and soft tissue infections. From
+an antibiotic stewardship perspective, these would be the
+preferred options whenever possible (except for bite wounds)
+If cloxacillin is unavailable, dicloxacillin or /g248ucloxacillin could
+be used
+198The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+16. Skin and soft tissue infections – mild bacterial impetigo, erysipelas and cellulitis
+Pathophysiology
+Damage of the skin can lead to infections of the deeper layers beneath the epidermis. When 
+such damage occurs, both endogenous pathogens (i.e. that naturally reside in the body) 
+and exogenous pathogens (i.e. that enter the body from the environment) can penetrate 
+the epidermis and spread to deeper structures through the lymphatic system. Depending 
+on the depth of the infection, different clinical diseases can occur: impetigo and erysipelas 
+(infections of the upper layer of the skin) and cellulitis (infection of the deep dermis and 
+subcutaneous tissue) (Figure 16.1). Cellulitis of the face can also occur as a consequence 
+of local spreading of a dental infection, for example, dental abscess spreading to the 
+surrounding soft tissue can result in cellulitis.
+Figure 16.1 – Anatomy of the skin and locations of common infections
+Epidermis
+Dermis
+Subcutaneous tissue
+Muscle
+Fascia
+Cellulitis,
+Lymphangitis
+Necrotizing
+fasciitis
+Impetigo,
+Erysipelas
+Depth of infectionSkin layers
+Epidemiology
+Bacterial skin infections occur worldwide and can affect all age groups; erysipelas is more 
+frequent in children and elderly patients. In 2013, skin diseases (not limited to bacterial 
+infections) were the fourth leading cause of non-fatal diseases (166). Cellulitis, the most 
+common skin infection, accounted for 0.04% (4 in 10 000) of the overall burden of all 
+diseases combined in 2013. It was the only skin condition that showed a significant 
+decrease (–13.2%) between 2005 and 2013 in disability-adjusted life years (DALYs), a proxy 
+for morbidity and mortality. This decrease was attributed to reduced mortality (166). In 2017, 
+the Global Burden of Disease study reported 43 million new cases of cellulitis worldwide (44). 
+Diabetes, peripheral arterial disease, HIV infection and other causes of immunosuppression 
+are risk factors for severe skin infections.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book199
+PRIMARY HEALTH CARE 
+16. Skin and soft tissue infections – mild bacterial impetigo, erysipelas and cellulitis
+Most likely pathogens
+The most common pathogens causing skin infections are listed in Table 16.1.
+Table 16.1 – Pathogens most frequently associated with skin infections (in 
+descending order of frequency)
+Most cases More rarely (e.g. in 
+immunocompromised 
+and/or diabetic patients, 
+traumatic skin lesions) 
+Cases with specific 
+environmental exposures
+Streptococcus 
+pyogenes (group 
+A Streptococcus), 
+especially in the case 
+of erysipelas
+Staphylococcus aureus 
+(including MRSA)
+Enterobacterales (including 
+multidrug-resistant strains such 
+as those producing ESBL and 
+carbapenemases) 
+Pseudomonas aeruginosa 
+(including multidrug-resistant 
+strains such as those producing 
+ESBL and carbapenemases)
+Anaerobes
+Aeromonas hydrophila 
+(exposure to fresh water)
+Erysipelothrix rhusiopathiae 
+(contact with animals 
+colonized with the organism, 
+mostly pigs and fish) 
+Vibrio vulnificus (exposure to 
+seawater)
+ESBL: extended-spectrum beta-lactamases; MRSA: methicillin-resistant Staphylococcus aureus.
+Clinical presentation (only mild cases are covered)
+The morphology of different skin lesions is described in Table 16.2 and illustrated in Figure 16.2.
+Table 16.2 – Morphology of skin lesions
+Type of skin lesion Morphology
+Bulla Larger (> 10 mm) fluid-filled blister
+Papule Small (< 10 mm), elevated lesion that can be palpated
+Pustule Small (< 10 mm) vesicle containing pus
+Vesicle Small (< 10 mm) fluid-filled blister
+200The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+16. Skin and soft tissue infections – mild bacterial impetigo, erysipelas and cellulitis
+Figure 16.2 – Types and morphology of skin lesions
+Vesicle
+Bulla
+Papule
+Pustule
+Impetigo
+Impetigo is characterized by acute onset of superficial skin lesions usually without associated 
+systemic symptoms. In most cases, impetigo presents with papules that progress to vesicles and 
+pustules which break to finally form crusts (non-bullous form) (Figure 16.3). In a minority of cases 
+(mostly in young children), vesicles develop to form larger bullae (bullous form).
+Figure 16.3 – Case of impetigo on the chin
+Source:© James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book201
+PRIMARY HEALTH CARE 
+16. Skin and soft tissue infections – mild bacterial impetigo, erysipelas and cellulitis
+Erysipelas
+Erysipelas is characterized by acute onset of a red skin lesion with well defined indurated 
+margins, usually on the face or legs (Figure 16.4). Bullae may be present or develop in the 
+first few days. The lesion is usually painful. Fever (≥ 38.0 °C) and other signs of systemic 
+infection (e.g. tachycardia, leukocytosis) may be present.
+Figure 16.4 – Case of erysipelas on the cheek
+Source: CDC Public Health Image Library/Dr Thomas F . Sellers, Emory University
+Cellulitis
+While erysipelas affects only the superficial skin layers and has clearly demarcated borders, 
+cellulitis also affects subcutaneous tissues. Cellulitis is characterized by an acute onset of 
+a skin lesion presenting with a combination of redness, swelling and induration, warmth 
+and pain (or tenderness) of the affected area (see Figure 16.5). The condition can occur 
+anywhere on the body, but predominantly affects the skin of the lower part of the legs and 
+feet or the face. 
+In patients with cellulitis, fever (≥ 38.0 °C) and other signs of systemic infection (e.g. 
+tachycardia, leukocytosis) may be present. Skin redness alone may not indicate an infection, 
+for example, redness is often present in patients with chronic venous stasis – bilateral versus 
+unilateral involvement may indicate a non-infectious etiology, although bilateral cellulitis 
+can occasionally occur. The severity of the infection should always be carefully assessed, 
+especially to exclude the possibility of involvement of the muscular fascia (fasciitis). Facial 
+and neck cellulitis, commonly arising from dental infection, can lead to potentially fatal 
+deep space infections such as Ludwig angina. Cellulitis of the face can spread to the brain
+202The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+16. Skin and soft tissue infections – mild bacterial impetigo, erysipelas and cellulitis
+and lead to serious complications such as cavernous sinus thrombosis. These are medical 
+emergencies but are overall rare.
+Figure 16.5 – Case of cellulitis in the lower leg
+Source: John Campbell, CC0 1.0 Universal (CC0 1.0), via Flickr
+Laboratory tests 
+Patient microbiology tests
+Most mild cases of impetigo, erysipelas and cellulitis do not require routine microbiology 
+tests. Surface swabs of intact, unbroken skin should not be taken in cases of erysipelas 
+or cellulitis to avoid detecting pathogens that colonize the skin leading to unnecessary 
+antibiotic treatment.
+Tissue swab cultures can be considered in certain cases (Table 16.3). For example, 
+cultures could be done for lesions that are clearly purulent (therefore most likely due 
+to Staphylococcus aureus ) to diagnose or exclude the presence of methicillin-resistant 
+Staphylococcus aureus (MRSA). However, in many settings doing tissue swab cultures is not 
+standard practice outside of the operating theatre. When swabs are taken, the lesion should 
+always be cleaned and debrided before sample collection to identify the pathogens causing 
+the infection and not colonizing organisms. For a correct interpretation of cultures, it is very 
+important that the origin of the culture (exact location, superficial swab or intraoperatively 
+obtained culture) is adequately documented.
+Cultures can be considered for chronic lesions such as diabetic foot infections 
+(not covered in this chapter) to exclude the presence of multidrug-resistant organisms, for 
+example, those producing extended-spectrum beta-lactamases (ESBLs).
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book203
+PRIMARY HEALTH CARE 
+16. Skin and soft tissue infections – mild bacterial impetigo, erysipelas and cellulitis
+Table 16.3 – Microbiology tests to consider for the diagnosis of skin infections in 
+certain cases as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Setting where the test 
+should be available
+Tissue swab culture 
+and antimicrobial 
+susceptibility testing
+Initial step to detect and identify 
+bacterial and fungal species for selection 
+of appropriate antimicrobial regimens
+Health care facilities 
+with clinical 
+laboratories
+EDL: Model List of Essential In Vitro Diagnostics.
+Other tests
+Routine laboratory tests are not required in mild cases (167).
+Using microbiology surveillance data
+Routine surveillance is not helpful in informing empiric guidance. 
+Imaging
+Routine imaging of mild cases of impetigo, erysipelas and cellulitis is not necessary. However, 
+initial imaging (e.g. ultrasound, X-ray) may be considered if an abscess or subdermal involvement 
+are suspected. In these cases, management often requires a surgical approach, for example, 
+incision and drainage in case of abscess and management of the primary dental cause.
+Topical treatment (only for localized non-bullous 
+impetigo)
+For localized non-bullous impetigo, topical treatment could be considered as an alternative 
+to oral antibiotics. This treatment can be as effective as oral antibiotic treatment and has the 
+advantage that the risk of adverse events is minimal because of less systemic absorption (168). 
+Of the different topical treatments available, mupirocin ointment (2%) could be 
+considered for a short course of treatment (5 days). However, widespread use of mupirocin 
+can rapidly increase resistance to mupirocin in Staphylococcus aureus and limit its usefulness 
+for targeted preventive purposes in carriers of Staphylococcus aureus; mupirocin is active 
+against both methicillin-susceptible Staphylococcus aureus and MRSA. Alternative treatments 
+are available but they are not included in the EML and EMLc (8,9). These alternatives are 
+fusidic acid and hydrogen peroxide cream (1%). Topical corticosteroids should not be used 
+routinely in these cases.
+204The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+16. Skin and soft tissue infections – mild bacterial impetigo, erysipelas and cellulitis
+Antibiotic treatment (for widespread impetigo, 
+erysipelas and cellulitis)
+In most cases of mild infections, oral antibiotic treatment is adequate (Table 16.4). Empiric 
+antibiotic options need to have good activity against the most likely pathogens (Streptococcus 
+spp. and Staphylococcus aureus). Empiric treatment against community-acquired MRSA may 
+be considered in certain cases (e.g. clearly purulent lesions) based on individual risk factors 
+(e.g. known MRSA colonization) and on the local prevalence of community-acquired MRSA. 
+In these cases, the literature suggests using clindamycin or sulfamethoxazole+trimethoprim; 
+these options are however not currently listed in the EML and EMLc for this indication.
+Table 16.4 – Empiric antibiotic treatment for mild skin infections
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Note
+Cloxacillin and cefalexin have a narrower spectrum of antibacterial activity compared to 
+amoxicillin+clavulanic acid with good efficacy in mild skin and soft tissue infections. Therefore, 
+from an antibiotic stewardship perspective, these two antibiotics are the preferred options 
+whenever possible.
+Adults Children Total treatment 
+duration
+ Amoxicillin+clavulanic 
+ acid (oral): 500 mg + 125 mg 
+given every 8 hours
+OR
+ Cefalexin (oral): 500 mg 
+given every 8 hours
+OR
+ Cloxacillin a (oral): 500 mg 
+given every 6 hours
+ Amoxicillin+clavulanic acid b (oral): 
+80–90 mg/kg/day of amoxicillin component
+Oral weight bands:
+3–< 6 kg: 250 mg of amoxicillin/dose 
+given every 12 hours
+6–< 10 kg: 375 mg of amoxicillin/dose 
+given every 12 hours
+10–< 15 kg: 500 mg of amoxicillin/dose 
+given every 12 hours
+15–< 20 kg: 750 mg of amoxicillin/dose 
+given every 12 hours
+≥ 20kg: 500 mg of amoxicillin/dose given 
+every 8 hours or 1 g of amoxicillin/dose 
+given every 12 hours
+OR
+5 daysd
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book205
+PRIMARY HEALTH CARE 
+16. Skin and soft tissue infections – mild bacterial impetigo, erysipelas and cellulitis
+Table 16.4 continued
+Adults Children Total treatment 
+duration
+ Cefalexin (oral): 25 mg/kg/dose given 
+every 12 hours
+Oral weight bands:
+3–< 6 kg: 125 mg given every 12 hours
+6–< 10 kg: 250 mg given every 12 hours
+10–< 15 kg: 375 mg given every 12 hours
+15–< 20 kg: 500 mg given every 12 hours
+20–< 30 kg: 625 mg given every 12 hours
+≥ 30 kg: use adult dose
+OR
+ Cloxacillin a,c (oral): 15 mg/kg/dose 
+given every 6 hours
+Oral weight bands: 
+3–< 6 kg: 62.5 mg given every 6 hours
+6–< 10 kg: 125 mg given every 6 hours
+10–< 15 kg: 250 mg given every 6 hours
+15–< 20 kg: 375 mg given every 6 hours
+≥ 20 kg: 500 mg given every 6 hours
+Note. All dosages are for normal renal and hepatic function.
+a If cloxacillin is unavailable, dicloxacillin or flucloxacillin could be used.
+b Oral liquid formulations must be refrigerated after reconstitution as clavulanic acid is rapidly metabolized in high 
+ambient temperatures.
+c The WHO Pocket book of hospital care for children (31) suggests amoxicillin plus cloxacillin. However, cloxacillin 
+can be safely used as a single antibiotic option because it has good activity against both methicillin-susceptible 
+Staphylococcus aureus and Streptococcus pyogenes (often referred to as group A Streptococcus). Amoxicillin alone is 
+not suitable because it has variable activity against methicillin-susceptible Staphylococcus aureus.
+d The optimal duration of antibiotic treatment is not known (169); duration is often individualized based on clinical 
+response.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 16.6.3 Mastitis/Breast Abscess | p.848-850 | audience=general] ---
+Infection of the breast usually in a breastfeeding mother. Causes
+- Usually Staphylococcus aureus enters from the baby’s mouth
+through a cracked nipple into an engorged breast. Less
+frequently Streptococci
+Clinical features
+- Pain in the breast, which is swollen, often shiny, and tender
+with enlarged veins
+- Often in 2nd postpartum week
+- Fever
+- May proceed to become an abscess; a collection of pus within the breast tissue
+- There may be localised erythema (shinny red skin)
+- Firm lump, felt initially but may later become fluctuant
+- May drain pus spontaneously
+783
+Uganda Clinical Guidelines 2023CHAPTER 16: Obstetric Conditions
+Complications
+- Recurrent infection, scarring
+- Loss of breast size, noticeable breast asymmetry
+- Mammary duct fistula formation due to reccurrence
+Differential diagnosis
+- Breast engorgement (for mastitis)
+- Breast lump/cancer (for abscess)
+Investigations
+- Breast milk: For C&S
+- US scan to rule out breast abscess in patients with recurrent
+mastitis
+Management
+TREATMENT LOC
+- Stop breastfeeding on the affected breast but express
+milk and discard to avoid breast engorgement
+- Give analagesics such as paracetamol 1 g every 8
+hours for 3 days
+- Apply warm compresses to relieve pain in affected breast
+- Continue breastfeeding on the normal breast
+- Give cloxacillin 500 mg 6 hourly for 10 days or
+- (If not available use amoxicillin 500 mg every
+8 hours for 10 days)
+HC2
+HC3
+H
+- If penicillin allergies: erythromycin 500 mg every 6
+hours for 10 days
+- Or cephalexin 500 mg PO every six hours for
+10 days
+If not improving
+- Refer to hospital for utrasound scan and further management
+- If clinical or US scan features of breast abscess: incise
+and drain
+784
+Uganda Clinical Guidelines 2023CHAPTER 16: Obstetric Conditions
+Prevention
+- Proper attachment of baby on the breast
+- Frequent emptying of the breast
+- Ensure the baby is sucking on the areolar and not the nipple
+- Manage breast engorgement if not breastfeeding, or lost baby
+(Refer to section on care of the mother and baby immediately
+after delivery)
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 22.1.1 Impetigo | p.1040-1042 | audience=general] ---
+A very superficial bacterial infection of the epidermis (upper/outer layer
+of skin), bullous and non bullous impetigo
+Cause
+~ Streptococcus or staphylococcus infection, or both
+Clinical features
+~ Common in children, although it can also occur in adults.
+~ Lesions usually on face, head, and hands as bullae, or small
+brown crusts on an erythematous base
+~ In some cases, large flaccid bullae containing pus and serum are
+formed commonly in the axilla and groin
+Differential diagnosis
+~ Pemphigus foliaceus
+Investigations
+- Pus swab for Gram stain
+- Culture and sensitivity (exudate from unroofed lesion)
+Skin Diseases22
+975
+Uganda Clinical Guidelines 2023CHAPTER 22 : Skin Diseases
+Management
+TREATMENT LOC
+Cleaning
+- Clean affected area with chlorhexidine solution 0.05%
+Antiseptic: if infection mild and localised (<5 lesions)
+- Apply gentian violet aqueous paint 0.5% every 12 hours
+for 3 days
+- OR apply silver sulphadiazine 1% cream 12 hourly for
+5 days OR apply Mupirocin(supirocin) 2% 8 hourly for
+5 to 7 days.
+Antiseptic: if infection mild and localised (<5 lesions)
+- Apply gentian violet aqueous paint 0.5% every 12 hours
+for 3 days
+- OR apply silver sulphadiazine 1% cream 12 hourly for
+5 days
+- Keep skin clean by frequent washing and drying
+- Use soap and water to soften, and gently remove any
+superficial crusts
+Systemic antibacterial: if signs of regional or systemic spread,
+e.g., pyrexia, >5 lesions
+- Cloxacillin 250–500 mg every 6 hours before food for
+7 days Child: 12.5–25 mg/kg per dose
+- Or in penicillin allergy, erythromycin 250-500 mg every
+6 hours for 7 days Child: 7.5 mg/kg per dose
+HC2
+Note
+- Impetigo is contagious until the lesions have dried up
+- Isolate/ separate from other patients – in case of admission
+976
+Uganda Clinical Guidelines 2023CHAPTER 22 : Skin Diseases
+Prevention
+~ Proper hygiene with use of antiseptic soap
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 22.1.3 Cellulitis and Erysipelas | p.1043-1045 | audience=general] ---
+Cellulitis is an acute inflammation of the skin involving the dermis and
+subcutaneous tissues, caused mainly by streptococci and staphylococci.
+Erysipelas has a raised demarcated border, whereas the border is not
+distinct in cellulitis.
+Causes
+~ Streptococcus and S. Aureus, in adults
+~ Haemophilus influenza type b in children under 3 years
+978
+Uganda Clinical Guidelines 2023CHAPTER 22 : Skin Diseases
+~ Cellulitis is sometimes caused by other organisms e.g, pseudomonas picked from bath tubs to a lesser extent
+Predisposing factors
+~ Minor trauma
+~ Pre-existing lesion such as ulcer or erosion
+~ Iatrogenic, via intra venous therapy (cannulation) and prolonged
+hospitalization
+Clinical features
+~ Erythema (reddening)
+~ Pain, swelling +/- loss of function, tenderness
+~ Acute localised swelling and oedema
+~ In erysipelas, lesions are more superficial and have a defined
+raised margin
+~ Skin becomes tense and shiny in advanced stages
+~ Regional lymphadentiis may be present
+Differential diagnosis
+~ Lymphoedema
+~ Acute osteomyelitis
+~ Deep vein thrombosis (DVT)
+~ Blunt trauma/fracture
+Investigations
+- Pus swab for Gram staining and culture and sensitivity
+NB; Investigations depend on differential diagnosis list, e.g. Xray,
+Doppler, CBC.etc.
+979
+Uganda Clinical Guidelines 2023CHAPTER 22 : Skin Diseases
+Management
+TREATMENT LOC
+- Elevate the affected limb
+- Give an analgesic e.g., paracetamol 1 g every 6-8 hours
+as required, Child: 10 mg/kg
+- Antibiotics: cloxacillin 250-500 mg every 6 hours before
+food for 7 days
+- Child: 12.5-25 mg/kg per dose
+- OR in penicillin allergy, erythromycin 500 mg every 6
+hours
+- Child: 7.5 mg/kg per dose
+If severe
+- IV ceftriaxone
+- Adult: 1 g every 12 hours for 3 days
+- Child: 50 mg/kg
+- Then oral antibiotics to complete 1 week of antibiotics
+HC3
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 23.2.4 Acute Periapical Abscess or Dental Abscess | p.1079-1081 | audience=general] ---
+K04.6-7
+Infection with pus formation at the root of a tooth as a sequel to pulpitis
+caused by dental caries or trauma
+Causes
+~ Mixed bacterial flora but mainly Staphylococcus spp
+Clinical features
+~ Severe pain that disturbs sleep
+~ Facial swelling may be localized in the gum or extend to adjacent
+tissues
+1014
+Uganda Clinical Guidelines 2023CHAPTER 23 : Oral and Dental Conditions
+~ Abscesses of the mandibular incisors or molars may discharge
+extra orally
+~ Affected tooth is mobile and tender to percussion
+~ Fever and headache may be present if infection has spread
+Differential diagnosis
+~ Gingivitis
+~ Swelling due to trauma
+~ Pain due to sinusitis, temporomandibular joint pain dysfunction
+syndrome, or erupting wisdom teeth
+~ Dentine sensitivity due to thermal, tactile, or osmotic stimulus
+Management
+TREATMENT LOC
+Infections localized to a tooth and its surroundings (swelling limited to the gum and no signs of infection extending to anatomical structures, or general signs of infection)
+- Pain relief (paracetamol and/or ibuprofen)
+- Root canal therapy if possible or extraction of tooth
+- NO NEED of antibiotics since they cannot reach
+the site of infection
+If infection is spreading to local adjacent structures (painful
+gingival and buccal swelling) or systemic signs and symptoms
+(fever) are present:
+- Surgical treatment
+- Then amoxicillin 500 mg every 8 hours
+- Child: amoxicillin dispersible tablets 25 mg/kg
+(max 250 mg) every 8 hours
+HC4
+1015
+Uganda Clinical Guidelines 2023CHAPTER 23 : Oral and Dental Conditions
+TREATMENT LOC
+- Plus metronidazole 400 mg every 8 hours
+- Child: 10-12.5 mg/kg (max 200 mg per dose)
+- Paracetamol 1 g every 8 hours
+- Child: 10-15 mg/kg every 8 hours
+- Or Ibuprofen 400 mg every 8 hours
+- Child: 7-13 mg/kg every 8 hours

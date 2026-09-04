@@ -1,0 +1,326 @@
+# TOPIC: trachoma
+
+--- [WHO AWaRe Antibiotic Book (2022) | 11. Trachoma | p.156-162 | audience=general] ---
+140The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+11. Trachoma
+Key messages
+• Trachoma is an eye disease caused by specific serovars (A through C) of the bacterium 
+Chlamydia trachomatis.
+• Repeated infections over the years can lead to permanent corneal damage and blindness.
+• Treatment depends on the stage of the disease. It may require eye surgery to prevent 
+blindness if corneal damage has already occurred.
+• Mass antibiotic administration programmes in endemic areas aim to reduce the reservoir of 
+Chlamydia trachomatis.
+Other relevant WHO resources (please check regularly for updates)
+• Trachoma – fact sheet (109).
+• Resolution WHA51.11. Global elimination of blinding trachoma, 1998 (110).
+• The simplified trachoma grading system, amended, 2020 (111).
+• Trachoma control: a guide for programme managers, 2006 (112).
+Definition
+Trachoma is an eye disease caused by specific serovars (A through C) of the bacterium 
+Chlamydia trachomatis (other serovars cause urogenital diseases, please see the chapter on 
+sexually transmitted infections – Chlamydia urogenital infections). Trichiasis is the advanced 
+clinical consequence of trachoma characterized by the eyelashes turning inwards which 
+leads over time to permanent corneal damage. Trichiasis is a sight-threatening condition 
+that requires surgical treatment.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+141
+PRIMARY HEALTH CARE 
+11. Trachoma
+Trachoma
+Eye disease caused by speci/g246c serovars (A,B and C) of the
+bacterium (other serovars causeChlamydia trachomatis
+urogenital diseases, see “Sexually transmitted infections –
+Chlamydial urogenital infections”)
+De/g246nition
+• is a Gram-negative obligate intracellularChlamydia trachomatis
+bacterium
+•Strains associated with trachoma are serovars A, B, Ba, and C
+Pathogen
+Treatment
+Clinical Considerations
+•Antibiotic treatment is often given as part of mass drug
+administration programmes in endemic areas to reduce the
+reservoir of Chlamydia trachomatis
+•If corneal damage has already occurred due to the
+inversion of the eyelashes, surgery is needed to correct the
+eyelid rotation and prevent blindness
+•Repeated infections over the years can lead to permanent
+corneal damage and blindness
+Since treatment duration varies according to the antibiotic
+used, please refer to the corresponding antibiotic section
+for treatment duration
+Antibiotic Treatment Duration
+Diagnosis
+Clinical Presentation
+•Usually not needed
+•Consider testing a conjunctival sample (culture or nucleic
+acid ampli/g246cation tests for) in aChlamydia trachomatis
+selected subgroup of people to decide whether to stop or
+continue antibiotic treatment at the population level
+Microbiology Tests
+Usually not needed
+Other LaboratoryTests
+Usually not needed
+Imaging
+Acute:
+•Usually signs and symptoms of conjunctivitis with redness
+of the eye, eye discomfort, mucopurulent discharge and
+light sensitivity
+•Rare in adults
+Advanced:
+•Conjunctival scarring, signs of chronic conjunctival
+in/g248ammation and eyelashes turned inward
+•Mostly seen in adults due to repeated infections over time
+WHO has a trachoma grading system used in /g246eld
+assessments to evaluate the extent of disease during
+examination (Reference: Solomon AW et al. The simpli/g246ed
+trachoma grading system, amended. Bull World Health Organ.
+2020;98(10):698-705)
+Important: Reinforce education on personal and
+community hygiene measures
+•Infection spreads via the hands through direct
+contact with contaminated people or objects
+•Flies can contribute by transporting contaminated
+eye/nose secretions to non-infected people
+•Risk factors include living in overcrowded conditions
+and poor sanitation; most transmission occurs within
+families
+Antibiotic Treatment
+Azithromycin 20 mg/kg (max 1 g) ORAL
+Treatment duration: Single dose
+All dosages are for normal renal function
+Administered once a year for 3 years as part of mass drug
+administration programmes
+Topical Treatment
+Azithromycin 1.5% EYE DROPS
+•1 drop in both eyes q12h
+Treatment duration: 3 days
+----------------------------------- -----------------------------------OR
+Tetracycline 1% EYE OINTMENT
+•1 cm in both eyes q12h
+Treatment duration: 6 weeks
+Topical treatment is used in areas where oral azithromycin is
+not readily available. Topical azithromycin may be as effectiv e
+as oral azithromycin
+142
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+11. Trachoma
+Trachoma
+Eye disease caused by speci/g246c serovars A, B and C of the
+bacterium Chlamydia trachomatis
+De/g246nition
+• is a Gram-negative obligate intracellularChlamydia trachomatis
+bacterium
+•Strains associated with trachoma are serovars A, B, Ba, and C
+Pathogen
+Treatment
+Clinical Considerations
+•Antibiotic treatment is often given as part of mass
+administration programmes in endemic areas to reduce the
+reservoir of Chlamydia trachomatis
+•If corneal damage has already occurred due to the
+inversion of the eyelashes, surgery is needed to correct the
+eyelid rotation and prevent blindness
+•Repeated infections over the years can lead to permanent
+corneal damage and blindness
+Since treatment duration varies according to the antibiotic
+used, please refer to the corresponding antibiotic section
+for treatment duration
+Antibiotic Treatment Duration
+Diagnosis
+Clinical Presentation
+•Usually not needed
+•Consider testing a conjunctival sample (culture or nucleic
+acid ampli/g246cation tests for) in aChlamydia trachomatis
+selected subgroup of people to decide whether to stop or
+continue antibiotic treatment at the population level
+Microbiology Tests
+Usually not needed
+Other LaboratoryTests
+Usually not needed
+Imaging
+Acute:
+•Usually signs and symptoms of conjunctivitis with redness
+of the eye, eye discomfort, mucopurulent discharge and
+light sensitivity
+•More common in children living in endemic areas
+Advanced:
+•Conjunctival scarring, signs of chronic conjunctival
+in/g248ammation and eyelashes turned inward
+•Mostly seen in adults due to repeated infections over time
+WHO has a trachoma grading system used in /g246eld
+assessments to evaluate the extent of disease during
+examination (Reference: Solomon AW et al. The simpli/g246ed
+trachoma grading system, amended. Bull World Health Organ.
+2020;98(10):698-705)
+Important: Reinforce education on personal and
+community hygiene measures
+•Infection spreads via the hands through direct
+contact with contaminated people or objects
+•Flies can contribute by transporting contaminated
+eye/nose secretions to non-infected people
+•Risk factors include living in overcrowded conditions
+and poor sanitation; most transmission occurs within
+families
+Antibiotic Treatment
+Azithromycin 20 mg/kg (max 500 mg) ORAL
+Treatment duration: Single dose
+All dosages are for normal renal function
+Administered once a year for 3 years as part of mass drug
+administration programmes
+Topical Treatment
+Azithromycin 1.5% EYE DROPS
+•1 drop in both eyes q12h
+Treatment duration: 3 days
+----------------------------------- -----------------------------------OR
+Tetracycline 1% EYE OINTMENT
+•1 cm in both eyes q12h
+Treatment duration: 6 weeks
+Topical treatment is used in areas where oral azithromycin is
+not readily available. Topical azithromycin may be as effectiv e
+as oral azithromycin
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book143
+PRIMARY HEALTH CARE 
+11. Trachoma
+Pathogen
+Trachoma is caused by Chlamydia trachomatis , a Gram-negative obligate intracellular 
+bacterium. There are several strains of Chlamydia trachomatis , some associated with 
+trachoma and some associated with sexually transmitted urogenital diseases. Strains 
+associated with trachoma are serovars A, B, Ba and C.
+Pathophysiology
+Chlamydia trachomatis infection spreads via the hands through direct contact with 
+contaminated people or objects. Flies can also spread the infection by transporting 
+contaminated eye and/or nose secretions from infected to non-infected people. Chronic 
+inflammation of the conjunctiva caused by repeated infections over the years can cause 
+inversion of the eyelashes that can lead to permanent corneal damage through formation of 
+scars on the cornea (the transparent front part of the eye). This can eventually lead to vision 
+impairment and blindness (113).
+Epidemiology
+Trachoma is the leading cause of infectious blindness in the world and is responsible for 
+about 1% of cases of blindness. According to the most recent WHO estimates, more than 
+137 million people worldwide live with trachoma (109). The infection is a public health 
+problem in over 40 countries, most of which are in Africa (109). 
+Risk factors of trachoma include living in overcrowded conditions and poor 
+sanitation, and most transmission occurs within families. Active disease (i.e. conjunctivitis) 
+is more common in young children living in endemic areas. Children younger than 10 years 
+and those with intense inflammatory trachoma probably represent the main source of ocular 
+Chlamydia trachomatis infection in endemic communities (114). Corneal scars are mostly seen 
+in adults because repeated infections over time need to occur before permanent corneal 
+damage is established. Individuals with corneal scars are at increased risk of blindness.
+In 1993, WHO adopted the SAFE strategy for the elimination of trachoma: 
+• Surgery to treat advanced diseases,
+• Antibiotics to clear infection,
+• Facial cleanliness and
+• Environmental improvement to reduce transmission.
+In 1996, WHO established the alliance for the global elimination of trachoma, whose 
+goal was to eliminate trachoma as a public health problem by 2020 (Box 11.1). In addition, in
+144The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+11. Trachoma
+1998, the World Health Assembly adopted a resolution on trachoma to urge WHO Member 
+States to implement measures to target the elimination of trachoma (110). As of July 2020, 
+13 out of 30 countries that are implementing the SAFE strategy have achieved the WHO 
+elimination targets. As part of the elimination strategy, data reported to WHO for 2019 
+indicate that about 92 000 people had corrective surgery for trichiasis and 95 million people 
+received antibiotic treatment, that is, 57% of people needing antibiotics for trachoma 
+received them (109).
+Box 11.1 – World Health Organization definitions related to trachoma
+WHO defines trachoma as a public health problem when:
+• the prevalence of follicular trachoma in children aged 1–9 years is ≥ 10% (see the section 
+on clinical presentation for the classification of trachoma), or 
+• the prevalence of trachomatous trichiasis in people aged ≥ 15 years is at least 1%.
+WHO criteria for defining elimination of trachoma as a public health problem are (115):
+• the prevalence of follicular trachoma in children aged 1–9 years is < 5% or
+• the prevalence of trachomatous trichiasis in people aged ≥ 15 years is < 0.2% and
+• there is evidence that the health system can identify and manage cases of trachomatous 
+trichiasis.
+Clinical presentation
+Trachoma diagnosis is based on clinical signs. Trachoma presents as an active disease (i.e. 
+conjunctivitis) with symptoms such as redness of the eye, eye discomfort, mucopurulent 
+discharge and light sensitivity. 
+The other presentation is the advanced disease where there is conjunctival scarring, 
+signs of chronic conjunctival inflammation and eyelashes turned inwards. 
+The WHO trachoma grading system is used in field assessments to evaluate the 
+extent of disease during examination (111). 
+The grading system includes:
+• Trachomatous inflammation, follicular – five or more follicles of > 0.5 mm on a 
+specific area of the upper tarsal conjunctiva 
+• Trachomatous inflammation, intense – papillary hypertrophy and inflammatory 
+thickening of the upper tarsal conjunctiva obscuring more than half the deep 
+tarsal vessels
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book145
+PRIMARY HEALTH CARE 
+11. Trachoma
+• Trachomatous conjunctival scarring – grossly visible scars on the tarsal conjunctiva
+• Trachomatous trichiasis – at least one ingrown eyelash touching the globe of the 
+eye or evidence of epilation (eyelash removal)
+• Corneal opacity – corneal opacity blurring part of the pupil margin.
+Laboratory tests 
+Patient microbiology tests
+The diagnosis of trachoma is mostly clinical and microbiology tests are not routinely done. 
+However, such tests may be considered (Table 11.1) to decide whether to stop or continue 
+antibiotic treatment at the population level, for example, on a selected subgroup of people (113).
+Table 11.1 – Microbiology tests to consider if trachoma is suspected as indicated in 
+the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Qualitative test for Chlamydia 
+trachomatis (i.e. nucleic acid 
+amplification test)a
+To diagnose chlamydial infection Health care facilities 
+with clinical laboratories
+Microscopy (Gram stain) and 
+culturea
+Initial step to detect and identify 
+bacterial species for selection of 
+appropriate antibiotic regimens
+Health care facilities 
+with clinical laboratories
+EDL: Model List of Essential In Vitro Diagnostics.
+a Possible specimens: conjunctival swabs.
+Other tests
+When trachoma is suspected based on clinical signs and epidemiology of the community, 
+laboratory tests are not usually needed.
+Using microbiology surveillance data
+Routine surveillance is not helpful to inform empiric guidance. 
+Imaging
+When trachoma is suspected, imaging is not usually needed.
+146The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+11. Trachoma
+Antibiotic treatment
+The appropriate treatment of trachoma depends on the stage of disease.
+If trichiasis has already developed, surgery is needed to prevent blindness by 
+stopping the eyelashes continuing to erode the cornea (112,116). 
+Antibiotic treatment is generally given to treat Chlamydia trachomatis infection 
+in association with reinforced education on personal and community hygiene measures. 
+Usually, antibiotic treatment is given once a year for at least 3 years as part of a mass 
+antibiotic administration programme in endemic areas to reduce the reservoir of Chlamydia 
+trachomatis (Table 11.2) (112).
+Table 11.2 – Empiric antibiotic treatment for trachoma
+Adults and children Total treatment duration
+ Azithromycin (oral): 20 mg/kg (maximum 1 g 
+(adults); 500 mg (children))
+OR
+ Azithromycin (eye drops)a: 1.5%, 1 drop 
+administered to both eyes every 12 hours
+OR
+ Tetracycline (eye ointment): 1% 1 cm 
+administered to both eyes every 12 hours
+Topical treatment is used in areas where oral 
+azithromycin is not readily available.
+Single dose (azithromycin)
+3 days (topical treatment with 
+azithromycin)
+6 weeks (topical treatment with 
+tetracycline)
+Note. Antibiotic treatment is mostly given once a year for at least 3 years as part of mass administration programmes 
+in endemic areas.
+a Azithromycin eye drops may be as effective as oral azithromycin (117).
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+Prevention
+For prevention of trachoma, please refer to the epidemiology section where the WHO SAFE 
+strategy is described.

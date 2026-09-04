@@ -1,0 +1,1016 @@
+# TOPIC: sti_syphilis
+
+--- [WHO AWaRe Antibiotic Book (2022) | 21. Sexually transmitted infections - syphilis | p.270-286 | audience=general] ---
+254The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+21. Sexually transmitted infections 
+– syphilis
+Note
+In general this chapter applies to adults and young people older than 12 years. In children, 
+specialist advice should be sought where possible. Consideration should be given that an STI in 
+a child may be due to child sexual abuse.
+Key messages
+• Syphilis has several stages of infection with different clinical presentations and remains 
+common worldwide.
+• All pregnant women should be screened for syphilis and treated if infected to prevent 
+congenital syphilis in the child.
+• Asymptomatic people should also be treated because they can transmit the infection to 
+others, and all people with syphilis should also be evaluated for other sexually transmitted 
+infections.
+• Preventive services should be offered (e.g. condoms, brief sexuality education, HIV preexposure prophylaxis to people at high risk for HIV infection) and sexual partners should be 
+informed and treated.
+• Reporting of this infection to health authorities is encouraged according to local regulations.
+Other relevant WHO resources (please check regularly for updates)
+• Sexually transmitted infections (STIs) – fact sheets (189).
+• Global progress report on HIV, viral hepatitis and sexually transmitted infections, 2021 (193).
+• WHO guidelines for the treatment of Treponema pallidum (syphilis) (210).
+• WHO guidelines for the management of symptomatic sexually transmitted infections (191).
+• Laboratory diagnosis of sexually transmitted infections including human immunodeficiency 
+virus (192).
+• WHO guideline on syphilis screening and treatment for pregnant women (211).
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book255
+PRIMARY HEALTH CARE 
+21. Sexually transmitted infections – syphilis
+Definition
+Syphilis is an STI caused by the bacterium Treponema pallidum subspecies pallidum. Syphilis 
+is one of other treponematoses, that is, diseases caused by spirochaetes of the species 
+Treponema pallidum . Other Treponema pallidum subspecies causing human diseases 
+include subspecies pertenue, the causative pathogen of yaws (212), subspecies endemicum, 
+the causative pathogen of endemic syphilis or bejel, and subspecies carateum, the causative 
+pathogen of pinta (213). This chapter will only address disease caused by Treponema pallidum 
+subspecies pallidum (syphilis). Information about other treponematoses is available on the 
+WHO website (212).
+Syphilis can be classified as early or late based on the time since becoming infected. 
+Usually infections of ≤ 2 years duration are defined as early and infections of > 2 years are 
+defined as late. Furthermore, infections can be classified as primary, secondary or tertiary 
+based on the clinical presentation (210). There is usually a long latent phase with no clinical 
+manifestations between secondary and tertiary infection; the tertiary phase only develops 
+in untreated or inadequately treated infections. Overlap between these definitions exists, 
+with early infection including primary and secondary syphilis and late infection including 
+the latent phase and tertiary syphilis. 
+The latent phase can also be divided into two phases – early latent and late latent. 
+Early latent syphilis is usually defined as infection of < 2 years, whereas late latent syphilis is 
+defined as the presence of the disease of ≥ 2 years (210). However, this distinction is difficult 
+to apply because it is often impossible to establish the time of the initial infection.
+256
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+21. Sexually transmitted infections – syphilis
+Syphilis
+Sexually transmitted infection • Page 1 of 2
+•S ee WHO guidance “Laborator y diagnosis of sexually
+transmitted infec tions ”
+https://apps .who .int/iris/handle/10665/85343
+•: all patients with suspec ted syphilisImportant
+should also be tested for other STIs (e .g . HIV ,
+gonococcal infec tion)
+Clinical Presentation
+Early syphilis:
+•: Oft en asymptomatic, localized nonPrimary infection
+painful ulcerativ e lesion with indurated margins (usually on
+genitalia, mouth or re c tum) +/- local lymphadenopath y
+•:Secondary infection
+-S k in and mucosal manifestations ov er trunk and
+ex tr emities including palms of hands and soles of f eet
+-R ash is commonly maculopapular and non-irritan t
+- Mucous membranes of mouth/perineum can show lesions
+-F ev er (≥ 38.0 °C ), generalized lymphadenopath y and
+malaise usually pr esen t
+-M eningitis , hepatitis and ocular in v olv ement can occur
+Late syphilis:
+•: Can affec t differ ent organ systemsTertiary infection
+-C ar diovascular system: usually aor titis
+-S k in/soft tissues/bones: nodular lesions (gummas)
+-C entral ner v ous system: often pr ogr essiv e dementia,
+psy chiatric symptoms , pr oblems with coor dination of
+mov ements
+Diagnosis
+Direct detection methods:
+•C an detec t the pathogen in specimens fr om sk in or tissue
+lesions
+Serological tests:
+•: detec t antibodies to tr eponemalTreponemal tests
+antigens; they usually r emain positiv e after infec tion ev en
+with successful tr eatmen t
+-T ype of tests: ,,FTA-ABS TPPA TPHA
+•: det ec t antibodies that r eac t to lipidsNontreponemal tests
+r eleased in r esponse to cellular damage caused by infec tion;
+usually become negativ e with successful tr eatmen t
+-T ype of tests: ,VDRL RPR
+•A ll tests ar e negativ e initially in primar y infec tion
+•Both treponemal and non-treponemal tests need to be
+positive to con/g246rm the diagnosis
+•T o incr ease access and same -d ay treatment, a rapid
+tr eponemal test follow ed (if positiv e) by a nontr eponemal
+test is re commended; but star ting with a non-tr eponemal
+test and con/g246rming positiv e r esults with a tr eponemal test
+is also appr opriate
+Microbiology Tests
+Primary syphilis: Usually not needed
+Secondary or tertiary syphilis: May be r equir ed
+depending on the clinical pr esentation
+Other LaboratoryTests
+Usually not needed unless a complication of late
+syphilis is suspec te d
+Imaging
+In general this guidance applies to adults and young people aged
+over 12 years. In children, specialist advice should be sought where
+possible. Consideration should be given that an STI in a child may be
+due to child sexual abuse
+Treponema pallidum subspecies pallidum is a bac terium of the
+ph ylum Spir ochaetes
+•Slow gr owing , difficult to cultur e, thinin vitro
+Pathogen
+•A sexually transmitted infec tion (STI) caused by the bac terium
+Treponema pallidum pallidumsubspecies
+•T he infec tion can be transmitted fr om the mother to her fetus
+because the pathogen can cr oss the placenta
+Classi/g246cation based on:
+•T iming since acquisition
+-: ≤2 y ears (includes primar y and secondar y infec tionsEarly
+and the early latent phase)
+-: >2 y ears (includes the late latent phase and ter tiar yLate
+infec tions)
+•Clinical pr esentation (see below)
+De/g246nition
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+257
+PRIMARY HEALTH CARE 
+21. Sexually transmitted infections – syphilis
+Syphilis
+Sexually transmitted infection • Page 2 of 2
+Treatment
+All dosages are for normal renal function
+Early Syphilis
+Important elements of prevention include:
+•Sexuality education
+•Promoting consistent use of condoms
+•Pre- and post-test counselling
+•Safe sex and risk reduction counselling
+•Interventions targeting high risk groups
+•Access of pregnant women to early and adequate prenatal care
+to prevent congenital syphilis
+Prevention
+Important:
+•Sexual partners should be informed of the disease and
+treated
+•Reporting of this infection to health authorities is
+encouraged according to local regulations
+Since treatment duration varies according to the antibiotic
+used and the stage of the infection, please refer to the
+corresponding antibiotic section for treatment duration
+Antibiotic Treatment Duration
+Clinical Considerations
+•Treatment is always indicated when infection is
+diagnosed, including in asymptomatic patients because
+they can transmit the infection to others
+•In early syphilis (primary/secondary), partners should also
+be treated if exposed within 90 days
+•Assess serological response by repeating non-treponemal
+test to detect a reduction in titer; a 4-fold reduction in titers
+con/g246rms adequate response (repeat 3, 6 and 12 months
+after the end of treatment)
+Treatment is aligned with the WHO 2016 guidelines for
+the treatment of Treponema pallidum
+(https://apps.who.int/iris/handle/10665/249572) and
+the WHO 2021 guidelines for the management of
+symptomatic sexually transmitted infections
+(https://apps.who.int/iris/handle/10665/342523) but
+only options listed in the 2021 EML are reported below
+Procaine benzylpenicillin 1.2 million IU
+(1.2 g) q24h IM
+Treatment duration: 14 days
+---------------------- ----------------------COMBINED WITH
+All dosages are for normal renal function
+Neurosyphilis
+Benzylpenicillin 2-4 million IU (1.2-2.4 g) q4h IV
+Treatment duration: 14 days
+----------------------------------- -----------------------------------OR
+Probenecid 500 mg q6h ORAL
+Treatment duration: 14 days
+First Choice
+Benzathine benzylpenicillin 2.4 million IU
+(≈ 1.8 g) IM
+Treatment duration: single dose
+Second Choice
+Procaine benzylpenicillin 1.2 million IU (1.2 g)
+q24h IM
+Treatment duration: 10-14 days
+All dosages are for normal renal function
+Syphilis in Pregnancy
+Benzathine benzylpenicillin 2.4 million IU
+(≈ 1.8 g) IM
+Treatment duration:
+•Early Syphilis: Single dose
+•Late or Unknown Stage Syphilis: One dose per
+week for 3 consecutive weeks (total of 3
+administrations, the interval between doses
+should not exceed 14 days)
+All dosages are for normal renal function
+Late or Unknown Stage Syphilis
+First Choice
+Benzathine benzylpenicillin 2.4 million IU
+(≈ 1.8 g) IM
+Treatment duration: One dose per week for 3
+consecutive weeks (total of 3 administrations,
+the interval between doses should not exceed
+14 days)
+Second Choice
+Procaine benzylpenicillin 1.2 million IU (1.2 g)
+q24h IM
+Treatment duration: 20 days
+258The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+21. Sexually transmitted infections – syphilis
+Pathogen
+Syphilis is caused by Treponema pallidum subspecies pallidum, a bacterium of the phylum 
+Spirochaetes; other members of this phylum include Leptospira and Borrelia. 
+Treponema pallidum is characterized by slow growth, difficulty in culturing in vitro, 
+and its thinness – 0.2 μm compared to about 0.5 μm for a bacterium like Escherichia coli – 
+which makes it difficult to see with conventional microscopy.
+Resistance to penicillin has not yet been reported and therefore it remains the 
+antibiotic of choice for the treatment of syphilis. Resistance to azithromycin has been 
+reported in some settings (214).
+Pathophysiology
+Syphilis is usually acquired through sexual contact with infectious lesions on the mucosa or 
+skin or, much more rarely, through the bloodstream. The infection can also be transmitted 
+from the mother to her fetus because Treponema pallidum subspecies pallidum can cross 
+the placenta and cause fetal death and congenital infection.
+With sexual transmission, once Treponema pallidum subspecies pallidum enters the 
+subcutaneous tissue, infection develops within 2–6 weeks (usually about 3 weeks) with 
+formation of an ulcerative lesion that occurs at the site of inoculation. Usually, the immune 
+system is able to control the early infection and, even if left untreated, the primary ulcerative 
+lesion (i.e. chancre) resolves. However, dissemination of Treponema pallidum through the 
+bloodstream can occur at the time of primary infection and this can result over time in 
+secondary or tertiary syphilis in the absence of adequate treatment. In particular, tertiary 
+syphilis has a long incubation period (up to years or decades after the initial infection) and 
+develops in about a third of patients with untreated syphilis. In 2017, 370 000 prevalent cases 
+of tertiary syphilis were reported worldwide but this number is probably an underestimation 
+of the true burden of the disease (44).
+Congenital syphilis can occur as a result of vertical transmission of the pathogen 
+from an infected mother to the fetus. The risk of transmission depends on a combination of 
+factors, including maternal titres of non-treponemal tests (see Table 21.1 for an explanation 
+about tests), timing, adequacy of maternal treatment and stage of maternal infection. The 
+estimated total number of cases of congenital syphilis worldwide in 2016 was 661 000, or 
+473 per 100 000 live births (215).
+Epidemiology
+Syphilis is a common curable STI and its incidence is increasing globally. WHO estimates 
+there were 7 million new cases in 2020 (193). Other bacterial STIs occur more frequently, for
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book259
+PRIMARY HEALTH CARE 
+21. Sexually transmitted infections – syphilis
+example, in 2020 more than 82 million new cases of gonorrhoea and about 128 million new 
+cases of chlamydial infection were reported (193). However, syphilis has an important public 
+health impact because of the potential serious consequences if left untreated, including 
+maternal transmission to the fetus resulting in congenital syphilis and fetal death, and 
+complications such as neurosyphilis and cardiovascular syphilis.
+Moreover, as with other STIs, syphilis affects quality of life and increases the risk 
+of transmitting or acquiring other STIs including HIV infection. This HIV risk is of particular 
+concern because STIs characterized by the presence of ulcerative lesions have the highest 
+risk of HIV transmission (216).
+The risk factors for syphilis include: having multiple sexual partners or a new sexual 
+partner; having partners with STIs; having had a previous STI; and several socioeconomic factors, 
+such as low socioeconomic or educational level, substance abuse and young age (217,218). 
+Lack of access to adequate prenatal care is an important risk factor for congenital syphilis.
+Clinical presentation
+Signs and symptoms of syphilis vary depending on the stage of the disease, early or late.
+Early syphilis has the following signs and symptoms.
+• Primary infection (localized disease). This is characterized by the presence of a 
+localized non-painful ulcerative lesion (i.e. chancre) with indurated margins, 
+usually associated with local lymphadenopathy. The lesion is usually located on 
+the genitalia, mouth or rectum but other locations are possible depending on the 
+site of inoculation. The lesion is often asymptomatic and can remain unnoticed, 
+particularly among women. If left untreated, the lesion usually resolves within a 
+few weeks without leaving a scar.
+• Secondary infection (disseminated disease). This is characterized by skin and 
+mucosal manifestations. Generally, a maculopapular non-irritant rash appears 
+which is usually diffuse and extends bilaterally over the trunk and the extremities. 
+A characteristic feature is the involvement of the palms of the hands and soles 
+of the feet. The mucous membranes of the mouth and perineum can also show 
+lesions (mostly flat lesions) that are highly infectious. Systemic manifestations (e.g. 
+fever ≥ 38.0 °C, generalized lymphadenopathy and malaise) are usually present. 
+Neurological manifestations (e.g. meningitis), hepatitis and ocular involvement 
+can also occur in this phase.
+Late syphilis has the following signs and symptoms.
+• Tertiary syphilis (disseminated disease). This can occur as the result of an untreated 
+early syphilis after a period of latency, with no clinical manifestations, that may last
+260The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+21. Sexually transmitted infections – syphilis
+years. Usually tertiary syphilis develops more rapidly in patients with HIV. In this 
+phase, different organ systems can be affected, particularly: the cardiovascular 
+system (typically with signs and symptoms of aortitis); the skin, soft tissues and 
+bones (typically with granulomatous or nodular lesions also known as gummas); 
+and the central nervous system (typically with symptoms of progressive dementia, 
+psychiatric syndrome and tabes dorsalis, which is characterized by problems with 
+coordination of movements, pain radiating from the spine and impaired response 
+of the pupils to light).
+Congenital syphilis infection during pregnancy can lead to spontaneous abortion or 
+premature birth. Most babies with congenital syphilis are asymptomatic at birth but when 
+symptoms are present, they usually develop days or weeks after birth. These symptoms often 
+include anaemia, thrombocytopenia, rash (maculopapular, desquamative rash particularly 
+over the palms, soles, mouth and anus), generalized lymphadenopathy, hepatomegaly and 
+jaundice, nasal discharge (that may turn bloody), painful osteitis (mostly in long bones) and 
+teeth abnormalities. The cerebrospinal fluid is abnormal, indicating neurological disease, in 
+up to half of all babies. Of note, neurological consequences can be expressed later in life and 
+this should always be considered with congenital syphilis.
+Laboratory tests 
+For more comprehensive information on diagnosis of syphilis, please refer to the most 
+recent (2013) WHO guideline for the laboratory diagnosis of STIs (192). Please check the 
+WHO website regularly for possible updates.
+Patient microbiology tests
+In patients with suspected syphilis, microbiology tests can support the diagnosis (Table 
+21.1). Certain microbiology tests are also used to screen asymptomatic pregnant women. 
+For screening during pregnancy, please refer to the most recent (2017) WHO guideline on 
+syphilis screening and treatment for pregnant women (211).
+Direct detection methods 
+These methods can be used to detect the pathogen in specimens obtained from skin or 
+tissues lesions (Table 21.1). Direct detection methods include: dark-field microscopy where 
+Treponema pallidum from lesions of primary syphilis can be observed (of note, a negative 
+dark-field result does not exclude syphilis); and nucleic acid amplification tests to detect 
+DNA sequences specific to Treponema pallidum. Direct detection is considered the gold 
+standard but it is much less frequently used today because it is more time-consuming than 
+serological tests.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book261
+PRIMARY HEALTH CARE 
+21. Sexually transmitted infections – syphilis
+Serological tests
+Two types of serological test can be used, treponemal and non-treponemal. 
+• Treponemal tests detect antibodies to treponemal antigens and usually remain 
+positive after infection even after successful treatment. These tests include: 
+fluorescent treponemal antibody absorption test; Treponema pallidum particle 
+agglutination assay; and Treponema pallidum haemagglutination assay. Treponemal 
+rapid diagnostic tests for syphilis are available and prequalified by WHO.
+• Non-treponemal tests detect antibodies that react to lipids, for example, 
+cardiolipin released during cellular damage that occurs in response to Treponema 
+pallidum. These are qualitative and quantitative tests that can also be used to 
+monitor response to treatment because their titres tend to decline after adequate 
+treatment and may become negative (i.e. non-reactive) over time. These tests 
+include: rapid plasma reagin test and Venereal Disease Research Laboratory test.
+Initially, a two-step approach is used to test for syphilis and both types of tests – 
+treponemal and non-treponemal – need to be positive to confirm the diagnosis. In order to 
+increase access to testing and ensure same-day treatment, WHO recommends the use of a 
+rapid treponemal test followed (if positive) by a non-treponemal test. 
+However, starting with a non-treponemal test and confirmation of positive results 
+with a treponemal test is also appropriate. 
+All serological tests for syphilis (non-treponemal and treponemal tests) are negative 
+in the early phase of primary syphilis and take 1–4 weeks after the chancre appears to 
+become reactive. Both treponemal and non-treponemal tests are reactive in secondary or 
+tertiary syphilis.
+Non-treponemal tests can rarely give false positive results, for example, during 
+pregnancy or during an acute febrile illness. Figure 21.1 and Figure 21.2 and Table 21.2 can 
+be used to help with the interpretation of the results of serological tests.
+Additional tests for other STIs that could be considered when syphilis is confirmed 
+or suspected are shown in Table 21.3.
+262The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+21. Sexually transmitted infections – syphilis
+Table 21.1 – Microbiology tests to consider when syphilis is suspected as indicated 
+in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Microscopy of specimens 
+obtained from skin and 
+tissues lesionsa
+To assess microbial morphology Health care facilities with 
+clinical laboratories
+Antibodies to Treponema 
+pallidum (RDT)
+To diagnose or help to diagnose 
+Treponema pallidum
+Community settings and 
+health facilities without 
+laboratoriesb
+Combined antibodies to 
+Treponema pallidum and to 
+HIV-1 and HIV-2 (RDT)
+To diagnose or help to diagnose 
+HIV and/or Treponema pallidum
+Community settings and 
+health facilities without 
+laboratoriesb
+Non-treponemal test: rapid 
+plasma reagin
+To screen for syphilis and 
+monitor effectiveness of 
+treatment
+Health care facilities with 
+clinical laboratories
+Non-treponemal test: VDLR 
+testc
+To screen for syphilis and 
+monitor effectiveness of 
+treatment and also to screen 
+for, diagnose and confirm 
+neurosyphilisc
+Health care facilities with 
+clinical laboratories
+Treponemal test: TPHA testd To confirm syphilis and diagnose 
+early and late syphilis
+Health care facilities with 
+clinical laboratories
+Treponemal test: TPPA testd To confirm syphilis and diagnose 
+early and late syphilis
+Health care facilities with 
+clinical laboratories
+EDL: Model List of Essential In Vitro Diagnostics; HIV: human immunodeficiency virus; RDT: rapid diagnostic test; 
+TPHA: Treponema pallidum haemagglutination; TPPA: Treponema pallidum particle agglutination; VDRL: Venereal 
+Disease Research Laboratory.
+a Nucleic acid amplification tests (e.g. polymerase chain reaction) of specimens obtained from skin and tissues 
+lesions could also be considered if available.
+b Community and health settings without laboratories are defined as community and health facilities such as 
+health posts and centres, doctors’ offices, outreach clinics and ambulatory care. These tests are also assumed to be 
+available at health care facilities with laboratories.
+c If neurosyphilis is suspected (this can occur at any stage of infection including in the first few months), the VDRL 
+test can also be used on the cerebrospinal fluid in the presence of a positive syphilis serology. The test has a high 
+specificity (i.e. few false-positive results) but a low sensitivity (i.e. many false-negative results). Examination of the 
+cerebrospinal fluid is recommended where there is clinical evidence of neurological involvement. It is also highly 
+desirable in all patients with syphilis of more than 2 years duration or of uncertain duration in order to evaluate the 
+possible presence of asymptomatic neurosyphilis (219).
+d Treponemal tests usually remain positive after the infection has been cleared.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book263
+PRIMARY HEALTH CARE 
+21. Sexually transmitted infections – syphilis
+Figure 21.1 – Reactivity of non-treponemal serological tests by stage of syphilis 
+and effect of treatment
+Negative
+becoming
+positive
+Always
+positive
+Usually
+positive
+Usually
+positive
+Usually
+positive
+but becoming
+negative
+Becoming
+negative
+Becoming
+negative
+Result
+unchanged
+Untreated
+Successfully
+treated
+Early Syphilis Late Syphilis
+PrimaryS econdaryE arly latent Late latent Tertiary
+Positive non-treponemal antibody test
+Remains
+positive
+Negative non-treponemal antibody test
+Becoming
+negative
+Source: Laboratory diagnosis of sexually transmitted infections including human immunodeficiency virus, 2013 (192).
+Figure 21.2 – Reactivity of treponemal serological tests by stage of syphilis and 
+effect of treatment
+Always
+positive
+Always
+positive
+Always
+positiveUntreated
+Successfully
+treated
+Early Syphilis Late Syphilis
+PrimaryS econdaryE arly latent Late latent Tertiary
+Positive treponemal test Negative treponemal test
+Usually
+positive
+eventually
+becoming
+negative
+Negative
+becoming
+positive (Early)
+Remains
+positive
+Remains
+positive
+Remains
+positive
+Result
+unchanged
+Remains
+positive
+(in initially
+positive)
+Source: Laboratory diagnosis of sexually transmitted infections including human immunodeficiency virus, 2013 (192).
+264The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+21. Sexually transmitted infections – syphilis
+Table 21.2 – Possible interpretation of combinations of non-treponemal and 
+treponemal test results
+Non-treponemal 
+test (RPR or VDRL)
+Treponemal test (FTA-ABS, 
+TPPA, TPHA, RDT)
+Interpretation
+Positive Positive This supports the diagnosis of 
+syphilis (the stage of disease and 
+need for treatment should be 
+determined on a case-by-case basis).
+Note. These cases should be notified 
+to the local authority according 
+to national guidance for disease 
+notification.
+Negative Positive Usually this can occur as a result 
+of a successfully treated previous 
+infection because treponemal tests 
+tend to remain positive. Otherwise it 
+could be a very early (or late) phase 
+of the infection.
+Positive Negative Usually this can be considered a 
+false positive result (e.g. during 
+pregnancy).
+Negative Negative Usually the diagnosis of syphilis can 
+be excluded.
+FTA-ABS: fluorescent treponemal antibody absorption; RDT: rapid diagnostic test; RPR: rapid plasma reagin; TPHA: 
+Treponema pallidum haemagglutination assay; TPPA: Treponema pallidum particle agglutination; VDRL: Venereal 
+Disease Research Laboratory.
+Table 21.3 – Additional tests for other sexually transmitted infections to consider 
+in patients with confirmed or suspected syphilis as indicated in the WHO EDL (6)
+Infection Diagnostic test Purpose of the test Settings where the test 
+should be available
+Chlamydial 
+urogenital 
+infection and 
+gonococcal 
+infection
+Qualitative test 
+for Chlamydia 
+trachomatis and 
+Neisseria gonorrhoeae 
+infections (NAAT)
+To diagnose 
+chlamydial and/
+or gonorrhoeal 
+urogenital disease and 
+extragenital infection
+Health care facilities with 
+clinical laboratories
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book265
+PRIMARY HEALTH CARE 
+21. Sexually transmitted infections – syphilis
+Table 21.3 continued
+Infection Diagnostic test Purpose of the test Settings where the test 
+should be available
+HIV Anti-HIV-1 and -HIV-2 
+antibody (RDT)
+Self-testing to screen 
+for HIV
+Community settings and 
+health facilities without 
+laboratoriesa
+HIV Anti-HIV-1 and -HIV-2 
+antibody (RDT and 
+immunoassay)
+To screen for HIV 
+infection
+Community settings and 
+health facilities without 
+laboratoriesa (RDT)
+Health care facilities 
+with clinical laboratories 
+(immunoassay)
+HIV Combined anti-
+HIV-1/HIV-2 antibody 
+and p24 antigen (RDT 
+and immunoassay)
+To screen for HIV 
+infection
+Community settings and 
+health facilities without 
+laboratoriesa (RDT)
+Health care facilities 
+with clinical laboratories 
+(immunoassay)
+Hepatitis B Hepatitis B virus 
+surface antigen (RDT, 
+immunoassay
+To screen for acute 
+and chronic hepatitis 
+B virus infection in 
+people older than 12 
+months
+Community settings and 
+health facilities without 
+laboratoriesa (RDT)
+Health care facilities 
+with clinical laboratories 
+(immunoassay)
+Hepatitis B IgM-specific 
+antibodies 
+to hepatitis B 
+core antigen 
+(immunoassay)
+To aid in the diagnosis 
+of acute HBV infection 
+in the context of 
+outbreak investigation
+Health care facilities with 
+clinical laboratories
+Hepatitis C Anti-hepatitis C 
+antibody (RDT, 
+immunoassay)
+To screen for hepatitis 
+C virus infection in 
+people older than 18 
+months
+Community settings and 
+health facilities without 
+laboratoriesa (RDT)
+Health care facilities 
+with clinical laboratories 
+(immunoassay)
+continues
+266The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+21. Sexually transmitted infections – syphilis
+Table 21.3 continued
+Infection Diagnostic test Purpose of the test Settings where the test 
+should be available
+Trichomoniasis Microscopy To assess microbial 
+morphology, and 
+presence or absence 
+of white blood cells
+Health care facilities with 
+clinical laboratories
+EDL: Model List of Essential In Vitro Diagnostics; HIV: human immunodeficiency virus; NAAT: nucleic acid 
+amplification test; RDT: rapid diagnostic test.
+a Community and health settings without laboratories are defined as community and health facilities such as 
+health posts and centres, doctors’ offices, outreach clinics and ambulatory care. These tests are also assumed to be 
+available at health care facilities with laboratories.
+Other tests
+When primary syphilis is suspected, blood tests other than serology are not usually needed. 
+However, in case of secondary or tertiary syphilis, laboratory tests may be required. If signs 
+and symptoms of neurological disease (i.e. neurosyphilis) are present, a lumbar puncture to 
+test the cerebrospinal fluid is indicated if available (Table 21.4).
+Table 21.4 – Laboratory tests (other than microbiology) to consider when late 
+syphilis is suspected as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Basic CSF profile: CSF 
+leukocyte counta, CSF 
+differential leukocyte count 
+and CSF proteinb and 
+glucosec
+To aid in the diagnosis of 
+neurosyphilis
+Health care facilities with 
+clinical laboratories
+CSF: cerebrospinal fluid; EDL: Model List of Essential In Vitro Diagnostics. 
+a CSF leukocyte count: usually > 5 white blood cell/μL (> 0.005 × 10 9/L), or a higher cut-off > 20 cell/μL (> 0.02 × 
+109/L) in HIV-positive patients even though these are not specific findings of neurosyphilis.
+b CSF protein levels: protein concentration is usually increased (> 45 mg/dL or > 0.45 g/L) but not a specific finding 
+of neurosyphilis.
+c CSF glucose levels: glucose concentrations are usually decreased but not a specific finding of neurosyphilis.
+Using microbiology surveillance data
+Routine surveillance is not helpful to inform empiric guidance.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book267
+PRIMARY HEALTH CARE 
+21. Sexually transmitted infections – syphilis
+Imaging
+When syphilis is suspected, imaging is not usually needed unless a complication of late 
+syphilis is suspected.
+Antibiotic treatment
+All patients, including pregnant women, diagnosed with syphilis should receive a full course 
+of antibiotic treatment. Serological response to treatment can be assessed by repeating a 
+non-treponemal quantitative test – ideally the same type of non-treponemal test used at 
+the time of diagnosis – to detect a reduction in titre. A four-fold reduction, or higher, in titres 
+should be seen to confirm an adequate response to treatment for early syphilis. Usually 
+assessments are repeated at 3, 6 and 12 months after the end of treatment.
+In the case of early syphilis (primary or secondary), the partners of infected people 
+should also be treated if they had sexual relations with the infected person in the 90 
+days before the person was diagnosed with syphilis. If more than 90 days have elapsed, 
+serological testing is usually suggested and treatment is given accordingly.
+The antibiotic treatment recommendations reported here (Table 21.5) are aligned 
+with the most recent WHO guidelines for the treatment of syphilis and for the management 
+of symptomatic STIs (191,210). 
+Table 21.5 – Antibiotic treatment for syphilis by stage of the disease as indicated in 
+the most recent WHO guidelines for the treatment of syphilis (210)
+Please check the WHO website regularly for possible updates
+Type of infection Treatment Total treatment 
+duration
+Early syphilis (adults and 
+adolescents)
+Early syphilis includes 
+primary, secondary and 
+early latent syphilis of no 
+more than 2 years duration
+First choice
+ Benzathine benzylpenicillin a (IM): 
+2.4 million IU (≈ 1.8 g)
+Second choice
+ Procaine benzylpenicillin (IM): 
+1.2 million IU (1.2 g) given once a day
+Benzathine 
+benzylpenicillin: 
+single dose
+Procaine 
+benzylpenicillin: 
+10–14 days
+continues
+268The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+21. Sexually transmitted infections – syphilis
+Table 21.5 continued
+Type of infection Treatment Total treatment 
+duration
+Late syphilis or unknown 
+stage (adults and 
+adolescents)
+This includes infection of 
+more than 2 years duration 
+without evidence of 
+treponemal infection (i.e. 
+asymptomatic infection)
+First choice
+ Benzathine benzylpenicillin b (IM): 
+2.4 million IU (≈ 1.8 g)
+Second choice
+ Procaine benzylpenicillin (IM): 
+1.2 million IU (1.2 g) given once a day
+Benzathine 
+benzylpenicillin: one 
+dose per week for 3 
+consecutive weeks 
+(e.g. on days 1, 8 
+and 15)
+The interval between 
+doses should not 
+exceed 14 days
+Procaine 
+benzylpenicillin: 20 
+days 
+Congenital syphilis
+Infants with confirmed 
+disease or infants who are 
+clinically normal but whose 
+mother had untreated 
+or inadequately treated 
+syphilisc
+Inadequate treatment 
+refers to treatment received 
+< 30 days before delivery 
+and/or treatment with a 
+non-penicillin regimen
+ Benzylpenicillin (IV): 50 000–75 000 
+IU/kg/dose (30–45 mg/kg/dose) given 
+every 12 hours
+OR
+ Procaine benzylpenicillin (IM): 
+50 000 IU/kg (50 mg/kg) given once 
+a day
+If IV access is available, benzylpenicillin 
+is preferred over procaine 
+benzylpenicillin.
+10–15 days
+Neurosyphilisd Benzylpenicillin e (IV): 2–4 million IU 
+(1.2–2.4 g) given every 4 hours 
+OR
+ Procaine benzylpenicillin f (IM): 
+1.2 million IU (1.2 g) given once a day 
+AND Probenecid (oral): 500 mg given 
+every 6 hours
+14 days
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book269
+PRIMARY HEALTH CARE 
+21. Sexually transmitted infections – syphilis
+Table 21.5 continued
+Type of infection Treatment Total treatment 
+duration
+Syphilis in pregnancy Early syphilis
+ Benzathine benzylpenicillin (IM): 
+2.4 million IU (≈ 1.8 g)
+Alternative options (not in the EML) in 
+case of allergy to penicillin (or stockouts): 
+Ceftriaxone 1 g for 10–14 days 
+Azithromycin (2 g single dose) or 
+erythromycin (500 mg every 6 hours 
+for 14 days) can also be used but 
+neither of them crosses the placental 
+barrier completely, therefore only the 
+mother is treated, not the fetus.
+Late syphilis or unknown stage
+ Benzathine benzylpenicillin (IM): 
+2.4 million IU (≈ 1.8 g)
+Alternative option (not in the EML) in 
+case of allergy to penicillin (or stockouts): Erythromycin 500 mg every 6 
+hours for 30 days, but this does not 
+treat the fetus since erythromycin 
+does not cross the placental barrier 
+completely, therefore only the mother 
+is treated.
+Early syphilis
+Single dose
+Late syphilis or 
+unknown stage
+One dose per week 
+for 3 consecutive 
+weeks (e.g. on days 1, 
+8 and 15). 
+The interval between 
+doses should not 
+exceed 14 days.
+EML: Model List of Essential Medicines; IM: intramuscular; IU: international units; IV: intravenous; 
+Note. All dosages are for normal renal and hepatic function.
+a Alternative options in case of allergy to penicillin or stock-outs are indicated in the 2016 WHO guidelines but these 
+are not included in the EML for this indication. These alternatives are doxycycline (oral) 100 mg every 12 hours 
+(except in pregnant women) for 14 days, or ceftriaxone 1 g (IM) for 10–14 days (210). In special circumstances (i.e. 
+when susceptibility is likely, based on local epidemiology) azithromycin 2 g (oral) as a single dose can be given. If 
+penicillin cannot be used, doxycycline is the preferred choice (except in pregnant women) because of its lower cost 
+and oral administration (210). 
+b An alternative option, in case of allergy to penicillin or stock-outs, is indicated in the 2016 WHO guidelines but this 
+option is not included in the EML for this indication. This option is doxycycline (oral) 100 mg every 12 hours (except 
+in pregnant women) for 30 days (210).
+c If the mother was adequately treated and the infant is clinically normal, close monitoring of the infant is suggested. 
+If treatment is provided, the 2016 WHO guidelines indicate benzathine benzylpenicillin (IM) 50 000 IU/kg (37.5 mg/kg) 
+per day single dose as an option.
+continues
+270The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+21. Sexually transmitted infections – syphilis
+Table 21.5 continued
+d From the 2003 WHO guidelines on management of sexually transmitted infections (219).
+e Alternative options are indicated in the 2003 WHO guidelines for non-pregnant patients allergic to penicillin but 
+they are not included in the EML. These options are: doxycycline (oral) 200 mg every 12 hours; and tetracycline 
+(oral) 500 mg every 6 hours. Treatment duration is 30 days in both cases.
+f Some authorities recommend adding benzathine benzylpenicillin 2.4 million IU (≈ 1.8 g) by IM injection, in three 
+consecutive doses once weekly after completing this regimen, but there are no data to support this approach. 
+Benzathine benzylpenicillin 2.4 million IU (≈ 1.8 g) by IM injection does not give adequate therapeutic levels in the 
+cerebrospinal fluid (210).
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+Prevention
+Sexual transmission typically occurs only during primary, secondary and early latent 
+infection. Mother-to-child transmission, however, has been documented to occur up to 
+several years after the initial infection (210). 
+Prevention of infection is a key strategy; no effective vaccine against Treponema 
+pallidum is yet available therefore other preventive measures can be used. 
+The main elements of prevention include: comprehensive sexuality education, pre- 
+and post-test counselling, safe sex and risk reduction counselling, and promoting consistent 
+use of condoms. Interventions targeting groups who have a higher risk of infection – for 
+example, men who have sex with men, transgender people, sex workers, people who inject 
+drugs, indigenous communities and people in prison – should be considered. Offering HIV 
+pre-exposure prophylaxis to people at high risk of HIV infection may be considered.
+Access of pregnant women to early and adequate prenatal care, including screening 
+at first visit and immediate treatment initiation if needed, are key to prevent congenital syphilis.
+Sexual partners should always be informed of the infection and treated (189). 
+Reporting of this infection to health authorities according to local regulations should also 
+be done.
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 3.2.4 Genital Ulcer Disease (GUD) Syndrome | p.349-350 | audience=general] ---
+N76.5-6, N48.5
+Genital ulcer syndrome is one of the commonest syndromes that affect
+men and women. Single or multiple ulcers can be present.
+Causes
+Multiple organisms can cause genital sores, commonly:
+~ Treponema pallidum bacteria: syphilis
+~ Herpes simplex virus: genital herpes
+~ Haemophilus ducreyi: Chancroid
+~ Donovania granulomatis: Granuloma inguinale
+~ Chlamydia strains: lymphogranuloma venerium (LGV)
+Clinical features
+Mixed infections are common
+~ Primary syphilis: the ulcer is at first painless and may be
+between or on the labia or on the penis
+~ Secondary syphilis: multiple, painless ulcers on the penis
+or vulva
+~ Genital Herpes: small, multiple, usually painful blisters,
+283
+Uganda Clinical Guidelines 2023CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
+vesicles, or ulcers. Often recurrent
+~ Granuloma inguinale: an irregular ulcer which increases in
+size and may cover a large area
+~ Chancroid: multiple, large, irregular ulcers with enlarged
+painful suppurating lymph nodes
+Differential diagnosis
+~ Cancer of the penis in elderly men
+~ Cancer of the vulva in women >50 years
+Investigations
+- Swab: for microscopy
+- Blood: for VDRL/TPR
+Patient complains of ulcers or sores
+YES NO
+If vesicle or blisters persist
+Repeat Acyclovir for 7 days
+If ulcers still persist
+Refer for specialist’s management
+If ulcers persist for >10 days
+and partner was treated
+If ulcers persist for >10 days
+and partner was treated
+Take history and examine.
+Is there presence of history
+of recurrent painful ulcers/
+vesicles?
+Acyclovir 400 mg 6hourly for 7
+days and perform RPR test, if
+positive, give Bezathine penicillin
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 3.2.7 Syphilis | p.356-358 | audience=general] ---
+Complex chronic bacterial infection affecting a variety of organs and
+with multiple manifestations.
+Cause
+~ Treponema pallidum
+~ Transmitted sexually and from mother to foetus, rarely
+through blood transfusion or non sexual contact
+Clinical features
+The disease has several stages
+~ Primary syphilis: 10-90 days following inoculation, characterized by a painless genital ulcer with clean base and
+indurated margins, regional lymphadenopathy. It can heal
+spontaneously but the disease will progress to secondary
+lesions
+~ Secondary syphilis: few weeks to months (max 6 months)
+from primary lesions, characterised by:
+- Generalised maculopapular rash
+- Mucous membranes lesions (patches and ulcers)
+- Weeping papules (condyloma alata) in moist skin areas
+- Generalized non tender lymphadenopathy
+290
+Uganda Clinical Guidelines 2023CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
+- Fever, meningitis, hepatitis, osteitis, arthritis, iritis
+~ Early latent syphilis (<1 year in duration): clinically quiescent but possible relapse of secondary syphilis
+~ Late latent syphilis: clinically quiescent, not very infectious
+(but possible maternal foetal transmission)
+~ Late (tertiary) syphilis: at any time after secondary syphilis
+(even many years):
+- nfiltrative tumour of skin, bones, liver
+- Aortitis, aneurysms, aortic regurgitation
+- Central nervous system disorders (neurosyphilis): meningo
+vascular syphilis, hemiparesis, seizures, progressive
+degeneration with paraesthesias, shooting pains, dementia,
+psychosis
+Investigations
+- Non-treponemal antibody tests (VDRL and RPR)
+- Positive 4-6 weeks after infection
+- Used as screening test
+- Possibility of false positive
+- Remains positive 6-12 months after treatment
+- Treponemal antibody tests (TPHA): very sensitive, used to confirm
+a positive non-treponemal test. Remains positive for long even
+after treatment so its positivity may not indicate active disease.
+Management
+TREATMENT LOC
+Primary, seconday and early latent syphilis
+- Benzathine penicillin 2.4 million IU IM stat, half in
+each buttock
+- or Doxycycline 100 mg every 12 hours for 14 days
+HC3
+291
+Uganda Clinical Guidelines 2023CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
+Management
+TREATMENT LOC
+Late latent or uncertain duration, or tertiary without
+neurosyphilis
+- Benzathine penicillin 2.4 million IU IM weekly for 3 weeks
+- Or Doxycycline 100 mg every 12 hours for 28 days
+HC3
+Neurosyphilis
+- Benzylpenicillin 4 million IU IV every 4 hours or
+- Ceftriaxone 2 g IV or IM daily for 10-14 days
+HC2
+HC3
+Followed by
+- Benzathine penicillin 2.4 million IU IM weekly for 3 weeks
+- Treat partner(s), abstain from sex during treatment and
+10 days after
+HC3
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 3.2.9.2 Congenital Syphilis | p.361-362 | audience=general] ---
+It is a serious debilitating and disfiguring condition that can be fatal.
+About one third of syphilis infected mothers have adverse pregnancy
+outcome, one third give birth to a healthy baby, while the remaining
+third may result into congenital syphilis infection.
+Cause
+~ Treponema pallidum bacteria
+295
+Uganda Clinical Guidelines 2023CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
+Clinical features
+~ May be asymptomatic
+~ Early congenital syphilis: begins to show after 6-8 weeks
+of delivery
+- Snuffle, palmar/plantar bullae, hepatosplenomegaly, pallor,
+joint swelling with or without paralysis and cutaneous lesions.
+These signs are non-specific.
+~ Late congenital syphilis: begins to show at 2 years
+- Microcephaly, depressed nasal bridge, arched palate,
+perforated nasal septum, failure to thrive, mental sub
+normality and musculoskeletal abnormalities
+Investigations
+Preferably perform the tests on mother:
+- VDRL/RPR
+- TPHA
+Management of congenital syphilis
+TREATMENT LOC
+- Assume cerebrospinal involvement in all babies less
+than 2 years
+- Aqueous benzylpenicillin 150,000 IU/kg body weight
+IV every 12 hours for a total of 10 days
+- OR procaine penicillin, 50,000 IU/kg body weight, IM
+single dose daily for 10 days
+- Treat both parents for syphilis with benzathine penicillin

@@ -1,0 +1,899 @@
+# TOPIC: febrile_neutropenia
+
+--- [WHO AWaRe Antibiotic Book (2022) | 39. Febrile neutropenia | p.561-577 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book545
+HOSPITAL FACILITY 
+39. Febrile neutropenia
+This chapter focuses on empiric treatment of suspected or confirmed bacterial infections in 
+patients with neutropenia (including neutropenic sepsis) but it does not cover antiviral or 
+antifungal treatment or antibiotic prophylaxis for patients with afebrile neutropenia, which 
+are beyond the scope of this chapter. 
+Key messages
+• Neutropenia is the most common complication of cancer treatment with cytotoxic 
+chemotherapy.
+• Patients can be at low or high risk of serious infections based on the duration of 
+neutropenia.
+• Febrile neutropenia often presents as unexplained fever with no site of infection or 
+pathogen identified.
+• Diagnostic tests depend on the most likely site of primary infection.
+• Empiric antibiotic treatment should be started in febrile patients with a neutrophil count of 
+< 500 cells/μL (< 0.5 × 109 cells/L) with treatment duration based on the clinical response 
+irrespective of the neutrophil count.
+Definition
+Febrile neutropenia is a severe condition that can be caused by common Grampositive and Gram-negative bacteria, fungi and other opportunistic pathogens. Febrile 
+neutropenia occurs mostly in patients with neoplastic diseases who are receiving cytotoxic 
+myelosuppressive chemotherapy. 
+Two elements need to be considered in defining febrile neutropenia: fever and 
+neutropenia.
+For fever, there are no universally accepted temperature cut-offs and slightly 
+different cut-offs are used in different centres. Generally, a pragmatic definition of fever is 
+≥ 38.0 °C. A more precise definition is used by the Infectious Diseases Society of America in 
+their 2010 Clinical practice guideline for the use of antimicrobial agents in neutropenic patients 
+with cancer (360) which is:
+• a single oral temperature measurement of ≥ 38.3 °C or
+• a temperature of ≥ 38.0 °C sustained over 1 hour.
+546The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+39. Febrile neutropenia
+There is less variation in definition of neutropenia, which is defined as a temporary 
+reduction in the absolute neutrophil count; an absolute neutrophil count of < 1000 
+(sometimes < 1500) cells/μL (< 1.0 × 10 9 cells/L) is considered indicative of neutropenia. 
+Neutropenia can be classified as severe when the absolute neutrophil count is < 500 cells/μL 
+(< 0.5 × 109 cells/L) – also called agranulocytosis – and profound when absolute neutrophil 
+count is < 100 cells/μL (< 0.1 x 109 cells/L).
+Febrile neutropenia can be characterized according to identification of the causative 
+pathogen and source of infection as: 
+• microbiologically proven infection (i.e. the causative pathogen is identified) 
+• clinical source of infection diagnosed but no pathogen identified (e.g. pharyngitis)
+• unexplained fever (no pathogen identified and no clear source of infection) 
+• non-infectious fever (e.g. medicine-induced).
+Unexplained fever with no focus or positive culture is the most common situation 
+observed in clinical practice.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+547
+HOSPITAL FACILITY 
+39. Febrile neutropenia
+Febrile neutropenia
+Page 1 of 2
+Mostly bac teria that colonize patien t’s own sk in and bo we l
+including multidrug-r esistant organisms
+Gram-positive bacteria:
+• spp . (including MRSA )Staphylococcus
+• spp .Streptococcus
+• spp . (including vancom y cin-r esistant Ente ro cocci)Enterococcus
+Gram-negative bacteria:
+•E nterobacterales and (including ESBLPseudomonas aeruginosa
+and carbapenemase -pr oducing strains)
+Other pathogens:
+•A naer obes
+•C onsider fungi (mostly and spp .)Candida albicans Aspergillus
+and viruses (e .g . cy tomegalovirus , human herpesvirus 6) if
+longer duration of neutr openia
+Most Likely Pathogens
+This guidance covers suspected bacterial infections in neutropenic
+patients (including neutropenic sepsis) but not antiviral or
+antifungal treatment nor antibiotic prophylaxis for patients with
+afebrile neutropenia or prophylaxis with granulocyte colonystimulating factors
+•A se ve re syndr ome that can occur in patients with neoplastic
+diseases re c eiving cy totoxi c my elosuppr essiv e chemothe rapy
+•T wo elemen ts need to be consider ed:
+-: Body t emperatur e≥38.0 °CFever
+-: T empora ry r educt ion of the absolute neutr ophilNeutropenia
+c ount ( ANC ) <1000 c ells/μL (<1.0 x 10⁹/L)
+Severity:
+•: ANC <500 cells/μL (<0.5 x 10⁹/L)Severe neutropenia
+•: ANC <100 c ells/μL (<0.1 x 10⁹/L)Profound neutropenia
+Categorized by risk of developing severe infections
+(requiring or prolonging hospitalization):
+•: ≤7 days of sev er e neutr openia and no ongoingLow risk
+comorbidities (beside canc er) or re nal or hepatic disfunc tion
+•: >7 da ys of sev er e neutr openia and ongoingHigh risk
+comorbidities (beside canc er) or re nal or hepatic disfunc tion
+Note: these ar e ways to classify neutr openia and narr ow do wn
+the diffe re ntial diag nosis
+Characterized according to identi/g246cation of causative
+pathogen and source of infection:
+1. Micr obiolo gically pr oven inf ec tion (causati ve pa thoge n
+identi/g246ed)
+2. Clinical sour ce of in fe ct ion diagnosed but no pathoge n
+identi/g246ed (e .g . phar yngitis)
+3. Unexplained fe ve r (no pa thogen identi/g246ed and no clear sour ce
+of infe ct ion) (most common scenario )
+4. Non-infe ct ious feve r (e.g . drug-induced)
+De/g246nition
+Diagnosis
+Clinical Presentation
+•P r esentation is highly variable depending on the
+underlying infec tion
+•F ev er is usually pr esent but because patients with
+neutr openia fail to pr oduce effec tiv e in/g248ammato ry
+r esponses , they can sometimes pr esent with few clinical
+/g246ndings and no fev er despite infec tion
+•Clinical pr ogr ession to sev er e disease or death can be ve ry
+rapid (ov er a few hours); signs of sepsis/septic shock should
+always be car efully monitor ed
+Important: micr obiology tests to consider in the initial
+assessment depend on the most likely sour ce of
+infec tion and should ideally be taken befor e star ting
+antibiotic tr eatmen t
+Always obtain:
+•Blood cultur es
+•Urine cultur e
+In selected cases, consider:
+•Sputum micr oscopy and cultur e
+•Nasophar yngeal swab for nucleic acid test for in/g248uenza
+and other r espirator y viruses (including SARS -C oV -2)
+•C er ebr ospinal /g248uid ( CSF) micr oscopy and bac terial cultur e
+•S tool cultur e
+•t estingC. difficile
+•T ests to diagnose in vasiv e fungal infec tions and other viral
+etiologies (especially in high-risk patients)
+Important: tests to consider in the initial assessmen t
+depend on the most likely sour ce of infec tion
+•C omplete blood count, bilirubin, cr eatinine , elec tr olytes ,
+blood pH and gases , whole blood lac tate , C-r eac tiv e pr otein
+and/or pr ocalcitonin
+Microbiology Tests
+Other LaboratoryTests
+•C onsider imaging in initial assessment to identify the
+sour ce of infec tion (depending on clinical pr esentation)
+•C onsider additional imaging to expand diagnostic wo rkup or to ex clude a complicated infec tion if no clinical
+impr ovement af ter a few days of tr eatmen t
+Imaging
+548
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+39. Febrile neutropenia
+Febrile neutropenia
+Page 2 of 2
+Clinical Considerations
+•Antibiotic treatment should consider the most likely site of
+infection, local prevalence of resistance and individual risk
+factors for resistant pathogens (especially ESBL,
+carbapenemase-producing isolates and MRSA)
+•In addition to antibiotic treatment, it is important that
+source control is achieved; consider removal of an infected
+central venous catheter
+•If fever persists and there is no clinical improvement after
+48-72 hours, consider further tests to identify source or
+assess whether a local complication has developed
+(consider a resistant organism or non-bacterial infection)
+Patients with severe neutropenia (<500 cells/μL or
+<0.5 x 10⁹/L) who develop fever:
+•Should promptly receive antibiotic treatment even when a
+clear site of infection is not identi/g246ed
+Low-risk patients:
+•Outpatient setting with monitoring and follow-up, if oral
+treatment tolerated
+High-risk patients (or close follow-up unfeasible):
+•Hospitalization and initial IV treatment
+•Step down from IV to oral antibiotics is suggested when
+the patient has clinically improved, is afebrile and is able to
+tolerate oral treatment
+Treatment
+Low-risk patients: 7 days
+High-risk patients: Until clinical signs of infection resolved
+AND no fever for at least 48 hours
+•Mostly depends on clinical response and (if identi/g246ed)
+infectious site and causative pathogen
+•Current evidence suggests discontinuation based on
+clinical approach and not neutrophil count
+Antibiotic Treatment Duration
+Low Risk
+Important: treatment escalation in case of persistent
+fever is beyond the scope of this guidance
+All dosages are for normal renal function
+Amoxicillin+clavulanicacid 500 mg + 125 mg
+q8h ORAL
+CONSIDER ADDING
+Cipro/g248oxacin 500 mg q12h ORAL
+Important: If using combination therapy, reassess the
+need to continue combination over time based on
+microbiology test results and clinical response
+High Risk
+Important: treatment escalation in case of persistent
+fever is beyond the scope of this guidance
+All dosages are for normal renal function
+First Choice
+Piperacillin+tazobactam 4 g + 500 mg q6h IV
+Second Choice
+Meropenem 1 g q8h IV
+Consider meropenem only in settings with high prevalence of
+ESBL-producing Enterobacterales or in patients with known
+prior colonization or infection with resistant pathogens
+Amikacin 15 mg/kg q24h IV
+---------------------------- ----------------------------AND/OR
+If MRSA suspected
+CONSIDER ADDING TO EITHER REGIMEN
+If resistant Gram-negative bacteria suspected
+Vancomycin 15-20 mg/kg q12h IV
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+549
+HOSPITAL FACILITY 
+39. Febrile neutropenia
+Febrile neutropenia
+Page 1 of 2
+Mostly bac teria that colonize patien t’s own sk in and bo we l
+including multidrug-r esistant organisms
+Gram-positive bacteria:
+• spp . (including MRSA )Staphylococcus
+• spp .Streptococcus
+• spp . (including vancom y cin-r esistant Ente ro cocci)Enterococcus
+Gram-negative bacteria:
+•E nterobacterales and (including ESBLPseudomonas aeruginosa
+and carbapenemase -pr oducing strains)
+Other pathogens:
+•A naer obes
+•C onsider fungi (mostly and spp .)Candida albicans Aspergillus
+and viruses (e .g . cy tomegalovirus , human herpesvirus 6) if
+longer duration of neutr openia
+Most Likely Pathogens
+This guidance covers suspected bacterial infections in neutropenic
+patients (including neutropenic sepsis) but not antiviral or
+antifungal treatment nor antibiotic prophylaxis for patients with
+afebrile neutropenia or prophylaxis with granulocyte colonystimulating factors
+•A se ve re in fe ct ion that can occur in patients with neoplastic
+diseases re c eiving cy totoxi c my elosuppr essiv e chemothe rapy
+•T wo elemen ts need to be consider ed:
+-: T emperatur e≥38.0 °CFever
+-: T empora ry r educt ion of the absolute neutr ophilNeutropenia
+c ount ( ANC ) <1000 c ells/μL (<1.0 x 10⁹/L)
+Severity:
+•: ANC <500 cells/μL (<0.5 x 10⁹/L)Severe neutropenia
+•: ANC <100 c ells/μL (<0.1 x 10⁹/L)Profound neutropenia
+Categorized by risk of developing severe infections
+(requiring or prolonging hospitalization):
+•: ≤7 days of sev er e neutr openia and no ongoingLow risk
+comorbidities (beside canc er) or re nal or hepatic disfunc tion
+•: >7 da ys of sev er e neutr openia and ongoingHigh risk
+comorbidities (beside canc er) or re nal or hepatic disfunc tion
+Note: these ar e ways to classify neutr openia and narr ow do wn
+the diffe re ntial diag nosis
+Characterized according to identi/g246cation of causative
+pathogen and source of infection:
+1. Micr obiolo gically pr oven inf ec tion (causati ve pa thoge n
+identi/g246ed)
+2. Clinical sour ce of in fe ct ion diagnosed but no pathoge n
+identi/g246ed (e .g . phar yngitis)
+3. Unexplained fe ve r (no pa thogen identi/g246ed and no clear sour ce
+of infe ct ion) (most common scenario )
+4. Non-infe ct ious feve r (e.g . drug-induced)
+De/g246nition
+Diagnosis
+Clinical Presentation
+•P r esentation is highly variable depending on the
+underlying infec tion
+•F ev er is usually pr esent but symptoms and signs ar e
+masked and a child can pr esent with no fev er and few signs
+despite infec tion
+•Clinical pr ogr ession to sev er e disease or death can be ve ry
+rapid (ov er a few hours); signs of sepsis/septic shock should
+always be car efully monitor ed
+Important: micr obiology tests to consider in the initial
+assessment depend on the most likely sour ce of
+infec tion and should ideally be taken befor e star ting
+antibiotic tr eatmen t
+Always obtain:
+•Blood cultur es
+•Urine cultur e
+In selected cases, consider:
+•Sputum micr oscopy and cultur e
+•Nasophar yngeal swab for nucleic acid test for in/g248uenza
+and other r espirator y viruses (including SARS -C oV -2)
+•C er ebr ospinal /g248uid ( CSF) micr oscopy and bac terial cultur e
+•S tool cultur e
+•t estingC. difficile
+•T ests to diagnose in vasiv e fungal infec tions and other viral
+etiologies (especially in high-risk patients)
+Important: tests to consider in the initial assessmen t
+depend on the most likely sour ce of infec tion
+•C omplete blood count, bilirubin, cr eatinine , elec tr olytes ,
+blood pH and gases , whole blood lac tate , C-r eac tiv e pr otein
+and/or pr ocalcitonin
+Microbiology Tests
+Other LaboratoryTests
+•C onsider imaging in initial assessment to identify the
+sour ce of infec tion (depending on clinical pr esentation)
+•C onsider additional imaging - CT chest and abdominal
+ultrasound to expand diagnostic wo rk -up or to ex clude a
+complicated infec tion if no clinical impr ovement af ter a fe w
+days of tr eatmen t
+Imaging
+550
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+39. Febrile neutropenia
+Febrile neutropenia
+Page 2 of 2
+Amoxicillin+clavulanic acid 80-90 mg/kg/day
+of amoxicillin component ORAL
+•:Oral weight bands
+3-<6 kg 250 mg of amox/dose q12h
+6-<10 kg 375 mg of amox/dose q12h
+10-<15 kg 500 mg of amox/dose q12h
+15-<20 kg 750 mg of amox/dose q12h
+≥20 kg 500 mg of amox/dose q8h or
+1 g of amox/dose q12h
+Amox = amoxicillin
+Oral liquid must be refrigerated after reconstitution
+Clinical Considerations
+•Antibiotic treatment should consider the most likely site of
+infection, local prevalence of resistance and individual risk
+factors for resistant pathogens (especially ESBL,
+carbapenemase-producing isolates and MRSA)
+•In addition to antibiotic treatment, it is important that
+source control is achieved; consider removal of an infected
+CentralV enous Catheter
+•If fever persists and there is no clinical improvement after
+48-72 hours, consider further tests to identify source or
+assess whether a local complication has developed
+(consider a resistant organism or non-bacterial infection)
+Patients with severe neutropenia (<500 cells/μL or
+<0.5 x 10⁹/L) who develop fever:
+•Should promptly receive antibiotic treatment even when a
+clear site of infection is not identi/g246ed
+Low-risk patients:
+•Outpatient setting with monitoring and follow-up, if oral
+treatment tolerated
+High-risk patients (or close follow-up unfeasible):
+•Hospitalization and initial IV treatment
+•Step down from IV to oral antibiotics is suggested when
+the patient has clinically improved, is afebrile and is able to
+tolerate oral treatment
+Treatment
+Low-risk patients: 7 days
+High-risk patients: Until clinical signs of infection resolved
+AND no fever for at least 48 hours
+•Mostly depends on clinical response and (if identi/g246ed)
+infectious site and causative pathogen
+•Current evidence suggests discontinuation based on
+clinical approach and not neutrophil count
+Antibiotic Treatment Duration
+Low Risk
+All dosages are for normal renal function
+Important: If using combination therapy, reassess the
+need to continue combination over time based on
+microbiology test results and clinical response
+High Risk
+All dosages are for normal renal function
+First Choice
+Piperacillin+tazobactam 100 mg/kg/dose of
+piperacillin component q8h IV
+CONSIDER ADDING
+Second Choice
+Meropenem 20 mg/kg/dose q8h IV
+Consider meropenem only in settings with high prevalence of
+ESBL-producing Enterobacterales or in patients with known
+prior colonization or infection with resistant pathogens
+Amikacin 15 mg/kg q24h IV
+---------------------------- ----------------------------AND/OR
+CONSIDER ADDING TO EITHER REGIMEN
+If resistant Gram-negative bacteria suspected
+Vancomycin IV
+•Neonates: 15 mg/kg/dose q12h
+•Children: 15 mg/kg/dose q8h
+If MRSA suspected
+Cipro/g248oxacin 15 mg/kg/dose q12h ORAL
+•:Oral weight bands
+3-<6 kg 50 mg q12h
+6-<10 kg 100 mg q12h
+10-<15 kg 150 mg q12h
+15-<20 kg 200 mg q12h
+20-<30 kg 300 mg q12h
+≥30 kg 500 mg q12h
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book551
+HOSPITAL FACILITY 
+39. Febrile neutropenia
+Pathophysiology
+Neutropenia (i.e. decreased number of circulating neutrophils) can develop as the result of a 
+reduced production of neutrophils by the bone marrow, or increased peripheral destruction 
+or sequestration at localized inflammatory sites. Once neutrophils fall below a certain 
+threshold, the risk of developing infections increases. Severity and duration of neutropenia 
+are independent risk factors for serious infection, that is, the risk is higher with longer and 
+more severe neutropenia.
+It is beyond the scope of this chapter to describe how cytotoxic chemotherapies and 
+cancer affect the immune system and predispose to infection. As well as a reduced absolute 
+neutrophil count, patients with cancer and on cytotoxic chemotherapy often also have 
+dysfunctional lymphocytes or immunoglobulin deficiencies, impaired natural barriers to 
+infection (e.g. mucositis) and malnutrition, which additionally weaken their ability to control 
+infections. Furthermore, the presence of invasive devices (e.g. intravascular catheters) is an 
+additional risk factor for infection to consider.
+Epidemiology
+Neutropenia is the most common complication of cytotoxic cancer treatment that can lead 
+to treatment delays and reductions in the chemotherapy dose (361). The risk of developing 
+febrile neutropenia depends on: the type of underlying tumour (e.g. very high in patients 
+with acute leukaemia and lower in patients with solid tumours); the type and dose of 
+chemotherapy used; and individual risk factors, such as older age, advanced stage of disease, 
+comorbidities, other concomitant myelotoxic medications (362). The risk of developing 
+severe infection depends on the duration and severity of neutropenia; therefore, initial 
+risk assessment is an important step to identify patients at low or high risk of developing 
+serious complications, such as complications requiring hospitalization or prolonging 
+hospitalization. As well as the physician’s assessment, several scoring systems exist (e.g. 
+Multinational Association of Supportive Care in Cancer (MASCC) score) to help predict this 
+risk (363). These systems usually include a combination of factors, such as general clinical 
+status of the patient, presence of comorbidities, age and whether the patient is hospitalized 
+or not. However, no system can distinguish patients at low or high risk of infection with 
+complete accuracy (364).
+Low-risk patients are those expected to have a shorter duration of severe neutropenia 
+(≤ 7 days) and have no comorbidities (other than cancer) or renal or hepatic dysfunction. 
+High-risk patients are expected to remain neutropenic for longer periods (> 7 days) or are 
+those with ongoing comorbidities (other than cancer) and renal or hepatic dysfunction. 
+Neutropenia is also common in children receiving myelosuppressive treatment – 
+especially for acute lymphoblastic leukaemia or lymphoma (the most common forms of
+552The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+39. Febrile neutropenia
+cancer in childhood (365)) and for acute myeloid leukaemia – or after haemopoietic stem 
+cell transplantation or treatment for certain aggressive solid tumours, such as neuroblastoma 
+(366,367).
+Most likely pathogens
+A fever of infectious origin in a patient with neutropenia is most likely caused by bacteria 
+that colonize the patient’s own skin and bowel, including multidrug-resistant organisms 
+such as ESBL-producing or carbapenemase-producing Gram-negative bacteria (Table 39.1). 
+These patients often receive broad-spectrum antibiotics while in hospital and are therefore 
+at increased risk of antibiotic-resistant infections. Furthermore, certain pathogens (e.g. 
+fungi) become more frequent with longer duration of neutropenia.
+Table 39.1 – Pathogens most frequently associated with febrile neutropenia (in 
+descending order of frequency)
+Bacteria Viruses Parasites
+Staphylococcus epidermidis
+Staphylococcus aureus (including MRSA)
+Streptococcus spp. 
+Other Gram-positive bacteria (e.g. 
+Enterococcus spp. including VRE)
+Enterobacterales (including multidrugresistant strains such as those producing 
+ESBL and carbapenemases)
+Pseudomonas aeruginosa
+Anaerobes
+Cytomegalovirus
+Human herpesvirus 6
+(Consider viruses in 
+high-risk patients 
+mostly because of 
+reactivation of latent 
+infections)
+Candida spp.
+Aspergillus spp. (in 
+case of prolonged 
+neutropenia)
+ESBL: extended-spectrum beta-lactamases; MRSA: methicillin-resistant Staphylococcus aureus; VRE: vancomycinresistant Enterococci.
+Notes. The risk of multidrug-resistant pathogens should always be carefully considered in patients with neutropenia 
+because often infections in these patients are health care-associated.
+Most data come from tertiary care centres in high-income settings.
+Clinical presentation
+Apart from fever, other accompanying signs and symptoms of febrile neutropenia vary 
+greatly depending on the underlying infection, for example, pneumonia, UTI, skin infection, 
+meningitis, colitis. Bacteraemia (i.e. the detection of bacteria in blood cultures) may be 
+present. Because patients with neutropenia fail to produce effective inflammatory responses, 
+they can sometimes present with few clinical findings and no fever despite infection.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book553
+HOSPITAL FACILITY 
+39. Febrile neutropenia
+A detailed clinical examination should always be done to help identify the site of 
+infection. Skin changes (e.g. rash, ulcers, signs of vascular infection), changes in the oral 
+mucosa and pharynx (e.g. ulcers inside the mouth, dental disease, thrush), abnormalities 
+in the perineal and perirectal area, symptoms and signs of typhlitis (inflammation of the 
+cecum) and colitis with abdominal pain, diarrhoea and sometimes rectal bleeding often 
+due to mucositis should therefore always be carefully investigated.
+Clinical progression to severe disease or death can be very rapid (over a few hours); 
+therefore, the presence of any signs of sepsis or septic shock should always be carefully 
+monitored. Please also refer to the chapter on sepsis if suspected.
+Laboratory tests
+Patient microbiology tests
+Whenever possible a microbiology sample (e.g. blood cultures) should be obtained – ideally 
+before antibiotic treatment is started – because results of the test can help establish the 
+diagnosis and treatment can be adapted accordingly.
+Tests to consider depend on the most likely primary site of infection and should 
+therefore be adapted based on the clinical presentation (Table 39.2). Some tests should always 
+be performed (indicated as routine tests in Table 39.2), while others could be considered in 
+certain cases, including for surveillance purposes and based on local availability. Additional tests 
+not presented in the table but that could be considered, especially in high-risk patients, include 
+tests to diagnose invasive fungal infections (e.g. Aspergillus galactomannan antigen screening) 
+and those for other viral infections, such as nucleic acid amplification test for cytomegalovirus.
+Other tests
+Laboratory tests to consider if febrile neutropenia is suspected depend on the most likely 
+source of infection and are shown in Table 39.3.
+554The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+39. Febrile neutropenia
+Table 39.2 – Microbiology tests to consider when febrile neutropenia is suspected 
+depending on the most likely source of infection as indicated in the WHO EDL (6)
+Test priority Diagnostic test Purpose of the test Settings where 
+the test should be 
+available
+Routine Blood cultures 
+and antimicrobial 
+susceptibility testing
+To detect bacterial and 
+fungal bloodstream 
+infections
+Health care facilities 
+with clinical 
+laboratories
+Routine Urine culture and 
+antimicrobial 
+susceptibility testing
+Initial step to detect 
+and identify bacterial 
+and fungal species for 
+selection of appropriate 
+antimicrobial regimens
+Health care facilities 
+with clinical 
+laboratories
+Consider in 
+certain cases
+Sputum microscopy 
+(Gram stain)
+To assess microbial 
+morphology and 
+adequacy of the specimen 
+for culture by identifying 
+white blood cells and 
+squamous epithelial cells
+Health care facilities 
+with clinical 
+laboratories
+Consider in 
+certain cases
+Sputum culture 
+and antimicrobial 
+susceptibility testing
+Initial step to detect 
+and identify bacterial 
+and fungal species for 
+selection of appropriate 
+antimicrobial regimens
+Health care facilities 
+with clinical 
+laboratories
+Consider in 
+certain cases 
+(including for 
+infection control 
+purposes)
+Nasopharyngeal 
+swab for NAAT for 
+influenzaa
+To diagnose seasonal 
+influenza infection
+Health care facilities 
+with clinical 
+laboratories but 
+also in primary care 
+settings
+Consider in 
+certain cases 
+(including for 
+infection control 
+purposes)
+Nasopharyngeal 
+swab for NAAT or 
+antigen test for SARS-
+CoV-2
+To diagnose COVID-19 Health care facilities 
+with clinical 
+laboratories (NAAT) 
+and primary care 
+settings (antigen test)
+Consider in 
+certain cases
+Aspergillus antigen 
+test
+To diagnose invasive 
+aspergillosis in 
+Immunocompromised 
+patients
+Health care facilities 
+with clinical 
+laboratories
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book555
+HOSPITAL FACILITY 
+39. Febrile neutropenia
+Test priority Diagnostic test Purpose of the test Settings where 
+the test should be 
+available
+Consider in 
+certain cases
+Cerebrospinal fluid 
+microscopy
+To assess microbial 
+morphology, number of 
+white blood cells and red 
+blood cells
+Health care facilities 
+with clinical 
+laboratories
+Consider in 
+certain cases
+Cerebrospinal 
+fluid Gram stain, 
+bacterial culture 
+and antimicrobial 
+susceptibility testing
+Initial step to detect 
+and identify bacterial 
+and fungal species for 
+selection of appropriate 
+antimicrobial regimens
+Health care facilities 
+with clinical 
+laboratories
+Consider in 
+certain cases
+Stool culture and 
+antimicrobial 
+susceptibility testing
+Initial step to detect 
+and identify bacterial 
+species for selection of 
+appropriate antibiotic 
+regimens
+Health care facilities 
+with clinical 
+laboratories
+Consider in 
+certain cases
+Clostridioides difficile 
+testing (usually 
+NAAT)
+To diagnose Clostridioides 
+difficile infection
+–b
+COVID-19: coronavirus disease 2019; EDL: Model List of Essential In Vitro Diagnostics; NAAT: nucleic acid 
+amplification test; SARS CoV-2: severe acute respiratory syndrome coronavirus 2.
+a Testing for respiratory viruses other than influenza (e.g. respiratory syncytial virus) could be considered based on 
+availability and local epidemiology.
+b This test is not in the WHO EDL (6). 
+Table 39.2 continued
+556The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+39. Febrile neutropenia
+Table 39.3 – Laboratory tests to consider when febrile neutropenia is suspected as 
+indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Complete blood 
+count
+To detect a wide range of disorders 
+(e.g. severity of neutropenia, anaemia, 
+thrombocytopenia), including infections
+Health care facilities with 
+clinical laboratories
+C-reactive 
+proteina
+To detect inflammation as an indicator of 
+various conditions (e.g. sepsis)
+Health care facilities with 
+clinical laboratories
+Procalcitonina To guide antibiotic therapy or 
+discontinuation in sepsis
+Only in tertiary care 
+facilities
+Bilirubin To detect or monitor liver disease Community settings and 
+health facilities without 
+laboratoriesb
+Creatinine To monitor kidney function for 
+management of severe infections (i.e. 
+sepsis) and to adjust antimicrobial 
+regimens
+Health care facilities with 
+clinical laboratories
+Electrolytes To monitor fluid, electrolyte and acid–base 
+balance
+Health care facilities with 
+clinical laboratories
+Blood pH and 
+gases
+To assess lung function, metabolic or kidney 
+disorders and monitor oxygen therapy
+Health care facilities with 
+clinical laboratories
+Whole blood 
+lactate
+To assess metabolic acidosis, sepsis and 
+dehydration
+Community settings and 
+health facilities without 
+laboratoriesb
+EDL: Model List of Essential In Vitro Diagnostics.
+a Measurement of biomarkers on admission (C-reactive protein and procalcitonin) might help identify high-risk 
+patients and predict severe outcomes, such as sepsis (368–370).
+b Community and health settings without laboratories are facilities such as health posts and centres, doctors’ offices, 
+outreach clinics, ambulatory care and home-based and self-testing. These tests are assumed to be available at 
+health care facilities with laboratories.
+Using microbiology surveillance data 
+Empiric guidance given by the AWaRe book could be reviewed and adapted based on local 
+clinically relevant microbiology surveillance data. This would include blood culture data 
+from local haemato-oncology patients, ideally risk-stratified by underlying diagnosis.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book557
+HOSPITAL FACILITY 
+39. Febrile neutropenia
+Imaging
+Imaging based on clinical presentation should be considered in the patient’s initial 
+assessment to identify the source of infection. If there is no clinical improvement and the 
+fever does not resolve with treatment in a few days, additional imaging could be considered 
+(e.g. CT scan of the lungs and sinuses, and other tests based on clinical suspicion) to expand 
+diagnostic work-up or to exclude a complicated infection such as invasive fungal disease.
+Treatment
+This chapter focuses on antibiotic treatment of suspected or confirmed bacterial infections 
+but it does not cover antiviral or antifungal treatment. It also does not cover prophylaxis 
+with granulocyte colony-stimulating factors (i.e. growth factors that stimulate the bone 
+marrow to produce more neutrophils) such as filgrastim listed on the EML since 2015 for the 
+treatment of acquired neutropenia.
+The use of granulocyte colony-stimulating factors for therapeutic purposes 
+(i.e. in febrile patients) is controversial and guidelines vary in their recommendations. 
+Evidence shows that their use in combination with antibiotics does not reduce mortality 
+compared with antibiotics alone; however, granulocyte colony-stimulating factors could 
+be considered in certain patients because their use is associated with shorter hospital 
+stay and duration of antibiotic use (reduced by 1–2 days) most likely due to the faster 
+neutrophil recovery (371).
+It is important that source control is achieved as early as possible, this includes 
+drainage of any abscesses and removal or change of invasive devices such as central venous 
+catheters, where appropriate.
+Antibiotic treatment 
+Patients with neutropenia who develop fever should promptly receive antibiotic treatment 
+even when a clear site of infection is not identified (372). 
+Low-risk patients can be managed in an outpatient setting if adequate monitoring 
+and follow-up are available and if they are able to tolerate oral treatment (373). High-risk 
+patients, or patients where close follow-up is not feasible, require hospitalization and initial 
+intravenous treatment to start with. 
+The choice of empiric treatment should always consider a combination of factors, 
+including the most likely site of primary infection and the infecting pathogens (including 
+risk of viral and invasive fungal infections) and the local pattern of AMR. Other factors, such 
+as known colonization or previous infection with multidrug-resistant organisms and recent
+558The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+39. Febrile neutropenia
+antibiotic exposure (including antibiotic prophylaxis) are also important factors to consider. 
+Recommended empiric antibiotic options are given in Table 39.4.
+Note
+Table 39.4 refers to empiric treatment not to treatment escalation in case of persistent fever 
+which is beyond the scope of the chapter.
+Simplify empiric treatment to a more narrow-spectrum antibiotic (often also called 
+de-escalation) based on culture results (targeted treatment) or rapid clinical improvement 
+if culture results unavailable.
+Step down to oral antibiotics is suggested when the patient has made a good 
+clinical response, the fever has settled and the patient can tolerate oral antibiotics.
+Antibiotic treatment for patients with febrile neutropenia may require adjustments 
+in dose and frequency of administration because pharmacokinetic and pharmacodynamic 
+parameters could be altered in these patients and renal and hepatic toxicity related to 
+chemotherapy is common (374). 
+If the causative pathogen is identified, once susceptibilities are known, antibiotics 
+should be reviewed and modified accordingly. However, even if adequate microbiological 
+sampling is performed, a pathogen is often not identified. 
+If fever persists (e.g. patient still has a temperature 48–72 hours after the start of 
+antibiotic treatment) and there is no clinical improvement, further diagnostic tests (e.g. 
+imaging) could be performed to identify the source of infection (if this is still unclear) or to 
+assess whether a local complication has developed such as a fluid collection. In addition, 
+a resistant pathogen or an invasive fungal disease should be considered as they could be 
+responsible for the prolonged fever. 
+Duration of treatment will mostly depend on the clinical response (e.g. resolution 
+of fever and clinical recovery) and, if identified, on the infectious site and the causative 
+pathogen. 
+Continuation of antibiotic treatment until neutrophil recovery (absolute neutrophil 
+count > 500 cells/μL; > 0.5 × 10 9 cells/L) is controversial with guidelines varying in their 
+recommendations. Evidence suggests that discontinuation of antibiotics based on a positive 
+clinical assessment – for example, if the clinical recovery is good and no source is identified 
+or if an infection has been adequately treated and irrespective of the neutrophil count – can 
+safely reduce exposure to antibiotics (375,376).
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book559
+HOSPITAL FACILITY 
+39. Febrile neutropenia
+Table 39.4 – Initial empiric antibiotic treatment for febrile neutropenia (absolute neutrophil count < 500 cells/μL 
+(< 0.5 x 10 9 cells/L)) based on the patient’s initial risk assessment
+Patient risk Adults Children Total treatment 
+duration
+Low risk: expected 
+duration of 
+neutropenia < 7 
+days, no major 
+comorbidities, no 
+organ dysfunction, 
+possible 
+outpatient 
+treatment
+ Amoxicillin+clavulanic acid 
+(oral): 500 mg+125mg given every 
+8 hours
+CONSIDER ADDING
+ Ciprofloxacin a (oral): 500 mg 
+given every 12 hours
+ Amoxicillin+clavulanic acid b (oral): 80–90 mg/kg/day of 
+amoxicillin component
+Oral weight bands:
+3–< 6 kg: 250 mg of amoxicillin/dose given every 12 hours
+6–< 10 kg: 375 mg of amoxicillin/dose given every 12 hours
+10–< 15 kg: 500 mg of amoxicillin/dose given every 
+12 hours
+15–< 20 kg: 750 mg of amoxicillin/dose given every 
+12 hours
+≥ 20 kg: 500 mg of amoxicillin/dose given every 8 hours or 
+1 g of amoxicillin/dose given every 12 hours
+CONSIDER ADDING
+ Ciprofloxacin (oral) 15 mg/kg/dose given every 12 hours
+Oral weight bands:
+3–< 6 kg: 50 mg given every 12 hours
+6–< 10 kg: 100 mg given every 12 hours
+10–< 15 kg: 150 mg given every 12 hours
+15–< 20 kg: 200 mg given every 12 hours
+20–<30 kg: 300 mg given every 12 hours
+≥ 30 kg: use adult dose
+7 days
+continues
+560The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+39. Febrile neutropenia
+Patient risk Adults Children Total treatment 
+duration
+High risk: expected 
+duration of 
+neutropenia > 
+7 days, major 
+comorbidities, 
+organ dysfunction
+First choice
+ Piperacillin+tazobactam (IV): 
+4g + 500 mg given every 6 hours
+ 
+Second choice
+ Meropenem c (IV): 1g given 
+every 8 hours
+CONSIDER ADDING
+ Amikacin d (IV): 15 mg/kg given 
+once a day
+AND/OR
+ Vancomycin e (IV): 15–20 mg/kg 
+given every 12 hours
+First choice
+ Piperacillin+tazobactam (IV): 100 mg/kg/dose of 
+piperacillin component given every 8 hours
+Second choice
+ Meropenem c (IV): 20 mg/kg/dose given every 8 hours
+CONSIDER ADDING
+ Amikacin d (IV): 15 mg/kg/dose given once a day
+AND/OR
+ Vancomycin e (IV):
+• Neonates: 15 mg/kg/dose given every 12 hours
+• Children: 15 mg/kg/dose given every 8 hours
+Until clinical signs 
+of infection have 
+resolved, including 
+absence of fever for 
+at least 48 hours.
+If a pathogen is 
+identified, the 
+duration of therapy 
+will be based on the 
+particular pathogen 
+and site of infection. 
+If the patient still has 
+neutropenia, he/she 
+should be closely 
+monitored for 24–48 
+hours and if fever 
+returns, antibiotics 
+should be restarted.
+Table 39.4 continued
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book561
+HOSPITAL FACILITY 
+39. Febrile neutropenia
+Table 39.4 continued
+ESBL: extended-spectrum beta-lactamase; IV: intravenous; MRSA: methicillin-resistant Staphylococcus aureus.
+Note. All dosages are for normal renal and hepatic function.
+a The use of fluoroquinolones (such as ciprofloxacin) can be associated with important side-effects including: (i) mental health disturbances such as disorientation, 
+agitation, nervousness, memory impairment and delirium; (ii) serious blood sugar disturbances such as hypoglycaemic coma; (iii) increased risk of tendinitis and tendon 
+rupture; (iv) worsening symptoms in those with myasthenia gravis; and (v) potential irreversible neuropathy (serious nerve damage).
+b Oral liquid formulations must be refrigerated after reconstitution as clavulanic acid is rapidly metabolized in high ambient temperatures.
+c Empiric meropenem should only be considered in settings with a high prevalence of ESBL-producing Enterobacterales or in patients with known prior colonization or 
+infection with resistant pathogens.
+d Consider adding amikacin in combination with piperacillin+tazobactam or meropenem when infections with resistant Gram-negative bacteria are suspected based 
+on local epidemiology and clinical presentation; for example, severely ill patients including those who become clinically unstable after initial empiric monotherapy, and 
+patients with known prior colonization or infection with ESBL-producing Enterobacterales. The need to continue combination treatment should be reassessed over time 
+(e.g. after 48–72 hours) based on microbiology test results and clinical response.
+e Consider adding vancomycin in combination with piperacillin+tazobactam or meropenem when infection with MRSA is suspected (e.g. patients with MRSA 
+colonization) or where a line infection is strongly suspected because of the risk of multidrug-resistant coagulase-negative Staphylococcus infection. The need to continue 
+combination treatment should be reassessed over time (e.g. after 48–72 hours) based on microbiology test results and clinical response.
+Legend: ACCESS antibiotics are highlighted in green, WATCH antibiotics in yellow and RESERVE antibiotics in red.

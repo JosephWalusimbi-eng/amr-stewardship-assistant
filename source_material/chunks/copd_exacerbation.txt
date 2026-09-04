@@ -1,0 +1,391 @@
+# TOPIC: copd_exacerbation
+
+--- [WHO AWaRe Antibiotic Book (2022) | 13. Exacerbation of chronic obstructive pulmonary disease | p.178-184 | audience=general] ---
+162The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+13. Exacerbation of chronic 
+obstructive pulmonary disease
+Key messages
+• Antibiotics are not needed for most mild cases.
+• Avoid routine sputum culture in mild cases as patients may be colonized by multiple 
+bacteria, making results difficult to interpret.
+• Supplementary oxygen and short-acting inhaled beta-2-agonists are the mainstay of 
+treatment. Steroids are also recommended in many guidelines as they can improve lung 
+function and shorten time to recovery. 
+• Consider antibiotics only in severe cases requiring hospital admission. Most exacerbations 
+are not due to acute bacterial infection. 
+Other relevant WHO resources (please check regularly for updates)
+• Chronic obstructive pulmonary disease (COPD) – fact sheet (132).
+• Global surveillance, prevention and control of chronic respiratory diseases: a comprehensive 
+approach (133).
+• Coronavirus disease (COVID-19) pandemic (32).
+• Living guidance for clinical management of COVID-19: living guidance, 23 November 2021 (33).
+• Therapeutics and COVID-19: living guideline, 16 September 2022 (34).
+• Pneumococcal conjugate vaccines in infants and children under 5 years of age: WHO position 
+paper –February 2019 (35).
+• Vaccines against influenza WHO position paper – May 2022 (37).
+Definition
+An exacerbation of COPD is an acute event characterized by a worsening of the patient’s 
+respiratory symptoms that is beyond normal day-to-day variations and leads to a change in 
+medication in patients with underlying COPD (134).
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+163
+PRIMARY HEALTH CARE 
+13. Exacerbation of chronic obstructive pulmonary disease
+Exacerbation of chronic obstructive pulmonary disease
+Page 1 of 2
+A cute w orsening of patient's r espirator y symptoms bey ond
+normal day-to -d ay v ariations that r esults in additional therapy in
+patients with underlying chr onic obstruc tiv e pulmonar y disease
+(C OPD). C OPD re f ers to a gr oup of diseases that block air /g248ow and
+impair br eathing and includes emph y sema and chr onic br onchitis
+De/g246nition Diagnosis
+Clinical Presentation
+Usually not needed but can be c onsider ed in se ve re cases;
+the re spirator y tr ac t of people with C OPD may be colonize d
+with bac t eria (e.g ., ,,S. pneumoniae H. in/g248uenzae M. catarrhalis
+P. aeruginosa S. maltophilia,) and a positiv e cultur e ma y
+indicate colonization rather than acute infec tion
+Microbiology Tests
+C onsider C-r eac tiv e pr otein and/or pr ocalcitonin, complet e
+blood count, and blood pH and gases
+Other LaboratoryTests
+C onsider a chest radiograph in patients r equiring
+hospitalization to ex clude other diagnoses and in
+outpatients if pneumonia suspec te d
+Imaging
+Respiratory viruses (most cases):
+•I n/g248uenza virus (A and B)
+•R espirator y sync ytial virus (RSV )
+•P arain/g248uenza virus
+•R hinovirus
+•C or onavirus (including SARS -C oV -2)
+•O ther r espirator y viruses
+Bacteria (more rarely):
+•Haemophilus in/g248uenzae
+•Moraxella catarrhalis
+•Streptococcus pneumoniae
+•G ram-negativ e bac teria including Pseudomonas aeruginosa
+(including multidrug-r esistant strains)
+Most Likely Pathogens
+Recommend smoking cessation, r educed indoor air pollution,
+use of long-ac ting inhaled β₂-agonists (± anticholinergics) and
+vaccination (e.g . against in/g248uenza, and SARS -C oV -2)S. pneumoniae
+Prevention
+Important: symptom s can overla p with pneumoni a
+(pneumoni a mor e likely if tach yc ar d ia, tach ypnea at r est
+and cr e pitations tha t persist afte r c oughing ar e pr esent)
+Recent and sustained w orsening of dyspnea and cough
+with incr eased sputum pr oduc tion compar ed to the
+baseline in a patient with C OPD
+164
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+13. Exacerbation of chronic obstructive pulmonary disease
+Exacerbation of chronic obstructive pulmonary disease
+Page 2 of 2
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Mild to Moderate Cases
+Treatment
+•D etails of C OPD exacerbations management ar e not
+discussed her e, re fer to speci/g246c guidelines
+•Supplementar y ox ygen and shor t-ac ting inhaled β₂-
+agonists (± anticholinergics)
+•S ystemic steroids are usually recommended (improve lung
+func tion and fav our faster re cove ry )
+No Antibiotic Care
+Clinical Considerations
+•T heir use could be consider ed in patients with dyspnea
+and an incr eased v olume of purulent sputum
+•I n case of fr equent exacerbations consider risk of
+infec tions caused by multidrug-r esistant pathogens and
+pr evious colonization of the r espirator y trac t
+Antibiotics are not needed for most cases
+5 days
+Antibiotic Treatment Duration
+Severe Cases
+All dosages are for normal renal function
+Amo xicillin+clavulanic acid 500 mg+125 mg
+q8h ORAL
+Antibiotic treatment is not required in the great majority
+of cases (see “Clinical Considerations" when antibiotics
+may be indicated)
+Do xy cy cline 100 mg q12h ORAL
+----------------------------------- -----------------------------------OR
+Amo xicillin 500 mg q8h ORAL
+First Choice
+Second Choice
+C efalexin 500 mg q8h ORAL
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book165
+PRIMARY HEALTH CARE 
+13. Exacerbation of chronic obstructive pulmonary disease
+Pathophysiology
+Exacerbations of COPD are a worsening of the existing underlying chronic inflammation 
+of the respiratory tract and are caused in most cases by irritants (e.g. pollution, smoking, 
+dusts and chemicals) or respiratory tract infections. Exacerbations can accelerate a decline in 
+lung function (i.e. disease progression). The frequency of exacerbations of COPD is variable 
+among individuals with COPD but they occur more often in cases of severe COPD (135).
+Epidemiology 
+According to the Global Burden of Diseases study, in 2017, there were 299 million prevalent 
+cases of COPD and 3.19 million deaths caused by COPD (44,136). In 2014, more than 90% of 
+deaths occurred in low- and middle-income countries (137).
+COPD includes emphysema and chronic bronchitis. The most prevalent risk factor 
+is exposure to tobacco smoke and indoor household air pollution (138). The incidence of 
+exacerbations increases with age, especially in smokers, and mortality is higher in severe 
+episodes.
+Most likely pathogens
+Exacerbations of COPD are triggered by viral infections in most cases when a pathogen is 
+identified (Table 13.1). However, in most cases of exacerbation of COPD, no pathogen is 
+identified (139,140).
+Table 13.1 – Pathogens most frequently associated with exacerbations of chronic 
+obstructive pulmonary disease (in descending order of frequency)
+Respiratory viruses (most cases) Bacteria (less frequently)
+Influenza virus (A and B)
+Respiratory syncytial virus
+Parainfluenza virus
+Rhinovirus
+Coronavirus (including SARS-CoV-2)
+Other respiratory viruses
+Haemophilus influenzae
+Moraxella catarrhalis
+Streptococcus pneumoniae
+Gram-negative bacteria, including 
+Pseudomonas aeruginosa (including 
+multidrug-resistant strains such as those 
+producing ESBL and carbapenemases)
+ESBL: extended-spectrum beta-lactamases; SARS-CoV-2: severe acute respiratory syndrome coronavirus 2.
+166The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+13. Exacerbation of chronic obstructive pulmonary disease
+Clinical presentation
+An exacerbation of COPD should be suspected in cases of recent and sustained worsening 
+of dyspnoea and cough with increased sputum production compared with the baseline of 
+patients with COPD, that is, chronic bronchitis and emphysema. Symptoms can overlap with 
+those of pneumonia; however, tachycardia, tachypnoea at rest and crepitations that persist 
+(i.e. that do not clear) after coughing suggest pneumonia.
+The decision to hospitalize a person with an exacerbation of COPD should be guided 
+by the severity of symptoms, assessment of comorbidities and availability of home support.
+Laboratory tests 
+Patient microbiology tests
+When an exacerbation of COPD is suspected clinically, sputum Gram stain and culture are 
+not recommended routinely. In people with COPD, the respiratory tract may for example 
+be colonized with Streptococcus pneumoniae, Haemophilus influenzae, Moraxella catarrhalis 
+and Pseudomonas aeruginosa, and a positive culture may indicate colonization rather than 
+acute infection.
+Other tests
+When exacerbations of COPD are suspected clinically, certain laboratory tests could be 
+considered, in particular tests that can help identify patients with bacterial infections and 
+that can help assess the severity of the exacerbation. The rationale is that these patients 
+would benefit the most from antibiotic treatment. For example, C-reactive protein (141,142), 
+procalcitonin, and complete blood count and blood gas analysis may be useful. However, 
+there is no clear consensus across guidelines about which tests should be performed 
+routinely in the hospital setting and such tests may not be available in many settings. 
+Using microbiology surveillance data
+Routine surveillance of clinical isolates from patients presenting with exacerbations of COPD 
+is not helpful to inform local or national prescribing guidance. 
+Imaging
+A chest X-ray could be considered in patients requiring hospitalization in order to exclude 
+other diagnoses (e.g. pneumonia, pulmonary oedema) or in outpatients if pneumonia is 
+suspected and chest radiography is available.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book167
+PRIMARY HEALTH CARE 
+13. Exacerbation of chronic obstructive pulmonary disease
+No antibiotic care
+The core treatment of an exacerbation episode consists of supplementary oxygen and 
+short-acting inhaled beta-2-agonists (with or without anticholinergics). Most guidelines 
+currently recommend using systemic steroids because they help improve lung function and 
+shorten time to recovery. 
+A detailed discussion of non-antibiotic management of COPD is beyond the scope 
+of this chapter. Additional information can be found on the WHO website (132).
+Antibiotic treatment
+Most exacerbations of COPD are not triggered by bacterial infections, therefore only certain 
+cases will benefit from antibiotic treatment.
+Note
+Antibiotic treatment is not required in the great majority of cases of acute exacerbations of 
+chronic obstructive pulmonary disease.
+Antibiotics are not needed for most cases. Their use could be considered in 
+severe exacerbations of COPD. Most guidelines suggest antibiotic treatment for patients 
+hospitalized because of an acute exacerbation of COPD, especially if an increased volume 
+and purulence of sputum is present, because these cases are more likely to be caused by 
+a bacterial infection. Severe exacerbations benefit more from antibiotic treatment (see 
+Table 13.2 for antibiotic options). Current evidence suggests that the benefit in terms 
+of reduced short-term mortality and reduced treatment failure is limited to hospitalized 
+patients in intensive care units (143). Previous colonization of the respiratory tract (e.g. 
+with Pseudomonas aeruginosa ) needs to be taken into account when choosing empiric 
+treatment. Patients with frequent episodes of COPD exacerbations may have received 
+multiple courses of antibiotic treatment during the year and have a higher risk of infections 
+caused by multidrug-resistant pathogens.
+168The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+13. Exacerbation of chronic obstructive pulmonary disease
+Table 13.2 – Empiric antibiotic treatment for exacerbation of chronic obstructive 
+pulmonary disease
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Severity First choice Second choice Total treatment 
+duration
+Mild to 
+moderate 
+cases
+ Amoxicillin (oral): 500 mg 
+given every 8 hours
+ Cefalexin (oral): 
+500 mg given every 
+8 hours
+OR
+ Doxycycline (oral): 
+100 mg given every 
+12 hours
+5 days
+Severe 
+cases
+ Amoxicillin+clavulanic acid 
+(oral): 500 mg + 125 mg given 
+every 8 hours
+– 5 days
+Note. All dosages are for normal renal and hepatic function.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+Prevention
+Appropriate measures to prevent further exacerbations include smoking cessation, 
+reduced indoor air pollution, use of long-acting inhaled beta-2-agonists (with or without 
+anticholinergics) and vaccination against influenza, Streptococcus pneumoniae infection and 
+COVID-19 (35,37). Currently, there is no clear consensus on the prophylactic use of antibiotics 
+(e.g. macrolides) in patients with severe COPD and frequent episodes of exacerbation 
+(144). For specific preventive measures for chronic respiratory diseases, refer to the WHO 
+publication on global surveillance, prevention and control of chronic respiratory diseases 
+(133).
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 5.1.2 Chronic Obstructive Pulmonary Disease (COPD) | p.406-410 | audience=general] ---
+ICD10 CODE: J42-44
+Chronic obstructive pulmonary disease (COPD) is a lung disease characterized by chronic obstruction of lung airflow that interferes with normal
+breathing and is not fully reversible.
+- The more familiar terms ‘chronic bronchitis’ and ‘emphysema’
+are no longer used, but are now included within the COPD
+diagnosis.
+- Such a diagnosis should be considered in any patient who
+- has symptoms of cough, sputum production, or dyspnea
+(difficult or labored breathing), and/or a history of exposure
+to risk factors for the disease.
+A COPD exacerbation is an acute worsening of the patient’s respiratory
+symptoms needing a change in medications.
+Causes and predisposing factors
+~ Tobacco smoking is the commonest cause
+~ Indoor air pollution: Biomass fuel smoke (firewood, charcoal and cow dung) exposure in poorly ventilated kitchens
+~ Exposure to occupational dust and chemicals (cement,
+paint, saw dust, fumes) without adequate protection
+~ It may frequently follow TB disease (residual symptoms)
+340
+Uganda Clinical Guidelines 2023CHAPTER 5: Respiratory Diseases
+Clinical features
+~ Chronic cough in a current or previous smoker who is over
+40 years
+~ Breathlessness: persistent, progressive and worse with exercise +/- tight chest and wheezing
+~ Chronic sputum (mucuos) production and ‘bronchitis’ for at
+least 3 months in 2 successive years
+~ On examination, there may be a barrel chest (increased
+antero-posterior diameter)
+~ Rapid breathing, reduced chest expansion, with or without
+increased use of accessory muscles of respiration, rhonchi,
+cyanosis
+~ Decreased breath sounds, ankle swelling and other signs of
+right heart failure
+Differential diagnosis
+~ Asthma
+~ Congestive heart failure
+~ Pulmonary embolism
+~ Pulmonary TB
+Investigation
+- Spirometry: gold standard for diagnosis but if not available use
+all available tools (history of exposure to risk factors + clinical
+symptoms + any available investigations).
+- History of exposure to risk factors
+- Chest X-ray (Hyper-inflated lungs)
+- Peak flometry
+- Echocardiography – when one suspects right-sided heart failure
+secondary to COPD
+341
+Uganda Clinical Guidelines 2023CHAPTER 5: Respiratory Diseases
+Management
+~ Treatment aims at:
+- Removing risk factors and preventing further damage
+- Relief of symptoms and prevention of the severity and frequency
+of COPD exacerbations
+- Improving the patients exercise tolerance and maintaining
+~ good health
+~ Inhalers are the preferred formulation for the treatment of
+COPD.
+TREATMENT LOC
+- Explain to the patient that:
+- COPD is chronic lung damage and there is no
+cure
+- Treatment is to prevent exacerbations, further
+damage, and infections
+Non-pharmacological management
+- Advise the patient that:
+- They must stop smoking – it is the only way to
+stop it from getting worse
+- Reduce exposure to charcoal and wood/dung
+- cooking smoke. Keep cooking areas well-
+ventilated by opening windows and doors. Use
+alternative clean energy sources like Biogas,
+improved cooking stoves etc.
+- Use masks for respiratory protection or stop
+working in areas with occupational dust or
+pollution
+- Physical exercise to train lung capacity
+- (pulmonary rehabilitation) under supervision
+- Get treatment quickly in case of increased
+breathlessness, cough or sputum
+- Physiotherapy is beneficial to improve exercise tolerance
+HC2
+342
+Uganda Clinical Guidelines 2023CHAPTER 5: Respiratory Diseases
+TREATMENT LOC
+Step 1: Mild
+- Inhaled salbutamol 2 puffs 2-4 times a day, may be used
+periodically for short periods. The main purpose of this
+treatment is to reduce or prevent symptoms.
+If inhalers not available, consider:
+- Aminophylline 200 mg twice dail
+HC3
+HC4
+Step 2: Moderate
+- Inhaled salbutamol 2 puffs 2-4 times a day
+- Plus inhaled steroid beclomethasone 100-400 micrograms 2-4 times a day
+HC4
+Step 3: Severe
+- As in step 2 plus ipratropium inhaler 2 puff 2-4 times
+a day
+H
+Note
+- If available, long acting bronchodilators salmeterol
+and formeterol can be used in moderate and severe
+COPD in combination with inhaled steroids
+RR
+COPD exacerbations
+~ If more sputum, changed to more yellow/green
+coloured, and/or breathlessness, temp >38°C
+and or rapid breathing (“bronchitis”), then
+- Treat with antibiotic e.g. amoxicillin 500 mg every 8
+hours for 7-10 days or doxycycline 100 mg every 12
+hours for 7-10 days
+- Oral Prednisolone 40 mg once daily in the morning for
+5 days. Do NOT use oral steroids for extended periods
+in patients with COPD
+- Refer urgently to hospital if:
+- Rapid pulse (>100 beats per minute) or breathing
+(>30 breaths per minute)
+343
+Uganda Clinical Guidelines 2023CHAPTER 5: Respiratory Diseases
+- Tongue or lips are “blue” (central cyanosis)
+- Confused
+- Failure to improve
+- Give oxygen by nasal cannula (1-3 litres/min) if available,
+target SpO2 88-92%
+Note
+- Give oxygen with care (minimum flow required to reach the
+target SpO2) because COPD patients are at risk of hypercapnia
+(CO2 retention) which cause respiratory depression and coma

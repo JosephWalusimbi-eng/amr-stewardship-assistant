@@ -1,0 +1,419 @@
+# TOPIC: intraabdominal_diverticulitis
+
+--- [WHO AWaRe Antibiotic Book (2022) | 32. Intra-abdominal infections - acute diverticulitis | p.470-479 | audience=general] ---
+454The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+32. Intra-abdominal infections – 
+acute diverticulitis
+Key messages
+• Uncomplicated cases (without peritonitis or abscess) in an immunocompetent patient are 
+usually self-limiting and do not require antibiotic treatment.
+• Complicated cases and cases in immunocompromised patients need treatment based on 
+severity of symptoms (mild or severe) with broader-spectrum agents for severe cases.
+• Treatment should also be active against anaerobes as these pathogens are often involved in 
+intra-abdominal infections.
+• In complicated cases, treatment with 4 days of antibiotics is sufficient once primary source 
+control is achieved surgically.
+Definition
+Acute diverticulitis is the acute inflammation of diverticula (sac-like protrusions of the wall 
+of the colon) that can cause severe abdominal pain. Acute diverticulitis is usually classified as 
+uncomplicated when there is no involvement of the peritoneal cavity and the inflammation 
+is localized to the diverticula, for example, no perforation, no abscess, no diffuse peritonitis. 
+When the inflammation extends to the peritoneal cavity or when an abscess is present, the 
+condition is considered complicated.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+455
+HOSPITAL FACILITY 
+32. Intra-abdominal infections – acute diverticulitis
+Acute diverticulitis
+Intra-abdominal infection • Page 1 of 2
+Diagnosis
+Clinical Presentation
+•A cute pain in the left or right low er abdominal quadrants
+with chills , nausea and v omiting; fev er (≥ 38.0 °C ) may be
+absen t
+•L eft div er ticulitis is mor e common in Eur ope and Nor th
+America, right div er ticulitis in Asia
+Mild cases: Not usually needed
+Severe cases:
+•Blood cultur es (ideally befor e star ting antibiotics)
+•M icr oscopy and cultur e of abscess /g248uid material (if this
+can be drained) to adjust empiric antibiotic tr eatmen t
+Microbiology Tests
+•Determine disease severity and help identify a
+bacterial infection:W hite blood cell count, C-r eac tiv e
+pr otein and/or pr ocalcitonin
+•I f sepsis is suspec ted consider additional laborator y tests
+(see sepsis infographic)(see sepsis infographic)
+Other LaboratoryTests
+Abdominal ultrasound or CT of the abdomen (depending
+on availability) to con/g246rm the diagnosis
+Imaging
+Bacteria:
+•E nterobacterales (mostly including multidrug-Escherichia coli
+r esistant strains)
+• spp . (e .g . of the group)Streptococcus S. anginosus
+• spp .Enterococcus
+•A naer obes (mostly spp .)Bacteroides
+Fungi (consider if recent course of antibiotics):
+•M ostly Candida albicans
+Parasites (consider in endemic settings):
+• (pin w orm)Enterobius vermicularis
+Most Likely Pathogens
+Treatment (Section 1 of 2)
+Clinical Considerations
+Important:
+•C onsider peritonitis if sev er e pain, diffuse r ebound
+tenderness upon sudden r elease of pr essur e on the
+abdomen and abdominal muscular tensing
+•H ypotension and signs of organ h ypoper fusion (e .g .
+r educed urine output) ar e potential signs of sepsis
+/septic shock that need urgent tr eatmen t
+Important:
+•Simplify empiric tr eatment to a mor e narr owspec trum antibiotic based on cultur e r esults or rapid
+clinical impr ovement if culture results unavailable
+•Step down to oral treatment is based on
+impr ovement of symptoms, signs of infec tion and the
+ability to take oral antibiotics
+•If signs and symptoms persist, abdominal imaging
+is suggested , or an alternativ e ex tra-abdominal sour ce
+of infec tion should be consider ed
+Empiric antibiotic treatment should be guided by:
+The sev erity of symptoms , considering local pr evalence of
+r esistance (par ticularly of isolates of Enter obac terales
+pr oducing ESBL) and individual risk fac tors for r esistan t
+pathogens
+•Uncomplicated cases in immunocompetent
+patients not: antibiotics needed if ther e ar e no
+systemic signs of infec tion; if these cases do not
+r esolv e spontaneously after 2-3 days , consider
+antibiotics
+•Uncomplicated cases in severely
+immunocompromised patients: tr eat with
+antibiotics alone (if close follow up possible)
+•: tr eat with antibiotics andComplicated cases
+surgical sour ce control (e.g . drainage of large
+abscesses >5 cm or colonic r esec tion)
+A cute in/g248ammation of div er ticula (sac-like pr otrusions of the
+wall of the colon) that can cause sev er e abdominal pain
+De/g246nition
+Classi/g246cation based on complexity:
+•: No in v olv ement of peritoneal cavity andUncomplicated
+no abscess
+•: In v olv ement of the peritoneal cavity and/orComplicated
+abscess
+Classi/g246cation based on severity:
+•: Not critically ill with no signs of sepsis or septic shockMild
+•: Critically ill with signs of sepsis or septic shockSevere
+456
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+32. Intra-abdominal infections – acute diverticulitis
+Acute diverticulitis
+Intra-abdominal infection • Page 2 of 2
+Treatment (Section 2 of 2)
+•Most mild cases do not need antibiotic treatment
+•: (if goodTreatment with antibiotics alone 4 days
+clinical recovery and symptoms resolved)
+•:Treatment with antibiotics & surgical source control
+Stop after adequate source control (surgery) is4 days
+achieved otherwise, continue until clinically stable and
+afebrile
+Antibiotic Treatment Duration Mild Cases
+Most mild cases do not need antibiotic treatment
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+First Choice
+Severe Cases
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+----------------------------- -----------------------------OR
+Cefotaxime 2 g q8h IV
+Ceftriaxone 2 g q24h IV
+---------------------- ----------------------COMBINED WITH
+Metronidazole 500 mg q8h IV/ORAL
+----------------------------------- -----------------------------------OR
+Piperacillin+tazobactam 4 g + 500 mg q6h IV
+Second Choice
+Meropenem 1 g q8h IV
+Consider meropenem only in complicated cases if there is a
+high risk of infection with ESBL-producing Enterobacterales
+Amoxicillin+clavulanic acid 875 mg + 125 mg
+ACCESS q8h ORAL
+----------------------------------- -----------------------------------OR
+First Choice
+----------------------------- -----------------------------OR
+Cefotaxime 2 g q8h IV
+Ceftriaxone 2 g q24h IV
+---------------------- ----------------------COMBINED WITH
+Metronidazole 500 mg q8h IV/ORAL
+---------------------- ----------------------COMBINED WITH
+Metronidazole 500 mg q8h IV/ORAL
+Cipro/g248oxacin 500 mg q12h ORAL
+Second Choice
+Metronidazole has excellent oral bioavailability and the IV
+route should be reserved for patients with impaired
+gastrointestinal function
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book457
+HOSPITAL FACILITY 
+32. Intra-abdominal infections – acute diverticulitis
+Pathophysiology
+In cases of acute diverticulitis, the first step in the pathogenesis is the formation of diverticula 
+(i.e. diverticulosis). Diverticula are sac-like protrusions of the colonic wall. The mechanism 
+leading to diverticulitis of the colon is the erosion of the wall of the diverticula by increased 
+intraluminal pressure. If bacterial contamination and chemical irritation (usually due to 
+leakage of sterile fluids that are irritants to the peritoneum; for example, bile or blood) 
+of the peritoneal cavity occur, peritonitis develops. Intra-abdominal abscesses (i.e. the 
+presence of a collection of infected fluid in the peritoneal cavity) can also form as a result of 
+a complicated diverticulitis.
+Epidemiology 
+Acute diverticulitis is common in high-income countries and mostly affects adults older 
+than 50 years; its incidence increases with age. The condition is less frequent in many 
+low- and middle-income countries, probably because of differences in the fibre content of 
+diets. The overall risk of developing acute diverticulitis in patients with diverticulosis is low 
+(324,325) and most cases (> 80%) are uncomplicated. Nonetheless, acute diverticulitis is still 
+a common cause of colonic resection (326).
+Most likely pathogens
+The most common pathogens involved in acute diverticulitis are Gram-negative bacilli and 
+anaerobic bacteria from the intestinal microbiota (Table 32.1). Infections are often caused 
+by more than one pathogen and may include fungal pathogens, especially in patients pretreated with antibiotics. Certain parasites need to be considered in the differential diagnosis 
+of abdominal pain in endemic settings.
+458The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+32. Intra-abdominal infections – acute diverticulitis
+Table 32.1 – Pathogens most frequently associated with acute diverticulitis (in 
+descending order of frequency)
+Bacteria Fungi Parasites
+Enterobacterales (mostly Escherichia coli) and other 
+Gram-negative bacteria such as Pseudomonas 
+aeruginosa and Acinetobacter baumannii (including 
+multidrug-resistant strains such as those producing 
+ESBL and carbapenemases)
+Streptococcus spp. (e.g. of the Streptococcus 
+anginosus group – old name: Streptococcus milleri) 
+Enterococcus spp. 
+Anaerobes (mostly Bacteroides spp.)
+Mostly Candida 
+albicans
+Enterobius 
+vermicularis 
+(pinworm)
+ESBL: extended spectrum beta-lactamases.
+Clinical presentation
+Acute diverticulitis should be considered as a possible diagnosis in all cases of acute pain in 
+the left lower abdominal quadrant. It should be noted that while left lower diverticulitis is 
+more prevalent in European countries and North America, right lower diverticulitis is more 
+common in Asia.
+Fever (≥ 38.0 °C), chills, nausea and vomiting may be present, mostly in complicated 
+diverticulitis. Severe pain, diffuse rebound tenderness on sudden release of pressure on 
+the abdomen and abdominal muscular defence are usually present in cases of peritonitis. 
+Hypotension and signs of organ hypoperfusion (e.g. reduced urine output) can be present 
+in cases of organ failure and are a medical and /or surgical emergency. Please also refer to 
+the chapter on sepsis if suspected.
+Laboratory tests 
+Patient microbiology tests
+In mild cases, routine microbiology tests are not usually needed and basing antibiotic 
+treatment on pathogens cultured from the abdominal cavity at the time of operation is not 
+recommended. Certain microbiology tests (Table 32.2) could be considered in severely ill 
+patients to adjust empiric antibiotic treatment once the results of antibiotic susceptibility 
+tests are available.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book459
+HOSPITAL FACILITY 
+32. Intra-abdominal infections – acute diverticulitis
+Table 32.2 – Microbiology tests to consider in severe cases as indicated in the EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Blood cultures 
+and antimicrobial 
+susceptibility testing
+To detect bacterial bloodstream 
+infections
+Health care facilities with 
+clinical laboratories
+Microscopy, culture 
+and antimicrobial 
+susceptibility testing of 
+abscess fluid material 
+when this can be drained
+First step to detect and identify 
+bacterial and fungal species 
+for selection of appropriate 
+antimicrobial regimens
+Health care facilities with 
+clinical laboratories
+EDL: Model List of Essential In Vitro Diagnostics.
+Other tests
+Laboratory tests can be used to complement the clinical examination and medical history. 
+Based on availability, Table 32.3 indicates several tests that could be considered in the 
+patient’s initial assessment and to help guide the duration of antibiotic treatment.
+Table 32.3 – Laboratory tests (other than microbiology) that may help assess the 
+severity of disease and the identification of a bacterial infection as indicated in the 
+WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+White blood cell count To help in the diagnosis of 
+infections
+Health care facilities with 
+clinical laboratories
+C-reactive protein To detect inflammation as an 
+indicator of various conditions (e.g. 
+sepsis)a
+Health care facilities with 
+clinical laboratories
+Procalcitonin To guide antibiotic therapy or 
+discontinuation in sepsis
+Only in tertiary care 
+facilities
+EDL: Model List of Essential In Vitro Diagnostics.
+a A cut-off value of 150–170 mg/L for C-reactive protein is sometimes used to discriminate between mild/
+uncomplicated cases and severe/complicated cases (327,328).
+460The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+32. Intra-abdominal infections – acute diverticulitis
+Using microbiology surveillance data
+Routine surveillance of pathogens cultured from the abdominal cavity is not recommended.
+Empiric guidance given by the AWaRe book could be reviewed and adapted based 
+on local clinically relevant microbiology surveillance data. For example, clinically relevant 
+isolates for this infection would be blood culture data from patients on surgical wards with 
+intra-abdominal infections. 
+Imaging
+Imaging is helpful to confirm acute diverticulitis. In settings where CT scanning is available, 
+a scan of the abdomen is the best imaging method to confirm acute diverticulitis and grade 
+its severity. However, because ultrasound is more widely available, abdominal ultrasound 
+can also be considered a valid alternative.
+Treatment 
+Complicated cases
+Patients with suspected or confirmed complicated acute diverticulitis or with recurrent 
+attacks should be promptly referred for surgical consultation. 
+Uncomplicated cases 
+In immunocompetent patients with uncomplicated diverticulitis (i.e. localized diverticular 
+inflammation) and no signs of systemic inflammation, antibiotic treatment is usually not 
+needed. In these patients, uncomplicated diverticulitis can be considered a self-limiting 
+condition where antibiotics do not offer a benefit in terms of clinical resolution and 
+recurrence (329,330).
+Antibiotic treatment 
+In patients with complicated acute diverticulitis or in uncomplicated cases requiring antibiotic 
+treatment (e.g. cases that did not resolve spontaneously after 2–3 days without antibiotic 
+treatment) or in severely immunocompromised patients, empiric antibiotic treatment should 
+be chosen based on the severity of symptoms (mild or severe). It is important to take into 
+account local prevalence of resistance, particularly isolates of Enterobacterales producing 
+ESBLs, since the prevalence can vary greatly among settings (Table 32.4). Individual risk 
+factors for resistant pathogens (e.g. recent antibiotic treatment, colonization with resistant
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book461
+HOSPITAL FACILITY 
+32. Intra-abdominal infections – acute diverticulitis
+pathogens) should also be considered. In settings where resistance to carbapenems is 
+highly prevalent, alternative antibiotic options including Reserve antibiotics – see chapter 
+on Reserve antibiotics – could be considered in severely ill patients who are deteriorating. 
+In complicated cases (i.e. presence of perforation or abscess), empiric antibiotic treatment 
+should be started as soon as the diagnosis is suspected and could be stopped 4 days after 
+control of the source of infection is achieved provided there is good clinical recovery. 
+Patients with small abscesses (< 5 cm) or pericolic gas are usually treated with 
+systemic antibiotic treatment alone provided close clinical follow up is possible and there is 
+a good clinical response and symptoms have resolved (331).
+In patients with large abscesses (e.g. percutaneous drainage of abscesses > 5 cm) 
+and patients with peritonitis, control of the source of infection (e.g. colonic resection), in 
+addition to systemic antibiotic treatment, is needed. 
+Simplify empiric treatment to a more narrow-spectrum antibiotic (often also called 
+de-escalation) based on culture results (targeted treatment) or based on rapid clinical 
+improvement when no microbiology test results are available.
+Step-down to oral treatment is based on improvement of symptoms and signs 
+of infection and the ability to take oral antibiotics allowing discharge of the patient home 
+when clinically appropriate.
+If signs and symptoms persist, abdominal imaging is suggested, or an alternative 
+extra-abdominal source of infection should be considered.
+462The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+32. Intra-abdominal infections – acute diverticulitis
+Table 32.4 – Empiric antibiotic treatment for acute diverticulitis
+Note
+Mild cases are defined as patients who are not critically ill with no signs of sepsis or septic shock. 
+Severe cases are defined as patients who are critically ill with signs of sepsis or septic shock.
+Important
+Antibiotics are listed in alphabetical order but they should all be considered equal treatment 
+options, unless otherwise indicated.
+Severity Adults Total treatment 
+duration
+Mild cases
+These can be 
+uncomplicated cases 
+that did not resolve 
+spontaneously after 2–3 
+days without antibiotics 
+or complicated cases with 
+mild symptoms.
+First choice 
+ Amoxicillin+clavulanic acid 
+IV: 1 g + 200 mg given every 8 hours
+Oral: 875 + 125 mg given every 8 hours 
+OR 
+ Cefotaxime (IV): 2 g given every 8 hours
+AND Metronidazole (IV/oral): 500 mg 
+given every 8 hours
+OR 
+ Ceftriaxone (IV): 2 g given once a day
+AND Metronidazole (IV/oral): 500 mg 
+given every 8 hours
+Second choice 
+ Ciprofloxacin a (oral): 500 mg given 
+every 12 hours AND 
+ Metronidazole (IV/oral): 500 mg given 
+every 8 hours
+(Ciprofloxacin and metronidazole have 
+excellent oral bioavailability and the IV 
+route should be reserved for patients 
+with impaired gastrointestinal function.)
+Continue for 4 days 
+after control of the 
+source of infection is 
+achieved provided 
+that there is good 
+clinical recovery.
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book463
+HOSPITAL FACILITY 
+32. Intra-abdominal infections – acute diverticulitis
+Table 32.4 continued
+Severity Adults Total treatment 
+duration
+Severe cases First choice 
+ Cefotaxime (IV): 2 g given every 8 hours
+AND Metronidazole (IV/oral): 500 mg 
+given every 8 hours
+OR 
+ Ceftriaxone (IV): 2 g given once a day
+AND Metronidazole (IV/oral): 500 mg 
+given every 8 hours
+OR 
+ Piperacillin+tazobactam b (IV): 4 g + 
+500 mg given every 6 hours
+Second choice 
+ Meropenem c (IV): 1 g given every 
+8 hours
+Continue for 4 days 
+after control of the 
+source of infection is 
+achieved provided 
+that there is good 
+clinical recovery.
+EML: Model List of Essential Medicines; IV: intravenous.
+Note: All dosages are for normal renal and hepatic function.
+a The use of fluoroquinolones (such as ciprofloxacin) can be associated with important side-effects including: (i) 
+mental health disturbances such as disorientation, agitation, nervousness, memory impairment and delirium; (ii) 
+serious blood sugar disturbances such as hypoglycaemic coma; (iii) increased risk of tendinitis and tendon rupture; 
+(iv) worsening symptoms in those with myasthenia gravis; and (v) potential irreversible neuropathy (serious nerve 
+damage).
+b Of note, piperacillin+tazobactam offers anti- Enterococcus coverage, which the other options listed for adults do 
+not. Ampicillin would be another appropriate option, but it was not listed in this table as it is not currently in the 
+EML for this indication, while it is listed for children.
+c Meropenem should not be considered for routine use for all severe cases but only in complicated cases (i.e. 
+abscess and/or peritonitis) in settings with a high prevalence of extended-spectrum beta-lactamase-producing 
+Enterobacterales or in patients with known prior colonization, treated with multiple antibiotic courses or at risk of 
+infections with pathogens resistant to the first choice option. Empiric use of a Reserve antibiotic could be considered 
+exceptionally in very select cases of seriously ill patients failing to respond to carbapenems or who have previously 
+been treated for infections caused by carbapenem-resistant pathogens or who are known to be colonized with 
+multidrug-resistant Gram-negative bacteria known to be susceptible to the selected Reserve antibiotic. Please refer 
+to the chapter on Reserve antibiotics for the definition and list of Reserve antibiotics included in the WHO EML.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.

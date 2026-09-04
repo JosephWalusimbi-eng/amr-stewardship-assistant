@@ -1,0 +1,1000 @@
+# TOPIC: pneumonia_severe
+
+--- [WHO AWaRe Antibiotic Book (2022) | 27. Community-acquired pneumonia - severe | p.378-396 | audience=general] ---
+362The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+27. Community-acquired 
+pneumonia – severe
+Key messages
+• Rapidly decide if the patient has severe community-acquired pneumonia (CAP) (higher 
+short-term mortality risk and need for hospital/intensive care admission) or mild CAP which 
+can be managed in primary care with oral antibiotic treatment. Scores can be helpful to 
+make this distinction.
+• Laboratory tests can help assess disease severity and identify a bacterial versus a viral 
+infection.
+• Consider adding empiric antibiotic treatment with a macrolide to cover atypical pathogens 
+(Chlamydia or Mycoplasma pneumoniae).
+• Treatment duration can be limited to 5 days in most cases.
+Other relevant WHO resources (please check regularly for updates)
+• Pocket book of hospital care for children: guidelines for the management of common 
+childhood illnesses, 2013 (31).
+• Revised WHO classification and treatment of pneumonia in children at health facilities: 
+evidence summaries (118).
+• Coronavirus disease (COVID-19) pandemic (32).
+• Living guidance for clinical management of COVID-19: living guidance, 23 November 2021 (33).
+• Therapeutics and COVID-19: living guideline, 16 September 2022 (34).
+• Pneumococcal conjugate vaccines in infants and children under 5 years of age: WHO position 
+paper – February 2019 (35).
+• Haemophilus influenzae type b (Hib) vaccination position paper – July 2013: Introduction (36).
+• Vaccines against influenza WHO position paper – May 2022 (37).
+• WHO consolidated guidelines on tuberculosis: module 4: treatment: drug-susceptible 
+tuberculosis treatment (119).
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+363
+HOSPITAL FACILITY 
+27. Community-acquired pneumonia – severe
+Community-acquired pneumonia
+Page 1 of 2
+An acut e illness affec ting the lungs usually pr esenting with c ough,
+sputum pr oduc tion, and r apid and d ifficult br eathing with a new
+or wo r sening pulmona ry in/g246ltrat e on a chest radiograph
+De/g246nition Diagnosis
+Clinical Presentation
+“Typical” bacteria:
+• (most cases)Streptococcus pneumoniae
+•( chr onic lung diseases , smok ing)Haemophilus in/g248uenzae
+•( chr onic lung diseases , smok ing)Moraxella catarrhalis
+•( often associated with in/g248uenza)Staphylococcus aureus
+• (sev er e comorbidities , e. g. chr onic lungEnterobacterales
+diseases , dementia, str oke)
+“Atypical” bacteria:
+• (mor e fr equent in y oung adults)Mycoplasma pneumoniae
+• and (mor e fr equent in y oungChlamydia pneumoniae psittaci
+adults)
+• spp . (chr onic lung diseases or other underlyingLegionella
+illness , trav el , exposur e to hot tubs)
+• (rural ar eas , exposur e to liv estock)Coxiella burnetii
+Respiratory viruses:
+•I n/g248uenza viruses (A and B)
+•R espirator y sync ytial virus (RSV )
+•M etapneumovirus
+•P arain/g248uenza virus
+•C or onavirus (including SARS -C oV -2)
+•A denovirus
+•R hinovirus
+•O ther r espirator y viruses
+Pathogens to consider in speci/g246c settings:
+• (SE Asia, Australia)Burkholderia pseudomallei
+•Mycobacterium tuberculosis
+• (people with HIV or otherPneumocystis jirovecii
+immunosuppr ession)
+Most Likely Pathogens
+•New onset (<2 w eeks) or w orsening c ough with feve r
+(≥ 38.0 °C ), sputum pr oduc tion, dyspnea, tach ypnea, r educed
+ox y gen saturation, cr epitations on lung auscultation, chest
+pain/discomfor t without alternativ ee xplanation
+•E xt r apulmona ry features (i.e . c onfusion, disorientation)
+may pr edominate in elderl y, and immunoc ompr omised
+patients and fe ve r ma y be absent
+•C onsider speci/g246c in v estigations for TB in endemic settings
+especially in high-risk patients (e .g . HIV )
+•A rapid molecular test per formed on a single sputum specimen
+is the pr eferr ed /g246rst line diagnostic test for pulmonar y TB and to
+detec t rifampicin r esistanc e
+•C onsider a lipoarabinomannan rapid urinar y antigen test in
+sev er ely immunocompr omised HIV patients with signs and
+symptoms of tuber culosis
+Investigating for Tuberculosis (TB)
+Mild cases: usually not needed
+Severe cases (to guide antimicrobial treatment): blood
+cultur es , urinar y antigens for andL. pneumophila S.
+pneumoniae
+Selected cases (depending on epidemiology and risk
+factors): sputum rapid molecular test fo r, M. tuberculosis
+nasophar yngeal swab for in/g248uenza viruses and SARS -C oV -
+2, HIV testing in settings with high HIV pr evalence and in
+case of r ecurr ent and/or sev er e pneumonia
+Microbiology Tests
+Determine disease severity: blood ur ea nitr ogen (see
+CURB-65 Scoring System bo x), blood pH and gases , whit e
+blood cell coun t
+Differentiate bacterial and viral (taking into account pretest probability): C-r eac tiv e pr otein and/or pr ocalcitonin
+Note: tests depend on availability and clinical severity (e.g.
+blood gases will only be done in severe cases)
+Other LaboratoryTests
+•Chest X- ray not necessar y in mild cases
+•I n/g246ltrate may not always be evident (e .g . deh yd ration) and
+non-infec tious etiologies may mimic in/g246ltrates (e .g . lung
+edema, pulmonar y embolism)
+•R adiologic appearance cannot be used to accurately
+pr edic t pathogen
+Imaging
+364
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+27. Community-acquired pneumonia – severe
+Community-acquired pneumonia
+Page 2 of 2
+Treatment
+Treat for 5 days
+If severe disease, consider longer treatment and look for
+complications such as empyema, if patient not clinically
+stable at day 5
+Antibiotic Treatment Duration
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Mild to Moderate Cases
+----------------------------------- -----------------------------------OR
+Amoxicillin 1 g q8h ORAL
+Doxycycline 100 mg q12h ORAL
+First Choice
+Phenoxymethylpenicillin (as potassium) 500
+mg (800 000 IU) q6h ORAL
+Amoxicillin+clavulanic acid 875 mg+125 mg
+q8h ORAL
+Second Choice
+----------------------------------- -----------------------------------OR
+CURB-65 Severity Scoring System
+Signs & Symptoms
+(1 point each)
+/c162Presence of onfusionC
+(new onset)
+/c162rea > 19 mg/dL (or >U
+7 mmol/L)*
+/c162espiratory rate >R
+30/min
+/c162Systolic P < 90 mmHgB
+(<12 kPa) or Diastolic
+BP≤6 0 mmHg (<8 kPa)
+/c162Age≥ years65
+Score 0-1
+•Consider outpatient
+treatment
+Score 2
+•Consider inpatient treatment
+•Consider adding
+clarithromycin to betalactam for atypical coverage
+•Perform microbiology tests
+Score≥ 3
+•Inpatient treatment (consider
+ICU)
+•Consider adding
+clarithromycin
+•Perform microbiology tests
+Other considerations such as severe comorbid illnesses or inability
+to maintain oral therapy should be taken into account. CURB-65
+has not been extensively validated in low-income settings.
+*The score, which does not require laboratory values forCRB-65
+its calculation, can also be used, the score value interpretation is
+the same as for CURB-65
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Severe Cases
+First Choice
+-------------------------------- --------------------------------OR
+Cefotaxime 2 g q8h IV/IM
+Ceftriaxone 2 g q24h (1 g q24h *)IV IM
+*A larger volume would be painful to give as
+intramuscular injection
+IF CURB-65 ≥2,
+CONSIDER ADDING
+Clarithromycin 500 mg q12h (or)ORAL IV
+Clarithromycin has excellent oral bioavailability and the
+intravenous route should be reserved for patients with
+impaired gastrointestinal function
+Second Choice
+Amoxicillin+clavulanic acid 1 g+200 mg q8h IV
+•A higher daily dose can be considered:
+1 g+200 mg q6h
+IF CURB-65 ≥2,
+CONSIDER ADDING
+Clarithromycin 500 mg q12h (or)ORAL IV
+Clarithromycin has excellent oral bioavailability and the
+intravenous route should be reserved for patients with
+impaired gastrointestinal function
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+365
+HOSPITAL FACILITY 
+27. Community-acquired pneumonia – severe
+Community-acquired pneumonia
+Page 1 of 2
+An acut e illness affec ting the lungs usually pr esenting with c ough,
+and r apid and d ifficult br eathing with a new or wo r sening
+p ulmona ry in/g246ltrat e on a chest radiograph
+De/g246nition Diagnosis
+Clinical Presentation
+Mild cases: usually not needed
+Severe cases (to guide antimicrobial treatment): blood
+cultur es
+T ests for C OVID -19 and in/g248uenza can be consider ed if
+clinically indicated and available
+Microbiology Tests
+No test clearly differentiates viral or bac terial CAP
+Consider: full blood count and C-r eac tiv e pr otein
+Note: tests depend on availability and clinical severity (e.g.
+blood gases will only be done in severe cases)
+Other LaboratoryTests
+•Chest X- ray not necessar y in mild cases
+•L ook for lobar consolidation or pleural effusion
+•R adiologic appearance cannot be used to accurately
+pr edic t pathogen
+Imaging
+“Typical” bacteria:
+• (most common cause of CA PStreptococcus pneumoniae
+bey ond the 1st w eek of life)
+•Haemophilus in/g248uenzae
+•Moraxella catarrhalis
+•Staphylococcus aureus
+•Enterobacterales
+“Atypical”p athogens (mor e fr equent in childr en >5 y ears
+compar ed to y ounger childr en):
+•Mycoplasma pneumoniae
+•Chlamydophila pneumoniae
+Respiratory viruses:
+•R espirator y sync ytial virus (RSV )
+•I n/g248uenza viruses (A and B)
+•M etapneumovirus
+•P arain/g248uenza virus
+•C or onavirus (including SARS -C oV -2)
+•A denovirus
+•R hinovirus
+•O ther r espirator y viruses
+Most Likely Pathogens
+•C onsider speci/g246c in v estigations for TB in endemic settings
+especially in high-risk patients (e .g . HIV )
+•A rapid molecular test per formed on a single sputum specimen
+is the pr eferr ed /g246rst line diagnostic test for pulmonar y TB and to
+detec t rifampicin r esistanc e
+Investigating for Tuberculosis (TB)
+•N ew onset (<2 we eks) or wo rsening cough with fe ve r
+(≥ 38.0 °C ), dyspnea, tach ypnea, re duced ox ygen saturation,
+cr epitations , cy anosis , grunting , nasal /g248 arin g, pallor
+•P neumonia is diagnosed on: fast br eathing for age and/or
+chest indrawin g
+-C heck for hy po xia with ox y gen satur ometer if availabl e
+•C hild re n with runn y nose and c ough and no signs of
+sev erity usually do not ha ve pneumonia and should not
+re ceiv e an antibioti c, only home ca re advic e
+366
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+27. Community-acquired pneumonia – severe
+Community-acquired pneumonia
+Page 2 of 2
+Severity Assessment and
+Considerations
+Treatment
+Please see Severity Assessment and Considerations for
+diagnosis of severe cases
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Severe Cases
+First Choice
+Amo xicillin 80-90 mg/kg/da y ORAL
+•:Oral weight bands
+3-<6 kg 250 mg q12h
+6-<10 kg 375 mg q12h
+10-<15 kg 500 mg q12h
+15-<20 kg 750 mg q12h
+≥20 kg 500 mg q8h or 1 g q12h
+All dosages are for normal renal function
+Mild to Moderate Cases
+----------------------------- -----------------------------OR
+Amo xicillin 50 mg/kg/dose IV/IM
+•≤1wk of life: q12h
+•>1wk of life: q8h
+Ampicillin 50 mg/kg/dose IV/IM
+•≤1wk of life: q12h
+•>1wk of life: q8h
+----------------------------- -----------------------------OR
+Benz ylpenicillin 30 mg/kg/dose
+(50 000 IU/kg/dose) q8h IV
+Gentamicin IV/IM
+•Neonates: 5 mg/kg/dose q24h
+•Childr en: 7.5 mg/kg/dose q24h
+Sulfametho xazole+trimethoprim 40 mg/k g
+SMX+8 mg/k gT MP q8h for 3 w eeksIV/ORAL
+IF HIV POSITIVE AND <1 YR OLD
+To treat potential Pneumocystis
+jirovecii pneumonia, ADD
+Second Choice
+If NO Clinical Response to First Choice after 48-72 hours
+Ce fotaxime 50 mg/kg/dose q8h IV/IM
+Ce ftriax one 80 mg/kg/dose q24h IV/IM
+---------------------- ----------------------COMBINED WITH
+----------------------------------- ------------------------------OR
+Childr en with :pneumonia
+•S hould be tr eated with oral am ox icillin at home with hom e
+care advic e
+•P neumonia is diagnosed on either:
+1. F ast br eathing (r espirator y rate > 50 br eaths/minute in
+childr en aged 2-11 months; r esp rate > 40 br eaths/min in
+childr en aged 1-5 y ears)
+2. Chest indrawing
+Childr en with (o r a child with pneumoni asevere pneumonia
+who cannot tolerate oral antibiotics):
+•Should be admitted to hospital and treated with
+intravenous antibiotics
+•S ev er e pneumonia is cha ra ct erized by signs of pneumonia:
+-F ast br eathing (+/- chest indrawing)
+PL US
+-A gene ra l danger sig n:
+· Inability to br eastfeed or drin k
+· Co nv ulsions
+· L ethargy or re duced le ve l of consciousness
+3 days: in ar eas of low HIV pr evalence and no chest
+indrawing
+5 days: in ar eas of high HIV pr evalence and the child has
+chest indrawing
+If sev er e disease , consider longer tr eatment and look fo r
+complications such as empy ema, if patient not clinically
+stable at day 5
+Antibiotic Treatment Duration
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book367
+HOSPITAL FACILITY 
+27. Community-acquired pneumonia – severe
+Definition
+CAP is an acute illness affecting the lungs caused by pathogens, most often bacteria and 
+viruses. It usually presents with cough, sputum production (in adults), rapid and difficult 
+breathing with new or worsening pulmonary infiltrate(s) on chest imaging.
+Pathophysiology
+CAP occurs when microbial pathogens (usually inhaled in the upper airways) reach the 
+lower respiratory tract and proliferate in the alveoli. Less frequently, these pathogens can 
+also reach the alveoli via the blood or by direct spread, for example, from an infection of the 
+pleural or intra-abdominal space. Once in the alveoli, host immune defences are activated 
+to eliminate the pathogens. Only when these defences fail, pneumonia manifests itself 
+because of the tissue damage and inflammatory response triggered by the proliferation of 
+microorganisms in the affected lung(s).
+Epidemiology 
+CAP is common worldwide and is a leading cause of morbidity and mortality, with an 
+especially high burden in low-income countries (120). According to the Global Burden of 
+Disease study, in 2017, there were an estimated 471 million new cases of lower respiratory 
+tract infections (including CAP) globally among all ages and sexes combined (44). However, 
+a majority of these cases were viral bronchitis; therefore, caution is needed in interpreting 
+this number. The incidence of CAP varies with age and a country’s income level. The most 
+common causative pathogen worldwide is Streptococcus pneumoniae and viruses (see the 
+following section); viral–bacterial coinfections may occur. 
+In low-income countries, lower respiratory tract infections (including CAP) were the 
+leading cause of death in 2016 with a crude yearly attributable mortality of about 75 per 
+100 000 population (121). In general, the incidence of CAP is highest in children younger 
+than 5 years in these countries. In 2015, an estimated 0.9 million children younger than 5 
+years died of pneumonia and of these, about 0.5 million occurred in sub-Saharan Africa 
+(122). Undernutrition, HIV infection, and exposure to smoke and air pollution are common 
+risk factors for severe CAP in children younger than 5 years. As a result of better access to 
+medical care, better nutrition and greater vaccination coverage, global mortality rates in 
+children have declined by more than 30% since 2000. In high-income countries, CAP mainly 
+affects adults 65 years and older and, in general, the incidence of CAP and risk of death 
+increase with age (123).
+368The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+27. Community-acquired pneumonia – severe
+Most likely pathogens
+In neonates and children aged up to 2 months , pneumonia is mainly caused by 
+Streptococcus pneumoniae, group B Streptococcus, Enterobacterales or Staphylococcus aureus. 
+In children aged 2 months to 5 years , pneumonia is more likely to be of viral 
+origin (e.g. respiratory syncytial virus, and influenza and parainfluenza virus). The most 
+important bacterial pathogen in children younger than 5 years is Streptococcus pneumoniae. 
+In older children, Streptococcus pneumoniae is still common but “atypical” bacteria such as 
+Mycoplasma pneumoniae and Chlamydia pneumoniae may occur – atypical bacteria have 
+intrinsic resistance to beta-lactam antibiotics and cannot by visualized by Gram staining. 
+Haemophilus influenzae, Moraxella catarrhalis and Staphylococcus aureus also cause CAP in 
+some children (Table 27.1). 
+In adults, viruses are common causes of CAP , either by directly causing pneumonia 
+or by favouring superinfection with bacteria. Among bacteria, the most common causative 
+agents are Streptococcus pneumoniae, followed by atypical bacteria such as Mycoplasma 
+pneumoniae, Chlamydia pneumoniae and Legionella pneumophila. Haemophilus influenzae, 
+Moraxella catarrhalis and Staphylococcus aureus are also quite common (Table 27.1). 
+However, determining the cause of bacterial pneumonia is difficult in all age groups 
+and no causative pathogen is identified in most cases, even if extensive microbiological 
+tests are performed. Furthermore, there may be important geographic differences in the 
+cause of pneumonia; for example, Burkholderia pseudomallei is a cause of CAP in South-East 
+Asia, while Coxiella burnetii is more common in regions with exposure to livestock.
+Note
+• Identifying a pathogen on a specimen in the upper respiratory tract does not mean it is the 
+cause of the pneumonia.
+• Nasopharyngeal carriage of bacterial pathogens is very common.
+The type of sample (upper respiratory versus lower respiratory origin, blood cultures), 
+the test characteristics (sensitivity, specificity, predictive values), the local epidemiology, 
+clinical presentation and, if available, other laboratory test results always need to be 
+considered when deciding whether a positive result for a pathogen likely identifies the 
+causative pathogen.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book369
+HOSPITAL FACILITY 
+27. Community-acquired pneumonia – severe
+Table 27.1 – Pathogens most frequently associated with community-acquired 
+pneumonia (in descending order of frequency)
+“Typical” 
+bacteria
+“Atypical” 
+bacteriaa
+Respiratory viruses Other pathogens to 
+consider in specific 
+settings
+Streptococcus 
+pneumoniaeb
+Haemophilus 
+influenzae
+Moraxella catarrhalis
+Staphylococcus 
+aureus
+Enterobacterales 
+(e.g. Escherichia 
+coli, Klebsiella 
+pneumoniae)
+Mycoplasma 
+pneumoniaec
+Chlamydia 
+pneumoniaec 
+and Chlamydia 
+psittacic
+Legionella spp.
+Coxiella burnetii
+Influenza virus (A and B)
+Respiratory syncytial 
+virusd
+Metapneumovirus
+Parainfluenza virus 
+Coronavirus (including 
+SARS-CoV-2)
+Adenovirus
+Rhinovirus
+Other respiratory viruses
+Burkholderia 
+pseudomallei (South-
+East Asia, Australia)
+Mycobacterium 
+tuberculosis
+Pneumocystis jirovecii 
+(in people with HIV or 
+other types of cellular 
+immunosuppression)
+HIV: human immunodeficiency virus; SARS-CoV-2: severe acute respiratory syndrome coronavirus 2.
+a Atypical bacteria remain colourless with Gram staining. They also have intrinsic resistance to beta-lactams.
+b The most common bacterial cause of community-acquired pneumonia in all age groups (beyond the first week 
+of life) is Streptococcus pneumoniae.
+c Mycoplasma pneumoniae and Chlamydia spp. are more frequent in children > 5 years (compared with younger 
+children) and in young adults.
+d Up to 50% of cases of pneumonia in children < 5 years are caused by a virus (most commonly respiratory syncytial virus).
+Community-acquired pneumonia caused by 
+antibiotic-resistant pathogens
+Antimicrobial resistance is a potential problem with all pathogens associated with CAP . 
+Clinically relevant high-level beta-lactam resistance in Streptococcus pneumoniae is however 
+still rare globally. Resistance to macrolides in Streptococcus pneumoniae and Mycoplasma 
+pneumoniae is highly prevalent in some settings (124,125). It is important to note that 
+also in the hospital setting, parenteral Access antibiotics such as penicillin/amoxicillin/
+ampicillin achieve sufficient antibiotic exposure to treat the great majority of Streptococcus 
+pneumoniae isolates.
+Note
+Community-acquired pneumonia caused by low-level and intermediate-level pneumococcal 
+penicillin resistance can be successfully treated with higher doses of the Access antibiotics 
+(amoxicillin, ampicillin or penicillin) in children and adults.
+370The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+27. Community-acquired pneumonia – severe
+Clinical presentation
+Nearly all respiratory diseases can mimic the symptoms of CAP . Based on clinical features 
+alone it is often impossible to distinguish bacterial from viral pneumonia or from other noninfectious causes; local epidemiology and laboratory tests may help.
+Well established clinical features of CAP include a combination of: new onset 
+(< 2 weeks) of symptoms, worsening cough with or without sputum production, dyspnoea 
+(difficulty in breathing), tachypnoea (abnormal respiratory rates to diagnose rapid breathing 
+vary with age), reduced oxygen saturation, crepitations on lung auscultation, or chest pain or 
+discomfort without an alternative explanation. Fever ≥ 38.0 °C for 3–4 days is usually present 
+but may be absent, especially in elderly people. Extrapulmonary features such as confusion 
+or disorientation may be the main symptoms in elderly people, immunocompromised 
+patients and malnourished children. Severe pneumonia with respiratory distress and sepsis 
+requiring intensive care and intravenous antibiotic treatment has a high associated mortality.
+In children the WHO defines fast breathing pneumonia as a child with a high 
+respiratory rate for their age (> 50 breaths/minute in children 2–11 months of age; > 40 
+breaths/minute in children aged 1– 5 years). They may or may not have chest indrawing. 
+Laboratory tests 
+Patient microbiology tests
+In severe cases the following tests could be considered to guide antimicrobial treatment 
+(Table 27.2):
+• blood cultures (ideally before starting antibiotic treatment)
+• sputum microscopy and culture (ideally before starting antibiotic treatment)
+• urinary antigens for Legionella pneumophila and Streptococcus pneumoniae.
+Additionally, in certain cases, the following tests could also be considered (Table 27.2):
+• rapid molecular test for Mycobacterium tuberculosis in sputum
+• nucleic acid amplification test for influenza virus in a nasopharyngeal sample 
+to help decide on antiviral treatment and for infection prevention and control 
+purposes, for example, to prevent transmission to other patients
+• nucleic acid amplification test or antigen test for SARS-CoV-2 depending on the 
+current epidemiology
+• HIV testing in low- and middle-income countries and in case of recurrent and 
+severe pneumonia.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book371
+HOSPITAL FACILITY 
+27. Community-acquired pneumonia – severe
+Routine use of nasopharyngeal swab for nucleic acid tests for respiratory viruses 
+other than influenza or SARS-CoV-2 is usually not needed.
+Table 27.2 – Microbiology tests to consider if community-acquired pneumonia is 
+suspected as indicated in the WHO EDL (6)
+Diagnostic test Purpose of test Setting where 
+the test should 
+be available
+Comment
+Blood cultures 
+and antimicrobial 
+susceptibility testing
+To detect bacterial 
+bloodstream 
+infection
+Health care 
+facilities with 
+clinical laboratories
+Not routinely needed 
+but suggested in severe 
+casesa
+Some guidelines suggest 
+blood culture also in 
+cases of recent antibiotic 
+exposure (< 3 months) or 
+if MRSA or Pseudomonas 
+aeruginosa infection is 
+suspected
+Sputum microscopy 
+(Gram stain)
+To assess microbial 
+morphology 
+and adequacy 
+of the specimen 
+for culture by 
+identifying white 
+blood cells 
+and squamous 
+epithelial cells
+Health care 
+facilities with 
+clinical laboratories
+Not routinely needed 
+but suggested in severe 
+casesa
+Some guidelines suggest 
+sputum microscopy 
+also in cases of recent 
+antibiotic exposure (< 
+3 months) or if MRSA or 
+Pseudomonas aeruginosa 
+infection is suspected
+Sputum culture 
+and antimicrobial 
+susceptibility testing
+Initial step to 
+detect and identify 
+bacterial and 
+fungal species 
+for selection 
+of appropriate 
+antimicrobial 
+regimens
+Health care 
+facilities with 
+clinical laboratories
+Not routinely needed 
+but suggested in severe 
+casesa
+Some guidelines suggest 
+sputum culture also in 
+cases of recent antibiotic 
+exposure (< 3 months) or 
+if MRSA or Pseudomonas 
+aeruginosa infection is 
+suspected
+continues
+372The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+27. Community-acquired pneumonia – severe
+Table 27.2 continued
+Diagnostic test Purpose of test Setting where 
+the test should 
+be available
+Comment
+Sputum rapid 
+molecular test for 
+Mycobacterium 
+tuberculosis
+To diagnose active 
+tuberculosis and 
+detect rifampicin 
+resistance
+Health care 
+facilities with 
+clinical laboratories
+If Mycobacterium 
+tuberculosis infection is 
+suspected
+Urinary antigens 
+for Legionella 
+pneumophila and 
+Streptococcus 
+pneumoniae
+To diagnose 
+legionellosis and 
+pneumococcal 
+pneumonia
+–b Not routinely needed 
+but suggested in severe 
+casesa. It is often difficult 
+or impossible to obtain 
+high-quality sputum (e.g. 
+from elderly people and 
+children)
+Some guidelines also 
+recommend urinary 
+antigens in case of an 
+outbreak of legionellosis 
+or recent travel
+Nasopharyngeal 
+swab for NAAT for 
+influenza viruses
+To diagnose 
+seasonal influenza 
+infection
+Health care 
+facilities with 
+clinical laboratories 
+but also in primary 
+care settings
+Not routinely needed but 
+suggested during the 
+influenza season
+SARS-CoV-2 antigen
+Upper respiratory 
+specimens (e.g. 
+nasopharyngeal or 
+nasal swab)
+To diagnose 
+COVID-19
+Community 
+settings and health 
+facilities without 
+laboratoriesc
+Not routinely needed but 
+suggested depending 
+on the epidemiologic 
+situation
+SARS-CoV-2 NAAT
+Upper respiratory 
+specimens (e.g. 
+nasopharyngeal and 
+oropharyngeal) and 
+lower respiratory 
+specimens (e.g. BAL)
+To diagnose 
+COVID-19
+Health care 
+facilities with 
+clinical laboratories
+Not routinely needed but 
+suggested depending 
+on the epidemiologic 
+situation
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book373
+HOSPITAL FACILITY 
+27. Community-acquired pneumonia – severe
+Table 27.2 continued
+Diagnostic test Purpose of test Setting where 
+the test should 
+be available
+Comment
+Nasopharyngeal 
+swab for NAAT 
+for respiratory 
+viruses other than 
+influenza viruses or 
+SARS-CoV-2 (e.g. 
+respiratory syncytial 
+virus, adenovirus)
+To diagnose 
+respiratory 
+viruses other than 
+influenza or SARS-
+CoV-2
+–b Not routinely needed 
+but suggested in severe 
+casesa
+Anti-HIV-1 and -HIV-
+2 antibody (RDT)
+or 
+Combined 
+anti-HIV-1/HIV-2 
+antibody and p24 
+antigen (RDT)
+To diagnose HIV 
+infection
+Community 
+settings and health 
+facilities without 
+laboratoriesc
+Please consult the WHO 
+consolidated guidelines 
+on HIV testing services 
+(286).
+BAL: bronchoalveolar lavage; COVID-19: coronavirus disease 2019; EDL: Model List of Essential In Vitro Diagnostics; 
+HIV: human immunodeficiency virus; MRSA: methicillin-resistant Staphylococcus aureus ; NAAT: nucleic acid 
+amplification test; RDT: rapid diagnostic test; SARS-CoV-2: severe acute respiratory syndrome coronavirus 2.
+a Severe cases are those with CURB-65 ≥ 2 (adults); for children, refer to the section: Scores to determine disease 
+severity and guide treatment decisions.
+b This test is not in the WHO EDL (6).
+c Community and health settings without laboratories are defined as community and health facilities such as 
+health posts and centres, doctors’ offices, outreach clinics and ambulatory care. These tests are also assumed to be 
+available at health care facilities with laboratories.
+Other tests
+In severe cases, several tests could be considered based on local availability (Table 27.3) to 
+determine disease severity, help differentiate bacterial and viral etiologies and determine 
+treatment duration (and intravenous to oral switch) during follow up.
+374The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+27. Community-acquired pneumonia – severe
+Table 27.3 – Laboratory tests to consider if community-acquired pneumonia is 
+suspected as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Blood urea nitrogen To assess kidney functiona Health care facilities with 
+clinical laboratories
+White blood cell count To help in the diagnosis of 
+infection
+Health care facilities with 
+clinical laboratories
+Blood pH and gases To assess lung function and 
+metabolic or kidney disorders, 
+and monitor oxygen therapy
+To measure blood pH, oxygen 
+and carbon dioxide, serum 
+bicarbonate and anion gap
+Health care facilities with 
+clinical laboratories
+C-reactive protein To detect inflammation as an 
+indicator of various conditions
+Health care facilities with 
+clinical laboratories
+Procalcitonin To guide antibiotic therapy or 
+discontinuation in sepsis and 
+lower respiratory tract infection
+Only in tertiary care facilities
+EDL: Model List of Essential In Vitro Diagnostics.
+a Required for the CURB-65 score calculation.
+Using microbiology surveillance data
+In the great majority of episodes of CAP in the hospital setting, parenteral antibiotics 
+produce an exposure sufficient to treat most resistant isolates. 
+Routine clinical microbiology samples for CAP are biased towards more severe forms 
+of CAP where more invasive sampling is performed (such as bronchoalveolar lavage) and 
+microbiology results are therefore not representative of the general population with CAP .
+Therefore, routine clinical microbiology surveillance of CAP in the hospital setting 
+does not help to inform local empiric guidance. 
+Imaging
+When severe CAP is suspected clinically, a chest X-ray is needed because other conditions 
+have similar clinical features and antibiotics may be avoided if the chest X-ray does not 
+suggest bacterial pneumonia. Furthermore, chest X-rays can be difficult to interpret,
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book375
+HOSPITAL FACILITY 
+27. Community-acquired pneumonia – severe
+especially those of elderly people, and many other conditions (such as heart failure) 
+can mimic infectious infiltrates. In addition, the absence of a visible infiltrate does not 
+always rule out pneumonia (e.g. in dehydrated patients). As with any test, the pre-test 
+probability of pneumonia based on clinical picture and laboratory tests if available 
+and the likelihood of alternative diagnoses need to be considered when interpreting 
+chest X-rays. It should also be noted that the radiographic pattern cannot be used to 
+accurately predict the microbial cause and does not reliably distinguish typical from 
+atypical or viral pathogens.
+Scores to determine disease severity and guide 
+treatment decisions
+WHO recommends that children who meet the criteria of severe pneumonia should be 
+admitted to hospital. As a general rule for children, hospitalization is indicated in cases 
+of severe illness (e.g. cough and severe respiratory distress, marked tachypnoea and 
+tachycardia) and/or if the child is unable to take oral therapy. 
+In children , severe pneumonia is characterized by signs of pneumonia (fast 
+breathing with or without chest indrawing) plus a general danger sign, such as inability to 
+breastfeed or drink, convulsions, lethargy or a reduced level of consciousness (118).
+In adults , several scores exist that measure severity and help predict 30-day 
+mortality. These scores, in addition to clinical judgement, can be used to determine the 
+need for hospitalization in immunocompetent adults diagnosed with CAP . In view of its 
+simplicity, one of the more frequently used scores is the CURB-65 (127), or its modification, 
+CRB-65, which does not require laboratory values for its calculation (Table 27.4). However, it 
+should be noted that these scores have not been extensively validated in low- and middleincome countries or settings and therefore there is no clear consensus about their use 
+in these settings (128). As well as severity scores, other factors, such as severe comorbid 
+illnesses (e.g. HIV infection) or inability to maintain oral therapy, should always be taken into 
+account in determining the need for hospital admission.
+Table 27.4 – CURB-65 criteria and scoring, and treatment decisions
+Criterion Points
+Presence of confusion (new onset) 1
+Urea > 19 mg/dL (or > 7 mmol/L)a 1
+Respiratory rate > 30 breaths/min 1
+continues
+376The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+27. Community-acquired pneumonia – severe
+Table 27.4 continued
+Criterion Points
+Systolic blood pressure < 90 mmHg (< 12 kPa) 
+or diastolic blood pressure ≤ 60 mmHg (≤ 8 kPa)
+1
+Age ≥ 65 years 1
+CURB-65 score/CRB-65 scorea Where to treat
+0–1 Candidate for outpatient treatment
+Low 30-day mortality risk (< 1.5%)
+2 Consider inpatient treatment
+30-day mortality risk ≈ 10%
+Consider adding clarithromycin (see Table 
+27.5)
+If tests are available, consider testing for 
+atypical pathogens (e.g. Legionella spp., 
+Mycoplasma spp.)
+≥ 3 Inpatient treatment (consider admission 
+to intensive care)
+High 30-day mortality risk (≈ 20%)
+Consider adding clarithromycin (see Table 
+27.5)
+Consider testing for atypical pathogens (e.g. 
+Legionella spp., Mycoplasma spp.)
+Note. The CURB score is not validated in low-and middle-income countries.
+a Urea is not required for the calculation of the CRB-65 score, a modification of the CURB-65 score that does not 
+require laboratory tests.
+Ruling out tuberculosis
+TB is a cause of subacute lower respiratory tract infection and should be considered in 
+settings endemic for TB, especially in high-risk patients (e.g. children or adults with HIV), 
+with a slow onset of symptoms and persistent cough, or those who do not respond 
+to the initial antibiotic treatment. In such cases, specific investigations for TB should 
+be done. A rapid molecular test (GeneXpert® MTB/RIF assay) performed on a single 
+sputum specimen is currently the preferred first-line diagnostic test for pulmonary TB 
+and to detect rifampicin resistance in both children and adults. When this rapid test is 
+not available, microscopy examination of sputum smears could be considered for the
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book377
+HOSPITAL FACILITY 
+27. Community-acquired pneumonia – severe
+detection of acid-fast bacilli (129). For TB management and treatment, refer to the WHO 
+consolidated guidelines on tuberculosis (119) .
+Symptomatic care
+Patients with severe CAP should receive appropriate oxygen therapy. Routine treatment 
+with corticosteroids is usually not needed unless otherwise indicated (287–290).
+Antibiotic treatment 
+The primary goal of empiric antibiotic treatment in CAP is to provide effective and timely 
+treatment for Streptococcus pneumoniae infection, because this is the predominant bacterial 
+pathogen, and untreated pneumococcal pneumonia is associated with high mortality (see 
+Table 27.5 for adults and Table 27.6 for children for treatment recommendations). While 
+ceftriaxone co-prescribed with clarithromycin is the first-choice recommended option, 
+other less broad-spectrum options (e.g. intravenous amoxicillin or benzylpenicillin coprescribed with clarithromycin) could be considered, especially in less severe cases not 
+requiring intensive care unit admission.
+Empiric treatment should be guided by the age of the patient, severity of 
+symptoms, presence of comorbidities and previous antibiotic treatment. In certain cases 
+(e.g. immunocompromised patients), the epidemiology of antibiotic resistance for common 
+pathogens causing CAP in the setting in which the patient is being treated could be 
+considered. 
+Clinical improvement should be evident within 48–72 hours of starting antibiotic 
+therapy. If there is no response to treatment, a complication (such as empyema) should be 
+considered. Duration of treatment should be guided by measures of clinical improvement 
+(e.g. resolution of fever); usually 5 days of treatment are adequate for adults and 3–5 days 
+in children.
+Simplify empiric treatment to a more narrow-spectrum antibiotic (also called 
+de-escalation) based on culture results (targeted treatment) or based on rapid clinical 
+improvement when no microbiology test results are available.
+Step-down to oral treatment is based on improvement of symptoms and signs 
+of infection and the ability to take oral antibiotics allowing discharge of the patient home 
+when clinically appropriate.
+378The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+27. Community-acquired pneumonia – severe
+Table 27.5 – Empiric antibiotic treatment for severe cases of community-acquired 
+pneumonia in adults 
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Adults Total treatment 
+duration (130,131)
+First choice Cefotaxime (IV/IM): 2 g given every 
+8 hours
+OR 
+ Ceftriaxone (IV/IM): 2 g given once a day 
+(IV), 1 g given once a day (IM)a 
+If CURB-65 ≥ 2, CONSIDER ADDING
+ Clarithromycin b (oral or IV): 500 mg given 
+every 12 hours
+5 days 
+Consider longer 
+treatment and/
+or investigate for 
+complications if the 
+patient is not clinically 
+stable at day 5
+Second choice Amoxicillin+clavulanic acid (IV): 1 g + 
+200 mg given every 8 hours (a higher dose 
+could be considered: 1 g + 200 mg given 
+every 6 hours)
+If CURB-65 ≥ 2, CONSIDER ADDING
+ Clarithromycin b (oral or IV): 500 mg given 
+every 12 hours
+5 days
+IM: intramuscular; IU: international units; IV: intravenous. 
+Note. All dosages are for normal renal and hepatic function.
+a The reason for giving a lower dose when the ceftriaxone is given IM (rather than IV) is that a larger volume would 
+be painful to give as intramuscular injection.
+b The rationale of adding clarithromycin to beta-lactam is to cover for possible atypical bacteria. Azithromycin could 
+be used as an alternative when clarithromycin is not available but there are increasing concerns about its potential 
+for the emergence and spread of antibiotic resistance because of its long half-life. Erythromycin could also be 
+considered but it is associated with higher toxicity (diarrhoea is frequently associated with its use). Macrolides 
+have good bioavailability and there is no need to use the intravenous route if the patient has a functioning 
+gastrointestinal tract.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book379
+HOSPITAL FACILITY 
+27. Community-acquired pneumonia – severe
+Table 27.6 – Empiric antibiotic treatment for severe cases of community-acquired 
+pneumonia in children (from the Revised WHO classification and treatment of 
+childhood pneumonia at health facilities) (118) 
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Children Total treatment 
+duration
+Severe 
+pneumonia 
+(pneumonia 
+with any 
+danger 
+signa, which 
+requires 
+referral to 
+facility/
+hospital, 
+admission 
+and 
+injectable 
+therapy)
+ Amoxicillin OR Ampicillin (IV/IM): 
+50 mg/kg/dose given every 12 hours (first week of life)
+50 mg/kg/dose given every 8 hours (>first week of life)
+AND 
+ Gentamicin (IV/IM): 
+• Neonates: 5 mg/kg/dose given once a day
+• Children: 7.5 mg/kg/dose given once a day
+Amoxicillin/ampicillin can be replaced by
+ Benzylpenicillin (IV): 50 000 IU/kg/dose 
+(30 mg/kg/dose) given every 8 hours
+If no clinical response to ampicillin AND gentamicin 
+after 48–72 hours, change to:
+ Cefotaxime (IV/IM): 50mg/kg/dose given every 8 hours
+OR 
+ Ceftriaxone (IV/IM): 80 mg/kg/dose given once a day
+Note
+• if HIV-positive and older than 1 month, Pneumocystis 
+jirovecii pneumonia is a risk so add empiric 
+sulfamethoxazole+trimethoprim: 8 mg/kg 
+trimethoprim and 40 mg/kg sulfamethoxazole, given 
+every 8 hours for 3 weeks
+• Severe pneumonia, particularly in school-aged 
+children, may rarely be caused by Mycoplasma 
+pneumoniae, which is unresponsive to beta-lactams 
+and would be usually treated with macrolides (e.g. 
+clarithromycin)
+5 days 
+(consider longer 
+treatment if the 
+patient is not 
+clinically stable at 
+day 5)
+continues
+380The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+27. Community-acquired pneumonia – severe
+Table 27.6 continued
+HIV: human immunodeficiency virus; IM: intramuscular; IU: international units; IV: intravenous.
+Note. All dosages are for normal renal and hepatic function.
+a Not able to drink, persistent vomiting, convulsions, lethargic or unconscious, stridor in a calm child or severe 
+malnutrition.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+Prevention 
+Vaccination can prevent many cases of CAP . Available vaccines are active against 
+pneumococcal infection, Haemophilus influenzae type b disease and influenza, and several 
+vaccines against SARS-CoV-2 are available. Vaccines are never 100% effective and because 
+they are serogroup-specific, they do not protect against all strains of bacteria or viruses. 
+Duration of protection is also variable. As a result, even vaccinated people can develop CAP . 
+Haemophilus influenzae type b conjugate vaccines and pneumococcal conjugate vaccines 
+should be included in all routine infant immunization programmes as they have been very 
+successful in reducing invasive disease and, in many countries, rates of pneumococcal 
+resistance. Countries should consider the inclusion of yearly seasonal influenza vaccination 
+for high-risk populations (pregnant women, elderly people, patients with chronic medical 
+conditions and health care workers) in their vaccination plan.

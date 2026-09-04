@@ -1,0 +1,1019 @@
+# TOPIC: oral_dental_infections
+
+--- [WHO AWaRe Antibiotic Book (2022) | 8. Oral and dental infections | p.88-110 | audience=general] ---
+72The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+8. Oral and dental infections 
+Note
+Antibiotic prophylaxis before dental procedures is not addressed in this chapter. Local/national 
+guidance documents should be consulted for this purpose. 
+Key messages
+• Untreated tooth decay is the most common global health condition. Dental caries and 
+periodontal disease are largely preventable. 
+• Key to prevention of dental infection is to maintain good oral health; this includes reducing 
+sugar consumption, regular toothbrushing and interdental cleaning and stopping tobacco 
+smoking.
+• Antibiotics are not needed for dental pain, which can be treated with analgesics or a 
+dental procedure if appropriate.
+• Antibiotics should not be used before a dental procedure to decrease inflammation or to 
+cure toothache. 
+• Antibiotics are not needed before most dental procedures to prevent surgical site infections.
+• For people with a severe spreading dental infection, effective antibiotics and surgical 
+management are vital. Sepsis and the spread of infection may block the upper airway or 
+move to the brain and are life-threatening so should be managed promptly.
+Other relevant WHO resources (please check regularly for updates)
+• Guideline: sugars intake for adults and children, 2015 (73).
+• Oral health – fact sheet (74).
+• Ending childhood dental caries: WHO implementation manual, 2019 (75).
+• WHO monograph on tobacco cessation and oral health integration, 2017 (76).
+• Information brochure for early detection and management of noma, 2016 (77).
+Definition
+Various dental conditions and terms are defined below. The anatomy of a healthy tooth is 
+illustrated in Figure 8.1.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book73
+PRIMARY HEALTH CARE 
+8. Oral and dental infections 
+Abscess: localized collection of pus caused by a bacterial infection in the tooth, gingivae 
+(gums) or alveolar bone supporting the tooth. Abscesses can be categorized as: 
+• apical abscess, when the infection at the apex of the dental root originates from 
+within the dental pulp. This is the most common form of dental abscess and 
+usually results from untreated dental caries. 
+• periodontal abscess, where there is a collection of pus between the root and 
+alveolar bone usually resulting from serious gum diseases. 
+Alveolar bone: part of the jawbones which surrounds and supports the teeth.
+Apical periodontitis: inflammation (associated with pain) within the alveolar bone around 
+the apex of a tooth, often occurring as a consequence of a necrotic pulp following pulpitis, 
+tooth fracture or trauma.
+Dental caries: tooth decay.
+Dental pulp: blood vessels and nerves within the inner part of the tooth.
+Dry socket (alveolar osteitis): a recognized inflammatory complication of tooth extraction 
+which may develop a few days after extraction, last for more than a week and is extremely 
+painful.
+Gingivae (gums): soft tissue covering the alveolar bone.
+Necrotic pulp: An irreversible condition that occurs when the pulp within the tooth 
+becomes non-vital (dies) and is often associated with apical periodontitis.
+Noma (cancrum oris/gangrenous stomatitis): an acute necrotizing disease that 
+destroys the soft tissues and bones of the mouth and face as it progresses from necrotizing 
+periodontal disease (previously known as necrotizing ulcerative gingivitis), mostly in 
+malnourished children living in extreme poverty and with weakened immune systems.
+Pericoronitis: inflammation of the gingiva (gum) surrounding a partially erupted tooth, 
+often a lower wisdom tooth, which may be associated with an infection.
+Periodontal disease: a group of inflammatory diseases affecting the tissues that surround 
+and support the teeth. This includes:
+• Gingivitis: inflammation of the gingivae (gums).
+• Periodontitis: chronic inflammatory disease of bacterial etiology that affects the 
+soft and hard tissues which support the tooth, including alveolar bone.
+• Necrotizing periodontal disease (previously known as necrotizing 
+ulcerative gingivitis): a severe gum infection characterized by necrosis and 
+ulcerations caused by a bacterial infection and often accompanied by severe pain 
+and a strongly unpleasant smell.
+74The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+8. Oral and dental infections 
+Plaque: biofilm of microbes, mainly bacteria, which grows on surfaces within the mouth 
+and contributes to oral diseases such as caries and periodontal disease.
+Pulpitis: inflammation of the dental pulp causing pain. This condition often occurs as a 
+result of the progression of dental caries and can lead to apical periodontitis which can then 
+evolve into a dental abscess.
+Spreading infection: development of sepsis or the spread of infection through the fascial 
+spaces to vital structures of the head and neck (such as cellulitis) which can occur rapidly 
+and become life-threatening.
+Figure 8.1 – Anatomy of a healthy tooth
+Crown
+Root
+Enamel
+Dentin
+Pulp
+Gum /uni0028.caseGingiva)
+Bone
+Healthy Tooth
+Cement
+Neck
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+75
+PRIMARY HEALTH CARE 
+8. Oral and dental infections 
+Oral and dental infections
+Page 1 of 3
+•: Part of the jawbones that surrounds andAlveolar bone
+supports the teeth
+•: Blood vessels and nerves within the inner part ofDental pulp
+the tooth
+•: Soft tissue covering the alveolar boneGingivae (gums)
+•: Bio/g246lm of microbes, mainly bacteria, which grows onPlaque
+surfaces within the mouth and contributes to oral diseases such
+as caries and periodontal disease
+Dental Terminology De/g246nitions
+•: Localized collection of pus caused by a bacterialAbscess
+infection in the tooth, gums or alveolar bone supporting the
+tooth. Abscesses can be categorized as:
+-I nfection at the apex of theApical Abscess (more common):
+dental root that originates from within the dental pulp usually
+resulting from untreated dental caries
+-C ollection of pus between the root andPeriodontal abscess:
+alveolar bone usually resulting from serious gum diseases
+•: In/g248ammation of the gingiva (gum) surroundingPericoronitis
+a partially erupted tooth, often a lower wisdom tooth, which
+may be associated with an infection
+•: A severe gum infectionNecrotizing periodontal disease
+characterized by necrosis and ulcerations caused by a bacterial
+infection. Previously known as necrotizing ulcerative gingivitis
+•: An acute necrotizing disease that destroys the softNoma
+tissues and bones of the mouth and face as it progresses from
+necrotizing periodontal disease (previously known as
+necrotizing ulcerative gingivitis), rare in adults
+De/g246nitions of Conditions That May
+Require Antibiotic Treatment
+Only oral and dental infections where antibiotic treatment is
+usually required are reported
+Common dental procedures are beyond the scope of this guidance
+Most Likely Pathogens
+•Minimize sugar consumption
+•Prevent the accumulation of dental plaque with regular dental
+cleaning and good oral hygiene; /g248uoride is important because it
+strengthens the tooth enamel making it more resistant to caries
+•Smoking cessation
+Prevention
+Bacteria associated with caries:
+•Acidogenic bacteria such as:
+- spp. (e.g.)Streptococcus S. mutans
+- spp.Lactobacillus
+- spp.Actinomyces
+Bacteria associated with periodontal disease:
+•Mostly anaerobes such as:
+- spp.Capnocytophaga
+- spp.Prevotella
+- spp.Aggregatibacter
+- spp.Porphyromonas
+Important: most dental infections are caused by conditions
+that favour the growth of pathogens in the mouth,
+including an abundance of sugars (e.g. sucrose) and
+reduced saliva /g248ow (dry mouth)
+76
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+8. Oral and dental infections 
+Oral and dental infections
+Page 2 of 3
+Other LaboratoryTests
+Microbiology Tests
+Dental radiographs should be under taken wher ev er
+possible as par t of the diagnosis to diffe re ntiate betw een
+the various causes of dental pain
+Imaging
+Clinical Presentation
+Diagnosis
+Point-of-CareTests and
+Investigations to Assist Diagnosis
+Dental abscess:
+•A cute sev er e and persistent localized toothache that can
+radiate to the ear , jaw and neck
+•T ooth tenderness (e .g . with chewing) and sw elling of the
+cheek abo ve the affec ted tooth ar e often pr esen t
+•I f left untr eate d, the infec tion can spr ead and pr esent with
+signs of cellulitis ar ound the ey e or thr oat, fev er (≥ 38.0 °C ),
+tach y car dia and lymphadenopath y
+Pericoronitis:
+•I n/g248amed , sw ollen gum tissue surr ounding a par tially
+erupted tooth
+•A ntibiotics ar e not normally r equir ed , although if infec tion
+is pr esent, it should be car efully monitor ed as it can spr ead
+rapidly causing difficulty opening the mouth, swallowing or
+br eathing
+•C ellulitis of the neck (e .g . L udwig angina) can be pr esen t
+and is a medical emergenc y
+Necrotizing periodontal disease:
+•S ev er e pain and in/g248amed ulcerated gums that bleed
+easily , necr osis of the inter dental papillae , foul br eath and a
+bad taste in the mouth
+•I t may also be accompanied by systemic symptoms , such
+as fe ve r≥38.0 °C, malaise and lymphadenopath y
+Noma:
+•I t begins as necr otizing periodontal disease , it pr ogr esses
+rapidly destr oying the soft tissues and bones of the mouth
+and fur ther pr ogr essing to per forate the hard tissues and
+sk in of the fac e
+•I f detec ted early , its pr ogr ession can be rapidly halted ,
+thr ough basic oral hyg iene rules , diet supplementation
+with pr oteins and nutrients and with antibiotics
+Mild cases: Usually not needed
+Severe cases requiring hospitalization: C onsider doing
+blood and/or pus aspirates cultur es
+Mild cases: Usually not needed
+Severe cases requiring hospitalization:W hite blood cell
+count, C-r eac tiv e pr otein and/or pr ocalcitonin
+Point-of-care tests can be done to establish the sour ce of
+the dental pain/infection and make appr opriate tr eatmen t
+decisions , for example:
+•:Tapping the tooth to evaluate response to percussion
+-T enderness indicates that the pain originates in the
+suppor ting bone and may be due to an abscess
+•Periodontal probing
+-C an identify a periodontal abscess if pus exudes fr om a
+pocket gr eater than 3mm or necr otizing ulcerativ e
+disease if ther e is ex tr emely tender gingival tissue and
+grey sloughing
+•:Checking response to a cold stimulus
+-N o re sponse to c old ma y indicate a non-vital/necr oti c pulp
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+77
+PRIMARY HEALTH CARE 
+8. Oral and dental infections 
+Oral and dental infections
+Page 3 of 3
+Treatment
+•R egular use of mouth washes with an antiseptic pr oduc t
+(e.g . chlorhexidine) is not necessar y for the contr ol of
+dental infections; rinsing with salty water is usually
+adequate
+Antibiotic treatment is not needed in most cases but
+can be consider ed (always complementar y to dental
+pr ocedur es):
+•I n patients with sev er e, spr eading infec tions with systemic
+signs (e .g . facial sw elling , inability to open the mouth, fe ve r
+≥ 38.0 °C, tach y car dia)
+•I n sev er ely immunocompr omised patients and patients
+with uncontr olled diabetes (higher risk of complications)
+Clinical Considerations
+Important:
+•M ost dental infections and dental pain can be tr eate d
+without antibiotic tr eatment by r emoval of the cause
+and drainage of the infec tion using a dental pr ocedur e
+(e.g . ex trac tion of the tooth)
+•A ntibiotics do not pr ev ent sev er e complications and
+cannot r eplace local surgical tr eatmen t
+•A ntibiotics should not be used bef or e a dental
+pr ocedur e to " decr ease in/g248ammation" or to cur e
+toothache . Antibiotics should not be used prior to
+most dental pr ocedur es to pr ev ent surgical sit e
+infec tions
+Medicines are listed in alphabetical order and should be
+considered equal treatment options
+Symptomatic Treatment
+Ibupr ofen 200-400 mg q6-8h (Max 2.4 g/day)
+----------------------------------- -----------------------------------OR
+Pa racetamol (acetaminophen) 500 mg-1 g
+q4-6h (max 4 g/day)
+•: Max 2 g/da yHepatic impairment/cirrhosis
+Antibiotic Treatment
+If adequa te source control achieved: 3 days
+If adequa te source control achiev ed:not 5 days
+Note: patients should be reassessed before the end of
+treatment to check the resolution of the infection
+Antibiotic Treatment Duration
+For the treatment of infections of dental soft tissues (e.g.
+pericoronitis or necrotizing periodontal disease), metronidazole
+is an option
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Amo xicillin 500 mg q8h ORAL
+----------------------------------- -----------------------------------OR
+Pheno xy meth ylpenicillin (as potassium) 500 mg
+(800 000 IU) q6h ORAL
+Antibiotic treatment is not required in the great majority
+of cases (see “Clinical Considerations" when antibiotics
+may be indicated)
+78
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+8. Oral and dental infections 
+Oral and dental infections
+Page 1 of 3
+Dental Terminology De/g246nitions
+De/g246nitions of Conditions That May
+Require Antibiotic Treatment
+Most Likely Pathogens
+Prevention
+•: Part of the jawbones that surrounds andAlveolar bone
+supports the teeth
+•: Blood vessels and nerves within the inner part ofDental pulp
+the tooth
+•: Soft tissue covering the alveolar boneGingivae (gums)
+•: Bio/g246lm of microbes, mainly bacteria, which grows onPlaque
+surfaces within the mouth and contributes to oral diseases such
+as caries and periodontal disease
+•L ocalized collection of pus caused by a bacterialAbscess:
+infection in the tooth, gums or alveolar bone supporting the
+tooth. Abscesses can be categorized as:
+-I nfection at the apex of theApical Abscess (more common):
+dental root that originates from within the dental pulp usually
+resulting from untreated dental caries
+-C ollection of pus between the root andPeriodontal abscess:
+alveolar bone usually resulting from serious gum diseases
+•: In/g248ammation of the gingiva (gum) surroundingPericoronitis
+a partially erupted tooth, often a lower wisdom tooth, which
+may be associated with an infection
+•: A severe gum infectionNecrotizing periodontal disease
+characterized by necrosis and ulcerations caused by a bacterial
+infection. Previously known as necrotizing ulcerative gingivitis
+•: An acute necrotizing disease that destroys the softNoma
+tissues and bones of the mouth and face as it progresses from
+necrotizing periodontal disease (previously known as
+necrotizing ulcerative gingivitis), mostly in malnourished
+children living in extreme poverty and with weakened immune
+systems
+Important: most dental infections are caused by conditions
+that favour the growth of pathogens in the mouth,
+including an abundance of sugars (e.g. sucrose) and
+reduced saliva /g248ow (dry mouth)
+Bacteria associated with caries:
+•Acidogenic bacteria such as:
+- spp. (e.g.)Streptococcus S. mutans
+- spp.Lactobacillus
+- spp.Actinomyces
+Bacteria associated with periodontal disease:
+•Mostly anaerobes such as:
+- spp.Capnocytophaga
+- spp.Prevotella
+- spp.Aggregatibacter
+- spp.Porphyromonas
+•Minimize sugar consumption
+•Prevent the accumulation of dental plaque with regular dental
+cleaning and good oral hygiene; /g248uoride is important because it
+strengthens the tooth enamel making it more resistant to caries
+•Promote smoking cessation
+Only oral and dental infections where antibiotic treatment is
+usually required are reported
+Common dental procedures are beyond the scope of this guidance
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+79
+PRIMARY HEALTH CARE 
+8. Oral and dental infections 
+Oral and dental infections
+Page 2 of 3
+Other LaboratoryTests
+Microbiology Tests
+Dental radiographs should be under taken wher ev er
+possible as par t of the diagnosis to diffe re ntiate betw een
+the various causes of dental pain
+Imaging
+Clinical Presentation
+Diagnosis
+Dental abscess:
+•A cute sev er e and persistent localized toothache that can
+radiate to the ear , jaw and neck
+•T ooth tenderness (e .g . with chewing) and sw elling of the
+cheek abo ve the affec ted tooth ar e often pr esen t
+•I f left untr eate d, the infec tion can spr ead and pr esent with
+signs of cellulitis ar ound the ey e or thr oat, fev er (≥ 38.0 °C ),
+tach y car dia and lymphadenopath y
+Pericoronitis:
+•I n/g248amed , sw ollen gum tissue surr ounding a par tially
+erupted tooth
+•A ntibiotics ar e not normally r equir ed , although if infec tion
+is pr esent, it should be car efully monitor ed as it can spr ead
+rapidly causing difficulty opening the mouth, swallowing or
+br eathing
+•C ellulitis of the neck (e .g . L udwig angina) can be pr esen t
+and is a medical emergenc y
+Necrotizing periodontal disease:
+•Charac terized by sev er e pain and in/g248amed ulcerated gums
+that bleed easily , necr osis of the inter dental papillae , foul
+br eath and a bad taste in the mouth
+•I t may also be accompanied by systemic symptoms , such
+as fe ve r≥38.0 °C, malaise and lymphadenopath y
+Noma:
+•I t begins as necr otizing periodontal disease , it pr ogr esses
+rapidly destr oying the soft tissues and bones of the mouth
+and fur ther pr ogr essing to per forate the hard tissues and
+sk in of the fac e
+•I f detec ted early , its pr ogr ession can be rapidly halted ,
+thr ough basic oral hyg iene rules , diet supplementation
+with pr oteins and nutrients and with antibiotics
+Mild cases: Usually not needed
+Severe cases requiring hospitalization:W hite blood cell
+count, C-r eac tiv e pr otein and/or pr ocalcitonin
+Mild cases: Usually not needed
+Severe cases requiring hospitalization: C onsider doing
+blood and/or pus aspirates cultur es
+Point-of-CareTests and
+Investigations to Assist Diagnosis
+Point-of-care tests can be done to establish the sour ce of
+the dental pain/infection and make appr opriate tr eatmen t
+decisions , for example:
+•:Tapping the tooth to evaluate response to percussion
+-T enderness indicates that the pain originates in the
+suppor ting bone and may be due to an abscess
+•Periodontal probing
+-C an identify a periodontal abscess if pus exudes fr om a
+pocket gr eater than 3mm or necr otizing ulcerativ e
+disease if ther e is ex tr emely tender gingival tissue and
+grey sloughing
+•:Checking response to a cold stimulus
+-N o re sponse to c old ma y indicate a non-vital/necr oti c pulp
+80
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+8. Oral and dental infections 
+Oral and dental infections
+Page 3 of 3
+Treatment
+Medicines are listed in alphabetical order and should be
+considered equal treatment options
+Symptomatic Treatment
+----------------------------------- -----------------------------------OR
+Pa racetamol (acetaminophen)
+•: 10-15 mg/kg q6hPain control/antipyretic
+•:Oral weight bands
+3-<6 kg 60 mg q6h
+6-<10 kg 100 mg q6h
+10-<15 kg 150 mg q6h
+15-<20 kg 200 mg q6h
+20-<30 kg 300 mg q6h
+≥30 kg 500 mg-1 g q4-6 h
+(Max 4 g/day or 2 g/day if
+hepatic impairment/cirrhosis)
+Ibupr ofen (do not use if <3 months of age)
+•: 5-10 mg/kg q6-8hPain control/antipyretic
+•:Oral weight bands
+6-<10 kg 50 mg q8h
+10-<15 kg 100 mg q8h
+15-<20 kg 150 mg q8h
+20-<30 kg 200 mg q8h
+≥30 kg 200-400 mg q6-8h
+(Max 2.4 g/day)
+Antibiotic Treatment
+For the treatment of infections of dental soft tissues (e.g.
+pericoronitis or necrotizing periodontal disease), metronidazole
+is an option
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Antibiotic treatment is not required in the great majority
+of cases (see “Clinical Considerations" when antibiotics
+may be indicated)
+Amo xicillin 80-90 mg/kg/da y ORAL
+•:Oral weight bands
+3-<6 kg 250 mg q12h
+6-<10 kg 375 mg q12h
+10-<15 kg 500 mg q12h
+15-<20 kg 750 mg q12h
+≥20 kg 500 mg q8h or 1 g q12h
+Pheno xy meth ylpenicillin (as potassium):
+10-15 mg/kg/dose (16 000-24 000 IU/kg/dose)
+q6-8h ORAL
+----------------------------------- -----------------------------------OR
+•R egular use of mouth washes with an antiseptic pr oduc t
+(e.g . chlorhexidine) is not necessar y for the contr ol of
+dental infections; rinsing with salty water is usually
+adequate
+Antibiotic treatment is not needed in most cases but
+can be consider ed (always complementar y to dental
+pr ocedur es):
+•I n patients with sev er e, spr eading infec tions with systemic
+signs (e .g . facial sw elling , inability to open the mouth, fe ve r
+≥ 38.0 °C, tach y car dia)
+•I n sev er ely immunocompr omised patients and patients
+with uncontr olled diabetes (higher risk of complications)
+Clinical Considerations
+Important:
+•M ost dental infections and dental pain can be tr eate d
+without antibiotic tr eatment by r emoval of the cause
+and drainage of the infec tion using a dental pr ocedur e
+(e.g . ex trac tion of the tooth)
+•A ntibiotics do not pr ev ent sev er e complications and
+cannot r eplace local surgical tr eatmen t
+•A ntibiotics should not be used bef or e a dental
+pr ocedur e to " decr ease in/g248ammation" or to cur e
+toothache . Antibiotics should not be used prior to
+most dental pr ocedur es to pr ev ent surgical sit e
+infec tions
+If adequa te source control achieved: 3 days
+If adequa te source control achiev ed:not 5 days
+Note: patients should be reassessed before the end of
+treatment to check the resolution of the infection
+Antibiotic Treatment Duration
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book81
+PRIMARY HEALTH CARE 
+8. Oral and dental infections 
+Pathophysiology
+Most dental conditions relate to the oral microbiota in dental plaque and do not require 
+antibiotic treatment. Dental plaque is a microbe rich biofilm that sticks to surfaces within the 
+mouth, including teeth, dentures and orthodontic appliances. In the presence of free sugars, 
+especially sucrose from the diet, plaque bacteria can create an environment that favours 
+tooth decay (dental caries). Acid produced by plaque bacteria in the presence of sugar causes 
+this destruction, which is reversible only when confined to the outer enamel layer. Unless it is 
+removed, the progression of caries is hard to stop once it enters the deeper parts of the tooth.
+If dental caries progresses to reach the pulp, inflammatory pain (pulpitis) occurs 
+which can eventually lead to pulpal necrosis and the tooth becoming non-vital. When this 
+occurs, a tooth may initially be pain free or become tender to touch (apical periodontitis). If 
+left to progress further, a localized accumulation of pus (periapical abscess) may form or an 
+infection of the tooth, gums or alveolar bone supporting the tooth may spread to adjacent 
+vital structures in the head and neck (e.g. cellulitis) or through the bloodstream (e.g. sepsis). 
+Accumulation of dental plaque around the gingival margin of teeth (at the gumline) 
+and in periodontal pockets (below the gumline) can stimulate an inflammatory response. In 
+some people this can lead to immune-mediated destruction of the periodontal structures 
+(e.g. gums or alveolar bone) which support the teeth. Progressive destruction of these 
+periodontal tissues may lead to teeth becoming mobile and eventually to tooth loss. 
+Some protective mechanisms to reduce plaque accumulation include saliva and the 
+cleansing action of the tongue. Regular removal of plaque through oral hygiene practices, 
+such as toothbrushing and interdental cleaning, is essential to prevent and manage dental 
+caries and periodontal disease. 
+Epidemiology
+Despite being largely preventable, oral disease (including dental caries and periodontal 
+disease) is common and an important public health problem (78).
+Untreated dental caries affect almost half of the world’s population (42% in 2015) 
+making it the most prevalent of the oral conditions reported in the Global Burden of Disease 
+Study (78). 
+The prevalence of untreated caries in permanent teeth was highest in young people 
+aged 15–19 years. Periodontal disease is less common than dental caries, with an overall 
+yearly prevalence of around 7%. As periodontal disease may progress through life, it is 
+highest in older people aged 55–59 years (78).
+Common risk factors for dental infections include diets high in free sugars and poor 
+oral hygiene leading to dental caries. Poor oral hygiene, smoking or chewing tobacco, stress, 
+malnutrition and being immunocompromised are risk factors for periodontal diseases,
+82The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+8. Oral and dental infections 
+including necrotizing periodontal disease (previously known as necrotizing ulcerative 
+gingivitis). Poor oral hygiene and severe malnutrition are also risk factors for noma, a 
+necrotizing disease most commonly seen in children living in low-income countries and 
+with a 90% fatality rate if left untreated.
+Most likely pathogens
+The normal oral microbiota is richly diverse, including both aerobic and anaerobic bacteria, 
+together with fungi, especially Candida spp.. Most dental infections are caused by conditions in 
+the oral environment which favour the growth of pathogens. For example, an abundance of free 
+sugars, such as sucrose, favours cariogenic bacteria (e.g. Streptococcus mutans) resulting in tooth 
+decay. Reduced saliva flow makes patients with a dry mouth at increased risk of dental caries 
+as there is less natural protection from the saliva. Furthermore, a recent course of antibiotics is 
+a common cause for oral candidiasis (thrush). While the precise composition of an individual’s 
+oral microbiota will differ between parts of the mouth and will change over time and between 
+individuals, Table 8.1 shows a typical mix of the bacteria that are part of the oral microbiota in 
+health and disease. The oral microbiota and associated disease can be significantly different 
+depending on the precise location. For example, enamel caries is more often associated with 
+Streptococcus mutans whereas Actinomyces spp. predominate in root caries.
+Table 8.1 – Normal resident oral microbiota and pathogens most frequently 
+associated with dental infections (in descending order of frequency)
+Normal resident oral 
+microbiotaa
+Bacteria associated with 
+cariesb
+Bacteria associated with 
+periodontal disease
+Streptococcus spp.
+Actinomyces spp.
+Prevotella spp.
+Veillonella spp.
+Streptococcus spp. (e.g. 
+Streptococcus mutans)
+Lactobacillus spp.
+Actinomyces spp.
+Anaerobes (most cases), e.g.:
+Prevotella spp.
+Capnocytophaga spp.
+Aggregatibacter spp.
+Porphyromonas spp.
+a A richly diverse group of pathogens, including both aerobic bacteria and anaerobes.
+b Mostly acidogenic bacteria
+Clinical presentation 
+Typical signs and symptoms of selected oral conditions are described in the following 
+two sections. Dental pain is often due to inflammation rather than infection and careful 
+diagnosis is required to ensure optimal treatment is provided and antibiotic use minimized.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book83
+PRIMARY HEALTH CARE 
+8. Oral and dental infections 
+The severity of signs and symptoms may range from mild diseases (most cases) 
+that can be safely managed in an outpatient setting to severe infections of dental origin 
+(including sepsis) that require hospitalization and intravenous antibiotic treatment. Oral 
+and dental infections commonly involve the lymph nodes and can also spread through 
+the fascial spaces of the head and neck to block the airway, move into the brain through 
+the periorbital area and can present as osteomyelitis. Please refer to the chapters on sepsis, 
+lymphadenitis and osteomyelitis if these sequelae are suspected.
+Conditions that may require antibiotic treatment
+Abscess
+An apical abscess (Figure 8.2) is the most common type of dental abscess. It is often, but not 
+always, painful and characterized by persistent localized pain that can radiate to the ear, jaw 
+and neck. Tooth tenderness (stimulated by chewing or food trapping) is common as well as 
+swelling of the soft tissues adjacent to the affected tooth. 
+If an apical abscess is left untreated, there is a high risk of spread to vital structures 
+of the head and neck or systemic spread of the infection that can then lead to sepsis. Signs 
+that the infection has spread include cellulitis around the eye or throat (causing difficulties 
+swallowing or breathing, e.g. Ludwig angina), fever (≥ 38.0 °C), malaise, tachycardia 
+(increased heart rate) and lymphadenopathy. This must be treated as a medical emergency.
+A periodontal abscess (Figure 8.2) is less common than an apical abscess. It 
+is usually a localized accumulation of pus in the periodontal tissues (gums and alveolar 
+bone supporting the tooth) which can be readily drained by professional cleaning of the 
+periodontal pocket or by extraction of the tooth without the need for antibiotics.
+Figure 8.2 – Periapical and periodontal abscess
+Periapical Abscess
+Periapical Absces
+s
+Necrotic pulp
+Periapical
+abscess
+Periodontal Abscess
+Periodontal
+abcess
+84The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+8. Oral and dental infections 
+Pericoronitis
+Pericoronitis is inflammation and sometimes infection of the gum around a partially erupted 
+tooth, often a lower wisdom tooth (Figure 8.3). It usually occurs in late adolescence and early 
+adult life and can be treated by professional cleaning, saline (hot salty water) mouthwash 
+and, if necessary, by draining the infection. Antibiotics are not normally required, although 
+if infection is present, it should be carefully monitored as it can spread rapidly causing 
+difficulty opening the mouth, swallowing or breathing. Cellulitis of the neck (e.g. Ludwig 
+angina) is a medical emergency as it can quickly become life-threatening.
+Figure 8.3 – Pericoronitis
+Pericoronitis
+Inflamed gum
+Necrotizing periodontal disease
+Necrotizing periodontal disease (Figure 8.4), which was previously known as necrotizing 
+ulcerative gingivitis, is characterized by the following: severe pain and inflamed ulcerated 
+gums that bleed easily; necrosis of the interdental papillae; foul breath; and a bad taste in 
+the mouth. It may also be accompanied by systemic symptoms, such as fever ≥ 38.0 °C, 
+malaise and lymphadenopathy.
+Figure 8.4 – Necrotizing periodontal disease
+Necrotizing Periodontal Disease
+Necrotic gum
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book85
+PRIMARY HEALTH CARE 
+8. Oral and dental infections 
+Noma
+Noma is a necrotizing disease that destroys the mouth and face. It begins as necrotizing 
+periodontal disease that progresses rapidly, destroying the soft tissues and bones of 
+the mouth and further progressing to perforate the hard tissues and skin of the face. 
+It mostly affects young children between the ages of 2 and 6 years suffering from 
+severe malnutrition, living in extreme poverty and with weakened immune systems. Its 
+prevalence is highest in sub-Saharan Africa. Noma is fatal for 90% of the children affected. 
+If detected early, its progression can be rapidly halted, through basic oral hygiene rules, 
+diet supplementation with proteins and nutrients and with antibiotics. Early detection 
+helps to prevent suffering, disability and death. Please also refer to the WHO information 
+brochure for early detection and management of noma for more information about this 
+topic (77).
+Conditions that do not require antibiotic treatment
+Dental caries progression to pulpal disease
+Dental caries is the localized destruction of dental hard tissue (enamel or dentine) by acidproducing plaque bacteria in the presence of dietary sugar. This process can be reversible in 
+early lesions. Caries can sometimes lead to the formation of cavities (i.e. holes in the tooth) 
+which are often hidden in the space between the teeth. Diagnosis is based on response of 
+the tooth to cold/hot stimulus and radiographic imaging. Cavities and devitalized teeth may 
+appear dark in colour compared to other teeth.
+Caries develops slowly and can be pain free in the initial phase. However, if left 
+untreated, the lesion can extend to the dental pulp causing pulpitis to begin with, then 
+pulpal necrosis and ultimately dental abscess. Severe disease or necrosis of the dental pulp 
+as a consequence of dental caries can be associated with systemic infections.
+Reversible pulpitis is characterized by acute pain or discomfort initially caused by 
+drinking hot or cold beverages. It is possible to treat the problem at this stage with a simple 
+restoration.
+If caries progresses, irreversible pulpitis (Figure 8.5) develops causing constant 
+severe pain which characteristically keeps the patient awake at night. This pain may stop 
+suddenly when progression of the disease leads to necrosis of the dental pulp.
+If left untreated, apical periodontitis (Figure 8.5) often develops, characterized by 
+dull throbbing in the surrounding area (mouth and jaw) and soreness while biting. The pain 
+may be eased by cold and made worse by heat (e.g. hot and cold beverages). Progression 
+of the condition may lead to an apical abscess, and this is the most common cause of 
+dental abscess.
+86The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+8. Oral and dental infections 
+Figure 8.5 – Irreversible pulpitis and apical periodontitis
+Irreversible Pulpitis
+Ir
+r
+eversible Pulpiti
+s
+Inflamed pulp
+Caries
+Apical Periodontitis
+Necrotic pulp
+Inflamed 
+periodontal
+ligament
+Dry socket / alveolar osteitis
+Dry socket (alveolar osteitis) is a recognized inflammatory complication of tooth extraction. It 
+occurs 2–3 days after extraction and can last for up to 10 days. Severe pain develops a few days 
+after the dental procedure, associated with slow healing of the socket; it may be accompanied 
+by an unpleasant taste. Appropriate pain control is necessary as pain may last for many 
+days. Antibiotics are not appropriate for the prophylaxis or treatment of dry socket unless 
+osteomyelitis is suspected; please refer to the chapter on osteomyelitis if this is suspected. 
+Periodontal disease 
+Periodontal disease (Figure 8.6) is the term used to describe a range of conditions affecting 
+the tissues that surround and support the teeth, including gingivitis and periodontitis. As 
+these are generally immune-mediated diseases, it is usually inappropriate to use antibiotics 
+for their treatment.
+Figure 8.6 – Periodontal disease
+Periodontal Disease
+Periodontitis
+(Bone loss)
+Gingivitis
+(Inflamed gum)
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book87
+PRIMARY HEALTH CARE 
+8. Oral and dental infections 
+Gingivitis
+Gingivitis is characterized by redness and swelling of the gums due to the build up of food 
+debris and microbial biofilm. It is usually painless, but bleeding when toothbrushing is 
+common. Halitosis may be present. In its early stages, gingivitis is reversible with good oral 
+hygiene. Severe forms of gingivitis are known but are rare. 
+Periodontitis
+Periodontitis is an inflammatory disease characterized by the progressive destruction of the 
+alveolar bone which supports the teeth. It is often a hidden disease as it is generally painless 
+and progresses below the gums. Halitosis may be present. In case of periapical periodontitis, 
+soreness, while biting can occur due to a devitalized (dead) tooth.
+The disease process of periodontitis occurs over time (usually years) and people 
+often only become aware of it when their teeth start to move or fall out; a more aggressive 
+destruction of the bone may sometimes be seen. Oral health professionals use special 
+probes when carrying out periodontal screening to enable early diagnosis and treatment of 
+periodontitis. Addressing risk factors, including effective cleaning of the periodontal tissues 
+(under the gums), smoking cessation and good diabetes control are essential. Antibiotics 
+are only appropriate for the treatment of aggressively destructive conditions; antibiotics are 
+not appropriate for chronic periodontitis.
+Laboratory tests
+Patient microbiology tests
+Routine microbiology tests are not required in most cases of dental infection but can be 
+considered in severe cases requiring hospitalization, when culture and sensitivity testing 
+(e.g. blood and/or pus aspirates for culture) can help in the selection of an appropriate 
+antibiotic, for example, if cellulitis (e.g. Ludwig angina) is spreading to vital structures or if 
+sepsis is suspected. Please also refer to the chapter on sepsis, if suspected.
+Other tests
+Most dental infections are bacterial, except for oral thrush (a fungal infection usually caused 
+by Candida spp.) and cold sores (a viral infection) which are easily recognizable clinically.
+Acute dental conditions are routinely diagnosed using point-of-care tests and 
+investigations (see point-of-care tests and investigations in the following section).
+Routine laboratory tests are not required in most cases of dental infections but may 
+be considered in severe cases requiring hospitalization.
+88The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+8. Oral and dental infections 
+Using microbiology surveillance data
+Routine microbiology surveillance of oral microbiota does not generally take place, so such 
+data are unavailable for clinical guidance. 
+Point-of-care tests and investigations to assist 
+diagnosis
+Establishing the source of the dental pain/infection is an important element of accurate 
+diagnosis and is essential to make appropriate treatment decisions. Sensitivity of the tooth 
+to a cold stimulus indicates a vital pulp; depending on the intensity and duration of the 
+stimulated pain, this may indicate pulpitis. 
+No response to cold may indicate a non-vital/necrotic pulp and tenderness to 
+percussion (tapping the tooth) indicates that the pain originates in the supporting bone 
+and may be due to an abscess. Periodontal probing can identify a periodontal abscess if 
+pus exudes from a pocket greater than 3 mm or necrotizing ulcerative disease if there is 
+extremely tender gingival tissue and grey sloughing.
+Imaging
+If a dental infection is suspected, imaging using dental radiographs (X-rays) should be done 
+wherever possible as part of the diagnosis. Radiographs are important for differentiating 
+between the various causes of dental pain, including how far caries (decay) has progressed 
+and where tenderness to percussion is associated with a radiolucency (i.e. black area on 
+radiographic image) in the alveolar bone suggesting an abscess. Location of the radiolucency 
+relative to the tooth helps differentiate between an apical or periodontal abscess.
+Treatment 
+Dental bacterial infections are rarely self-limiting and may rapidly become life-threatening if 
+left untreated. Most dental infection and pain are amenable to treatment by removal of the 
+cause and drainage of the infection using a dental procedure, such as extraction of the tooth. 
+Removal of the cause of the infection using a dental procedure is usually the quickest and 
+safest way of resolving the problem, and is essential to avoid the risk of rapidly spreading and 
+potentially life-threatening infection. Antibiotics are normally only required for the treatment 
+of spreading infections.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book89
+PRIMARY HEALTH CARE 
+8. Oral and dental infections 
+No antibiotic care
+Most dental infections are characterized by some level of dental pain and, while adequate pain 
+control should always be offered, the prescription of medications alone is not usually appropriate.
+Caries, pulpal disease and dental abscesses are best treated with a dental procedure 
+to remove the source of the problem; using painkillers alone is suboptimal as the condition 
+can progress to a life-threatening spreading infection. 
+Dry socket (alveolar osteitis) is an extremely painful and common occurrence 
+following dental extraction. It occurs 2–3 days after extraction and can last for up to 10 days. 
+This condition requires optimum pain management but no antibiotics are needed unless 
+osteomyelitis is suspected; please refer to the chapter on osteomyelitis if this is suspected. 
+Ibuprofen and paracetamol are first choice painkillers for dental pain (Table 8.2). 
+In the case of severe pain, ibuprofen and paracetamol may work better when taken in 
+combination. 
+Caution should be exercised as the incidence of paracetamol (acetaminophen) 
+overdose in relation to dental pain is relatively high. Opioid painkillers should be avoided 
+as they offer no benefit for this sort of pain and are associated with the risk of substance 
+misuse.
+Table 8.2 – Medicines to control acute dental pain
+Important
+Medicines are listed in alphabetical order and they should all be considered equal treatment options.
+Medicine Formulation Dose and frequency
+Ibuprofena Oral liquid: 200 mg/5 mL
+Tablet: 200 mg; 400 mg; 
+600 mg
+Adults: 200–400 mg given every 6 to 8 
+hours (maximum dose of 2.4 g a day)
+Children: 
+• Pain control/antipyretic treatment: 
+5–10 mg/kg given every 6 to 8 hours
+6–< 10 kg: 50 mg given every 8 hours
+10–< 15 kg: 100 mg given every 8 hours
+15–< 20 kg: 150 mg given every 8 hours
+20–< 30 kg: 200 mg given every 8 hours
+≥ 30 kg: use adult dose
+continues
+90The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+8. Oral and dental infections 
+Table 8.2 continued
+Medicine Formulation Dose and frequency
+Paracetamol 
+(acetaminophen)b
+Oral liquid: 120 mg/5 mL; 
+125 mg/5 mL
+Suppository: 100 mg
+Tablet: 100 mg to 500 mg
+Adults: 500 mg–1 g given every 4 to 6 
+hours (maximum dose of 4 g a day)c
+Children:
+• Pain control/antipyretic treatment: 
+10–15 mg/kg given every 6 hours
+3–< 6 kg: 60 mg given every 6 hours
+6–< 10 kg: 100 mg given every 6 hours
+10–< 15 kg: 150 mg given every 6 hours
+15–< 20 kg: 200 mg given every 6 hours
+20–< 30 kg: 300 mg given every 6 hours
+≥ 30 kg: use adult dose
+a Not for children < 3 months, or for people with hypersensitivity to aspirin or any other NSAID (non-steroidal antiinflammatory drug), or for people with a history of gastrointestinal bleeding or ulceration.
+b Not recommended for use as an anti-inflammatory as it has not been proven to have such an effect. Warning: 
+overdose is relatively common among people with severe dental pain.
+c In patients with hepatic impairment or cirrhosis, maximum daily dose should be 2 g.
+Oral antiseptics 
+Regular use of mouthwashes with an antiseptic product (e.g. chlorhexidine) is not required 
+for the control of dental infections. Such products could be considered in case of acute 
+exacerbations of periodontal disease. Of note, no formulation of oral antiseptics is currently 
+included in the EML and EMLc and rinsing with saline (salty water) is usually adequate as 
+well as being cheaper and more readily available. Caution should be exercised with the 
+use of chlorhexidine mouthwash in patients following extractions or treatment of alveolar 
+osteitis (dry socket following dental extraction) as it has been associated with anaphylaxis. 
+Dental procedures
+Dental procedures are usually the quickest and safest solutions for dental pain and infection.
+Commonly performed dental procedures are briefly described in Table 8.3. Detailed 
+information on these procedures is beyond the scope of this chapter.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book91
+PRIMARY HEALTH CARE 
+8. Oral and dental infections 
+Table 8.3 – Commonly performed procedures for certain dental diseases
+Dental disease Procedure
+Abscess 1. Apical abscess
+Source control through:
+• Tooth extraction
+• Pulp extirpation (drainage of pus and removal of necrotic pulp 
+tissue by drilling through the tooth into the pulp) followed by 
+root canal treatment
+OR 
+• Soft tissue incision and drainage followed by tooth extraction 
+or root canal treatment.
+2. Periodontal abscess
+Source control through:
+• Tooth extraction
+OR 
+• Drainage of any pus collection by professional cleaning of the 
+periodontal tissues.
+Apical 
+periodontitis/
+pulpal necrosis
+Source control through:
+• Tooth extraction
+OR 
+• Pulp extirpation (drainage of pus and removal of necrotic pulp 
+tissue by drilling through the tooth into the pulp) followed by 
+root canal treatment
+Dental caries 
+(decay)/reversible 
+pulpitis
+Removal of caries and restorative filling
+Where access to dental care is not readily available or for people who are 
+unable to accept a dental procedure (e.g. due to dental phobia), silver 
+diamine fluoride may be appropriate to stop progression of the caries.
+Dry socket 
+(alveolar osteitis)
+Reassurance that this is a common yet painful outcome
+Irrigation of the socket with saline
+Pericoronitis Source control through:
+• Tooth extraction 
+OR 
+• Drainage of any pus collection by irrigation under the 
+operculum (flap of gum over the erupting tooth) with saline
+continues
+92The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+8. Oral and dental infections 
+Table 8.3 continued
+Dental disease Procedure
+Pulpitis (when 
+irreversible)
+Source control through:
+• Tooth extraction
+OR
+• Pulp extirpation (removal of the inflamed pulp and treatment 
+of the root canal)
+Necrotizing 
+periodontal disease 
+(previously known 
+as necrotizing 
+ulcerative 
+gingivitis)a
+• Regular toothbrushing with a fluoride-containing toothpaste and 
+use of an interdental brush or dental floss to remove plaque
+• Professional cleaning around the teeth and periodontal tissues 
+to remove the mineralized material known as scale, tartar or 
+calculus 
+• Smoking cessation advice
+Noma • Please refer to the WHO guidance for early detection and 
+management of noma (77)
+a Necrotizing periodontal disease can often be resolved by procedures alone – antibiotics are often not required.
+Antibiotic treatment
+Up to 10% of antibiotic prescribing in the outpatient setting can be by dentists for the 
+treatment of oral and dental infections or prophylaxis of surgical procedures, of which a 
+large proportion have been shown to be unnecessary or inappropriate (79). Efforts should 
+be made to restrict the use of antibiotics only to situations when their use is strictly 
+necessary (79,80).
+Antibiotic treatment is required only for few dental conditions. 
+Antibiotics are not appropriate for inflammatory conditions (including periodontitis, 
+irreversible pulpitis and dry socket treatment) because they do not prevent the development 
+of severe complications and cannot replace local surgical or non-surgical treatment. 
+Antibiotics should not be used before a dental procedure to: calm an infection; 
+decrease inflammation; cure toothache (pain relief is best achieved by a dental procedure 
+not a dental prescription); or prevent surgical site infections.
+Effective antibiotic treatment (along with a procedure for source control) is essential 
+in patients with severe, spreading dental infections. Severe cases include those with systemic 
+signs of infection, for example, facial swelling, inability to open the mouth, fever ≥ 38.0 °C and 
+tachycardia. Even when necessary, antibiotics should only be used to complement surgical 
+source control, for example, drainage of the abscess or tooth extraction. Antibiotic use could
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book93
+PRIMARY HEALTH CARE 
+8. Oral and dental infections 
+also be considered in severely immunocompromised patients (including patients with 
+uncontrolled diabetes) because they have a higher risk of complications. When antibiotic 
+treatment is considered necessary, empiric use of amoxicillin or phenoxymethylpenicillin as 
+indicated in Table 8.4 is considered appropriate. Using two antibiotics (e.g. amoxicillin and 
+metronidazole) as adjunctive treatment is not necessary in the vast majority of cases and 
+noma is usually the only indication for dual antibiotic therapy (using two antibiotics such as 
+amoxicillin and metronidazole).
+The AWaRe book does not include alternative antibiotic options in cases of allergy 
+to first-choice antibiotics. For dental infections, only penicillin options are recommended 
+by the AWaRe book, which may be considered problematic by some prescribers. However, 
+even though allergies to antibiotics (particularly to beta-lactams) are frequently selfreported or indicated in health records, in most cases (> 95%), these patients do not have a 
+true immunologically mediated allergy and it is very likely that they can safely tolerate the 
+medicine if re-exposed to it. Please refer to the chapter on allergies to antibiotics for more 
+information about this aspect.
+Prevention
+Dental caries does not occur without sugar, thus minimizing dietary free sugars is key to avoiding 
+dental pain and infections caused by dental caries. Further information on dietary sugar can be 
+found in the WHO guidance document on sugar intake for adults and children (73).
+As the progression of dental caries and periodontal disease may continue slowly 
+from childhood to adulthood, the negative health effects of oral disease are cumulative. 
+Even a small reduction in the risk factors early in life confers significant benefit in later life.
+Stopping tobacco use, whether smoked or smokeless, should also be promoted for 
+the prevention of periodontal disease and oral cancer. 
+Preventing the accumulation of dental plaque is important for preventing dental 
+diseases such as dental caries or periodontal disease.
+Where people are unable to perform adequate oral hygiene themselves, regular 
+professional dental cleaning may be necessary to maintain oral health.
+Fluoride plays an important role in improving oral health by strengthening the 
+tooth enamel and making it more resistant to dental caries. Further information on fluoride 
+and oral health can be found on the WHO website (74). For prevention of dental caries in 
+children, refer to the WHO guidance document (75).
+94The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+8. Oral and dental infections 
+Table 8.4 – Empiric antibiotic treatment for selected cases of severe dental infections
+Note
+Antibiotic treatment is not required for most dental conditions. Dental procedures (e.g. drainage 
+of an abscess and tooth extraction) are the main treatment.
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Adults Children Total treatment 
+duration
+ Amoxicillin a (oral): 500 mg 
+given every 8 hours
+OR
+ Phenoxymethylpenicillin a 
+(oral): 500 mg (800 000 IUb) 
+given every 6 hours
+ Amoxicillin a (oral): 80–90 mg/kg/day 
+Oral weight bands:
+3–< 6 kg: 250 mg given every 12 hours
+6–< 10 kg: 375 mg given every 12 hours
+10–< 15 kg: 500 mg given every 12 hours
+15–< 20 kg: 750mg given every 12 hours
+≥ 20 kg: 500 mg given every 8 hours or 
+1 g given every 12 hours
+OR
+ Phenoxymethylpenicillin a (oral): 
+10–15 mg/kg/dose (16 000–24 000 IU/
+kg/doseb) given every 6 to 8 hours 
+≥ 30 kg: use adult dose
+3 days, if adequate 
+source control 
+is achieved; 
+otherwise 5 daysc 
+Patients should 
+be reassessed 
+before the end 
+of treatment 
+to check the 
+resolution of the 
+infection.
+IU: international units.
+Note. All dosages are for normal renal and hepatic function.
+a For the treatment of infections of the dental soft tissues (e.g. pericoronitis or necrotizing periodontal disease), 
+metronidazole is an option.
+b Units of the potassium salt.
+c If source control is not achieved or in cases where operative dental treatment is not available, often because of the 
+unavailability of dentists in many low resource settings.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.

@@ -1,0 +1,747 @@
+# TOPIC: pneumonia_hospital_acquired
+
+--- [WHO AWaRe Antibiotic Book (2022) | 28. Hospital-acquired pneumonia | p.397-411 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book381
+HOSPITAL FACILITY 
+28. Hospital-acquired pneumonia
+Key messages
+• Antibiotic-resistant pathogens are more frequent in hospital-acquired pneumonia (HAP) 
+than in community-acquired pneumonia (CAP). The frequency of multidrug-resistant 
+pathogens as causes of HAP varies by setting (e.g. among different regions, or within a 
+hospital) and this has implications for empiric guidance.
+• HAP in ventilated patients – called ventilator-associated pneumonia (VAP) – is a special 
+subtype of HAP with higher frequency of multidrug-resistant pathogens. It is not addressed 
+specifically in this chapter.
+• Risk factors for multidrug-resistant pathogens (e.g. longer hospital stay, previous 
+colonization and antibiotic use) need to be considered when choosing empiric treatment.
+• In people with HAP (and VAP), the respiratory tract is often colonized with bacteria and a 
+positive culture may not indicate an acute infection.
+• Potential overtreatment of HAP with broad-spectrum antibiotics of the Watch and Reserve 
+groups should be avoided when possible, particularly in non-ventilated patients.
+Other relevant WHO resources (please check regularly for updates)
+• Pocket book of hospital care for children: guidelines for the management of common 
+childhood illnesses, 2013 (31).
+Definition
+Hospital-acquired pneumonia (HAP) is an acute illness affecting the lungs caused by 
+pathogens present in the hospital setting and presenting 48 hours or more after admission. 
+If pneumonia develops while the patient is on a ventilator, HAP is also called ventilatorassociated pneumonia (VAP). Of note, the cut-off of 48 hours after admission is chosen for 
+convenience and surveillance purposes. Depending on the situation (particularly in nonventilated patients), even pneumonias occurring several days to weeks after hospitalization 
+can be caused by pathogens known to cause CAP , while nosocomial pathogens can be 
+acquired and cause infection in patients hospitalized for fewer than 48 hours.
+382
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+28. Hospital-acquired pneumonia
+Hospital-acquired pneumonia
+Page 1 of 2
+Diagnosis
+Clinical Presentation
+Non-ventilated patients: New or w orsening cough +/-
+sputum pr oduc tion, difficult and rapid br eathing , r educed
+ox ygen saturation, cr epitations on lung auscultation, or
+chest pain/discomfo rt with no alternativ e explanation;
+feve r≥38.0 °C usually pr esent (may be absent, especially in
+the elderly)
+Ventilated patients: Incr eased r espirator y secr etions ,
+r educed ox ygen saturation and a new lung in/g246ltrate on a
+chest-radiograph
+Note: the clinical presentation is non-speci/g246c and other
+diseases (e.g. pulmonary embolism) can mimic HAP. HAP/VAP
+may progress to sepsis
+All cases:
+•Blood cultur es (ideally befor e star ting antibiotics)
+•M icr oscopy and cultur e of r espirator y samples (ideally
+befor e star ting antibiotics)
+•Urinar y antigens for andL. pneumophila S. pneumoniae
+Selected cases (depending on epidemiology and risk
+factors): Nasophar yngeal swab for in/g248uenza viruses and
+SARS -C oV -2
+Microbiology Tests
+Determine disease severity: Blood pH and gases , whit e
+blood cell coun t
+Differentiate bacterial and viral (taking into account pretest probability): C-r eac tiv e pr otein and/or pr ocalcitonin
+Note: tests depend on availability and clinical severity (e.g.
+blood gases will only be done in severe cases)
+•I f sepsis is suspec ted consider additional laborator y tests
+(see sepsis infographic)
+Other LaboratoryTests
+Chest radiograph needed because other conditions ha ve
+similar clinical featur es and antibiotics may be av oided if
+bac terial pneumonia is not suggested
+Imaging
+Important: a positiv e r espirator y cultur e may indicate
+colonization rather than acute infec tion
+Important:
+•Chest radiographs can be difficult to interpr et and
+corr elate with the clinical pr esentation; man y other
+conditions mimic infec tious in/g246ltrates (especially in
+the elderly)
+•T he radiographic pattern cannot be used to
+accurately pr edic t the micr obial cause
+Hospital-acquired pneumonia (HAP): A cute illness affec ting
+the lungs caused by pathogens in the hospital setting and
+pr esenting 48 hours or mor e after admission
+Ventilator-associated pneumonia (VAP): A cute illness
+affec ting the lungs caused by pathogens in the hospital setting
+and pr esenting 48 hours or mor e after admission while the
+patient is on a ve ntilato r
+De/g246nition
+•HAP may be caused by the same pathogens found in CAP or by
+multidrug-r esistant (MDR) pathogens
+•M ajority of data on the micr obiologic etiology of HAP is deriv ed
+fr om ve ntilated patients in the intensiv e car e setting
+Bacteria most frequently associated with HAP:
+•G ram-negativ e bac teria including ,Pseudomonas aeruginosa
+Acinetobacter baumannii Klebsiellaand Enter obac terales such as
+pneumoniae (including multidrug-r esistant strains)
+•Streptococcus pneumoniae
+•Haemophilus in/g248uenzae
+• (including MRSA )Staphylococcus aureus
+•A naer obes (mostly associated with large aspiration of
+secr etions)
+•Legionella pneumophila
+RespiratoryV iruses:
+•I n/g248uenza viruses (A and B)
+•O ther r espirator y viruses (including SARS -C oV -2)
+Risk factors for infection with MDR pathogens:
+•P r evious tr eatment with antibiotics
+•P r olonged hospital stay (par ticularly in the ICU)
+•P rior colonization with MDR pathogens
+•H igh local pr evalence of r esistant pathogens (e .g . among S.
+aureus P. aeruginosaand Gram-negativ e bac teria, including )
+Most Likely Pathogens
+Important: the cut -o ff of 48 hours is chosen fo r
+convenience and sur v eillance purposes
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+383
+HOSPITAL FACILITY 
+28. Hospital-acquired pneumonia
+Hospital-acquired pneumonia
+Page 2 of 2
+Key principles:
+•Vaccination against pathogens that can commonly cause
+pneumonia
+•Good hand hygiene
+•Maintain mobility
+•Maintain good oral and dental care
+•Maintain nutrition in hospital
+•Elevate the head of the bed to reduce the chances of aspirating
+respiratory secretions into the lungs
+•Avoid intubation or reduce duration as much as possible
+Prevention
+Important:
+•Consider stopping treatment if HAP is ruled out or an
+alternative diagnosis can be made
+•If not severely ill, consider targeted treatment based
+on microbiology results
+Treatment
+Clinical Considerations
+Empiric antibiotic treatment should be guided by:
+•The severity of symptoms (scoring systems exist but are
+not addressed here), considering local prevalence of
+resistant pathogens and individual risk factors for resistant
+pathogens
+In patients with VAP speci/g246cally consider:
+•Need for double anti-pseudomonal coverage (risk of
+infection caused by isolates resistant to an antibiotic used
+for monotherapy)
+7 days; reassess diagnosis and consider longer treatment if
+the patient is not clinically stable at day 7
+Antibiotic Treatment Duration
+Bundles of care speci/g246c to the ICU also usually include:
+•Minimizing sedation
+•Regularly assessing if the endotracheal tube may be removed;
+extubate patients as soon as it is safe to do so
+•Selective oral decontamination (SOD) and/or selective
+decontamination of the digestive tract (SDD) to reduce the
+bacterial burden of the upper (with SOD) and lower (with SDD)
+digestive tract through the administration of non-absorbable
+antibiotics
+•SOD/SDD can help reduce the incidence of VAP, yet there is
+concern about the risk of selecting resistant bacteria
+Important:
+•Simplify empiric treatment to a more narrowspectrum antibiotic based on culture results or rapid
+clinical improvement if culture results unavailable
+•Step down to oral treatment is based on improvement
+of symptoms, signs of infection and the ability to take
+oral antibiotics
+HAP (non-VAP)
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Amoxicillin+clavulanic acid 1 g+200 mg q8h IV
+OR 875 mg + 125 mg q8h ORAL
+Consider if low-risk of multidrug-resistant infections (e.g. short
+hospitalization before symptom onset and no prior antibiotic
+exposure)
+Ceftriaxone 2 g q24h IV (1 g q24h *)IM
+----------------------------------- -----------------------------------OR
+Cefotaxime 2 g q8h IV/IM
+*A larger volume would be painful to give as intramuscular
+injection
+----------------------------------- -----------------------------------OR
+Piperacillin+tazobactam 4 g+500 mg q6h IV
+----------------------------------- -----------------------------------OR
+Piperacillin+tazobactam offers anti-pseudomonal coverage,
+which the other options do not (risk of P. aeruginosa higher in
+patients with recent antibiotic exposure, known previous
+respiratory colonization and underlying lung diseases)
+384
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+28. Hospital-acquired pneumonia
+Hospital-acquired pneumonia
+Page 1 of 2
+Diagnosis
+Clinical Presentation
+Non-ventilated patients: New or w orsening cough +/-
+sputum pr oduc tion, difficult and rapid br eathing , r educed
+ox ygen saturation, cr epitations on lung auscultation, or
+chest pain/discomfo rt with no alternativ e explanation;
+feve r≥38.0 °C usually pr esent (may be absent)
+Ventilated patients: Incr eased r espirator y secr etions ,
+r educed ox ygen saturation and a new lung in/g246ltrate on a
+chest-radiograph
+Note: the clinical presentation is non-speci/g246c and other
+diseases (e.g. pulmonary embolism) can mimic HAP. HAP/VAP
+may progress to sepsis
+All cases:
+•Blood cultur es (ideally befor e star ting antibiotics)
+•M icr oscopy and cultur e of r espirator y samples (ideally
+befor e star ting antibiotics)
+Selected cases (depending on epidemiology and risk
+factors): Nasophar yngeal swab for in/g248uenza viruses and
+SARS -C oV -2
+Microbiology Tests
+Determine disease severity: Blood pH and gases , whit e
+blood cell coun t
+Differentiate bacterial and viral (taking into account pretest probability): C-r eac tiv e pr otein
+Note: tests depend on availability and clinical severity (e.g.
+blood gases will only be done in severe cases)
+•I f sepsis is suspec ted consider additional laborator y tests
+(see sepsis infographic)
+Other LaboratoryTests
+Chest radiograph needed because other conditions ha ve
+similar clinical featur es and antibiotics may be av oided if
+bac terial pneumonia is not suggested
+Imaging
+Important: a positiv e r espirator y cultur e may indicate
+colonization rather than acute infec tion
+Important:
+•Chest radiographs can be difficult to interpr et and
+corr elate with the clinical pr esentation; man y other
+conditions mimic infec tious in/g246ltrates
+•T he radiographic pattern cannot be used to
+accurately pr edic t the micr obial cause
+Hospital-acquired pneumonia (HAP): A cute illness affec ting
+the lungs caused by pathogens in the hospital setting and
+pr esenting 48 hours or mor e after admission
+Ventilator-associated pneumonia (VAP): A cute illness
+affec ting the lungs caused by pathogens in the hospital setting
+and pr esenting 48 hours or mor e after admission while the
+patient is on a ve ntilato r
+De/g246nition
+•HAP may be caused by the same pathogens found in CAP or by
+multidrug-r esistant (MDR) pathogens
+•M ajority of data on the micr obiologic etiology of HAP is deriv ed
+fr om ve ntilated patients in the intensiv e car e setting
+Bacteria most frequently associated with HAP:
+•G ram-negativ e bac teria including ,Pseudomonas aeruginosa
+Acinetobacter baumannii Klebsiellaand Enter obac terales such as
+pneumoniae (including multidrug-r esistant strains)
+•Streptococcus pneumoniae
+•Haemophilus in/g248uenzae
+• (including MRSA )Staphylococcus aureus
+•A naer obes (mostly associated with large aspiration of
+secr etions)
+•Legionella pneumophila
+RespiratoryV iruses:
+•I n/g248uenza viruses (A and B)
+•O ther r espirator y viruses (including SARS -C oV -2)
+Risk factors for infection with MDR pathogens:
+•P r evious tr eatment with antibiotics
+•P r olonged hospital stay (par ticularly in the ICU)
+•P rior colonization with MDR pathogens
+•H igh local pr evalence of r esistant pathogens (e .g . among S.
+aureus P. aeruginosaand Gram-negativ e bac teria, including )
+Most Likely Pathogens
+Important: the cut -o ff of 48 hours is chosen fo r
+convenience and sur v eillance purposes
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+385
+HOSPITAL FACILITY 
+28. Hospital-acquired pneumonia
+Hospital-acquired pneumonia
+Page 2 of 2
+Key principles:
+•Vaccination against pathogens that can commonly cause
+pneumonia
+•Good hand hygiene
+•Maintain mobility
+•Maintain good oral and dental care
+•Maintain nutrition in hospital
+•Elevate the head of the bed to reduce the chances of aspirating
+respiratory secretions into the lungs
+•Avoid intubation or reduce duration as much as possible
+Prevention
+Important:
+•Consider stopping treatment if HAP is ruled out or an
+alternative diagnosis can be made
+•If not severely ill, consider targeted treatment based
+on microbiology results
+Treatment
+Clinical Considerations
+Empiric antibiotic treatment should be guided by:
+•The severity of symptoms (scoring systems exist but are
+not addressed here), considering local prevalence of
+resistant pathogens and individual risk factors for resistant
+pathogens
+In patients with VAP speci/g246cally consider:
+•Need for double anti-pseudomonal coverage (risk of
+infection caused by isolates resistant to an antibiotic used
+for monotherapy)
+HAP:; reassess diagnosis and consider longer7 days
+treatment if the patient is not clinically stable at day 7
+Antibiotic Treatment Duration
+Bundles of care speci/g246c to the ICU also usually include:
+•Minimizing sedation
+•Regularly assessing if the endotracheal tube may be removed;
+extubate patients as soon as it is safe to do so
+Important:
+•Simplify empiric treatment to a more narrowspectrum antibiotic based on culture results or rapid
+clinical improvement if culture results unavailable
+•Step down to oral treatment is based on improvement
+of symptoms, signs of infection and the ability to take
+oral antibiotics
+HAP (non-VAP)
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Ceftriaxone 80 mg/kg/dose q24h IV/IM
+----------------------------------- -----------------------------------OR
+Cefotaxime 50 mg/kg/dose q8h IV/IM
+----------------------------------- -----------------------------------OR
+----------------------------------- -----------------------------------OR
+Piperacillin+tazobactam offers anti-pseudomonal coverage,
+which the other options do not (risk of P. aeruginosa higher in
+patients with recent antibiotic exposure, known previous
+respiratory colonization and underlying lung diseases)
+Amox = amoxicillin
+Consider if low-risk of multidrug-resistant infections
+(e.g. short hospitalization before symptom onset and no prior
+antibiotic exposure)
+Oral liquid must be refrigerated after reconstitution
+Piperacillin+tazobactam 100 mg/kg/dose of
+piperacillin component q8h IV
+Amoxicillin+clavulanic acid
+IV:
+•1st week of life: 50 mg/kg/dose of amoxicillin
+component q12h
+•> 1st week of life: 50 mg/kg/dose of
+amoxicillin component q8h
+ORAL: 80-90 mg/kg/day of amoxicillin
+component
+•:Oral weight bands
+3-<6 kg 250 mg of amox/dose q12h
+6-<10 kg 375 mg of amox/dose q12h
+10-<15 kg 500 mg of amox/dose q12h
+15-<20 kg 750 mg of amox/dose q12h
+≥20 kg 500 mg of amox/dose q8h or
+1 g of amox/dose q12h
+386The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+28. Hospital-acquired pneumonia
+Pathophysiology
+Colonization of the oropharynx by bacteria from the hospital environment, aspiration of 
+secretions into the lower respiratory tract and compromised host defence mechanisms are 
+all implicated in the pathogenesis of HAP . Pathogens can also reach the lung alveoli through 
+the blood or by direct spread (e.g. from an infection of the pleural or intra-abdominal space). 
+Secretions may become contaminated with bacteria (including with multidrug-resistant 
+strains) during patient care despite infection prevention and control efforts. Inhalation of 
+pathogens (mostly viruses) is another mechanism of infection to consider, especially during 
+epidemic seasons or during pandemics such as COVID-19.
+The presence of an endotracheal tube is a major risk factor for pneumonia (VAP) 
+because the mechanisms that usually prevent the microaspiration of secretions into the 
+lower respiratory tract are bypassed and also because biofilms (where bacteria can survive 
+and multiply) can form on the internal and external surfaces of the tracheal cannula. 
+Epidemiology 
+Health care-associated infections are frequent across the world – around a quarter of all 
+hospital antibiotic prescriptions were for health care-associated infections in a 2015 global 
+survey in more than 50 countries (291) and HAP is an important health care-associated 
+infection. The incidence of HAP can vary between hospitals, depending on the patient 
+population being evaluated and the case definition used. However, the incidence is overall 
+higher in mechanically ventilated patients treated in intensive care units than in nonventilated patients not requiring intensive care (292). 
+Risk factors for HAP in non-ventilated patients include: (i) patient-related 
+factors such as swallowing dysfunction and severe underlying medical conditions (e.g. 
+immunosuppression, chronic lung disease); and (ii) treatment-related factors such as 
+mechanical ventilation (for VAP) and feeding through a nasogastric tube, because their 
+presence can lead to aspiration of oropharyngeal secretions into the lower respiratory 
+tract. These conditions are particularly common in elderly and frail patients (293). HAP is 
+associated with higher in-hospital mortality than CAP , and VAP is the form of HAP with the 
+highest mortality (293,294).
+Most likely pathogens
+HAP may be caused by the same pathogens found in CAP or by multidrug-resistant 
+pathogens (Table 28.1). In general antibiotic resistance is more prevalent in hospitalacquired strains but the frequency of multidrug-resistant pathogens varies between 
+hospitals and different patient populations. Usually, the risk of infection with multidrug-
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book387
+HOSPITAL FACILITY 
+28. Hospital-acquired pneumonia
+resistant pathogens is increased in patients with HAP because they have often been 
+exposed to different regimens of antibiotics before developing HAP . The risk increases with 
+prolonged hospitalization (higher risk of transmission, more antibiotic use) especially if in 
+a critical care setting and in intubated patients. It is important to note that most data on 
+the microbiological etiology of HAP come from ventilated patients in an intensive care 
+setting because samples from the lower respiratory tract can be relatively easily obtained. 
+In contrast, in non-ventilated patients, bronchoalveolar lavage is associated with a risk of 
+respiratory deterioration and non-invasive sampling techniques are often not sufficient to 
+obtain an accurate microbiological diagnosis of etiologic agents in pneumonia.
+Table 28.1 – Pathogens most frequently associated with hospital-acquired 
+pneumonia (in descending order of frequency)
+Bacteria Viruses Fungi
+Gram-negative bacteria including 
+Pseudomonas aeruginosa, Acinetobacter 
+baumannii and Enterobacterales 
+such as Klebsiella pneumoniae 
+(including multidrug-resistant strains 
+such as those producing ESBL and 
+carbapenemases)
+Streptococcus pneumoniae
+Haemophilus influenzae
+Staphylococcus aureus (including MRSA)
+Anaerobes (mostly associated with 
+aspiration of a large amount of 
+secretions)
+Legionella pneumophila
+Influenza virus (A and B)
+Other respiratory viruses 
+(including SARS-CoV-2)
+Mostly Aspergillus 
+spp. in severely 
+immunocompromised 
+patients or ventilated 
+patients with influenza
+ESBL: extended spectrum beta-lactamase; MRSA: methicillin-resistant Staphylococcus aureus; SARS-CoV-2: severe 
+acute respiratory syndrome coronavirus 2.
+Clinical presentation
+The clinical manifestations are the same as in all other forms of pneumonia: new or worsening 
+cough with or without sputum production, dyspnoea (difficulty in breathing), tachypnoea 
+(cut-off points for rapid breathing vary with age), reduced oxygen saturation, crepitations 
+on lung auscultation, or chest pain or discomfort without an alternative explanation. Fever 
+≥ 38.0 °C is usually present but may be absent, especially in elderly people.
+In ventilated patients, pneumonia is usually suspected in those with increased 
+secretions, reduced oxygen saturation and a new lung infiltrate on a chest X-ray.
+388The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+28. Hospital-acquired pneumonia
+HAP and VAP may progress to sepsis and septic shock. Please refer to the sepsis 
+chapter if this is suspected.
+It is important to note that accurate diagnosis of HAP is difficult in the absence 
+of a good reference standard. Pulmonary infiltrates on chest X-ray may be caused by a 
+variety of non-infectious conditions and the clinical presentation may be very non-specific. 
+There is considerable interobserver variability among specialists in the diagnosis of HAP . It 
+is important to consider the possibility of over diagnosis of HAP and think about stopping 
+antibiotic treatment if HAP is ruled out or an alternative diagnosis can be made.
+Laboratory tests 
+Patient microbiology tests
+Tests to be considered to guide antimicrobial treatment of HAP are shown in Table 28.2.
+However, most patients will not have culture data to guide antibiotic treatment. 
+In addition, in people with HAP , the respiratory tract is often colonized with bacteria and a 
+positive culture may indicate colonization rather than an acute infection, especially if the 
+sample was obtained by non-invasive methods.
+Table 28.2 – Microbiology tests to consider if hospital-acquired pneumonia is 
+suspected as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Blood cultures 
+and antimicrobial 
+susceptibility testing
+To detect bacterial bloodstream 
+infection
+Health care facilities with 
+clinical laboratories
+Respiratory sample 
+microscopya (Gram 
+stain)
+To assess microbial morphology 
+and adequacy of the specimen 
+for culture by identifying white 
+blood cells and squamous 
+epithelial cells
+Health care facilities with 
+clinical laboratories
+Respiratory 
+sample culturea 
+and antimicrobial 
+susceptibility testing
+Initial step to detect and 
+identify bacterial and fungal 
+species for selection of 
+appropriate antimicrobial 
+regimens
+Health care facilities with 
+clinical laboratories
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book389
+HOSPITAL FACILITY 
+28. Hospital-acquired pneumonia
+Table 28.2 continued
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Urinary antigens for 
+Legionella pneumophila 
+and Streptococcus 
+pneumoniae
+To diagnose legionellosis and 
+pneumococcal pneumonia
+–b
+Nasopharyngeal swab 
+for NAAT for influenzac
+To diagnose seasonal influenza 
+infection
+Health care facilities with 
+clinical laboratories but also 
+in primary care settings
+Nasopharyngeal swab 
+for NAAT or antigen 
+test for SARS-CoV-2d
+To diagnose COVID-19 Health care facilities with 
+clinical laboratories (NAAT) 
+and primary care settings 
+(antigen test)
+Nasopharyngeal swab 
+for NAAT for respiratory 
+viruses other than 
+influenza or SARS-
+CoV-2 (e.g. respiratory 
+syncytial virus)
+To diagnose respiratory viruses 
+other than influenza or SARS-
+CoV-2
+–b
+COVID-19: coronavirus disease 2019; EDL: Model List of Essential In Vitro Diagnostics; NAAT: nucleic acid 
+amplification test; SARS-CoV-2: severe acute respiratory syndrome coronavirus 2.
+a Respiratory sampling can be done using invasive or non-invasive methods depending on the patient’s condition 
+(e.g. if the patient is mechanically ventilated or not) and local availability. Invasive methods include bronchoalveolar 
+lavage and blind bronchial sampling (usually called mini- bronchoalveolar lavage), while non-invasive methods 
+include spontaneous expectoration, sputum induction, nasotracheal suctioning or endotracheal aspiration.
+b This test is not in the current WHO Model List of Essential In Vitro Diagnostics (6).
+c To help decide on antiviral treatment and for infection prevention and control purposes, for example, to prevent 
+transmission to other patients.
+d Depending on the current epidemiology.
+Other tests
+A number of tests could be considered based on local availability to determine disease 
+severity, help differentiate bacterial and viral causes and determine treatment duration (and 
+the move from intravenous to oral treatment) during follow up (Table 28.3). Please also refer 
+to the chapter on sepsis if suspected.
+390The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+28. Hospital-acquired pneumonia
+Table 28.3 – Laboratory tests to consider if hospital-acquired pneumonia is 
+suspected as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+White blood cell count To help in the diagnosis of 
+infection
+Health care facilities with 
+clinical laboratories
+Blood pH and gases To assess lung function and 
+metabolic or kidney disorders, 
+and monitor oxygen therapy
+To measure blood pH, oxygen 
+and carbon dioxide, serum 
+bicarbonate and anion gap
+Health care facilities with 
+clinical laboratories
+C-reactive protein To detect inflammation as an 
+indicator of various conditions 
+(e.g. sepsis)
+Health care facilities with 
+clinical laboratories
+Procalcitonin To guide antibiotic therapy or 
+discontinuation in sepsis and 
+lower respiratory tract infection
+Only in tertiary care facilities
+EDL: Model List of Essential In Vitro Diagnostics.
+Using microbiology surveillance data
+Routine microbiology surveillance of isolates associated with HAP and their antibiotic 
+susceptibilities could help inform local empiric guidance. Therefore, empiric guidance 
+given by the AWaRe book could be reviewed and adapted based on local clinically relevant 
+microbiology surveillance data. 
+However, clinically relevant data for this infection would be derived from local 
+hospital blood culture and bronchoalveolar lavage fluid cultures taken from patients 
+in intensive care who were diagnosed with HAP or VAP . Caution should be taken with 
+surveillance of routine respiratory sampling culture data from patients with HAP or VAP due 
+to the high rates of colonization seen in many settings.
+Imaging
+When HAP (or VAP) is suspected clinically, a chest X-ray should be obtained. HAP (or VAP) 
+presents with clinical signs and symptoms along with a new or worsening pulmonary 
+infiltrate on a chest X-ray and leukocytosis.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book391
+HOSPITAL FACILITY 
+28. Hospital-acquired pneumonia
+A chest X-ray is needed because other conditions have similar clinical features and 
+antibiotics may be avoided if the chest X-ray does not suggest bacterial pneumonia. Chest 
+X-rays can be difficult to interpret and to correlate with the clinical presentation (especially 
+in elderly people where the clinical presentation is usually non-specific), and many other 
+conditions (such as heart failure) can mimic infectious infiltrates. Therefore, caution is 
+warranted to avoid over-diagnosis and overtreatment with antibiotics. It should also be noted 
+that the radiographic pattern cannot be used to accurately predict the microbial etiology.
+Antibiotic treatment 
+Empiric treatment should be guided by the severity of symptoms (scoring systems to 
+evaluate disease severity exist but they are beyond the scope of this chapter) and by risk 
+factors for multidrug-resistant infections. In particular, individualized assessment should 
+be done based on risk factors such as: previous antibiotic treatment (e.g. in the 90 days 
+preceding the infection); prolonged hospital stay, particularly in the intensive care unit (> 5 
+days); previous colonization with multidrug-resistant pathogens; and a high local prevalence 
+of multidrug-resistant pathogens (among potential causative pathogens of HAP , such as 
+Staphylococcus aureus and Gram-negative bacteria including Pseudomonas aeruginosa).
+Antibiotic options to consider for empiric treatment in patients with HAP (non-VAP) 
+are given in Table 28.4. Treatment should always be tailored to culture results once these 
+become available.
+Empiric treatment in patients with VAP should be chosen considering the time from 
+intensive care unit admission/intubation to symptom onset. In ventilated patients (as with 
+non-ventilated patients who develop HAP), infections that develop early (e.g. a few days 
+after admission) are unlikely to be caused by multidrug-resistant pathogens or Pseudomonas 
+aeruginosa and could safely be treated with amoxicillin+clavulanic acid. At the other end, an 
+antibiotic with a broader spectrum of activity (and active against Pseudomonas aeruginosa) 
+is preferable in cases with a longer time interval between admission to hospital and onset 
+of symptoms.
+There are some areas of uncertainty about empiric treatment for HAP .
+• Adding vancomycin to the first-choice antibiotic options as an empiric treatment 
+when MRSA infection is suspected; for example, in settings with a high prevalence 
+of Staphylococcus aureus isolates that are methicillin resistant and in patients 
+known to be colonized by MRSA.
+• The need for empiric double coverage against Pseudomonas to improve coverage 
+in severely ill patients (e.g. with septic shock or in need of ventilator support) 
+because of the risk of infection caused by Pseudomonas aeruginosa isolates 
+resistant to an antibiotic used for monotherapy. The need for empiric double
+392The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+28. Hospital-acquired pneumonia
+coverage could therefore be considered in severely ill patients with VAP (or with 
+severe HAP requiring ventilator support) on a case-by-case basis based on local 
+antibiotic resistance data and the personal history of the patient, such as known 
+respiratory colonization with multidrug-resistant Pseudomonas aeruginosa , 
+particularly in patients with underlying chronic lung disease. However, specific 
+antibiotic combinations to use in these cases are not covered in the AWaRe book 
+as they are currently not included in the EML and EMLc with which this book is 
+closely aligned.
+Simplify empiric treatment to a more narrow-spectrum antibiotic (often also called 
+de-escalation) based on culture results (targeted treatment) or based on rapid clinical 
+improvement when no microbiology test results are available.
+Step-down to oral treatment is based on improvement of symptoms and signs 
+of infection and the ability to take oral antibiotics allowing discharge of the patient home 
+when clinically appropriate.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book393
+HOSPITAL FACILITY 
+28. Hospital-acquired pneumonia
+Table 28.4 – Empiric antibiotic treatment for hospital-acquired pneumonia (not for 
+ventilator-associated pneumonia) 
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Adults Children Total treatment 
+duration
+ Amoxicillin+clavulanic acid a 
+(IV/oral)
+IV: 1 g + 200 mg given every 
+8 hours 
+Oral: 875 mg + 125 mg given 
+every 8 hours
+OR 
+ Cefotaxime (IV/IM): 2 g given 
+every 8 hours
+OR 
+ Ceftriaxone b (IV/IM) 
+IV: 2 g given once a day 
+IM: 1 g given once a day
+OR 
+ Piperacillin+tazobactam c (IV): 
+4 g + 500 mg given every 6 hours 
+ Amoxicillin+clavulanic acid a,d 
+IV: 
+First week of life: 50 mg/kg of 
+amoxicillin/dose given every 
+12 hours 
+Beyond first week of life: 50 mg/
+kg of amoxicillin/dose given every 
+8 hours
+Oral: 80–90 mg/kg/day of 
+amoxicillin component
+Oral weight bands:
+3–< 6 kg: 250 mg of amoxicillin/
+dose given every 12 hours
+6–< 10 kg: 375 mg of amoxicillin/
+dose given every 12 hours
+10–< 15 kg: 500 mg of 
+amoxicillin/dose given every 
+12 hours
+15–< 20 kg: 750 mg of 
+amoxicillin/dose given every 
+12 hours
+≥ 20 kg: 500 mg of amoxicillin/
+dose given every 8 hours or 1 g 
+of amoxicillin/dose given every 
+12 hours
+OR 
+ Cefotaxime (IV/IM): 50mg/kg/
+dose given every 8 hours
+OR 
+7 days
+Reassess the diagnosis 
+and consider longer 
+treatment if the 
+patient is not clinically 
+stable at day 7
+continues
+394The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+28. Hospital-acquired pneumonia
+Table 28.4 continued
+Adults Children Total treatment 
+duration
+ Ceftriaxone (IV/IM): 80 mg/kg/
+dose given once a day
+OR 
+ Piperacillin+tazobactam c (IV): 
+100 mg/kg/dose of piperacillin 
+component given every 8 hours
+IM: intramuscular; IV: intravenous.
+Note: All dosages are for normal renal and hepatic function.
+a Amoxicillin+clavulanic acid can be used in certain circumstances with low-risk of multidrug-resistant infections 
+(e.g. short hospitalization before symptom onset and if no prior antibiotic exposure).
+b The reason for giving a lower dose when ceftriaxone is given IM (rather than IV) is that a larger volume would be 
+painful to give as intramuscular injection.
+c Piperacillin+tazobactam offers anti-Pseudomonas coverage, which the other options do not. Risk of Pseudomonas 
+aeruginosa is higher in patients with recent antibiotic exposure and especially in patients with known previous 
+respiratory colonization by Pseudomonas aeruginosa and underlying lung diseases.
+d Oral liquid formulations must be refrigerated after reconstitution as clavulanic acid is rapidly metabolized in high 
+ambient temperatures.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+Prevention
+A detailed discussion of the prevention of HAP and VAP is beyond the scope of this chapter; 
+however, key general principles are presented. Some measures such as vaccination against 
+pathogens that can commonly cause pneumonia overlap with those presented in the 
+chapter on CAP . Specific measures that apply to the hospital setting include: maintaining 
+mobility, good oral and dental care, maintaining adequate nutritional support in hospital, 
+elevating the head of the bed to reduce the chances of aspirating respiratory secretions 
+into the lower lungs, avoiding intubation or reducing its duration as much as possible, and 
+good hand hygiene. Good hand hygiene applies to patients and staff or family caregivers 
+that come into contact with patients during the hospital stay. In addition, in the intensive 
+care unit, locally adapted bundles of interventions to prevent VAP are usually in place and 
+include, for example, maintaining adequate endotracheal tube cuff pressure, minimizing 
+sedation and assessing regularly if the endotracheal tube can be removed in order to 
+extubate patients as soon as it is safe to do so.
+Selective oral decontamination and/or selective decontamination of the digestive 
+tract can also be considered based on local intensive care unit protocols. These preventive 
+measures have been extensively studied to prevent hospital-acquired infections. The
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book395
+HOSPITAL FACILITY 
+28. Hospital-acquired pneumonia
+rationale for their use is to reduce the bacterial burden of the upper (with selective oral 
+decontamination) and lower (with selective decontamination of the digestive tract) digestive 
+tract through the administration of non-absorbable antibiotics – topical antibiotics applied 
+to the oropharynx for selective oral decontamination and non-absorbable antibiotics 
+administered through nasogastric tube for selective decontamination of the digestive 
+tract. Evidence exists that these practices can help reduce the incidence of VAP but there is 
+important concern about the risk of selecting resistant bacteria.

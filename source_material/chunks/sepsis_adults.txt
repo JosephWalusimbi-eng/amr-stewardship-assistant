@@ -1,0 +1,1337 @@
+# TOPIC: sepsis_adults
+
+--- [WHO AWaRe Antibiotic Book (2022) | 24. Sepsis in adults (including septic shock) | p.311-334 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book295
+HOSPITAL FACILITY 
+24. Sepsis in adults (including septic 
+shock)
+Key messages
+• Sepsis is an acute life-threatening condition characterized by organ dysfunction due to 
+a dysregulated host response to infection. Its most severe form – associated with high 
+mortality – is septic shock.
+• Usually signs and symptoms are non-specific, the presence of any danger signs of severe 
+illness should always be assessed to guide clinical management.
+• Antibiotic treatment should be started as soon as possible when sepsis is suspected. 
+However, not every patient with an infection has sepsis and the term sepsis should therefore 
+be used carefully.
+• Diagnostic tests and imaging should not delay treatment and should be guided by the 
+suspected site of primary infection.
+• Antibiotic treatment should be regularly re-evaluated including the possibility to simplify or 
+stop antibiotics.
+Other relevant WHO resources (please check regularly for updates)
+• Sepsis – fact sheet (234).
+• Global report on the epidemiology and burden of sepsis: current evidence, identifying gaps 
+and future directions (235).
+• Pneumococcal conjugate vaccines in infants and children under 5 years of age: WHO 
+position paper –February 2019 (35).
+• Typhoid vaccines: WHO position paper – March 2018 (154).
+• Meningococcal A conjugate vaccine: updated guidance, February 2015 (236).
+Definition
+In some patients with infection, a dysregulated host immune response to the infection 
+contributes to the severity of the disease and organ dysfunction. These patients are at 
+increased risk of death and severe sequelae and should be identified and treated rapidly.
+296The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+24. Sepsis in adults (including septic shock)
+The definition of sepsis has remained a challenge because sepsis is not a single entity (the 
+pathogens and primary sites of infection causing sepsis, for example, vary widely) but a 
+continuum of many different clinical presentations.
+Because of the serious clinical consequences of sepsis (see section on epidemiology), 
+many attempts have been made to provide clinicians with simple and easy-to-use criteria 
+for identifying patients with sepsis.
+Note
+Sepsis in adults was last defined in 2016 by the Third International Consensus Definitions for 
+Sepsis and Septic Shock, known as SEPSIS-3 (237). According to this definition, sepsis is a lifethreatening organ dysfunction caused by a dysregulated host response to infection.
+Compared with previous definitions (SEPSIS-1 in 1991 and SEPSIS 2 in 2001), 
+SEPSIS-3 removed the criteria for “systemic inflammatory response syndrome (SIRS)” from 
+the definition because the criteria lacked specificity. SIRS referred to an exaggerated 
+inflammatory response of the body to a noxious cause characterized by a combination 
+of symptoms such as fever or hypothermia, increased heart and/or respiratory rate and 
+increased white blood cell count. SEPSIS-3 also dropped the term severe sepsis because 
+the concept of non-severe sepsis was not helpful – all sepsis is a severe disease – and could 
+be misleading and divert attention from providing rapid and effective treatment. Instead, 
+SEPSIS-3 differentiates only between sepsis and septic shock. Septic shock is defined as a 
+type of sepsis in which underlying circulatory and cellular and/or metabolic abnormalities 
+are severe enough to substantially increase mortality. Patients with septic shock have 
+persistent hypotension that requires vasopressor medication to maintain a mean arterial 
+pressure of 65 mmHg or more and a level of serum lactate more than 2 mmol/L (> 18 mg/
+dL) in the absence of hypovolaemia (238).
+It should be noted that the definition of sepsis does not include the detection of 
+bacteria in blood cultures (i.e. bacteraemia). See Box 24.1 for terms and definitions related 
+to bloodstream infections.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book297
+HOSPITAL FACILITY 
+24. Sepsis in adults (including septic shock)
+Box 24.1 – Bacteraemia
+Bacteraemia (i.e. the detection of bacteria in blood cultures) is not part of the definition of sepsis. 
+While many patients with sepsis have bacteraemia, this is not a universal finding and most 
+patients with bacteraemia do not meet sepsis criteria. The term septicaemia should be avoided. 
+The terms bacteraemia and bloodstream infection, are often used interchangeably. However 
+bloodstream infections can also be caused by pathogens other than bacteria (e.g. fungi).
+The Global Antimicrobial Resistance Surveillance System (GLASS) uses the following definition 
+of suspected bloodstream infection (239): 
+Presence of two or more of the following clinical signs in an adult patient:
+• Hyperthermia (> 38.0 °C) or hypothermia (< 36.0 °C)
+• Respiratory rate ≥ 20 breaths/minute
+• Heart rate > 90 beats/minute.
+A confirmed bloodstream infection requires the isolation of a clinically relevant pathogen from 
+a blood sample of a patient (all ages) seeking health care at a health care facility.
+The criteria to identify sepsis according to SEPSIS-3 are difficult to apply in low- and 
+middle-income countries because severity is based on criteria and tests that may not be 
+routinely available in these settings, for example, the use of inotropes, and determination 
+of arterial oxygen partial pressure, bilirubin levels, creatinine concentrations and platelet 
+counts. Furthermore, the Sequential Organ Failure Assessment (SOFA) score (see Table 24.1) 
+has been validated mostly in high-income settings. Its performance in low- and middleincome countries, where causes of sepsis rarely encountered in most high-income settings 
+(e.g. dengue and malaria) are frequent and HIV infection is more prevalent, is unclear.
+To implement the SEPSIS-3 definition, clinical and laboratory signs are graded to 
+give an overall SOFA score, and an acute change of two or more points in the baseline 
+score is proposed to identify organ dysfunction due to infection and predict the short-term 
+mortality risk (237). 
+The SOFA score (range 0–24) includes six parameters – two clinical and four 
+laboratory ones. Each parameter can have a value from 0 to 4 (Table 24.1). The baseline SOFA 
+score can be assumed to be zero in patients with no known pre-existing organ dysfunction.
+298The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+24. Sepsis in adults (including septic shock)Table 24.1 – Sequential Organ Failure Assessment (SOFA) score
+Parameter Score
+0 1 2 3 4
+PaO2/FiO2, mmHg (kPa) ≥ 400
+(53.3)
+300 - 399
+(40.0 - 53.2)
+200 - 299
+(26.7 - 39.9)
+100 - 199
+(13.3 - 26.6)
+< 100
+(13.3)
+MAP mmHg (kPa) and 
+catecholamine doses 
+needed, µg/kg/min for 
+≥ 1 h
+MAP: ≥ 70 (9.3) MAP: < 70 (9.3) Dopamine: < 5
+OR
+Dobutamine any 
+dose
+Dopamine: 5.1–15
+OR
+Epinephrine /
+norepinephrine: 
+≤ 0.1
+Dopamine: > 15
+OR
+Epinephrine /
+norepinephrine: 
+> 0.1
+Platelets, x 103/µL 
+(or x 109/L)
+≥ 150 100 - 149 50 - 99 20 - 49 < 20
+Bilirubin, mg/dL 
+(µmol/L)
+< 1.2 
+(20)
+1.2–1.9 
+(20–32)
+2–5.9 
+(33–101)
+6.0–11.9 
+(102–204)
+> 12.0 
+(204)
+Glasgow coma scalea 15 13–14 10–12 6–9 < 6
+Creatinine, mg/dL 
+(µmol/L)
+< 1.2 
+(110)
+1.2–1.9 
+(110–170)
+2.0–3.4 
+(171–299)
+3.5–4.9 
+(300–440)
+> 5.0 
+(440)
+Urine output, mL/day < 500 < 200
+FIO2: fractional inspired oxygen; MAP: mean arterial pressure; PaO2: arterial oxygen partial pressure.
+a The Glasgow come scale is a clinical scale used to measure a person’s level of consciousness based on the assessment of three parameters: eye opening response 
+(maximum 4 points assigned), best verbal response (maximum 5 points assigned) and best motor response (maximum 6 points assigned). The total score can range from 
+3 (completely unresponsive) to 15 (responsive). Scores lower than 8 usually indicate a comatose state. To calculate the Glasgow coma scale, several online calculators exist.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book299
+HOSPITAL FACILITY 
+24. Sepsis in adults (including septic shock)
+A simplified quick version of the SOFA score called qSOFA (Table 24.2) exists that 
+only includes three clinical criteria (mental status, blood pressure and respiratory rate) 
+and an increase by two points can be used at the bedside for early identification of sepsis, 
+even in low-resource settings (240). A retrospective analysis of cohort studies conducted in 
+17 hospitals in 10 low- and middle-income countries in sub-Saharan Africa, Asia and the 
+Americas found that a high qSOFA score identified patients with infections who were at an 
+increased risk of death (beyond the risk they had based on their baseline risk factors), with 
+some variability among cohorts (241).
+Table 24.2 – Quick Sequential Organ Failure Assessment (qSOFA) score
+Parameter Value
+Respiratory rate ≥ 22 breaths/min
+Altered mental status Glasgow coma scale < 15a
+Systolic blood pressure ≤ 100 mmHg (≤ 13.3 kPa)
+a The Glasgow come scale is a clinical scale used to measure a person’s level of consciousness based on the 
+assessment of three parameters: eye opening response (maximum 4 points assigned), best verbal response 
+(maximum 5 points assigned) and best motor response (maximum 6 points assigned). The total score can range 
+from 3 (completely unresponsive) to 15 (responsive). Scores lower than 8 usually indicate a comatose state. To 
+calculate the Glasgow coma scale, several online calculators exist.
+300
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+24. Sepsis in adults (including septic shock)
+Sepsis & septic shock
+Page 1 of 4
+Sepsis (Sepsis 3):
+•A life -thr eatening organ dysfunc tion caused by a dysr egulate d
+host r esponse to infec tion
+Septic Shock:
+•A type of sepsis in which underlying cir culato ry and cellular
+and/or metabolic abnormalities substantially incr ease shor tterm mor talit y
+•P atients ha ve persistent h ypotension and r equir e vasopr essors
+to maintain a mean ar terial pr essur e ≥65 mmHg (8.7 kP a) and
+pr esent with a lev el of serum lac tate >2 mmol/L (>18 mg/dL) in
+the absence of h ypov olemia
+De/g246nition
+•S epsis can originate fr om an y type of infec tion in an y organ
+system. Ba ct eria, viruses , fungi and pr otozoa can all cause sepsis
+(but only sepsis of bac terial origin is addr essed her e)
+•C onsider pathogens other than bac teria based on local
+epidemiology (e .g . malaria, viral haemorrhagic fev ers , in/g248uenza,
+C OVID -19)
+Most Likely Pathogens
+Diagnosis
+Clinical Presentation
+Important: bac teraemia is not par t of the de/g246nition of
+sepsis , while man y patients with sepsis ha ve bac teraemia,
+most patients with bac teraemia do not ful/g246ll sepsis criteria
+Community Setting (in alphabetical order):
+•E nterobacterales
+-, and othersEscherichia coli Klebsiella pneumoniae
+-I nv asiv e non-typhoidal (elderly patients andSalmonella
+patients with HIV )
+-T yphi and Pa rat yphi (causing enteric fev er)Salmonella
+• (including MRSA )Staphylococcus aureus
+•( group A)S. pyogenes Streptococcus
+•( including penicillin non-susceptible strains)S. pneumoniae
+Others to consider:
+• (pathogen causing melioidosis ,Burkholderia pseudomallei
+endemic in South-East Asia and Australia)
+•Neisseria meningitidis
+Hospital Setting (in alphabetical order):
+•*Acinetobacter baumannii
+•E nterobacterales* (, Escherichia coli Klebsiella pneumoniae
+and others)
+•*Pseudomonas aeuroginosa
+• (including MRSA )Staphylococcus aureus
+*Including multidrug-r esistant strains such as those producing
+ESBL and carbapenemases
+•Early re cognition of the source of infec tion and tr eatmen t
+is fundamental and impac ts mor talit y
+•S ymptoms ar e highly variable and mostly non-speci/g246c
+•P atients often pr esent with fev er (≥ 38.0 °C ) or
+h ypothermia (< 36.0 °C ); tach y car dia, r espirator y distr ess ,
+acute alter ed mental status and h ypotension. Reduced
+urine output may be pr esen t
+Important:
+•A ccurate identi/g246cation of patients with sepsis is
+difficult and no single re ference standard test exists
+•A doption and use of the internationally accepted
+de/g246nitions is critical to av oid ov er diagnosis and
+over tr eatmen t
+•W hile it is impor tant to rapidly tr eat patients with
+sepsis and septic shock with antibiotics it should be
+kept in mind that only a ve ry small pr opor tion of
+patients with an infec tion ha ve sepsis
+•Guided by the suspec ted primar y site of infec tion but
+should always include blood cultur es (ideally tw o sets)
+•T ests should ideally be per formed befor e initiating
+antibiotics
+Microbiology Tests
+To Identify a Bacterial Infection:
+•W hite blood count, CRP and/or pr ocalcitonin
+•I n initial patient assessment, in/g248ammato ry markers in the
+normal range do not rule out sepsis if high pr e- test
+pr obabilit y
+To Identify Organ Dysfunction:
+•, blood ur ea nitr ogenBilirubin, blood pH and gases
+(r equir ed for CURB-65 scor e calculation if suspec te d
+pneumonia), complete blood count with ,platelets
+creatinine, elec tr olytes , glucose , whole blood lac tate
+•Tests in bold are required for SOFA score calculation
+Other LaboratoryTests
+Guided by the suspec ted primar y site of infec tion
+Imaging
+•P re ve nting infections includes vaccinations , adequate
+nutrition, and access to safe water and sanitation
+•P re ve nting ev olution of infec tion to sepsis r elies on timely
+diagnosis and adequate tr eatment of the underlying infec tion
+Prevention
+Maternal Sepsis:
+•C onsider andListeria monocytogenes Streptococcus
+agalactiae, ho we v er the urinar y trac t r epr esents main
+sour ce of infec tion
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+301
+HOSPITAL FACILITY 
+24. Sepsis in adults (including septic shock)
+Sepsis & septic shock
+Page 2 of 4
+Organ Dysfunction Assessment Scores
+Sequential Organ Failure Assessment (SOFA)
+Quick SOFA (qSOFA)
+De/g246nitions: FiO₂: fractional inspired oxygen; PaO₂: arterial oxygen partial pressure; MAP: mean arterial pressure
+Parameter
+PaO₂/FiO₂, mmHg (kPa)
+MAP mmHg (kPa) and
+catecholamine doses
+needed (μg/kg/min for
+≥ 1h)
+Platelets (x 10³/μL, x 10⁹/L)
+Bilirubin mg/dL (μmol/L)
+Glasgow coma scale
+Creatinine mg/dL (μmol/L)
+Urine output (mL/day)
+0
+≥ 400
+(53.3)
+MAP≥7 0
+(9.3)
+≥ 150
+< 1.2
+(20)
+15
+< 1.2
+(110)
+1
+300 - 399
+(40.0 - 53.2)
+MAP < 70
+(9.3)
+100 - 149
+1.2 - 1.9
+(20 - 32)
+13 - 14
+1.2 - 1.9
+(110 - 170)
+2
+200 - 299
+(26.7 - 39.9)
+Dopamine
+< 5 OR
+dobutamine
+any dose
+50 - 99
+2.0 - 5.9
+(33-101)
+10 - 12
+2.0 - 3.4
+(171 - 299)
+3
+100 - 199
+(13.3 - 26.6)
+Dopamine 5.1–15
+OR epinephrine
+(adrenaline)/
+norepinephrine ≤ 0.1
+20 - 49
+6.0 - 11.9
+(102 - 204)
+6 - 9
+3.5 - 4.9
+(300-440)
+< 500
+4
+< 100
+(13.3)
+Dopamine > 15
+OR epinephrine/
+norepinephrine
+> 0.1
+< 20
+> 12.0
+(204)
+< 6
+> 5.0
+(440)
+< 200
+Score
+Parameter
+Respiratory Rate
+Altered Mental Status
+Systolic Blood Pressure
+Value
+≥ 22 breaths/min
+Glasgow Coma Scale < 15
+≤ 100 mmHg
+Interpretation
+An acute change of≥2 point s from the baseline score
+suggests organ dysfunction due to infection
+These scores have not been extensively validated for use in lowand middle-income settings
+302
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+24. Sepsis in adults (including septic shock)
+Sepsis & septic shock
+Page 3 of 4
+Treatment (Section 1 of 2)
+•Varies based on underlying disease, degree of
+immunosuppression and clinical response
+•Clinical Sepsis of Unknown Origin: 7 days
+•Meningitis: (may differ in epidemics and with10 days
+different pathogens)
+•Lower RespiratoryTract Infection: 5 days
+Antibiotic Treatment Duration
+Clinical Considerations
+•Treatment includes treatment of the underlying infection,
+source control, and life-saving interventions (not addressed
+here)
+•Many infections require surgical source control; antibiotics
+are complementary in these cases
+•Start IV antibiotics as soon as possible if sepsis is
+suspected; results of tests should not delay antibiotics
+•To choose the best empiric treatment consider most likely
+infection site and pathogens, local prevalence of antibiotic
+resistance, comorbidities, and risk of multidrug-resistant
+organisms
+•If pathogen and susceptibilities are known, review
+antibiotics and adapt treatment
+Meningitis
+Refer also to the bacterial meningitis infographic
+All dosages are for normal renal function
+Consider second choice options only when /g246rst choice options
+are not available
+All dosages are for normal renal function
+Clinical Sepsis of Unknown Origin
+----------------------------- -----------------------------OR
+Cefotaxime 2 g q8h IV
+Ceftriaxone 2 g q24h IV
+---------------------- ----------------------COMBINED WITH
+----------------------------- -----------------------------OR
+Amikacin 15 mg/kg q24h IV
+Gentamicin 5 mg/kg q24h IV
+Amikacin (and to a lesser extent gentamicin) retain
+activity against ESBL-producing strains and can be
+considered as a carbapenem-sparing option
+Although (for each infection) antibiotics are listed in
+alphabetical order they should all be considered equal
+treatment options
+First Choice
+----------------------------------- -----------------------------------OR
+Cefotaxime 2 g q6h IV
+Ceftriaxone 2 g q12h IV
+Amoxicillin 2 g q4h IV
+Second Choice
+----------------------------------- -----------------------------------OR
+Ampicillin 2 g q4h IV
+----------------------------------- -----------------------------------OR
+Benzylpenicillin 4 million IU (2.4 g) q4h IV
+----------------------------------- -----------------------------------OR
+Chloramphenicol 1 g q6h IV
+Use chloramphenicol only when no other option is available
+Refer also to the community-acquired pneumonia infographic
+All dosages are for normal renal function
+Lower RespiratoryT ract Infection
+----------------------------- -----------------------------OR
+Cefotaxime 2 g q8h IV
+Ceftriaxone 2 g q24h IV
+---------------------- ----------------------COMBINED WITH
+Clarithromycin 500 mg q12h IV
+Important:
+• empiric treatment to a more narrowSimplify
+spectrum antibiotic based on culture results or rapid
+clinical improvement if culture results unavailable
+• is based onStep down to oral treatment
+improvement of symptoms, signs of infection and the
+ability to take oral antibiotics
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+303
+HOSPITAL FACILITY 
+24. Sepsis in adults (including septic shock)
+Sepsis & septic shock
+Page 4 of 4
+Refer also to the necrotizing fascitiis infographic
+All dosages are for normal renal function
+Skin and Soft Tissues Infection
+Enteric Fever
+Refer also to the enteric fever infographic
+All dosages are for normal renal function
+Ceftriaxone 2 g q24h IV
+Treatment (Section 2 of 2)
+•Varies based on underlying disease, degree of
+immunosuppression and clinical response
+•Enteric Fever: 10 days
+•Intra-abdominal and Skin & Soft Tissue infections: generally
+7 days depending on infection type, if adequate surgical
+source control achieved and on clinical recovery
+•UrinaryT ract Infection: 7 days
+Antibiotic Treatment Duration Although (for each infection) antibiotics are listed in
+alphabetical order they should all be considered equal
+treatment options
+Refer also to the appendicitis, cholecystitis/cholangitis,
+diverticulitis and liver abscess infographics
+All dosages are for normal renal function
+Intra-abdominal Infection
+----------------------------------- -----------------------------------OR
+----------------------------- -----------------------------OR
+Cefotaxime 2 g q8h IV
+Ceftriaxone 2 g q24h IV
+---------------------- ----------------------COMBINED WITH
+Metronidazole 500 mg q8h IV
+First choice options do not provide adequate activity against
+many ESBL-producing isolates; consider meropenem
+Piperacillin+tazobactam 4 g+500 mg q6h IV
+Meropenem 2 g q8h IV
+First Choice
+Second Choice
+------------------- -------------------COMBINED WITH
+Ceftriaxone 2 g q24h IV
+Metronidazole 500 mg q8h IV
+In case of suspected necrotizing fasciitis ceftriaxone and
+metronidazole should ONLY be used if Streptococcus
+pyogenes has been excluded
+-------------------------------- --------------------------------OR
+Vancomycin 15-20 mg/kg q12h IV
+IF MRSA SUSPECTED, ADD
+Refer also to the upper urinary tract infection infographic
+All dosages are for normal renal function
+UrinaryT ract Infection
+Amikacin retains activity against ESBL-producing strains
+and can be considered as a carbapenemsparing option
+----------------------------- -----------------------------OR
+Cefotaxime 2 g q8h IV
+Ceftriaxone 2 g q24h IV
+---------------------- ----------------------COMBINED WITH
+Amikacin 15 mg/kg q24h IV
+Some countries may have problems of increasing ceftriaxone
+resistance
+------------------- -------------------COMBINED WITH
+Clindamycin 900 mg q8h IV
+Piperacillin+tazobactam 4 g+500 mg
+q6h IV
+Preferred option in case of con/g246rmed or suspected
+necrotizing fasciitis
+304The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+24. Sepsis in adults (including septic shock)
+Pathophysiology
+Sepsis is a serious and complex clinical condition caused by a complicated interplay 
+between an infectious agent and a dysregulated systemic immunological response by the 
+patient, which could potentially result in multiple organ dysfunction and possibly death. 
+Risk factors for sepsis mostly overlap with those that predispose patients to infection, for 
+example, being very old or very young, immunosuppression due to HIV infection, cancer, on 
+medications, cirrhosis, alcohol abuse, poorly controlled diabetes, indwelling catheters and 
+malnutrition. Genetic factors are also implicated in the likelihood of developing sepsis in 
+patients with an infection (242).
+Epidemiology
+Sepsis is an important global health problem that can be difficult to diagnose and manage, 
+especially in low-income settings (234,243). According to the Global Burden of Disease 
+study, about 49 million new cases of sepsis occurred worldwide in 2017, a decrease of 
+almost 19% compared with 1990 (244). The most common underlying cause of sepsis is still 
+diarrhoeal disease – 9 million attributable cases in 2017. Since 2017, the number of sepsisrelated deaths has decreased worldwide (a 29% decrease compared with 1990) but deaths 
+were still high (11 million in 2017) with the highest burden in sub-Saharan Africa. The most 
+common underlying cause of sepsis-related death was lower respiratory tract infections, 1.8 
+million attributable deaths in 2017. Children were more affected by sepsis than adults; in 
+2017, 20 million new cases of sepsis were in children < 5 years of age (see the chapter on 
+sepsis in children and neonates). However, a second peak in incidence in older adults was 
+reported. About one in four cases of sepsis is estimated to be hospital-acquired with high 
+mortality rates (245).
+Sepsis can also develop during pregnancy or in the first weeks after delivery. This 
+form of sepsis is called maternal sepsis. In 2017, about 12 million new cases of maternal 
+sepsis were reported (244). In the period 2003–2009, sepsis was the third leading cause 
+of maternal death worldwide (10.7% of all maternal deaths or about 260 000 deaths) after 
+haemorrhage and hypertensive disorders (246). Based on results of the global maternal 
+sepsis study of more than 700 facilities in 52 countries, 70 pregnant women per 1000 live 
+births in the study cohort were hospitalized with an infection, mostly of bacterial origin 
+– 77% of those where a pathogen was identified (247). Infections with severe maternal 
+outcomes (e.g. death) were frequent (11 per 1000 live births); however, large variations 
+existed across countries – 15 per 1000 live births in low- and middle-income countries and 
+0.6 per 1000 in high-income countries. Infections originated most often from the genital 
+(endometritis and chorioamnionitis) or urinary tract followed by skin, respiratory and 
+abortion-related infections (247).
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book305
+HOSPITAL FACILITY 
+24. Sepsis in adults (including septic shock)
+Infections with antibiotic-resistant bacteria are an increasingly important cause of 
+sepsis worldwide with important implications for the management, especially in settings 
+with limited resources. Antibiotic resistance can affect patient outcomes, increasing shortterm mortality, mostly because in these cases effective antibiotic treatment active against 
+the resistant pathogen may not be available or given late. In a 2015 European study, 170 
+DALYs per 100 000 population were due to infections caused by antibiotic-resistant bacteria, 
+of which about 70% were caused by bloodstream infections (248). 
+In 2017, the World Health Assembly adopted a resolution on sepsis to urge WHO 
+Member States to implement measures to reduce the burden of sepsis by increasing 
+efforts to improve sepsis prevention, diagnosis and treatment, including through increased 
+research, training of health care professionals and public awareness campaigns (234,249).
+Most likely pathogens
+Sepsis can originate from any type of infection (bacterial, viral, fungal and protozoal) in any 
+organ system. Infections can be community-acquired or hospital-acquired (or health careassociated). The bacterial pathogens associated with sepsis will vary widely depending on 
+the primary site of infection, geography and place of acquisition (community or hospital, 
+see Table 24.3).
+Pathogens other than bacteria should be considered according to the local 
+epidemiology. For example, certain settings are endemic for Plasmodium spp., the 
+pathogen causing malaria, and this should always be considered where appropriate, 
+including after travel to endemic areas. Many other pathogens, including viruses causing 
+viral haemorrhagic fevers or respiratory viruses such as the influenza virus and SARS-CoV-2 
+and fungal infections, also need to be considered where appropriate (community- and 
+hospital-acquired infections).
+The mortality from sepsis is higher with infections caused by multidrug-resistant 
+bacteria, which are commonly identified in hospital-acquired infections.
+306The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+24. Sepsis in adults (including septic shock)
+Table 24.3 – Bacteria most frequently identified in blood cultures in patients with 
+sepsis (also refer to Box 24.1 on bacteraemia)
+Setting of acquisition of the infection Bacteria (in alphabetical order)
+Community Enterobacteralesa (Escherichia coli, Klebsiella 
+pneumoniae and others)
+Invasive non-typhoidal Salmonella (elderly 
+patients and patients living with HIV)
+Salmonella Typhi and Paratyphi (causative 
+agent of enteric fever)
+Staphylococcus aureus (including MRSA)
+Streptococcus pneumoniae (including 
+penicillin non-susceptible strains)
+Streptococcus pyogenes (group A 
+Streptococcus)
+Other pathogens to consider
+Burkholderia pseudomallei (causative agent of 
+melioidosis which is endemic in South-East 
+Asia and Australia)
+Neisseria meningitidis (including strains 
+resistant to third-generation cephalosporins) 
+Hospital Acinetobacter baumanniia
+Enterobacteralesa (Escherichia coli, Klebsiella 
+pneumoniae and others)
+Pseudomonas aeuroginosaa 
+Staphylococcus aureus (including MRSA)
+Maternal sepsis (additional pathogens to 
+consider)b
+Listeria monocytogenes
+Streptococcus agalactiae (group B 
+Streptococcus)
+HIV: human immunodeficiency virus; MRSA: methicillin-resistant Staphylococcus aureus.
+Note. Most data on the pathogens associated with sepsis come from high-income settings.
+a Including multidrug-resistant strains such as those producing extended-spectrum beta-lactamases and 
+carbapenemases.
+b In cases of maternal sepsis, however, the urinary tract represents the main source of infection (see epidemiology 
+section).
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book307
+HOSPITAL FACILITY 
+24. Sepsis in adults (including septic shock)
+Clinical presentation
+Note
+Presenting symptoms and signs and the clinical course of sepsis are highly variable and depend 
+on the underlying pathogen, the main organ affected and the host response. Early recognition 
+and treatment of sepsis is essential and can affect mortality. Therefore, signs of severe infection 
+and organ dysfunction should be identified promptly.
+Patients with sepsis usually present with non-specific signs and symptoms. The most 
+frequent symptoms include fever (≥ 38.0 °C) or hypothermia (< 36.0 °C), some degree of 
+respiratory distress (e.g. increased respiratory rate), tachycardia, acute altered mental status 
+(e.g. disorientation and agitation) and hypotension. Oliguria (i.e. reduced urine output) may 
+also be present.
+Sepsis may be more difficult to diagnose in countries where vector-transmitted 
+diseases (e.g. malaria and dengue) are endemic; therefore, sepsis should always be 
+considered if there are any signs and symptoms of sepsis in these settings.
+As outlined earlier, bacteraemia (i.e. the detection of bacteria in blood cultures) 
+may be present depending on the type of pathogen, the primary site of infection and 
+whether antibiotic treatment was administered before obtaining blood cultures. However, 
+bacteraemia is not always found in patients with sepsis and most patients with bacteraemia 
+do not have sepsis.
+Note
+Accurate identification of patients with sepsis is difficult and no single gold standard test exists. 
+Therefore, adoption and use of internationally accepted case definitions (e.g. the SEPSIS-3 
+definition) is critical to avoid over-diagnosis and overtreatment. Not every patient with an 
+infection has sepsis, in fact, only a very small proportion of patients with infection have sepsis. 
+The term sepsis should therefore be used carefully.
+Sepsis of unknown origin . The treatment of this type of sepsis is based on the 
+most probable clinical situation. Patients should be carefully examined to localize a source 
+of infection, including pressure ulcers, deep-seated abscesses and indwelling vascular and 
+urinary catheters. In patients with central lines, the possibility of a central line-associated 
+bloodstream infection should be considered with a positive blood culture and no other 
+apparent source of infection. Bloodstream infections can also be associated with peripheral 
+vascular lines.
+308The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+24. Sepsis in adults (including septic shock)
+Laboratory tests
+Patient microbiology tests
+Note
+Diagnostic tests should be guided by the suspected primary site of infection. Tests, and 
+management, which are outlined in the following paragraphs, will be different for suspected 
+pneumonia, intra-abdominal infection, urinary tract infection, meningitis or sepsis of unknown 
+origin. Please also refer to specific chapters of the AWaRe book based on the suspected 
+underlying infection.
+Microbiology tests help establish a definitive diagnosis of sepsis and identify the causative 
+pathogen and underlying infection. Isolating a pathogen from a normally sterile body site 
+(e.g. blood, cerebrospinal fluid) that is compatible with the clinical signs and symptoms 
+usually confirms the diagnosis. However, the causative pathogen is not identified in a 
+substantial proportion of cases, especially in patients pretreated with antibiotics.
+Tests to consider when sepsis of bacterial origin is suspected include those listed in 
+Table 24.4. Ideally, these tests should be done before starting antibiotic treatment.
+Table 24.4 – Microbiology tests to consider when sepsis of bacterial origin in 
+suspected depending on the most likely source of infection as indicated in the 
+WHO EDL (6)
+Suspected 
+underlying 
+infection
+Diagnostic test Purpose of the test Settings where 
+the test should 
+be available
+All cases 
+where sepsis is 
+suspected 
+Blood cultures 
+and antimicrobial 
+susceptibility 
+testing
+To detect bacterial 
+bloodstream infections
+Health care 
+facilities 
+with clinical 
+laboratories
+Lower respiratory 
+tract infection
+Sputum 
+microscopy (Gram 
+stain)
+To assess microbial 
+morphology and 
+adequacy of the 
+specimen for culture by 
+identifying white blood 
+cells and squamous 
+epithelial cells
+Health care 
+facilities 
+with clinical 
+laboratories
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book309
+HOSPITAL FACILITY 
+24. Sepsis in adults (including septic shock)
+Table 24.4 continued
+Suspected 
+underlying 
+infection
+Diagnostic test Purpose of the test Settings where 
+the test should 
+be available
+Lower respiratory 
+tract infection
+Sputum culture 
+and antimicrobial 
+susceptibility 
+testing
+Initial step to detect 
+and identify bacterial 
+and fungal species for 
+selection of appropriate 
+antimicrobial regimens
+Health care 
+facilities 
+with clinical 
+laboratories
+Meningitis Cerebrospinal 
+fluid Gram stain, 
+bacterial culture 
+and antimicrobial 
+susceptibility 
+testing
+Initial step to detect 
+and identify bacterial 
+and fungal species for 
+selection of appropriate 
+antimicrobial regimens
+Health care 
+facilities 
+with clinical 
+laboratories
+Meningitis Cerebrospinal fluid 
+microscopy
+To assess microbial 
+morphology, number 
+of white blood cells and 
+red blood cells
+Health care 
+facilities 
+with clinical 
+laboratories
+Diarrhoeal 
+disease, enteric 
+fevera
+Stool culture and 
+antimicrobial 
+susceptibility 
+testing
+Initial step to detect 
+and identify bacterial 
+species for selection of 
+appropriate antibiotic 
+regimens
+Health care 
+facilities 
+with clinical 
+laboratories
+Abscess (e.g. in 
+the context of 
+intra-abdominal 
+infections, skin 
+and soft-tissue 
+infections and 
+dental infections)
+Culture and 
+antimicrobial 
+susceptibility 
+testing of abscess 
+and/or fluid 
+collections that can 
+be drained
+Initial step to detect 
+and identify bacterial 
+and fungal species for 
+selection of appropriate 
+antimicrobial regimens
+Health care 
+facilities 
+with clinical 
+laboratories
+Urinary tract 
+infection
+Urine culture and 
+antimicrobial 
+susceptibility 
+testing
+Initial step to detect 
+and identify bacterial 
+and fungal species for 
+selection of appropriate 
+antimicrobial regimens
+Health care 
+facilities 
+with clinical 
+laboratories
+EDL: Model List of Essential In Vitro Diagnostics.
+a If enteric fever is suspected, note that stool cultures have a low sensitivity and are not useful in the early phase 
+(first week) of the disease when the test is often negative.
+310The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+24. Sepsis in adults (including septic shock)
+Other tests
+Laboratory tests can be used to complement the clinical examination and history. Table 24.5 
+and Table 24.6 indicate the tests that could be considered to make an initial assessment of 
+the patient and to help guide the duration of antibiotic treatment. Additional laboratory 
+tests may be considered based on local availability and on the most likely source of infection. 
+Further tests are detailed in the corresponding chapter.
+Table 24.5 – Laboratory tests (other than microbiology) to consider when sepsis in 
+suspected to identify a bacterial infection as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test should 
+be available
+White blood count To help in the diagnosis of 
+infections
+Health care facilities with 
+clinical laboratories but also in 
+primary care settings
+C-reactive proteina To detect inflammation as an 
+indicator of various conditions 
+(e.g. sepsis)
+Health care facilities with 
+clinical laboratories
+Procalcitonina To guide antibiotic therapy or 
+discontinuation in sepsis
+Only in tertiary health care 
+facilities
+EDL: Model List of Essential In Vitro Diagnostics.
+a Biomarkers C-reactive protein and procalcitonin may help determine whether an infection is caused by bacteria. 
+Regular serial measurement of these biomarkers can also help decide when antibiotic therapy can be stopped 
+(250–252). It is important to note that the probability of sepsis based on the patient’s initial clinical assessment 
+before testing (pre-test probability) needs to be considered. If the pre-test probability is high, inflammatory 
+markers in the normal range do not rule out sepsis.
+Table 24.6 – Laboratory tests (other than microbiology) to consider when sepsis in 
+suspected to identify organ dysfunction as indicated in the WHO EDL (6)
+Diagnostic 
+testa
+Purpose of the test Settings where the test 
+should be available
+Bilirubin To detect or monitor liver disease, bile duct 
+disorders and red cell destruction
+Required for SOFA score calculation
+Community settings and health 
+facilities without laboratoriesb
+Blood pH and 
+gases
+To assess lung function and metabolic or 
+kidney disorders, and monitor oxygen therapy
+Required for SOFA score calculation (for 
+PaO2/FiO2)
+Health care facilities with 
+clinical laboratories
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book311
+HOSPITAL FACILITY 
+24. Sepsis in adults (including septic shock)
+Table 24.6 continued
+Diagnostic 
+testa
+Purpose of the test Settings where the test 
+should be available
+Blood urea 
+nitrogen
+To assess kidney function
+Required for CURB-65 score calculation 
+(if pneumonia is suspectedc)
+Health care facilities with 
+clinical laboratories
+Complete 
+blood count
+To detect a wide range of disorders, 
+including infections
+Health care facilities with 
+clinical laboratories
+Creatinine To monitor kidney function for 
+management of severe infections (i.e. 
+sepsis) and to adjust antimicrobial regimen 
+Required for SOFA score calculation
+Health care facilities with 
+clinical laboratories
+Electrolytes To monitor fluid, electrolyte and acid–base 
+balance
+Health care facilities with 
+clinical laboratories
+Glucose To diagnose intermediate hyperglycaemia 
+and hypoglycaemia
+Community settings and health 
+facilities without laboratoriesb
+Haemoglobin To diagnose and monitor anaemia
+This is a clinical marker for some 
+severe infections (e.g. malaria and viral 
+haemorrhagic fevers)
+Community settings and health 
+facilities without laboratoriesb
+Platelet count To diagnose thrombocytopenia or 
+thrombocytosis.
+This is a marker to manage severe 
+infections associated with sepsis 
+(e.g. viral haemorrhagic fever and 
+meningococcaemia)
+Required for SOFA score calculation
+Health care facilities with 
+clinical laboratories
+White blood 
+cell count
+To aid in the diagnosis of infections Health care facilities with 
+clinical laboratories
+Whole blood 
+lactate
+To assess metabolic acidosis, sepsis and 
+dehydration
+Community settings and health 
+facilities without laboratoriesb
+EDL: Model List of Essential In Vitro Diagnostics; FiO 2: fractional inspired oxygen; PaO 2: arterial oxygen partial 
+pressure; SOFA: Sequential Organ Failure Assessment.
+a The tests are listed in alphabetical order.
+b Community and health settings without laboratories are facilities such as health posts and centres, doctors’ offices, 
+outreach clinics, ambulatory care. These tests are assumed to be available at health care facilities with laboratories.
+c See the chapter on community-acquired pneumonia for more information.
+312The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+24. Sepsis in adults (including septic shock)
+Using microbiology surveillance data 
+Empiric guidance given by the AWaRe book could be reviewed and adapted based on local 
+clinically relevant microbiology surveillance data. 
+Imaging
+Note
+Imaging studies should be guided by the suspected primary site of infection. Please also refer 
+to specific chapters of the AWaRe book for the suspected underlying infection.
+When sepsis is suspected and respiratory distress is present, a chest X-ray (or lung ultrasound) 
+is indicated to confirm a lower respiratory tract infection. If an abdominal source of infection 
+is suspected, in settings where it is available, a CT scan of the abdomen could be considered, 
+for example, to confirm an intra-abdominal infection. A low-dose CT scan is an acceptable 
+option, including in pregnant women (253). However, because abdominal ultrasound is 
+more widely available, it can be a very helpful alternative depending on the exact site of 
+infection. If sepsis caused by an infection of the urinary tract is suspected, initial imaging 
+(e.g. ultrasound) of the urinary tract or during follow-up could be considered if an outflow 
+obstruction (e.g. because of urolithiasis) or an abscess are suspected. If a dental infection is 
+suspected, then X-rays are recommended, as detailed in the corresponding chapter.
+Treatment
+Treatment of sepsis includes treatment of the underlying infection, source control and lifesaving interventions such as fluid resuscitation and vital organ support which are beyond 
+the scope of the AWaRe book. For more specific guidance on treating sepsis, please refer to 
+the 2016 international guidelines for management of sepsis and septic shock (254). Please 
+also consult a 2016 review on the pathophysiology and clinical management of sepsis (255).
+Antibiotic treatment (if bacterial sepsis is suspected)
+Note
+Intravenous antibiotic treatment should be started as soon as possible when sepsis of bacterial 
+origin is suspected. Taking laboratory and microbiology tests or waiting for the results should 
+not delay administration of the first dose of antibiotic treatment.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book313
+HOSPITAL FACILITY 
+24. Sepsis in adults (including septic shock)
+When selecting empiric antibiotic treatment, several factors should be considered, such 
+as the most likely site of primary infection, the infecting pathogens and the local pattern 
+of AMR. Comorbidities of the patient, including malnutrition and immunosuppression 
+(e.g. due to HIV infection or neutropenia) and other factors, such as known colonization 
+and/or previous infection with multidrug-resistant organisms, are also important factors 
+to consider. Many variables must be considered to provide the best treatment to patients 
+with sepsis. 
+Table 24.7 outlines suggested empiric treatment regimens for common primary sites 
+of infection. In many infections (e.g. necrotizing fasciitis and intra-abdominal infections), 
+source control (e.g. drainage of an abscess, surgical debridement) is essential.
+If the pathogen causing the infection is identified and once its antibiotic 
+susceptibilities are known, antibiotics should be reviewed and modified accordingly. 
+However, even if enough suitable samples have been obtained and tested, a pathogen is 
+identified only in a minority of patients with sepsis (256). When no pathogen is identified, 
+antibiotic treatment should be guided by available laboratory results and clinical response. 
+If an alternative cause of a non-bacterial cause of sepsis has been identified, the possibility 
+to stop treatment should be evaluated.
+Treatment duration is often decided on an individual basis according to clinical 
+response and, if available, changes in laboratory markers of infection.
+Simplify empiric treatment to a more narrow-spectrum antibiotic (often also called 
+de-escalation) based on culture results (targeted treatment) or based on rapid clinical 
+improvement when no microbiology test results are available. In general, the intravenous 
+route is preferred for the initial phase of treatment.
+Step-down to oral treatment is based on improvement of symptoms, signs of 
+infection and the ability to take oral antibiotics allowing discharge of the patient home 
+when clinically appropriate.
+In patients with suspected sepsis of bacterial origin, a risk assessment based 
+on clinical factors needs to be done, followed by appropriate tests and investigations to 
+choose the best empiric antibiotic treatment. Patient-level and setting-level risk factors for 
+infections caused by resistant bacteria need to be carefully considered.
+• Low-risk patients: patients with no clinical risk factors for adverse outcomes. 
+These patients have a low risk of infections caused by multidrug-resistant bacteria.
+• High-risk patients : patients with major pre-existing comorbidities or 
+immunocompromised and/or previous colonization or infection with a resistant 
+pathogen. These patients have a higher risk of infections caused by multidrugresistant bacteria.
+314The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+24. Sepsis in adults (including septic shock)
+Table 24.7 – Empiric antibiotic treatment for community-acquired sepsis of bacterial 
+origin in adults 
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Most probable 
+source of 
+infection
+Empiric antibiotic treatment Total treatment 
+duration (may 
+vary also based 
+on degree of 
+immunosuppression)
+Clinical sepsis of 
+unknown origina
+ Cefotaxime b (IV): 2 g given every 8 hours
+OR 
+ Ceftriaxone b (IV): 2 g given once a day 
+COMBINED WITH 
+ Amikacin c (IV): 15 mg/kg given once a 
+day
+OR 
+ Gentamicin c (IV): 5 mg/kg given once a 
+day
+7 days
+But duration depends on 
+the patient’s underlying 
+disease, the degree of 
+immunosuppression, the 
+causative pathogen (if 
+any identified later on) 
+and clinical progression)
+Enteric fever Ceftriaxone d (IV): 2 g given once a day 10 days
+Intra-abdominal 
+infection
+First choice
+ Cefotaxime (IV): 2 g given every 8 hours
+AND Metronidazole (IV): 500 mg given 
+every 8 hours 
+OR
+ Ceftriaxone (IV): 2 g given once a day AND
+ Metronidazole (IV): 500 mg given every 
+8 hours
+OR
+ Piperacillin+tazobactam e (IV): 
+4 g + 500 mg given every 6 hours
+Second choice
+ Meropenem f (IV): 2 g given every 8 hours
+Generally 7 days. 
+Duration depends 
+on type of infection, 
+whether adequate 
+surgical source 
+control was achieved, 
+the degree of 
+immunosuppression 
+and on clinical recovery. 
+Please refer to specific 
+chapters of the AWaRe 
+book based on the 
+suspected underlying 
+infection
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book315
+HOSPITAL FACILITY 
+24. Sepsis in adults (including septic shock)
+Table 24.7 continued
+Most probable 
+source of 
+infection
+Empiric antibiotic treatment Total treatment 
+duration (may 
+vary also based 
+on degree of 
+immunosuppression)
+Meningitis First choice
+ Cefotaxime (IV): 2 g given every 6 hours
+OR 
+ Ceftriaxone (IV): 2 g given every 12 hours
+Second choice (only when first choice 
+options are not available)
+ Amoxicillin (IV): 2 g given every 4 hours
+OR
+ Ampicillin (IV): 2 g given every 4 hours
+OR
+ Benzylpenicillin (IV): 4 million IU (2.4 g) 
+given every 4 hours
+OR
+ Chloramphenicol g (IV): 1 g given every 6 
+hours
+10 daysh
+Lower respiratory 
+tract infection
+ Cefotaxime (IV): 2 g given every 8 hours
+AND Clarithromycin (IV): 500 mg given 
+every 12 hours
+OR
+ Ceftriaxone (IV): 2 g given once a day AND
+ Clarithromycin (IV): 500 mg given every 
+12 hours
+5 days
+continues
+316The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+24. Sepsis in adults (including septic shock)
+Table 24.7 continued
+Most probable 
+source of 
+infection
+Empiric antibiotic treatment Total treatment 
+duration (may 
+vary also based 
+on degree of 
+immunosuppression)
+Skin and soft 
+tissues infection
+ Ceftriaxone i (IV): 2 g given once a day
+AND Metronidazole i (IV): 500 mg given 
+every 8 hours
+(In case of necrotizing fasciitis, use this 
+treatment option only If Streptococcus 
+pyogenes infection has been excluded first)
+If MRSA is suspected, ADD 
+ Vancomycin (IV): 15–20 mg/kg given every 
+12 hours
+OR
+ Piperacillin+tazobactam j (IV): 
+4 g + 500 mg given every 6 hours AND
+ Clindamycin (IV): 900 mg given every 
+8 hours
+If MRSA is suspected, ADD
+ Vancomycin (IV): 15–20 mg/kg given every 
+12 hours
+Generally 7 days.
+Duration depends 
+on type of infection, 
+whether adequate 
+surgical source 
+control was achieved, 
+the degree of 
+immunosuppression, 
+and clinical recovery. 
+Please refer to specific 
+chapters of the AWaRe 
+book based on the 
+suspected underlying 
+infection
+Urinary tract 
+infection
+ Cefotaxime l (IV): 2 g given every 8 hours
+AND Amikacin k (IV): 15 mg/kg given once 
+a day
+OR 
+ Ceftriaxone l (IV): 2 g given once a day
+AND Amikacin k (IV): 15 mg/kg given once 
+a day
+7 days
+AWaRe: Access, Watch and Reserve; ESBL: extended-spectrum beta-lactamases; IU: international units; IV: 
+intravenous; MRSA: methicillin-resistant Staphylococcus aureus .
+Note. All dosages are for normal renal and hepatic function. Dose adjustments may be required in patients with 
+septic shock.
+a If the source of the infection is determined please follow infection-specific guidance.
+b Ceftriaxone or cefotaxime are alternative options. The choice can be made based on local availabilities.
+c Gentamicin and amikacin are alternative options. The choice can be made based on local availabilities. In addition, 
+amikacin (and to a lesser extent gentamicin) is still effective against many isolates producing ESBL and is considered 
+an appropriate carbapenem-sparing option in settings where ESBL-producing isolates are very prevalent.
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book317
+HOSPITAL FACILITY 
+24. Sepsis in adults (including septic shock)
+Table 24.7 continued
+d Some countries may have problems of increasing ceftriaxone resistance.
+e In patients considered at risk of infections with ESBL-producing Enterobacterales, piperacillin+tazobactam does 
+not provide adequate activity against many ESBL-producing isolates. In these cases, meropenem can be considered.
+f Meropenem should be considered only in settings with a high prevalence of ESBL-producing Enterobacterales.
+g Use chloramphenicol only when no other choice is available.
+h Duration differs in the context of epidemics as indicated by WHO (257) and also depending on the pathogen 
+identified.
+i Ceftriaxone and metronidazole is the preferred option if the suspected source of infection is polymicrobial (type 1) 
+necrotizing fasciitis but it is also an adequate option in case of severe cellulitis.
+j Piperacillin+tazobactam (or penicillin) and clindamycin is the preferred option if the suspected source of infection 
+is necrotizing fasciitis caused by Streptococcus pyogenes but it is also an adequate option in case of severe cellulitis.
+k Amikacin is still effective against ESBL-producing isolates and is considered an appropriate carbapenem-sparing 
+option in settings where ESBL-producing isolates are prevalent.
+l Alternative antibiotics to consider based on local resistance data are piperacillin+tazobactam and carbapenems.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+Prevention
+Any infection can progress to sepsis; therefore, preventing sepsis requires either preventing 
+the infection or preventing the progression of the infection to sepsis. 
+Factors that contribute to preventing infections in the community include 
+vaccinations (Table 24.8), adequate nutrition and healthy living environments (including 
+access to safe water and sanitation). It is beyond the scope of this chapter to address in 
+detail these topics.
+Table 24.8 – Vaccinations to consider for prevention of certain infections
+Vaccinationa Population where the vaccine should be 
+considered
+Meningococcal vaccination (236) Countries with high (> 10 cases per 100 000 population/
+year) or intermediate (2–10 cases per 100 000 
+population/year) incidence of meningococcal disease or 
+with frequent epidemics. All individuals aged 1–29 years 
+(including pregnant women) should be vaccinated with 
+the meningococcal A conjugate vaccine.
+Countries with low incidence of meningococcal 
+disease (< 2 cases per 100 000 population/year). 
+Vaccination is advised only for defined high-risk groups 
+such as children and young adults or individuals with 
+immunodeficiency. The choice of the recommended 
+vaccine depends on the local prevalence of the 
+meningococcal serogroups.
+continues
+318The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+24. Sepsis in adults (including septic shock)
+Table 24.8 continued
+Vaccinationa Population where the vaccine should be 
+considered
+Pneumococcal vaccination (35) All children should be vaccinated with pneumococcal 
+conjugate vaccines. In adults, the vaccine is 
+recommended in many countries for elderly people 
+(> 65 years) and for high-risk groups (e.g. patients 
+with chronic pulmonary disease or who have had a 
+splenectomy).
+Salmonella Typhi vaccination (154) Individuals living in countries with a high burden of 
+enteric fever or antibiotic-resistant Salmonella Typhi 
+should be vaccinated with typhoid conjugate vaccines. 
+Vaccination should also be offered during outbreaks.
+a References cited are to WHO position papers that support the evidence for vaccination.
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.1.7 Septicaemia | p.181-183 | audience=general] ---
+Blood infection due to various bacteria which may be associated with
+infection in specific sites (e.g., lungs, urinary tract, gastrointestinal tract)
+or there may be no specific focus. It is life threatening because it can
+progress into multi-organ dysfunction and septic shock.
+Cause
+~ Organisms commonly involved are Staphylococcus aureus,
+Klebsiella, Pseudomonas, Staphylococcus epidermidis, fungal (Candida spp), Coliforms and Salmonella spp, Pneumococci, Proteus spp
+Risk factors
+~ Extremes of age (children, elderly)
+~ Diabetes, cancer, immunosuppression
+~ Hospital admission
+~ Community acquired pneumonia
+Clinical features
+~ Fever, prostration (extreme tiredness)
+~ Hypotension, anaemia
+115
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+~ Toxic shock is a complication
+~ Signs and symptoms of the primary site of infection (e.g.
+,pneumonia)
+Differential diagnosis
+~ Severe cerebral malaria
+~ Meningitis
+~ Typhoid fever (enteric fever)
+~ Infective endocarditis
+Investigations
+¾ Look for possible primary source of infection
+~ (If identified use SOP for respective sample collection coey
+to the lab)
+¾ Blood: WBC count, culture and sensitivity
+~ (Use the aseptic technique and collect sample(s) for culture
+and sensitivity, to RRH (if service present) before initiation
+of treatment)
+Management
+Septicaemia is a life-threating condition, refer to hospital after pre-referral
+dose of antibiotics.
+TREATMENT LOC
+General measures
+- IV fluids
+- Control of temperature
+- Nutrition support (NGT if necessary)
+- Monitoring of vitals and urinary output
+If known focus of infection, treat immediately with IV
+antibiotics as per guidelines. If unknown focus, give:
+H
+116
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+TREATMENT LOC
+Use aseptic technique to tale blood sample before initiating treatment
+Adult
+- Gentamicin 7 mg/kg IV every 24 hours or 1.5-2 mg/
+kg IV or IM every 8 hours
+- Plus either cloxacillin 2 g IV every 4-6 hours f Or
+chloramphenicol 750 mg IV every 6 hours
+Child
+- Gentamicin 3.5-4 mg/kg IV every 8 hours (neonate:
+every 8-12 hours)
+- Plus either: Ceftriaxone 50 mg/kg every 8 hours (<
+7 days old: every 12 hours)
+- Or cloxacillin 50 mg/kg IV every 4-6 hours
+- Or benzylpenicillin 50,000 IU/kg IV every 4-6 hours
+H
+Prevention
+~ Protect groups at risk, for example immunosuppressed and
+post-surgical patients
+~ Follow strictly aseptic surgical procedures
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.1.7.2 Septic Shock Management, In Adults | p.184-185 | audience=general] ---
+1. At Emergency Unit
+- Early recognition and resuscitation with iv crystalloids Or Blood
+- Empirical Broad spectrum antibiotics Treatment:
+- Early and adequate broad-spectrum antibiotics
+- Intravenous access. Administer 30ml/kg of crystalloids. A large
+bore cannula, in an adult (gauge 16) is preferred.
+- Urinary catheterization: UOP in an adult is 0.5ml/kg/hr or
+more, an equivalent of 30-50mls/hr.
+- Transfer for management to ICU if not responding to
+resuscitation
+118
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+2. At ICU, Intubation and Mechanical Ventilation.
+- The recommended tidal volume is kept at 6ml/Kg, with plateau
+pressure kept at or below 30ml of water.
+- Iv vasopressor Norepinephrine; 5-20µg/min.
+- Second line is synthetic human angiotensin ii,
+- or vasopressin CVP; ≤8mmHg
+- Ionotropic therapy and Augumented oxygen therapy
+- Dobutamine up to 20µg/kg/ml
+- Corticosteroids Therapy:
+- Iv hydrocortisne200mg/Kg/day in 4 divided dosages,
+- Maintenance infusion of methyl prednisolone 1mg/kg/day for 7
+days, then tapper down for at least another 7 days.
+- Glycemic control Maintain glycemic level below 180mg/dl
+through insulin therapy
+- Deep Venous Thrombosis prophylaxis
+- UFH 2 or 3 times a day and LMWH
+Disseminated Intravenous Coagulation Management
+- Platelets and plasma transfusion
+- Anticoagulant
+- Fresh Frozen Plasma (FFP)
+- Antifibrinolytic e.g. tranexamic acid 1g 8hly

@@ -1,0 +1,484 @@
+# TOPIC: pyomyositis
+
+--- [WHO AWaRe Antibiotic Book (2022) | 38. Skin and soft tissue infections - pyomyositis | p.551-560 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book535
+HOSPITAL FACILITY 
+38. Skin and soft tissue infections – 
+pyomyositis
+Key messages
+• Most cases of pyomyositis occur in tropical countries in young children and adults.
+• Most cases (> 90%) are caused by Staphylococcus aureus and Streptococcus spp. and Access 
+group antibiotics are the mainstay of treatment.
+• If an abscess is present, source control and antibiotic treatment have a complementary role 
+in controlling the infection.
+• Immunosuppression is a risk factor.
+Other relevant WHO resources (please check regularly for updates)
+• Pocket book of hospital care for children: guidelines for the management of common 
+childhood illnesses, 2013 (31).
+Definition
+Pyomyositis is an infection of a skeletal muscle caused by bacteria usually accompanied by 
+abscess formation.
+536
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+38. Skin and soft tissue infections – pyomyositis
+Pyomyositis
+Skin and soft tissue infection
+An infec tion of a skeletal muscle caused by bac teria usually
+accompanied by abscess formation
+De/g246nition
+Diagnosis
+Clinical Presentation
+•A cute onset of localized muscle pain with cramping
+usually in the low er limbs/gluteal muscles with fe ve r
+≥ 38.0 °C +/- sw elling and induration of the affec ted ar ea
+•O ther signs of systemic infec tion ar e usually pr esent (e .g .
+tach y car dia, leukoc ytosis)
+•A bscess can form within days/w eeks
+•Signs of sev er e clinical pr ogr ession (e .g . signs of
+sepsis/septic shock) should always be car efully monitor ed
+•C omplications due to bac teremia can occur (e.g. septic
+emboli, septic ar thritis , endocar ditis)
+•Blood cultur es (ideally befor e star ting antibiotics)
+•M icr oscopy and cultur e of abscess /g248uid material (if this
+can be drained) to adjust empiric antibiotic tr eatmen t
+Microbiology Tests
+Determine disease severity and help identify a
+bacterial infection:W hite blood cell count, C-r eac tiv e
+pr otein and/or pr ocalcitonin
+Other LaboratoryTests
+Initial X- ray is impor tant to localize the site and ex tent of
+the infec tion and/or to ex clude alternativ e diagnosis
+•Ultrasound is helpful to detec t the pr esence of abscess
+(and to guide its drainage)
+•I f available , also consider MRI or CT -scan because of their
+higher sensitivity to identify muscle sw elling (i.e .
+in/g248ammation) and the pr esence of purulent material
+Imaging
+• (>90%, including MRSA*)Staphylococcus aureus
+-* Some strains can pr oduce the Pa nton-V alentine leukocidin, a
+toxin that can cause a more severe disease. Consider
+especially in case of r ecurr ent sk in infec tions (decolonization
+measur es can be consider ed to pr ev ent r ecurr ence and
+transmission)
+• spp . (mostly )Streptococcus Streptococcus pyogenes
+• (sometimes , especially in oncology patients)Escherichia coli
+Most Likely Pathogens
+Treatment
+Clinical Considerations
+•Drainage of the abscessr emains the main approach to
+eliminate the source of infection
+•D r ainag ei sa lso impo rt an tt oo btain material for cultur e
+andi dentify the causativep a thogen andi ts r esistance pr o/g246le
+•: Ta r geted antibioti ct re atmen tp re f err ed afte rh a vingMild
+obtained cultur er esults
+•Severe or impossible to obtaina clinical sample for
+microbiological examination:E mpiric tr eatmen t
+c onsiderin gm ost likely pathogens including loca l
+pr evalence andi ndividual risk fac tors for MRSA
+Important:
+•Simplify empiric tr eatment to a mor e narr owspec trum antibiotic based on cultur e r esults or rapid
+clinical impr ovement if culture results unavailable
+•Step down to oral treatment is based on
+impr ovement of symptoms, signs of infec tion and the
+ability to take oral antibiotics
+Treat for 2-3 weeks:
+•2 w eeks in other wise health y patients and adequate
+sour ce contro l
+•3 w eeks if sour ce control is not optimal or underlying
+diseases
+Antibiotic Treatment Duration
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Antibiotic Treatment
+Amo xicillin+clavulanic acid 1 g+200 mg q8h IV
+OR 875 mg+125 mg q8h ORAL
+C efalexin 500 mg q8h ORAL
+----------------------------------- -----------------------------------OR
+Clo xacillin 2 g q6h OR 500 mg q6hIV ORAL
+----------------------------------- -----------------------------------OR
+If cloxacillin is unavailable, any other IV antistaphylococcal
+penicillin could be used. For oral administration, dicloxacillin
+and /g248ucloxacillin are preferred options within the class as they
+have better oral bioavailability
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+537
+HOSPITAL FACILITY 
+38. Skin and soft tissue infections – pyomyositis
+Pyomyositis
+Skin and soft tissue infection • Page 1 of 2
+An infec tion of a skeletal muscle caused by bac teria usually
+accompanied by abscess formation
+De/g246nition Diagnosis
+Clinical Presentation
+•A cute onset of localized muscle pain with cramping
+usually in the low er limbs/gluteal muscles with fe ve r
+≥ 38.0 °C +/- sw elling and induration of the affec ted ar ea
+•O ther signs of systemic infec tion ar e usually pr esent (e .g .
+tach y car dia, leukoc ytosis)
+•A bscess can form within days/w eeks
+•Signs of sev er e clinical pr ogr ession (e .g . signs of
+sepsis/septic shock) should always be car efully monitor ed
+•C omplications due to bac teremia can occur (e.g. septic
+emboli, septic ar thritis , endocar ditis)
+•Blood cultur es (ideally befor e star ting antibiotics)
+•M icr oscopy and cultur e of abscess /g248uid material (if this
+can be drained) to adjust empiric antibiotic tr eatmen t
+Microbiology Tests
+Determine disease severity and help identify a
+bacterial infection:W hite blood cell count, C-r eac tiv e
+pr otein and/or pr ocalcitonin
+Other LaboratoryTests
+Initial X- ray is impor tant to localize the site and ex tent of
+the infec tion and/or to ex clude alternativ e diagnosis
+•Ultrasound is helpful to detec t the pr esence of abscess
+(and to guide its drainage)
+•I f available , also consider MRI or CT -scan because of their
+higher sensitivity to identify muscle sw elling (i.e .
+in/g248ammation) and the pr esence of purulent material
+Imaging
+• (>90%, including MRSA*)Staphylococcus aureus
+-* Some strains can pr oduce the Pa nton-V alentine leukocidin, a
+toxin that can cause a more severe disease. Consider
+especially in case of r ecurr ent sk in infec tions (decolonization
+measur es can be consider ed to pr ev ent r ecurr ence and
+transmission)
+• spp . (mostly )Streptococcus Streptococcus pyogenes
+• (sometimes , especially in oncology patients)Escherichia coli
+Most Likely Pathogens
+538
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+38. Skin and soft tissue infections – pyomyositis
+Pyomyositis
+Skin and soft tissue infection • Page 2 of 2
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Antibiotic Treatment
+Treat for 2-3 weeks:
+•2 weeks in otherwise healthy patients and adequate
+source control
+•3 weeks if source control is not optimal or underlying
+diseases
+Antibiotic Treatment Duration
+Clinical Considerations
+•Drainage of the abscess remains the main approach to
+eliminate the source of infection
+•Drainagei sa lso importantt oo btain material for culture
+and identify the causativepathogena nd itsr esistance pro/g246le
+•: Targeted antibiotict reatmentp referred afterh avingMild
+obtained culturer esults
+•Severe or impossible to obtaina clinical sample for
+microbiologicalexamination:E mpiric treatment
+consideringm ostl ikelyp athogens including local
+prevalence andi ndividual risk factors for MRSA
+Important:
+•Simplify empiric treatment to a more narrowspectrum antibiotic based on culture results or rapid
+clinical improvement if culture results unavailable
+•Step down to oral treatment is based on
+improvement of symptoms, signs of infection and the
+ability to take oral antibiotics
+Treatment
+Amoxicillin+clavulanic acid
+IV:
+•1st week of life: 50 mg/kg/dose of amoxicillin
+component q12h
+•> 1st week of life: 50 mg/kg/dose of
+amoxicillin component q8h
+ORAL: 80-90 mg/kg/day of amoxicillin
+component
+•:Oral weight bands
+3-<6 kg 250 mg of amox/dose q12h
+6-<10 kg 375 mg of amox/dose q12h
+10-<15 kg 500 mg of amox/dose q12h
+15-<20 kg 750 mg of amox/dose q12h
+≥20 kg 500 mg of amox/dose q8h or
+1 g of amox/dose q12h
+Cloxacillin IV
+•Neonates: 25-50 mg/kg/dose q12h
+•Children: 25 mg/kg/dose q6h
+•ORAL: 15 mg/kg/dose q6h
+•:Oral weight bands
+3-<6 kg 62.5 mg q6h
+6-<10 kg 125 mg q6h
+10-<15 kg 250 mg q6h
+15-<20 kg 375 mg q6h
+≥20 kg 500 mg q6h
+If cloxacillin is unavailable, any other IV antistaphylococcal
+penicillin could be used. For oral administration, dicloxacillin
+and /g248ucloxacillin are preferred options within the class as they
+have better oral bioavailability
+Cefalexin 25 mg/kg/dose q12h ORAL
+•:Oral weight bands
+3-<6 kg 125 mg q12h
+6-<10 kg 250 mg q12h
+10-<15 kg 375 mg q12h
+15-<20 kg 500 mg q12h
+20-<30 kg 625 mg q12h
+≥30 kg 500 mg q8h
+----------------------------------- -----------------------------------OR
+----------------------------------- -----------------------------------OR
+Amox = amoxicillin
+Oral liquid must be refrigerated after reconstitution
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book539
+HOSPITAL FACILITY 
+38. Skin and soft tissue infections – pyomyositis
+Pathophysiology
+In pyomyositis, bacteria reach the muscle from another source of infection spread through 
+the bloodstream. Once bacteria reach the muscle, an inflammatory reaction develops with 
+initial swelling of the muscle and progressive abscess formation and increasing oedema. 
+The process may take days to a few weeks for the signs of systemic infection to appear and 
+the presence of a pus collection large enough to be drained to become clinically evident.
+Epidemiology
+Most cases of pyomyositis occur in tropical countries often in young children (< 5 years) or 
+in adults (aged 20–45 years), and males are more affected than females. History of trauma 
+or muscle strain are usually present. HIV infection, malnutrition and malignancies may be 
+risk factors in the tropics, even though most patients are otherwise healthy. In non-tropical 
+countries, the disease is more common in adults with underlying severe medical conditions, 
+such as immunocompromised patients (358). 
+Clinical presentation
+Pyomyositis is characterized by acute onset (usually days to a few weeks) of localized 
+muscle pain with cramping usually in the lower limbs or in the gluteal muscles (although 
+any muscle can be affected) with a fever ≥ 38.0 °C. Swelling and induration (hardening of 
+soft tissue) of the affected area are also usually present when the disease becomes clinically 
+evident. Other signs of systemic infection (e.g. tachycardia, increased biomarker levels such 
+as leukocytosis, C-reactive protein and procalcitonin) are usually present. Abscess can form 
+within days to weeks. Complications of bacteraemia (e.g. septic emboli, septic arthritis and 
+endocarditis) can occur. The patient should always be monitored for signs of severe clinical 
+progression, such as signs of sepsis or septic shock. 
+Please also refer to the chapter on sepsis if suspected.
+Most likely pathogens
+Most cases (> 90%) of pyomyositis are caused by Staphylococcus aureus including MRSA or by 
+Streptococcus spp. (mostly Streptococcus pyogenes often referred to as group A Streptococcus) 
+(Table 38.1). Escherichia coli can sometimes be implicated, especially in patients with cancer. 
+Mycobacteria (Mycobacterium tuberculosis and certain non-tuberculous mycobacteria) can 
+also be responsible for this infection.
+540The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+38. Skin and soft tissue infections – pyomyositis
+Table 38.1 – Pathogens most frequently associated with pyomyositis (in 
+descending order of frequency)
+Most cases More rarely 
+Staphylococcus aureus (including MRSA)a
+Streptococcus pyogenes (group A Streptococcus)
+Escherichia coli (mostly in patients with 
+cancer)
+Mycobacterium tuberculosis and certain nontuberculous mycobacteria
+MRSA: methicillin-resistant Staphylococcus aureus.
+a Some strains can produce the Panton–Valentine leukocidin, a toxin associated with a higher pathogenic potential 
+(i.e. the risk of causing a more severe disease). The possibility of Staphylococcus aureus positive for Panton–
+Valentine leucocidin should be considered especially in case of recurrent skin infections. In these cases, topical 
+decolonization measures might be considered to prevent recurrence and transmission to others.
+Laboratory tests
+Patient microbiology tests
+Microbiology tests (cultures of blood and abscess material) can be done to determine the 
+causative pathogen and its resistance profile, ideally before starting antibiotic treatment 
+(Table 38.2). In patients with severe disease, microbiology tests should however not delay 
+antibiotic treatment.
+Table 38.2 – Microbiology tests to consider in a patient with suspected 
+pyomyositis as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Blood cultures and antimicrobial 
+susceptibility testing
+To detect bacterial and fungal 
+bloodstream infections
+Health care facilities with 
+clinical laboratories
+Microscopy, culture and 
+antimicrobial susceptibility 
+testing of deep samples 
+collected at aspiration/drainage 
+of abscess
+Initial step to detect and 
+identify bacterial and fungal 
+species for selection of 
+appropriate antimicrobial 
+regimens
+Health care facilities with 
+clinical laboratories
+EDL: Model List of Essential In Vitro Diagnostics.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book541
+HOSPITAL FACILITY 
+38. Skin and soft tissue infections – pyomyositis
+Other tests
+Laboratory tests can be used to complement the clinical examination and history. Table 38.3 
+indicates tests that could be considered in the initial assessment of the patient and to help 
+guide the duration of antibiotic treatment.
+Table 38.3 – Laboratory tests (other than microbiology) to consider to identify a 
+bacterial infection as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+White blood count To aid in the diagnosis of infections Health care facilities with 
+clinical laboratories but also 
+in primary care settings
+C-reactive protein To detect inflammation as an indicator 
+of various conditions (e.g. sepsis)
+Health care facilities with 
+clinical laboratories
+Procalcitonin To guide antibiotic therapy or 
+discontinuation in sepsis
+Only in tertiary and higher 
+health care facilities
+EDL: Model List of Essential In Vitro Diagnostics.
+Using microbiology surveillance data
+There is no role for routine surveillance to inform empiric guidance.
+Imaging
+Initial imaging with an X-ray is important when pyomyositis is suspected to locate the site 
+and extent of the infection, any bony involvement or to exclude an alternative diagnosis. 
+However, if available, MRI or a CT scan could also be considered because they have 
+greater sensitivity (compared to conventional X-ray) in identifying muscle swelling (i.e. 
+inflammation) and the presence of infected tissue.
+Ultrasound is helpful, if available, to detect the presence of an abscess and to guide 
+its drainage.
+Management
+Prompt drainage of the abscess (if present) is important for adequate control of the source of 
+infection and is complementary to antibiotic treatment. If extensive muscle necrosis is present 
+or if it is not possible to drain the collection of pus percutaneously, surgery may be necessary.
+542The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+38. Skin and soft tissue infections – pyomyositis
+Antibiotic treatment
+Targeted antibiotics based on microbiology tests are preferred in the treatment of 
+pyomyositis. However, when patients require immediate treatment (e.g. are severely ill) 
+or when it is impossible to obtain a clinical sample for microbiological examination, the 
+choice of antibiotic should be based on the pathogens most commonly seen in this type 
+of infection – Staphylococcus aureus and Streptococcus spp. (Table 38.4). In addition, empiric 
+treatment against community-acquired MRSA may be considered in some cases based 
+on individual risk factors (e.g. known MRSA colonization) and on the local prevalence of 
+community-acquired MRSA. In these cases, some international guidance documents 
+suggest using vancomycin (359).
+Intravenous antibiotics may be needed, at least in the first phase of treatment.
+Treatment duration is long (usually 2–3 weeks) and is influenced by the clinical 
+and radiological response and by the adequacy of drainage of the abscess, if present. 
+Shorter duration of treatment (2 weeks) could be considered in otherwise healthy patients 
+and when adequate source control is achieved, that is the abscess is well drained. Longer 
+duration (3 weeks) could be considered if source control is inadequate or in patients with 
+underlying diseases.
+Simplify empiric treatment to a more narrow-spectrum antibiotic (often also called 
+de-escalation) based on culture results (targeted treatment) or rapid clinical improvement 
+if culture results unavailable.
+Step-down to oral treatment is based on improvement of symptoms and signs 
+of infection and the ability to take oral antibiotics allowing discharge of the patient home 
+when clinically appropriate.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book543
+HOSPITAL FACILITY 
+38. Skin and soft tissue infections – pyomyositis
+Table 38.4 – Empiric antibiotic treatment for pyomyositis
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Adults Children Total 
+treatment 
+duration
+ Amoxicillin+clavulanic acid 
+IV: 1 g + 200 mg given every 8 
+hours 
+Oral: 875 mg + 125 mg given 
+every 8 hours
+OR
+ Cefalexin (oral): 500 mg given 
+every 8 hours
+OR
+ Cloxacillin a
+IV: 2 g given every 6 hours
+Oral: 500 mg given every 6 hours
+ Amoxicillin+clavulanic acid b
+IV: 
+First week of life: 50 mg/kg of 
+amoxicillin/dose given every 12 hours 
+Beyond first week of life: 50 mg/kg of 
+amoxicillin/dose given every 8 hours
+Oral: 80–90 mg/kg/day of amoxicillin 
+component
+Oral weight bands:
+3–< 6 kg: 250 mg of amoxicillin/dose 
+given every 12 hours
+6–< 10 kg: 375 mg of amoxicillin/dose 
+given every 12 hours
+10–< 15 kg: 500 mg of amoxicillin/dose 
+given every 12 hours
+15–< 20 kg: 750 mg of amoxicillin/dose 
+given every 12 hours
+≥ 20 kg: 500 mg of amoxicillin/dose 
+given every 8 hours or 1 g of 
+amoxicillin/dose given every 12 hours
+OR
+ Cefalexin (oral): 25 mg/kg/dose given 
+every 12 hours
+Oral weight bands:
+3–< 6 kg: 125 mg given every 12 hours
+6–< 10 kg: 250 mg given every 12 hours
+10–< 15 kg: 375 mg given every 12 hours
+15–< 20 kg 500 mg given every 12 hours
+20-<30 kg: 625 mg given every 12 hours
+≥ 30 kg: use adult dose
+OR
+2–3 weeks
+continues
+544The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+38. Skin and soft tissue infections – pyomyositis
+Adults Children Total 
+treatment 
+duration
+ Cloxacillin a
+IV: 
+• Neonates: 25–50 mg/kg/dose given 
+every 12 hours 
+• Children: 25 mg/kg/dose given every 
+6 hours 
+Oral: 15 mg/kg/dose given every 6 hours
+Oral weight bands:
+3–< 6 kg: 62.5 mg given every 6 hours
+6–< 10 kg: 125 mg given every 6 hours
+10–< 15 kg: 250 mg given every 6 hours
+15–< 20 kg: 375 mg given every 6 hours
+≥ 20 kg: 500 mg given every 6 hours
+EML: Model List of Essential Medicines; IV: intravenous.
+Notes: All dosages are for normal renal and hepatic function.
+The recommendations given in the table are not included in the WHO EML but were extrapolated from the EML 
+recommendations for skin and soft tissue infections (8).
+Vancomycin is not listed as first choice because in most settings methicillin-resistant Staphylococcus aureus is not a 
+frequent cause of community-acquired infections.
+a If cloxacillin is unavailable, any other IV antistaphylococcal penicillin could be used. For oral administration, 
+dicloxacillin and flucloxacillin are preferred options within the class as they have better oral bioavailability.
+b Oral liquid formulations must be refrigerated after reconstitution as clavulanic acid is rapidly metabolized in high 
+ambient temperatures.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+Table 38.4 continued
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 10.1.3 Pyomyositis | p.625-626 | audience=general] ---
+Inflammation of muscle, which may lead to pus formation and deep-seated
+muscle abscess.
+Causes
+~ Bacterial infection (commonly Staphylococcus aureus)
+Clinical features
+~ Most commonly localised in one muscle; usually large striated muscle
+~ Fever, painful swelling of the involved muscle
+~ Affected area is hot, swollen, and tender
+~ Fluctuation when pus forms
+Differential diagnosis
+~ Cellulitis, boil
+~ Osteomyelitis
+~ Peritonitis (in pyomyositis of abdominal muscles)
+559
+Uganda Clinical Guidelines 2023CHAPTER 10: Musculoskeletal andJoint Diseases
+Investigations
+- Blood: Full blood count
+- Pus: culture and sensitivity
+- Consider HIV infection
+TREATMENT LOC
+- Elevate and immobilise affected limb
+- Cloxacillin 500 mg IV or oral every 6 hours for 5-10
+days Child: 12.5-25 mg/kg per dose
+- During the early stage, when the muscle is indurated,
+hot and swollen, antibiotic treatment may be sufficient
+to resolve the infection
+When abscess has formed,
+- Surgical drainage is the only effective treatment
+- Leave the wound open, pack and clean daily
+HC3
+HC4

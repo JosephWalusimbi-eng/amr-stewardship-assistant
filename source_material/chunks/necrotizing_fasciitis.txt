@@ -1,0 +1,578 @@
+# TOPIC: necrotizing_fasciitis
+
+--- [WHO AWaRe Antibiotic Book (2022) | 37. Skin and soft tissue infections - necrotizing fasciitis | p.539-550 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book523
+HOSPITAL FACILITY 
+37. Skin and soft tissue infections – 
+necrotizing fasciitis
+Key messages
+• Necrotizing fasciitis is a life-threatening rapidly progressing infection of the deep soft tissue 
+with pain out of proportion to skin findings.
+• Surgery is both diagnostic and therapeutic (surgical exploration and debridement of 
+necrotic tissue) and delays in surgery are associated with higher mortality.
+• Antibiotic treatment is important but needs to be accompanied by source control (surgery).
+• Children are rarely affected. Cases occur mostly in immunocompromised children or as a 
+complication of chickenpox.
+Definition
+Necrotizing fasciitis is a life-threatening necrotizing infection of the deep soft tissues that 
+specifically affects the muscular fascia – the fascia is the connective tissue surrounding 
+the muscle. The disease is caused mostly by bacteria and is characterized by acute 
+and fulminant (severe and sudden onset) necrosis with tissue destruction and signs of 
+systemic toxicity. Necrotizing fasciitis can be classified based on: the causative pathogen 
+(type 1 or polymicrobial necrotizing fasciitis (caused by multiple pathogens); or type 2 or 
+monomicrobial necrotizing fasciitis (caused by a single pathogen)); the presence or absence 
+of gas in tissues (polymicrobial infections are more often associated with the presence 
+of gas); the site of the infection (e.g. leg, head and neck, perineum); or the risk of a poor 
+outcome (high versus low or moderate risk). Necrotizing fasciitis affecting the perineum is 
+also called Fournier gangrene.
+524
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+37. Skin and soft tissue infections – necrotizing fasciitis
+Necrotizing fasciitis
+Skin and soft tissue infection • Page 1 of 2
+Life-threatening necrotizing infection of the deep soft tissues
+affec ting the muscular fascia; caused mostly by bacteria and
+characterized by acute/fulminant necrosis with tissue destruction
+and systemic signs of toxicity
+Classi/g246cation based on:
+•:Causative pathogen
+-T ype 1/polymicrobial
+-T ype 2/monomicrobial
+•Presence or absence of gas in tissues
+-F or example, presence of gas is common in polymicrobial
+infections
+•:Involved site
+-L eg
+- Head and neck
+-P erineum (Fournier gangrene)
+•:Risk of poor outcome
+-H igh versus moderate risk
+De/g246nition
+Monomicrobial / Type 2:
+•:Most cases
+-( group A)Streptococcus pyogenes Streptococcus
+-( group B)Streptococcus agalactiae Streptococcus
+- (mostly in elderly and chronicallyStreptococcus dysgalactiae
+ill patients)
+•:Less frequently
+- (including MRSA)Staphylococcus aureus
+•:Speci/g246c environmental exposures
+- (freshwater)Aeromonas hydrophila
+- (seawater)Vibrio vulni/g246cus
+Polymicrobial / Type 1:
+•Anaerobes (e.g. spp., ,Bacteroides Clostridium perfringens
+Peptostreptococcus spp. or mouth anaerobes when head/neck
+involved)
+•Enterobacterales
+• spp.Pseudomonas
+• spp.Streptococcus
+• (including MRSA)Staphylococcus aureus
+Most Likely Pathogens
+Diagnosis
+Clinical Presentation
+•Acute onset of localized pain out of proportion to physical
+/g246ndings accompanied by rapid onset of systemic signs
+•Signs and symptoms of skin and soft tissue infections
+(redness, warmth, swelling) usually present when portal of
+entry is the skin but severe pain is the main symptom; rapid
+progression of redness, ecchymosis and bullae is also
+suggestive
+•De/g246nitive diagnosis requires direct visualization of
+necrotic tissue in the muscular fascia through
+surgicalexploration
+Fournier gangrene:
+•Severe pain accompanied by signs of necrosis in the
+perineal area; rapid progression of the infection to the
+abdominal wall and gluteal muscles is possible
+•Blood cultures (ideally before starting antibiotics)
+•Microscopy and cultureo f deep samples of tissue collected
+at debridementt o adjust empiric antibiotic treatment
+Microbiology Tests
+Determine disease severity and help identify a
+bacterial infection:W hite blood cell count, C-reactive
+protein and/or procalcitonin
+•If sepsis is suspected consider additional laboratory tests
+(see sepsis infographic)
+Initial evaluation for suspected necrotizing fasciitis:
+•Complete blood count
+•Creatinine
+•Electrolytes
+•Glucose
+Other LaboratoryTests
+•Ultrasound may be helpful to evaluate the extent of the
+affec ted tissue and gas and /g248uid along the muscular fascia
+•Consider CT scan of the affec ted area
+Imaging should not delay surgical exploration/inspection
+since surgery is the best way to diagnose/treat this infection
+Imaging
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+525
+HOSPITAL FACILITY 
+37. Skin and soft tissue infections – necrotizing fasciitis
+Necrotizing fasciitis
+Skin and soft tissue infection • Page 2 of 2
+Clinical Considerations
+•Clinical progression to severe disease is rapid, carefully
+monitor signs of sepsis/septic shock
+•Early surgical removal of necrotic tissue through
+drainage/debridement is key; delays are associated
+with increased mortality
+•Antibiotic treatment is a complementary measure to
+surgical source control
+•Intravenous immunoglobulin sometimes used when
+shock complicates necrotizing fasciitis (and toxic shock
+syndrome suspected) however very expensive and unclear
+effec t on mortality
+Treatment
+All dosages apply to normal renal function
+Antibiotic Treatment
+Piperacillin+tazobactam 4 g+500 mg
+q6h IV
+------------------- -------------------COMBINED WITH
+-------------------------------- --------------------------------OR
+------------------- -------------------COMBINED WITH
+Ceftriaxone 2 g q24h IV
+Metronidazole 500 mg q8h IV
+Clindamycin 900 mg q8h IV
+IF MRSA SUSPECTED,
+CONSIDER ADDING
+Vancomycin 15-20 mg/kg q12h IV
+Use this treatment option only if Streptococcus pyogenes
+infection has been excluded /g246rst
+Usually 2-3 weeks
+Based on:
+•Clinical response
+•Surgical source control, and
+•Evolution of laboratory markers of infection
+Antibiotic Treatment Duration
+Important:
+•Simplify empiric treatment to a more narrowspectrum antibiotic based on culture results or rapid
+clinical improvement if culture results unavailable
+•Step down to oral treatment is based on
+improvement of symptoms, signs of infection and the
+ability to take oral antibiotics
+526
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+37. Skin and soft tissue infections – necrotizing fasciitis
+Necrotizing fasciitis
+Skin and soft tissue infection • Page 1 of 2
+Life -thr eatening necr otizing infec tion of the deep soft tissues ,
+speci/g246cally affec ting the muscular fascia; caused mostly by
+bac t eria and chara ct erized by acute/fulminant necr osis with
+tissue destruction and sy stemic signs of to xicit y
+Classi/g246cation based on:
+•:Causative pathogen
+-T ype 1/polymic ro bial
+-T ype 2/monomic ro bial
+•Presence or absence of gas in tissues
+-F or example , pr esence of gas is common in polymic ro bial
+infe ct ions
+•:Involved site
+-L eg
+- Head and neck
+-P erineum (F ournier gang re ne)
+•:Risk of poor outcome
+-H igh v ersus moderate risk
+De/g246nition
+Monomicrobial / Type 2:
+•:Most cases
+-( group A)Streptococcus pyogenes Streptococcus
+-( group B)Streptococcus agalactiae Streptococcus
+- (mostly in elderly and chr onicallyStreptococcus dysgalactiae
+ill patients)
+•:Less frequently
+- (including MRSA )Staphylococcus aureus
+•:Speci/g246c environmental exposures
+- (fr esh water)Aeromonas hydrophila
+- (seawater)Vibrio vulni/g246cus
+Polymicrobial / Type 1:
+•A naer obes (e .g . spp ., ,Bacteroides Clostridium perfringens
+Peptostreptococcus spp . or mouth anaer obes when head/neck
+in v olv ed)
+•E nterobacterales
+• spp .Pseudomonas
+• spp .Streptococcus
+• (including MRSA )Staphylococcus aureus
+Most Likely Pathogens
+Diagnosis
+Clinical Presentation
+•, ma y occur as a complication of varicella/chickenVery rare
+po x (or associa te d with a compr omised immune system)
+•M ost elements described for adults also apply to childr en,
+but cer tain speci/g246cities exist:
+-A r eas affec ted: torso (neonates and infants); ex tr emities
+and face (older childr en)
+- Early signs and symptoms: fe ve r≥38.0 °C, r edness/sk in
+discolouration, localized sw elling , marked tenderness
+and pain of the affec ted ar ea
+•Blood cultur es (ideally befor e star ting antibiotics)
+•M icr oscopy and cultur eo f deep samples of tissue collec te d
+at debridemen tt o adjust empiric antibiotic tr eatmen t
+Microbiology Tests
+Determine disease severity and help identify a
+bacterial infection:W hite blood cell count, C-r eac tiv e
+pr otein and/or pr ocalcitonin
+•I f sepsis is suspec ted consider additional laborator y tests
+(see sepsis infographic)
+Initial evaluation for suspected necrotizing fasciitis:
+•C omplete blood coun t
+•C re atinine
+•E lec tr olytes
+•Glucose
+Other LaboratoryTests
+Imaging should not dela y sur gical exploration/inspec tion
+since surger y is the best wa y to diagnose/t re at this infec tion
+•Ultrasound may be helpful to evaluate the ex tent of the
+affec ted tissue and gas and /g248uid along the muscular fascia
+•C onsider CT scan of the affec ted ar ea
+Imaging
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+527
+HOSPITAL FACILITY 
+37. Skin and soft tissue infections – necrotizing fasciitis
+Necrotizing fasciitis
+Skin and soft tissue infection • Page 2 of 2
+Clinical Considerations
+•Clinical progression to severe disease is rapid, carefully
+monitor signs of sepsis/septic shock
+•Early surgical removal of necrotic tissue through
+drainage/debridement is key; delays associated with
+increased mortality
+•Antibiotic treatment is a complementary measure to
+surgical source control
+•Intravenous immunoglobulin sometimes used when
+shock complicates necrotizing fasciitis (and toxic shock
+syndrome suspected) however very expensive and unclear
+effec t on mortality
+Treatment
+All dosages apply to normal renal function
+Antibiotic Treatment
+Piperacillin+tazobactam 100 mg/kg/
+dose of piperacillin component q8h IV
+------------------- -------------------COMBINED WITH
+-------------------------------- --------------------------------OR
+------------------- -------------------COMBINED WITH
+Ceftriaxone 80 mg/kg/dose q24h IV
+Use this treatment option only if Streptococcus pyogenes
+infection has been excluded /g246rst
+Clindamycin IV
+•Neonates: 5 mg/kg/dose q8h
+•Children: 10 mg/kg/dose q8h
+Usually 2-3 weeks
+Based on:
+•Clinical response
+•Surgical source control, and
+•Evolution of laboratory markers of infection
+Antibiotic Treatment Duration
+Important:
+•Simplify empiric treatment to a more narrowspectrum antibiotic based on culture results or rapid
+clinical improvement if culture results unavailable
+•Step down to oral treatment is based on
+improvement of symptoms, signs of infection and the
+ability to take oral antibiotics
+Metronidazole IV/ORAL
+•Neonates: 7.5 mg/kg/dose q12h
+(for IV starting with a loading dose of
+15 mg/kg)
+•Children: 7.5 mg/kg/dose q8h
+•:Oral weight bands
+3-<6 kg 30 mg q8h
+6-<10 kg 50 mg q8h
+10-<15 kg 100 mg q8h
+15-<20 kg 150 mg q8h
+20-<30 kg 200 mg q8h
+≥30 kg 500 mg q8h
+IF MRSA SUSPECTED,
+CONSIDER ADDING
+Vancomycin IV
+•Neonates: 15 mg/kg/dose q12h
+•Children: 15 mg/kg/dose q8h
+528The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+37. Skin and soft tissue infections – necrotizing fasciitis
+Pathophysiology
+In necrotizing fasciitis, bacteria can reach the muscular fascia by local spread through a skin 
+lesion or a break in the skin barrier (e.g. wounds, bites, injection of drugs, surgery) or through 
+a breach in the mucosal barrier – usually in the intestine where the source could be a 
+diverticulum or a malignancy, or in the oropharynx. Infections can thus be both exogenous 
+(i.e. pathogens that enter the body from the environment) and endogenous (i.e. pathogens 
+that naturally reside in the body). Often a clear place of entry is not identified. Bacteria can 
+also reach the muscular fascia via the bloodstream, although this is less common.
+Necrotizing fasciitis is characterized by tissue damage with necrosis and 
+inflammatory fluid accumulation along the fascia and between muscle groups. The muscle 
+is usually not affected; however, sometimes muscular abscesses can form. Legs and arms are 
+the most commonly affected sites.
+Epidemiology
+Necrotizing fasciitis is a rare but life-threatening disease. Polymicrobial (type 1) forms occur 
+most frequently in older adults and/or individuals with underlying comorbidities (mostly 
+diabetes (352), peripheral vascular disease, immunosuppression) or traumatic or surgical 
+wounds. Intravenous drug injection is also a risk factor. Monomicrobial (type 2) forms 
+can occur at any age, including in otherwise healthy individuals, and they are the most 
+common form in children (353). Toxic shock syndrome is a rare life-threatening complication 
+of necrotizing fasciitis due to toxin production by Streptococcus pyogenes (often referred to 
+as group A Streptococcus) or Staphylococcus aureus and can also be the cause of septic shock 
+when these pathogens are involved.
+Most likely pathogens
+The most common pathogens causing mono- and polymicrobial necrotizing fasciitis are 
+listed in Table 37.1.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book529
+HOSPITAL FACILITY 
+37. Skin and soft tissue infections – necrotizing fasciitis
+Table 37.1 – Pathogens most frequently associated with necrotizing fasciitis (in 
+descending order of frequency)
+Monomicrobial (single pathogen)/type 2 Polymicrobial (multiple pathogens)/type 1
+Most cases
+Streptococcus pyogenes (group A Streptococcus) 
+Streptococcus agalactiae (group B Streptococcus)
+Streptococcus dysgalactiae (mostly in elderly 
+people and patients with chronic illness)
+Less frequently 
+Staphylococcus aureus (including MRSA)
+Pathogens to consider in cases with specific 
+environmental exposure
+Aeromonas hydrophila (exposure to fresh water)
+Vibrio vulnificus (exposure to seawater)
+Combination of anaerobes
+Bacteroides spp.
+Clostridium perfringens
+Peptostreptococcus spp. or oral anaerobic 
+organisms when the head and/or neck are 
+affected 
+and
+Enterobacterales
+Pseudomonas spp.
+Streptococcus spp. 
+Staphylococcus aureus (including MRSA)
+MRSA: methicillin-resistant Staphylococcus aureus; MSSA: methicillin-susceptible Staphylococcus aureus.
+Clinical presentation
+Clinical progression to severe disease is rapid. Therefore, the patient should always be 
+carefully monitored for signs of sepsis or septic shock. Please also refer to the chapter on 
+sepsis if suspected.
+Adults
+Necrotizing fasciitis is usually characterized by acute onset of pain out of proportion to 
+physical findings in the affected area and rapid onset of systemic signs – for example, fever 
+≥ 38.0 °C, tachycardia and increased biomarker levels – leukocytosis, C-reactive protein and 
+procalcitonin (354). 
+Signs and symptoms of skin and soft tissue infections (i.e. redness, skin 
+discolouration, swelling, induration (hardening of soft tissue) and warmth of the affected 
+area) are usually present when pathogen entry is through the skin. However, at least initially, 
+the overlying skin often appears only minimally affected and skin changes – typically bullae 
+and necrosis – only become apparent as the infection progresses. Rapid progression of 
+redness, ecchymosis and bullae is also suggestive of this infection.
+In cases of necrotizing fasciitis of the perineum (Fournier gangrene), severe pain 
+is accompanied by signs of necrosis in the perineal area, often the scrotum in men. Rapid 
+progression of the infection to the abdominal wall and gluteal muscles is possible.
+530The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+37. Skin and soft tissue infections – necrotizing fasciitis
+While in patients with cellulitis, skin abnormalities are the usual symptoms, in 
+patients with necrotizing fasciitis, severe pain (often disproportionate to skin changes) is 
+the characteristic symptom, at least in the initial phase. A definitive diagnosis requires the 
+direct visualization of necrotic tissue in the muscular fascia through surgical exploration.
+Children
+Necrotizing fasciitis is very rare in children but may occur as a complication of varicella 
+(chickenpox) or can be associated with a compromised immune system. Most characteristics 
+described for adults also apply to children, but certain specific features exist (355). For 
+example, in neonates and infants, the torso is often affected, while in older children the 
+arms and legs and the face are affected. 
+Laboratory tests
+Patient microbiology tests
+Whenever possible, a microbiology sample of the affected tissue should be obtained to 
+guide antibiotic treatment; samples can be collected at the time of surgical exploration. This 
+will allow the causative pathogen(s) to be determined so that adequate antibiotic treatment 
+can be given, for example, single versus multiple causative pathogens. Blood cultures should 
+also be obtained, ideally before antibiotic treatment is started (Table 37.2).
+Table 37.2 – Microbiology tests to consider in a patient with suspected necrotizing 
+fasciitis as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Blood cultures and antimicrobial 
+susceptibility testing
+To detect bacterial and fungal 
+bloodstream infections
+Health care facilities with 
+clinical laboratories
+Microscopy, culture and 
+antimicrobial susceptibility 
+testing of deep samples of tissue 
+collected at debridementa
+Initial step in detection and 
+identification of bacterial and 
+fungal species for selection 
+of appropriate antimicrobial 
+regimens
+Health care facilities with 
+clinical laboratories
+EDL: Model List of Essential In Vitro Diagnostics.
+a Intraoperative tissue samples should also be sent for histopathology examination.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book531
+HOSPITAL FACILITY 
+37. Skin and soft tissue infections – necrotizing fasciitis
+Other tests
+Laboratory tests can be used to complement clinical examination and history. Table 37.3 
+and Table 37.4 give several tests that could be considered in the initial assessment of the 
+patient suspected of having necrotizing fasciitis and to help guide the length of antibiotic 
+treatment. Please also refer to the chapter on sepsis if suspected.
+Table 37.3 – Laboratory tests (other than microbiology) to consider to identify a 
+bacterial infection as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+White blood count To help in the diagnosis of 
+infections
+Health care facilities 
+with clinical laboratories 
+but also in primary care 
+settings
+C-reactive protein To detect inflammation as an 
+indicator of various conditions
+Health care facilities with 
+clinical laboratories
+Procalcitonin To guide antibiotic therapy or 
+discontinuation in sepsis
+Only in tertiary health 
+care facilities
+EDL: Model List of Essential In Vitro Diagnostics.
+Table 37.4 – Laboratory tests (other than microbiology) to consider in a patient 
+with suspected necrotizing fasciitis as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Complete blood 
+count 
+To detect a wide range of disorders, 
+including infections
+Health care facilities with 
+clinical laboratories
+Creatinine To monitor kidney function for management 
+of severe infections (i.e. sepsis) and 
+adjustment of the antimicrobial regimen
+Health care facilities with 
+clinical laboratories
+Electrolytes To monitor fluid, electrolyte and acid–base 
+balance
+Health care facilities with 
+clinical laboratories
+Glucose To diagnose intermediate hyperglycaemia 
+and hypoglycaemia
+Community settings and 
+health facilities without 
+laboratories
+continues
+532The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+37. Skin and soft tissue infections – necrotizing fasciitis
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Haemoglobin To diagnose and monitor anaemia
+Clinical marker for certain severe infections
+Community settings and 
+health facilities without 
+laboratories
+EDL: Model List of Essential In Vitro Diagnostics.
+Note. If sepsis is suspected, additional tests may be needed; please refer to the chapter on sepsis.
+Using microbiology surveillance data
+There is no role for routine surveillance to inform empiric guidance. 
+Imaging
+Imaging should not delay surgical exploration (or surgical inspection) since surgery is still 
+the most reliable tool to diagnose and treat necrotizing fasciitis.
+If available, ultrasound imaging may help in the diagnosis of necrotizing fasciitis and 
+to evaluate the extent to which the tissue is affected and the presence or absence of gas 
+and fluid along the muscular fascia. A CT scan of the affected area could also be considered.
+Management
+Prompt surgical removal of the necrotic tissue through drainage and debridement is the 
+cornerstone of treatment of necrotizing fasciitis. Delays in this step are usually associated 
+with higher mortality (356). Antibiotic treatment is a complementary measure to adequate 
+surgical source control of the infection.
+Intravenous immunoglobulin is occasionally used when shock is a complication 
+in necrotizing fasciitis and therefore toxic shock syndrome (mostly due to Streptococcus 
+pyogenes or Staphylococcus aureus) is suspected; however, the effect of the use of high-cost 
+intravenous immunoglobulin on mortality is unclear (357).
+Antibiotic treatment
+Because of the seriousness of necrotizing fasciitis and the speed at which it can progress, 
+empiric antibiotic treatment should be given immediately when necrotizing fasciitis is 
+suspected. The antibiotics should cover both Gram-positive bacteria (including methicillinresistant Staphylococcus aureus) and anaerobic pathogens (Table 37.5).
+Table 37.4 continued
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book533
+HOSPITAL FACILITY 
+37. Skin and soft tissue infections – necrotizing fasciitis
+In patients at higher risk of a Gram-negative bacterial infection (e.g. patients with 
+severe immunosuppression), additional empiric medicines should be considered that have 
+activity against these pathogens.
+Simplify empiric treatment to a more narrow-spectrum antibiotic (often also called 
+de-escalation) based on culture results (targeted treatment) or rapid clinical improvement 
+if culture results are unavailable.
+Step-down to oral treatment is based on improvement of symptoms and signs 
+of infection and the ability to take oral antibiotics allowing discharge of the patient home 
+when clinically appropriate.
+Table 37.5 – Empiric antibiotic treatment for suspected or confirmed necrotizing 
+fasciitis
+Adults Children Total 
+treatment 
+duration
+ Piperacillin+tazobactam 
+(IV): 4 g + 500 mg given 
+every 6 hours
+AND Clindamycin a (IV): 
+900 mg given every 8 hours 
+ADD 
+ Vancomycin (IV) if MRSA 
+is suspected: 15–20 mg/kg 
+given every 12 hours
+OR (If Streptococcus 
+pyogenes necrotizing fasciitis 
+is considered unlikely):
+ Ceftriaxone (IV): 2 g given 
+once a day
+AND Metronidazole (IV): 
+500 mg given every 8 hours 
+ADD 
+ Vancomycin (IV) if MRSA 
+is suspected: 15–20 mg/kg 
+given every 12 hours
+ Piperacillin+tazobactam (IV): 100 mg/kg/
+dose of piperacillin component given every 8 
+hours
+AND Clindamycin a (IV):
+• Neonates: 5 mg/kg/dose given every 8 hours
+• Children: 10 mg/kg/dose given every 8 hours
+ADD 
+ Vancomycin (IV) if MRSA is suspected:
+• Neonates: 15 mg/kg/dose given every 12 hours
+• Children: 15 mg/kg/dose given every 8 hours
+OR (If Streptococcus pyogenes necrotizing fasciitis 
+is considered unlikely):
+ Ceftriaxone (IV): 80 mg/kg given once a day
+AND Metronidazole (IV/oral): 
+• Neonates: 7.5 mg/kg/dose given every 12 
+hours (for IV starting with a loading dose of 
+15 mg/kg) 
+• Children: 7.5 mg/kg/dose given every 8 hours
+2–3 weeksb
+continues
+534The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+37. Skin and soft tissue infections – necrotizing fasciitis
+Adults Children Total 
+treatment 
+duration
+Oral weight bands:
+3–< 6 kg: 30 mg given every 8 hours 
+6–< 10 kg: 50 mg given every 8 hours
+10–< 15 kg: 100 mg given every 8 hours
+15–< 20 kg: 150 mg given every 8 hours
+20-<30 kg: 200 mg given every 8 hours
+≥ 30 kg: use adult dose
+ADD
+ Vancomycin (IV) if MRSA is suspected: 
+• Neonates: 15 mg/kg/dose given every 12 hours
+• Children: 15 mg/kg/dose given every 8 hours
+IV: intravenous, MRSA: methicillin-resistant Staphylococcus aureus.
+Note: All dosages are for normal renal and hepatic function.
+a Clindamycin has the ability to suppress the expression of virulence factors in Staphylococcus aureus (i.e. it has an 
+anti-toxin effect).
+b Knowledge on the most appropriate duration of treatment is limited. Therefore, duration is often individualized 
+based on clinical response, on the success of surgical source control and, if available, changes in laboratory markers 
+of infection. Usually total treatment duration is about 2–3 weeks.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+Table 37.5 continued

@@ -1,0 +1,1788 @@
+# TOPIC: eye_infections
+
+--- [WHO AWaRe Antibiotic Book (2022) | 10. Bacterial eye infections (excluding trachoma) | p.121-155 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book105
+PRIMARY HEALTH CARE 
+10. Bacterial eye infections 
+(excluding trachoma)
+Note
+See separate chapter on trachoma.
+Key messages
+• Conjunctivitis is mostly self-limiting and of viral origin. Allergies and toxic irritants should 
+be included in the differential diagnosis. Topical antibiotics can be considered if a bacterial 
+infection is suspected. Sexually transmitted infections should be included in the differential 
+diagnosis in sexually active people and in newborns of infected mothers.
+• Keratitis is mostly caused by bacteria and viruses in high-income countries and fungi 
+predominate in low- and middle-income countries. Risk factors include eye trauma and 
+prolonged contact lens use; in the latter case, Acanthamoeba, a parasite, or Pseudomonas 
+aeruginosa should be considered as potential causes of the infection. Topical antibiotics are 
+indicated as infectious keratitis is a potentially blinding condition. 
+• Endophthalmitis mostly occurs after a penetrating eye trauma (including eye surgery) 
+or dissemination to the eye of a distant infection (e.g. endocarditis). It can be caused by 
+bacteria or fungi. Treatment ideally requires both intravitreal and intravenous antibiotics as it 
+is a potentially blinding condition.
+• Periorbital (or preseptal) cellulitis is usually a mild condition more common in children. 
+It can be treated with oral antibiotics active against Gram-positive pathogens from the skin 
+(e.g. Staphylococcus aureus). It is very important to distinguish periorbital (or preseptal) from 
+orbital cellulitis (deeper more severe infection) because the management is different.
+Other relevant WHO resources (please check regularly for updates)
+• Pocket book of hospital care for children: guidelines for the management of common 
+childhood illnesses, 2013 (31).
+Definition
+Pathogens can infect most ocular structures and present with many combinations of signs 
+and symptoms. It is important to determine which anatomical part is infected (Figure 10.1)
+106The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+10. Bacterial eye infections (excluding trachoma)
+because the most probable causative pathogens may differ, with implications for treatment. 
+In addition, eye infections can be acquired in different ways (e.g. exogenous or endogenous, 
+see the pathophysiology section for more information on transmission) and this also has 
+implications for treatment and helps determine the most likely causative pathogens.
+It should be noted that many conditions presented in this chapter could also be of 
+non-infectious origin (e.g. systemic inflammatory diseases affecting other parts of the body 
+or, in the case of conjunctivitis, allergies or toxic irritants), but non-infectious eye conditions 
+are beyond the scope of this chapter.
+This chapter focuses on eye infections of bacterial origin presented in 
+alphabetical order.
+Infections not addressed in the AWaRe book (because they are rare) include: 
+canaliculitis (infection of the lacrimal canaliculi) and dacryocystis (infection of the lacrimal sac).
+Figure 10.1 – Eye anatomy and locations of common eye infections
+Optic nerve
+Sclera
+Retina
+Fovea
+Orbital cellulitis
+Lens
+/uni2022.case Ocular muscles
+Preorbital cellulitis
+/uni2022.case Eyelid
+Conjunctivitis
+/uni2022.case Conjuctiva
+/uni2022.case Fat
+Endophthalmitis
+/uni2022.case Vitreous humour
+Keratitis
+/uni2022.case Cornea
+/uni2022.case Aqueous humour
+Uveitis
+/uni2022.case Pupil
+/uni2022.case Iris
+/uni2022.case Ciliary body
+/uni2022.case Choroid
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+107
+PRIMARY HEALTH CARE 
+10. Bacterial eye infections (excluding trachoma)
+Conjunctivitis
+Bacterial eye infection
+Infection of the conjunctiva (i.e. the mucosa that covers the
+inside part of the eyelids and the sclera, which is the white part
+of the eye)
+De/g246nition
+Diagnosis
+Clinical Presentation
+Usually not needed unless orNeisseria gonorrhoeae
+Chlamydia trachomatis are suspected
+Microbiology Tests
+Usually not needed
+Other LaboratoryTests
+Usually not needed
+Imaging
+•Most cases are mild and self-limiting
+•Usually the eye is red, watery and itchy and patients have
+a feeling of “sand in the eye”
+•Vision is normal and there is no pain (if pain is present
+consider corneal involvement)
+•Thick purulent eye discharge can be present in bacterial
+infection
+Hyperacute Bacterial Conjunctivitis:
+•Severe infection that presents with decreased vision,
+purulent eye discharge, eyelid swelling, pain on palpation
+and preauricular adenopathy
+•Consider urgent referral to an ophthalmologist due to risk
+for rapid progression to corneal perforation
+•Most cases are of viral origin
+•Bacterial cases are less common than viruses
+-C onsider (serovars D to K) andChlamydia trachomatis
+in the context of sexually transmittedNeisseria gonorrhoeae
+infections (STI) see "STI – Chlamydia urogenital infections and
+gonococcal infection"
+•Hyperacute bacterial conjunctivitis is mostly caused by
+Neisseria gonorrhoeae
+Most Likely Pathogens
+Important: non-infectious causes (mostly allergies) should
+always be considered
+Treatment
+Clinical Considerations
+•Most cases resolve without treatment in 7-10 days
+•Antibiotics can be considered in case of suspected
+bacterial conjunctivitis or conjunctivitis in the context of a
+sexually transmitted infection
+Since treatment duration varies, please refer to the
+corresponding treatment section
+Antibiotic Treatment Duration
+Bacterial Conjunctivitis
+Gentamicin 0.3% EYE DROPS
+1 drop in the affec ted eye q6h
+Treatment duration: 5 days
+----------------------------------- -----------------------------------OR
+O/g248oxacin 0.3% EYE DROPS
+1 drop in the affec ted eye q6h
+Treatment duration: 5 days
+----------------------------------- -----------------------------------OR
+Tetracycline 1% EYE OINTMENT
+1 cm in the affec ted eye q6h
+Treatment duration: 5 days
+Gonococcal Conjunctivitis
+-------------------------- --------------------------COMBINED WITH
+Ceftriaxone 250 mg IM
+Treatment duration: Single dose
+Azithromycin 1 g ORAL
+Treatment duration: Single dose
+All dosages are for normal renal function
+108
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+10. Bacterial eye infections (excluding trachoma)
+Conjunctivitis
+Bacterial eye infection • Page 1 of 2
+Infection of the conjunctiva (i.e. the mucosa that covers the
+inside part of the eyelids and the sclera, which is the white part
+of the eye)
+De/g246nition Diagnosis
+Clinical Presentation
+Usually not needed unless orNeisseria gonorrhoeae
+Chlamydia trachomatis are suspected
+Microbiology Tests
+Usually not needed
+Other LaboratoryTests
+Usually not needed
+Imaging
+•Most cases are mild and self-limiting
+•Usually the eye is red, watery and itchy and patients have
+a feeling of “sand in the eye”
+•Vision is normal and there is no pain (if pain is present
+consider corneal involvement)
+•Thick purulent eye discharge can be present in bacterial
+infection
+Hyperacute Bacterial Conjunctivitis:
+•Severe infection that presents with decreased vision,
+purulent eye discharge, eyelid swelling, pain on palpation
+and preauricular adenopathy
+•Consider urgent referral to an ophthalmologist due to risk
+for rapid progression to corneal perforation
+•Most cases are of viral origin
+•Bacterial cases can occur in children more frequently than in
+adults (although less common than viruses)
+•Consider (serovars D-K) andChlamydia trachomatis Neisseria
+gonorrhoeae in neonates after vaginal delivery from infected
+mothers
+Most Likely Pathogens
+Important: non-infectious causes (mostly allergies) should
+always be considered
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+109
+PRIMARY HEALTH CARE 
+10. Bacterial eye infections (excluding trachoma)
+Conjunctivitis
+Bacterial eye infection • Page 2 of 2
+Preventiono fb othC hlamydiala nd
+GonococcalO phthalmiaN eonatorum
+Gonococcal Ophthalmia Neonatorum
+Ceftriaxone 50 mg/kg IM
+Treatment duration: Single dose
+All dosages are for normal renal function
+Treatment
+Clinical Considerations
+• in 7-10 daysMost cases resolve without treatment
+•Antibiotics can be considered in case of suspected
+bacterial conjunctivitis
+Since treatment duration varies, please refer to the
+corresponding treatment section
+Antibiotic Treatment Duration
+Bacterial Conjunctivitis
+Gentamicin 0.3% EYE DROPS
+•1 drop in the affec ted eye q6h
+Treatment duration: 5 days
+----------------------------------- -----------------------------------OR
+O/g248oxacin 0.3% EYE DROPS
+•1 drop in the affec ted eye q6h
+Treatment duration: 5 days
+----------------------------------- -----------------------------------OR
+Tetracycline 1% EYE OINTMENT
+•1 cm in the affec ted eye q6h
+Treatment duration: 5 days
+Do not administer ceftriaxone in neonates receiving calciumcontaining IV /g248uids and avoid in infants with
+hyperbilirubinaemia
+Chlamydial Ophthalmia Neonatorum
+Azithromycin 20 mg/kg q24h ORAL
+Treatment duration: 3 days
+Topical therapy alone is not effectiv e
+All dosages are for normal renal function
+Erythromycin 0.5% EYE OINTMENT
+•To be applied to both eyes soon after birth
+----------------------------------- -----------------------------------OR
+Tetracycline 1% EYE OINTMENT
+•To be applied to both eyes soon after birth
+110
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+10. Bacterial eye infections (excluding trachoma)
+Endophthalmitis
+Bacterial eye infection
+Bacterial Endophthalmitis
+-------------------------- --------------------------COMBINED WITH
+Vancomycin 1 mg INTRAVITREAL INJECTION
+All dosages are for normal renal function
+•Infection of the intraocular /g248uids (vitreous and aqueous humor)
+and the retina
+•Most cases occur as a result of penetrating eye trauma, after
+eye surgery or as a complication of keratitis
+•Rare cases are due to bacteremia or fungemia from distant sites
+of infection (e.g. endocarditis, liver abscess)
+De/g246nition Treatment
+Clinical Considerations
+•Endophthalmitis is an ocular emergency because it is a
+potentially blinding condition
+•Systemic antibiotics (in combination with intravitreal
+antibiotics) should be considered given the severity of this
+condition, especially when referral to an ophthalmologist is
+not rapidly available
+The cornerstone of treatment is intravitreal injection of
+antibiotics.T wo common approaches to administer
+intravitreal antibiotics:
+1. “Tap and inject”:/g246rst a sample of vitreous humour is
+collected for culture (through vitreous aspiration), then
+antibiotics are injected into the vitreous
+2. Vitrectomy is performed (i.e. eye surgery to remove some
+or all the in/g248amed vitreous from the eye as a form of source
+control) and during the procedure, the antibiotic is injected
+into the vitreous
+Diagnosis
+Clinical Presentation
+•Consider microscopy and culture of a sample of aqueous
+or vitreous humour aspirate
+•Consider blood cultures if a distant source of infection is
+suspected (i.e. endogenous endophthalmitis)
+Microbiology Tests
+Consider tests to detect organ dysfunction
+Other LaboratoryTests
+Usually not needed
+Imaging
+•Usually painful red eye, blurred vision and trouble looking
+at bright light
+•In cases where pathogens reach the eye through the
+bloodstream from other sites of infection, signs and
+symptoms of bacteremia/fungemia can be present
+although usually ocular symptoms occur /g246rst
+Exogenous (Most Cases):
+•:Bacteria
+-M ostly coagulase-negative Staphylococci, less frequently
+Staphylococcus aureus
+- spp.Streptococcus
+- spp. (more frequent in Asia)Klebsiella
+- (mostly in case of penetrating trauma)Bacillus cereus
+•:Fungi
+- spp.Fusarium
+- spp.Aspergillus
+Endogenous (Rare):
+•:Bacteria
+-M ostly coagulase-negative Staphylococci, less frequently
+Staphylococcus aureus
+- spp.Streptococcus
+- spp. (more frequent in Asia)Klebsiella
+- (mostly in case of penetrating trauma)Bacillus cereus
+•:Fungi
+-M ostly Candida albicans
+Most Likely Pathogens
+Intravitreal: Single dose
+•If no clinical improvement after 48 hours, the injection can
+be repeated
+Systemic: Depends on underlying source of bacteremia
+Antibiotic Treatment Duration
+Ceftazidime 2.25 mg INTRAVITREAL INJECTION
+-------------------------- --------------------------COMBINED WITH
+Ceftriaxone 2 g q24h IV
+Vancomycin 15-20 mg/kg q12h IV
+IF ENDOGENOUS INFECTION,
+ADD
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+111
+PRIMARY HEALTH CARE 
+10. Bacterial eye infections (excluding trachoma)
+Endophthalmitis
+Bacterial eye infection
+•Infection of the intraocular /g248uids (vitreous and aqueous humor)
+and the retina
+•Most cases occur as a result of penetrating eye trauma, after
+eye surgery or as a complication of keratitis
+•Rare cases are due to bacteremia or fungemia from distant sites
+of infection (e.g. endocarditis, liver abscess)
+De/g246nition
+Diagnosis
+Clinical Presentation
+•Consider microscopy and culture of a sample of aqueous
+or vitreous humour aspirate
+•Consider blood cultures if a distant source of infection is
+suspected (i.e. endogenous endophthalmitis)
+Microbiology Tests
+Consider tests to detect organ dysfunction
+Other LaboratoryTests
+Usually not needed
+Imaging
+•Usually painful red eye, blurred vision and trouble looking
+at bright light
+•In cases where pathogens reach the eye through the
+bloodstream from other sites of infection, signs and
+symptoms of bacteremia/fungemia can be present
+although usually ocular symptoms occur /g246rst
+Exogenous (Most Cases):
+•:Bacteria
+-M ostly coagulase-negative Staphylococci, less frequently
+Staphylococcus aureus
+- spp.Streptococcus
+- spp. (more frequent in Asia)Klebsiella
+- (mostly in case of penetrating trauma)Bacillus cereus
+•:Fungi
+- spp.Fusarium
+- spp.Aspergillus
+Endogenous (Rare):
+•:Bacteria
+-M ostly coagulase-negative Staphylococci, less frequently
+Staphylococcus aureus
+- spp.Streptococcus
+- spp. (more frequent in Asia)Klebsiella
+- (mostly in case of penetrating trauma)Bacillus cereus
+•:Fungi
+-M ostly Candida albicans
+Most Likely Pathogens
+Bacterial Endophthalmitis
+-------------------------- --------------------------COMBINED WITH
+Vancomycin 1 mg INTRAVITREAL INJECTION
+All dosages are for normal renal function
+Treatment
+Clinical Considerations
+•Endophthalmitis is an ocular emergency because it is a
+potentially blinding condition
+•Systemic antibiotics (in combination with intravitreal
+antibiotics) should be considered given the severity of this
+condition, especially when referral to an ophthalmologist is
+not rapidly available
+The cornerstone of treatment is intravitreal injection of
+antibiotics.T wo common approaches to administer
+intravitreal antibiotics:
+1. “Tap and inject”:/g246rst a sample of vitreous humour is
+collected for culture (through vitreous aspiration), then
+antibiotics are injected into the vitreous
+2. Vitrectomy is performed (i.e. eye surgery to remove some
+or all the in/g248amed vitreous from the eye as a form of source
+control) and during the procedure, the antibiotic is injected
+into the vitreous
+Intravitreal: Single dose
+•If no clinical improvement after 48 hours, the injection can
+be repeated
+Systemic: Depends on underlying source of bacteremia
+Antibiotic Treatment Duration
+Ceftazidime 2.25 mg INTRAVITREAL INJECTION
+-------------------------- --------------------------COMBINED WITH
+Ceftriaxone 80 mg/kg/dose q24h IV
+Vancomycin IV
+•Neonates: 15 mg/kg/dose q12h
+•Children: 15 mg/kg/dose q8h
+IF ENDOGENOUS INFECTION,
+ADD
+112
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+10. Bacterial eye infections (excluding trachoma)
+Keratitis
+Bacterial eye infection
+Diagnosis
+Clinical Presentation
+•Consider microscopy and culture of a corneal sample (e.g.
+corneal scrapings or corneal biopsy)
+•Consider nucleic acid ampli/g246cation testing for herpes
+simplex virus in patients who are immunocompromised
+Microbiology Tests
+Usually not needed
+Other LaboratoryTests
+Usually not needed; specialist eye examination may be
+considered
+Imaging
+Usually painful eye, decreased vision, more tears and corneal
+oedema with a feeling of“having something in the eye”and
+difficulty in keeping the ey e open +/- eye discharge
+Infection of the cornea (i.e. transparent covering of the eye)
+De/g246nition
+High Income Countries:
+•Bacteria and viruses are the most common causes
+Low and Middle Income Countries:
+•Fungi predominate (especially in rural settings where eye
+trauma from plants is a common risk factor)
+Bacteria:
+•s spp. (mostly in individuals who wear contactPseudomona
+lenses)
+•Staphylococcus epidermidis
+•Staphylococcus aureus
+•Streptococcus pneumoniae
+Fungi:
+•Mostly spp.Fusarium
+• spp.Aspergillus
+Viruses:
+•Reactivation of herpes simplex virus (especially in patients who
+are immunocompromised)
+Parasites:
+•Acanthamoeba (contact lenses)
+Most Likely Pathogens
+Treatment
+Clinical Considerations
+•Infectious keratitis is an ocular emergency because it is a
+potentially blinding condition with poor prospects of visual
+restoration
+•Patients with keratitis should stop wearing contact lenses
+until the infection is healed
+•Consider giving cycloplegic eye drops (cyclopentolate 1%
+or atropine 1%) to reduce photophobia and to reduce the
+formation of pupillary adhesions to the lens
+2 weeks
+Duration is often personalized to the individual based
+on clinical improvement
+Antibiotic Treatment Duration
+Bacterial Keratitis
+O/g248oxacin 0.3% EYE DROPS
+•1 drop in the affec ted eye q1h for 48 hours,
+then q4h until healed
+Drops are preferred over ointments because they have a better
+corneal penetration
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+113
+PRIMARY HEALTH CARE 
+10. Bacterial eye infections (excluding trachoma)
+Keratitis
+Bacterial eye infection
+Diagnosis
+Clinical Presentation
+•Consider microscopy and culture of a corneal sample (e.g.
+corneal scrapings or corneal biopsy)
+•Consider nucleic acid ampli/g246cation testing for herpes
+simplex virus in patients who are immunocompromised
+Microbiology Tests
+Usually not needed
+Other LaboratoryTests
+Usually not needed; specialist eye examination may be
+considered
+Imaging
+•Usually painful eye, decreased vision, more tears and
+corneal oedema with a feeling of“having something in the
+eye”and difficulty in keeping the ey e open +/- eye discharge
+•Keratitis is rare in children
+Infection of the cornea (i.e. transparent covering of the eye)
+De/g246nition
+High Income Countries:
+•Bacteria and viruses are the most common causes
+Low and Middle Income Countries:
+•Fungi predominate (especially in rural settings where eye
+trauma from plants is a common risk factor)
+Bacteria:
+•s spp. (mostly in individuals who wear contactPseudomona
+lenses)
+•Staphylococcus epidermidis
+•Staphylococcus aureus
+•Streptococcus pneumoniae
+Fungi:
+•Mostly spp.Fusarium
+• spp.Aspergillus
+Viruses:
+•Reactivation of herpes simplex virus (especially in patients who
+are immunocompromised)
+Most Likely Pathogens
+Treatment
+Clinical Considerations
+•Infectious keratitis is an ocular emergency because it is a
+potentially blinding condition with poor prospects of visual
+restoration
+•Consider giving cycloplegic eye drops (cyclopentolate 1%
+or atropine 1%) to reduce photophobia and to reduce the
+formation of pupillary adhesions to the lens
+2 weeks
+Duration is often personalized to the individual based
+on clinical improvement
+Antibiotic Treatment Duration
+Bacterial Keratitis
+O/g248oxacin 0.3% EYE DROPS
+•1 drop in the affec ted eye q1h for 48 hours,
+then q4h until healed
+Drops are preferred over ointments because they have a better
+corneal penetration
+114
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+10. Bacterial eye infections (excluding trachoma)
+Periorbital cellulitis
+Bacterial eye infection
+Treatment
+Clinical Considerations
+Most cases can be managed in the outpatient setting with
+oral antibiotics especially in adults with no signs of sev er e
+infec tion
+Diagnosis
+Clinical Presentation
+•U sually not needed
+•C ultur es ar e difficult to obtain and blood cultur es when
+per formed ar e usually negativ e
+Microbiology Tests
+Usually not needed
+Other LaboratoryTests
+C onsider a CT scan of the orbits and sinuses to assess the
+pr esence of orbital in v olv ement and possible complications
+(e.g . abscess)
+Imaging
+•U sually unilateral signs of in/g248ammation ar ound the
+affec te de ye (e.g .r ed ,s w ollen, warm and tender ey elid) with
+no r estric te do r painful ey em ovement +/- feve r( ≥ 38.0 °C )
+•V ision is normal
+10-14 days (depending on the sev erity)
+Antibiotic Treatment Duration
+De/g246nition
+In fec tion of subcutaneous ey elid tissues anterior to the orbital
+septum (the globe and the tissues within the bon y orbit ar e not
+in v olv ed)
+Important: most cases r esult fr om adjacent infec tions (e .g .
+infec tion of the ey elid , lacrimal sac, periorbital sinuses ,
+dental infections) or follow bites or trauma of the ey elid
+Important:
+•T his is usually a mild condition that is ra re in adults;
+complications ar e ra re
+•I t is impor tant to diffe re ntiate with orbital cellulitis
+(wher e ther e is usually r estric ted ey e mov ements ,
+pr otrusion of the ey e and loss of vision)
+Bacteria:
+• (including MRSA strains)Staphylococcus aureus
+•Streptococcus pneumoniae
+•Haemophilus in/g248uenzae
+•Moraxella catarrhalis
+•A naer obes should be suspec ted if ther e is a histor y of animal or
+human bite or if necr osis is pr esen t
+Viruses:
+•C onsider a virus (e .g . herpes simplex virus or varicella-zoster
+virus) if ther e is a v esicular sk in rash
+Most Likely Pathogens
+C efalexin 500 mg q8h ORAL
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Antibiotic Treatment
+----------------------------------- -----------------------------------OR
+Amo xicillin+clavulanic acid 500 mg+125 mg
+q8h OR 1 g+200 mg q8hORAL IV
+Clo xacillin 500 mg q6h OR 2 g q6hORAL IV
+----------------------------------- -----------------------------------OR
+Cloxacillin has a narrower spectrum of antibacterial activity
+compared to amoxicillin+clavulanic acid and cefalexin with
+limited coverage of Gram-negative bacteria from the upper
+respiratory tract that may cause periorbital cellulitis. Therefore,
+when this infection is suspected, amoxicillin+clavulanic acid
+or cefalexin would be the preferred options
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+115
+PRIMARY HEALTH CARE 
+10. Bacterial eye infections (excluding trachoma)
+Periorbital cellulitis
+Bacterial eye infection • Page 1 of 2
+De/g246nition
+In fec tion of subcutaneous ey elid tissues anterior to the orbital
+septum (the globe and the tissues within the bon y orbit ar e not
+in v olv ed)
+Important: most cases r esult fr om adjacent infec tions (e .g .
+infec tion of the ey elid , lacrimal sac, periorbital sinuses) or
+follow bites or trauma of the ey elid
+Diagnosis
+Clinical Presentation
+•U sually not needed
+•C ultur es ar e difficult to obtain and blood cultur es when
+per formed ar e usually negativ e
+Microbiology Tests
+Usually not needed
+Other LaboratoryTests
+C onsider a CT scan of the orbits and sinuses to assess the
+pr esence of orbital in v olv ement and possible complications
+(e.g . abscess)
+Imaging
+•U sually unilateral signs of in/g248ammation ar ound the
+affec te de ye (e.g .r ed ,s w ollen, warm and tender ey elid) with
+no r estric te do r painful ey em ovement +/- feve r( ≥ 38.0 °C )
+•V ision is normal
+Important:
+•T his is usually a mild condition, complications ar e ra re
+•I t is impor tant to diffe re ntiate with orbital cellulitis
+(wher e ther e is usually r estric ted ey e mov ements ,
+pr otrusion of the ey e and loss of vision)Bacteria:
+• (including MRSA strains)Staphylococcus aureus
+•Streptococcus pneumoniae
+•Haemophilus in/g248uenzae
+•Moraxella catarrhalis
+•A naer obes should be suspec ted if ther e is a histor y of animal or
+human bite or if necr osis is pr esen t
+Viruses:
+•C onsider a virus (e .g . herpes simplex virus or varicella zoster
+virus) if ther e is a v esicular sk in rash
+Most Likely Pathogens
+116
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+10. Bacterial eye infections (excluding trachoma)
+Periorbital cellulitis
+Bacterial eye infection • Page 2 of 2
+----------------------------------- -----------------------------------OR
+Amox = amoxicillin
+Oral liquid must be refrigerated after reconstitution
+Cefalexin 25 mg/kg/dose q12h ORAL
+•:Oral weight bands
+3-<6 kg 125 mg q12h
+6-<10 kg 250 mg q12h
+10-<15 kg 375 mg q12h
+15-<20 kg 500 mg q12h
+20-<30 kg 625 mg q12h
+≥30 kg 500 mg q8h
+----------------------------------- -----------------------------------OR
+Cloxacillin
+IV
+•Neonates: 25-50 mg/kg/dose q12h
+•Children: 25 mg/kg/dose q6h
+ORAL: 15 mg/kg/dose q6h
+•:Oral weight bands
+3-<6 kg 62.5 mg q6h
+6-<10 kg 125 mg q6h
+10-<15 kg 250 mg q6h
+15-<20 kg 375 mg q6h
+≥20 kg 500 mg q6h
+Amoxicillin+clavulanic acid
+IV:
+•1st week of life: 50 mg/kg/dose of amoxicillin
+component q12h
+•> 1st week of life: 50 mg/kg/dose of
+amoxicillin component q8h
+ORAL: 80-90 mg/kg/day of amoxicillin
+component
+•:Oral weight bands
+3-<6 kg 250 mg of amox/dose q12h
+6-<10 kg 375 mg of amox/dose q12h
+10-<15 kg 500 mg of amox/dose q12h
+15-<20 kg 750 mg of amox/dose q12h
+≥20 kg 500 mg of amox/dose q8h or
+1 g of amox/dose q12h
+Cloxacillin has a narrower spectrum of antibacterial activity
+compared to amoxicillin+clavulanic acid and cefalexin with
+limited coverage of Gram-negative bacteria from the upper
+respiratory tract that may cause periorbital cellulitis. Therefore,
+when this infection is suspected, amoxicillin+clavulanic acid
+or cefalexin would be the preferred options
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Antibiotic TreatmentClinical Considerations
+Most cases can be managed in the outpatient setting with
+oral antibiotics especially in children >1 year with no signs
+of severe infection
+10-14 days (depending on the severity)
+Antibiotic Treatment Duration
+Treatment
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book117
+PRIMARY HEALTH CARE 
+10. Bacterial eye infections (excluding trachoma)
+Pathophysiology
+Eye infections can result either from external contamination through direct inoculation of the 
+pathogen into the eye/s (exogenous transmission) or from dissemination of the pathogen 
+through the bloodstream from a distant site of infection (endogenous transmission). 
+Exogenous transmission can occur by contact with infected secretions (mostly by rubbing 
+the eye/s with contaminated hands), or as a result of a penetrating eye injury, which 
+includes eye surgery where bacteria from the flora could be introduced. The use of contact 
+lenses and eye contact with water (e.g. during swimming) are also risk factors for exogenous 
+transmission. In addition, certain STIs (e.g. gonococcal and chlamydial infections) can be 
+transmitted from infected mothers to their child during vaginal delivery. Endogenous 
+transmission occurs when pathogens are spread through the bloodstream from other sites 
+of infection (e.g. in the case of endocarditis, UTIs, abdominal abscesses, meningitis and 
+indwelling catheters), mainly in high-risk patients, such as immunocompromised patients 
+and people who inject drugs.
+Blepharitis
+Definition
+Blepharitis is an infection of the eyelid margin. It can be anterior (less common than 
+posterior blepharitis and characterized by inflammation at the base of the eyelashes) or 
+posterior (more common, characterized by inflammation of the inner portion of the eyelid 
+at the level of the meibomian glands). 
+Hordeolum (stye) is a common acute bacterial infection of one or more eyelid glands.
+Epidemiology
+Blepharitis is a chronic condition and most cases are not due to infections but to a 
+dysfunction of oil glands in the eyelids. In posterior blepharitis (the most common form), 
+chronic infections may also play a role. The bacteria that comprise the flora in posterior 
+blepharitis are the same as those found on the skin but are present in greater numbers (82).
+Most likely pathogens
+The most common causative pathogens of blepharitis are shown in Table 10.1.
+118The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+10. Bacterial eye infections (excluding trachoma)
+Table 10.1 – Pathogens most frequently associated with blepharitis (in descending 
+order of frequency)
+Type of organism Pathogen
+Bacteria Staphylococcus aureus
+Coagulase-negative Staphylococcus
+Mites Demodex folliculoruma
+Demodex brevisb
+Note. Blepharitis does not usually have an infectious origin.
+a Demodex folliculorum has been identified in 30% of patients with chronic anterior blepharitis but is also found 
+with about the same prevalence in asymptomatic people. However, this organism is clearly a contributing factor in 
+some patients as evidenced by the improvement seen in response to eradication therapy.
+b Demodex brevis has been associated with posterior blepharitis. 
+Clinical presentation 
+Patients with blepharitis typically present with inflamed eyelids that are red, swollen and 
+itchy with crusts at the base of the eyelid and on the eyelashes mostly in the morning. 
+Usually both eyes are affected and most cases are chronic.
+Blepharitis is more common in adults than in children, but children can have severe 
+episodes of anterior and/or posterior blepharitis, often characterized by more conjunctival 
+and corneal findings (83,84).
+Blepharitis related to Demodex infestation characteristically presents with cylindrical 
+dandruff or “sleeves” on the eyelashes (85). Patients with hordeolum usually present with a 
+tender swelling of the eyelid/s with a lash at its apex.
+Laboratory tests 
+Patient microbiology tests
+Microbiology tests are not usually needed.
+Other tests
+Laboratory tests (other than microbiology) are not usually helpful.
+Using microbiology surveillance data
+Routine surveillance is not helpful to inform empiric guidance.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book119
+PRIMARY HEALTH CARE 
+10. Bacterial eye infections (excluding trachoma)
+Imaging
+Imaging is usually not needed.
+Antibiotic treatment 
+Antibiotic treatment is not usually needed. Good eyelid hygiene is the most important 
+treatment and cases usually resolve without further measures. Warm compresses 5 to 10 
+minutes two to four times per day, lid massage and washing, and use of preservative-free 
+artificial tears four to eight times per day can also help. 
+Patients with severe or refractory symptoms may require additional therapies but 
+this is beyond the scope of this chapter. 
+Conjunctivitis
+Definition
+Conjunctivitis is an infection of the conjunctiva, the mucosa that covers the inside part of 
+the eyelids and the outer surface of the eye – the sclera. 
+Epidemiology
+Conjunctivitis is the most frequent eye infection and most cases are of viral origin in both 
+children and adults. Bacterial cases, although less common, can occur, especially in children. 
+Non-infectious causes (mostly allergies but sometimes also toxic irritants) should always be 
+considered in the differential diagnosis (86). Most cases of conjunctivitis are exogenous and 
+infection is mostly acquired by touching the eye with contaminated hands.
+Most likely pathogens
+Pathogens most frequently associated with conjunctivitis (86) are shown in Table10.2.
+120The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+10. Bacterial eye infections (excluding trachoma)
+Table 10.2 – Pathogens most frequently associated with conjunctivitis (in 
+descending order of frequency)
+Type of organism Pathogen
+Viruses Most infectious cases are of viral origin
+Adenovirus (usually)
+Herpes simplex virus (rarely)
+Varicella-zoster virus (rarely)
+Bacteria (87) In children
+Staphylococcus aureus
+Streptococcus pneumoniae
+Haemophilus influenzae
+Moraxella catarrhalis
+In adults
+Staphylococcus aureus
+Consider
+Chlamydia trachomatis (serovars D–K) and Neisseria 
+gonorrhoeae in the context of sexually transmitted infections 
+or in neonates after vaginal delivery from infected mothers.
+Chlamydia trachomatis (serovars A–C) can cause trachoma. 
+Trachoma is covered in a separate chapter.
+Clinical presentation 
+Patients with conjunctivitis (including cases of viral origin) usually present with a red, watery 
+and itchy eye. They often describe a feeling of “sand in the eye” with no pain (if there is 
+pain, this usually indicates corneal involvement) and they have normal vision. In cases of 
+bacterial infection, a thick purulent discharge from the eye is usually present. Patients may 
+refer to all discharge as pus; however, in bacterial conjunctivitis, the complaint of discharge 
+predominates, while in viral and allergic conjunctivitis, patients report a burning and gritty 
+feeling or itching and the eye usually presents with a watery discharge. In most cases, 
+conjunctivitis is a mild self-limiting condition. 
+A severe form of conjunctivitis is hyperacute bacterial conjunctivitis which is mostly 
+caused by Neisseria gonorrhoeae. It is characterized by severe purulent discharge and decreased 
+vision. Usually, eyelid swelling, pain on palpation and preauricular adenopathy are present (86). 
+In neonates, conjunctivitis can be caused by a range of pathogens. In general, 
+gonococcal or staphylococcal infection is more likely to present early with symptoms in the 
+first 5 days of life, with chlamydial infection generally presenting later (> 5 days after birth).
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book121
+PRIMARY HEALTH CARE 
+10. Bacterial eye infections (excluding trachoma)
+Laboratory tests 
+Patient microbiology tests
+Usually no test is required unless Neisseria gonorrhoeae or Chlamydia trachomatis are suspected.
+Other tests
+Laboratory tests (other than microbiology) are usually not helpful.
+Using microbiology surveillance data
+Routine surveillance is not helpful to inform empiric guidance.
+Imaging
+Imaging is usually not needed.
+Antibiotic treatment 
+Most cases of infectious conjunctivitis are self-limiting, of viral origin and resolve without 
+treatment in 7–10 days. In patients with typical presentation of bacterial conjunctivitis 
+(i.e. red eye with purulent discharge and normal vision), antibiotic treatment could be 
+considered to shorten the duration of symptoms (88) based on the patient’s preferences. 
+In these cases, antibiotic treatment is usually topical (eye drops or eye ointment) and 
+prescribed empirically (Table 10.3) based on local availability. Systemic antibiotic treatment 
+is only required in cases of systemic infections, for example, conjunctivitis in the context of 
+an STI (Table 10.3). Steroid eye drops (alone or in combination with antibiotic drops) are not 
+usually needed for the treatment of conjunctivitis; in fact, steroids might even make the 
+condition worse if it is caused by herpes virus infection or the cornea is affected.
+Urgent referral of the patient to an ophthalmologist, if available, should be considered 
+when hyperacute bacterial conjunctivitis (mostly caused by Neisseria gonorrhoeae ) is 
+suspected because of the risk of rapid progression to corneal perforation.
+122The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+10. Bacterial eye infections (excluding trachoma)
+Table 10.3 – Empiric antibiotic treatment for bacterial conjunctivitis
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Type of eye infection Antibiotic treatment Total treatment 
+duration
+Bacterial conjunctivitis 
+(children and adults)
+ Gentamicin (eye drops): 0.3%, 1 drop 
+in the affected eye every 6 hours
+OR
+ Ofloxacin (eye drops): 0.3%, 1 drop in 
+the affected eye every 6 hours
+OR
+ Tetracycline (eye ointment): 1%, 1 cm 
+in the affected eye every 6 hours
+5 days
+Gonococcal conjunctivitis 
+(adults, adolescents)
+ Ceftriaxone (IM)a: 250 mg AND
+ Azithromycin (oral): 1 g
+Single dose
+Gonococcal ophthalmia 
+neonatorum (i.e. 
+gonococcal conjunctivitis 
+of the newborn)
+Symptoms usually appear 
+within 5 days of birth
+ Ceftriaxone (IM)b: 50 mg/kg Single dose
+Chlamydial ophthalmia 
+neonatorum (i.e. 
+chlamydial conjunctivitis of 
+the newborn)
+Symptoms usually appear 
+> 5 days after birth
+ Azithromycin (oral)c: 20 mg/kg given 
+once a day 
+Topical therapy alone is not effective.
+3 days
+Ocular prophylaxis 
+(topical treatment 
+for the prevention of 
+both gonococcal and 
+chlamydial ophthalmia 
+neonatorum)d
+ Erythromycin (eye ointment): 0.5%
+OR
+ Tetracycline (eye ointment): 1%
+Antibiotic needs 
+to be applied to 
+both eyes soon 
+after birth (single 
+dose)
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book123
+PRIMARY HEALTH CARE 
+10. Bacterial eye infections (excluding trachoma)
+Table 10.3 continued
+IM: intramuscular.
+Note. All dosages are for normal renal and hepatic function.
+a Concurrent treatment with azithromycin for chlamydial infection is usually recommended. 
+b Ceftriaxone should not be administered in neonates receiving calcium-containing IV fluids and it should be 
+avoided in infants with hyperbilirubinaemia. Cefotaxime can be used as an alternative. Alternatives to ceftriaxone 
+indicated in the 2016 WHO guidelines but not included the EMLc for this indication are kanamycin (IM) 25 mg/kg 
+or spectinomycin (IM) 25 mg/kg (89).
+c An alternative indicated in the 2016 WHO guidelines but not included in the EML for this indication is erythromycin 
+(oral) 50 mg/kg per day divided in four doses for 14 days (89).
+d Alternatives indicated in the 2016 WHO guidelines but not included in the EML for this indication are: 
+povidone–iodine (water-based solution; do not use alcohol-based solutions) 2.5%; silver nitrate (solution) 1%; 
+chloramphenicol (eye ointment) 1% (89).
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+Endophthalmitis
+Definition
+Endophthalmitis is an infection of the inner part of the eye globe, in particular, the intraocular 
+fluids: vitreous and aqueous humour, and the retina.
+Epidemiology
+Endophthalmitis mostly has an exogenous cause and occurs as a result of penetrating 
+eye trauma, after eye surgery or as a complication of keratitis. Endogenous cases of 
+endophthalmitis are rare but can occur because of bacteraemia or fungaemia from 
+distant sites of infection, most often endocarditis and liver abscess depending on the 
+setting (90,91) . Injection of drugs is a common risk factor in patients with endogenous 
+infections. Endophthalmitis refers to bacterial or fungal infection within the eye, 
+including involvement of the vitreous and/or aqueous humours. Endophthalmitis is not 
+caused by viruses or parasites; infections due to these organisms are included in the 
+term uveitis (92).
+Most likely pathogens
+Table 10.4 shows the most common causative pathogens associated with endophthalmitis.
+124The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+10. Bacterial eye infections (excluding trachoma)
+Table 10.4 – Pathogens most frequently associated with endophthalmitis
+Type of endophthalmitis Most common causative pathogens (in descending 
+order of frequency)
+Exogenous – most cases Bacteria
+Most cases
+Coagulase-negative staphylococci
+Less frequently
+Staphylococcus aureus (93)
+Streptococcus spp.a
+Klebsiella spp. (more frequent in Asia ; often in conjunction 
+with liver abscess)
+Bacillus cereus (mostly in cases of penetrating trauma)
+Fungib
+Fusarium spp.
+Aspergillus spp.
+Endogenous – rare Bacteria: same as above
+Fungic
+Mostly Candida albicans
+a Streptococcus viridans is more frequently encountered in case of post-intravitreal injection endophthalmitis 
+compared to post-cataract endophthalmitis (94).
+b In tropical regions, fungal endophthalmitis is often due to molds and is usually exogenous in origin.
+c In temperate climates, fungal endophthalmitis is usually endogenous and caused by Candida spp.
+Clinical presentation 
+Endophthalmitis is usually an acute condition and patients present with a painful red eye, 
+blurred vision and trouble looking at bright light (i.e. photophobia). Most cases are exogenous 
+and typically occur after eye surgery (usually within days or a few weeks) or trauma. In rare 
+cases, endophthalmitis can result from the haematogenous spread of pathogens from distant 
+sites of infection, such as endocarditis and liver abscess. In these cases, signs and symptoms 
+of bacteraemia can be present although in most cases ocular symptoms occur first.
+Laboratory tests 
+Patient microbiology tests
+Microbiology tests to consider when endophthalmitis is suspected are shown in Table 10.5.
+A positive culture of aqueous or vitreous humour in the presence of compatible 
+signs and symptoms could confirm the diagnosis.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book125
+PRIMARY HEALTH CARE 
+10. Bacterial eye infections (excluding trachoma)
+Table 10.5 – Microbiology tests to consider when endophthalmitis is suspected as 
+indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Microscopy (Gram stain) 
+and culture of aqueous 
+or vitreous humour 
+aspirate
+Microbial morphology and 
+detection and identification of 
+bacterial and fungal species 
+for selection of appropriate 
+antimicrobial regimens
+Health care facilities with 
+clinical laboratories
+Blood cultures 
+and antimicrobial 
+susceptibility testing
+To detect bacterial and fungal 
+bloodstream infections in 
+patients with suspected 
+endogenous endophthalmitis
+Health care facilities with 
+clinical laboratories
+EDL: WHO Model List of Essential In Vitro Diagnostics.
+Other tests
+Laboratory tests (other than microbiology) are usually not needed.
+Using microbiology surveillance data
+Routine surveillance is not helpful to inform empiric guidance.
+Imaging
+Imaging is usually not needed.
+Antibiotic treatment 
+This condition should be treated by an ophthalmologist where available. Urgent referral of 
+the patient to an ophthalmologist, if available, should be considered when endophthalmitis 
+is suspected because this condition could potentially threaten the patient’s sight.
+With bacterial endophthalmitis, the cornerstone of treatment is intravitreal injection 
+of antibiotics. There are two common approaches:
+• “tap and inject”: first a sample of vitreous humour is collected for culture (through 
+vitreous aspiration) and then antibiotics are injected into the vitreous
+• vitrectomy is performed – that is, eye surgery to remove some or all the inflamed 
+vitreous from the eye as a form of source control – and during the procedure, the 
+antibiotic is injected into the vitreous.
+126The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+10. Bacterial eye infections (excluding trachoma)
+Systemic antibiotics (in combination with intravitreal antibiotics) should also be 
+considered given the severity of this condition, especially when referral to an ophthalmologist 
+is not readily available (Table 10.6). In cases of endogenous infections, systemic antibiotics 
+should always be given. However, evidence of their added benefit (e.g. on visual acuity) 
+compared to intravitreal treatment alone is still controversial. The ability to rapidly reach 
+adequate concentrations of antibiotics in the eye varies by antibiotic (95). 
+There is limited evidence of the benefit of additive treatment with intravitreal steroid 
+therapy compared to antibiotics alone (96).
+Table 10.6 – Empiric antibiotic treatment for bacterial endophthalmitis
+Type of bacterial 
+endophthalmitis
+Antibiotic treatment Total treatment 
+duration
+Exogenous Intravitreal injection
+ Vancomycin 1 mg AND
+ Ceftazidime 2.25 mg
+Systemic antibiotics alone are not effective in 
+treating bacterial exogenous endophthalmitis. 
+Whether systemic antibiotics provide any benefit 
+in these cases as adjunctive therapy to intravitreal 
+antibiotics is still debatable.
+Intravitreal 
+antibiotics: single 
+dose. If no clinical 
+improvement 
+after 48 hours, the 
+intravitreal injection 
+can be repeated.
+Endogenous ADD 
+Systemic treatment
+Adults
+ Ceftriaxone (IV): 2g given once a day AND
+ Vancomycin (IV): 15–20 mg/kg given every 
+12 hours
+Neonates and children
+ Ceftriaxone (IV): 80 mg/kg/dose given once a day
+AND
+ Vancomycin (IV): 
+• Neonates: 15 mg/kg/ dose given every 12 hours
+• Children: 15 mg/kg/dose given every 8 hours
+Duration of systemic 
+antibiotics should 
+be determined by 
+the need to treat the 
+underlying source of 
+bacteraemia (e.g. 6 
+weeks in many cases 
+of endocarditis).
+IV: intravenous.
+Note. All dosages are for normal renal and hepatic function.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book127
+PRIMARY HEALTH CARE 
+10. Bacterial eye infections (excluding trachoma)
+Keratitis
+Definition
+Keratitis is an infection of the cornea, the transparent covering of the eye.
+Epidemiology
+Keratitis is common and the estimated number of cases is more than 2 million per year (97). The 
+highest (epidemic) burden is in South, South-East and East Asia (97), especially in rural settings 
+among male workers in high-risk professions as eye trauma is the predominant risk factor (98). 
+In high-income countries, the number of cases of keratitis has increased over time, probably 
+because of the increased use of contact lenses; their use is currently the most common risk factor 
+in this setting. The disease is rare in children, but it is also harder to diagnose, mostly because it is 
+more difficult to obtain a clinical history and to collect a sample for microbiology tests. 
+Most likely pathogens
+The most common pathogens causing keratitis (97,98) are shown in Table 10.7.
+Table 10.7 – Pathogens most frequently associated with keratitisa (in descending 
+order of frequency)
+Type of organism Pathogen
+Fungi Mostly
+Fusarium spp.
+Aspergillus spp.
+Bacteria Pseudomonas spp. (contact lenses)
+Staphylococcus epidermidis
+Staphylococcus aureus
+Streptococcus pneumoniae
+Viruses Mostly
+Herpes simplex virus (usually type 1)
+Varicella zoster virus
+Parasites Acanthamoeba (contact lenses)
+a Bacteria and viruses are the most common causes of keratitis in high-income countries, while fungi predominate 
+in low- and middle-income countries. Global variations in etiology largely reflect patient-based risk factors such 
+as population demographic, occupation, contact lens use, concomitant ocular and systemic illness, as well as 
+environmental factors such as geographical location, climate and virulence of causative organisms. For example, 
+Pseudomonas spp. and Acanthamoeba spp. are often associated with the use of contact lenses and fungal keratitis 
+must be considered after any traumatic corneal injury, notably from vegetable matter. In the paediatric population, 
+there appears to be a higher incidence of atypical infections, for example, due to Acanthamoeba (97).
+128The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+10. Bacterial eye infections (excluding trachoma)
+Clinical presentation 
+Patients with keratitis generally present with a painful eye, decreased vision, more tears and 
+corneal oedema. They often describe a feeling of “having something in the eye” and have 
+difficulty keeping the affected eye open. A discharge from the eye may be seen depending 
+on the causative pathogen. Most infectious cases are of bacterial origin, although in lowand middle-income countries, fungal infections are common, for example, as a result of 
+trauma from plants or sand or mud in rural settings (97). Reactivation of herpes simplex 
+virus could also cause keratitis, especially in patients with HIV infection or in patients 
+with other forms of immunosuppression. Ophthalmologic examination with a slit lamp is 
+usually needed to visualize the cornea and confirm the diagnosis: focal white infiltrates in 
+the corneal stroma with an epithelial defect and underlying tissue loss are the critical sign 
+of keratitis.
+Laboratory tests 
+Patient microbiology tests
+A positive culture in the presence of compatible signs and symptoms could confirm the 
+diagnosis (Table 10.8).
+Table 10.8 – Microbiology tests to consider when keratitis is suspected as 
+indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Microscopy (Gram stain) 
+and culture of corneal 
+scrapings or corneal 
+biopsy material
+Microbial morphology and 
+detection and identification of 
+bacterial and fungal species 
+for selection of appropriate 
+antimicrobial regimens
+Health care facilities with 
+clinical laboratories
+EDL: WHO Model List of Essential In Vitro Diagnostics.
+Note. Nucleic acid amplification testing (i.e. polymerase chain reaction) for viral etiology (e.g. herpes simplex virus) 
+could be considered based on clinical presentation and individual risk factors.
+Other tests
+Laboratory tests (other than microbiology) are usually not helpful.
+Using microbiology surveillance data
+Routine surveillance is not helpful to inform empiric guidance.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book129
+PRIMARY HEALTH CARE 
+10. Bacterial eye infections (excluding trachoma)
+Imaging
+Imaging is usually not needed. Specialist eye examination may be considered.
+Antibiotic treatment 
+Patients should stop wearing contact lenses. Topical antibiotic treatment is indicated even 
+though consensus on the most effective treatment is lacking (Table 10.9) (99). Cycloplegic eye 
+drops (cyclopentolate 1% or atropine 1%) can be used for comfort, to reduce photophobia 
+from ciliary spasm and to reduce the formation of pupillary adhesions to the lens. 
+Oral antibiotics can be considered in selected cases (e.g. scleral extension or 
+impending perforation) or in case of gonococcal infection. With viral keratitis, topical and 
+oral antiviral treatment is usually indicated (but management of viral infections is beyond 
+the scope of this chapter).
+Note
+Infectious keratitis is an ocular emergency as it is a potentially blinding condition for which the 
+prospect of visual restoration is often poor.
+Table 10.9 – Empiric antibiotic treatment for bacterial keratitis
+Antibiotic treatment Total treatment duration
+Children and adults
+ Ofloxacin a (eye drops): 0.3%, 1 drop in the 
+affected eye every hour for 48 hours then every 
+4 hours until healed
+2 weeks but duration is often 
+personalized to the individual based on 
+clinical improvement.
+a A fluoroquinolone is usually given to patients who wear contact lenses because Pseudomonas aeruginosa is often 
+the causative pathogen. For most patients, hourly treatment is indicated for the first 24 to 48 hours. Drops are 
+preferred because ointments have poor corneal penetration. However, ointments may be used at bedtime to allow 
+the patient to sleep through the night, but only after a positive response has been demonstrated to the initial 
+intensive eyedrop treatment.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+130The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+10. Bacterial eye infections (excluding trachoma)
+Orbital cellulitis
+Definition
+Orbital cellulitis is an infection affecting eye tissues behind the orbital septum within the 
+bony orbit (i.e. fat and ocular muscles within the orbit).
+Due to the complexity of this infection, treatment of this condition is not addressed 
+in the AWaRe book, but some general information is presented in the following section.
+Epidemiology
+Orbital cellulitis is more common in young children and in most cases it is a complication 
+of bacterial sinusitis.
+Most likely pathogens
+The most common causative pathogens of orbital cellulitis are shown in Table 10.10.
+Table 10.10 – Pathogens most frequently associated with orbital cellulitis (in 
+descending order of frequency)
+Type of organism Pathogen
+Bacteria In adults
+Staphylococcus aureus
+Streptococcus spp.
+Bacteroides spp.
+In children
+Haemophilus influenzae (rare in vaccinated children (100))
+Following eye trauma
+Pseudomonas aeruginosa
+Escherichia coli
+Following a dental abscess
+Polymicrobial infection (including anaerobes)
+Fungia Mostly in immunocompromised patients, such as those with 
+diabetes, receiving chemotherapy and with HIV infection
+Zygomycetes (e.g. Mucor)
+Aspergillus spp.
+a Fungal infections are rare but they should be considered in immunocompromised patients including patients 
+with poorly controlled diabetes.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book131
+PRIMARY HEALTH CARE 
+10. Bacterial eye infections (excluding trachoma)
+Clinical presentation 
+Patients with orbital cellulitis typically have unilateral local signs of inflammation around 
+the affected eye. The eyelids are usually swollen, red, warm and tender. Sometimes fever 
+is present (≥ 38.0 °C). These findings are also present in cases of periorbital (or preseptal) 
+cellulitis (see next section); however, in addition to these symptoms, patients with orbital 
+cellulitis present with restricted extraocular motility with pain on attempted eye movement, 
+conjunctival chemosis (i.e. swelling) and hyperaemia (i.e. redness) as critical signs. Usually this 
+condition is accompanied by protrusion of the eye (i.e. proptosis) and loss of vision may be 
+present (101). Signs of optic neuropathy (e.g. afferent pupillary defect and dyschromatopsia) 
+may be present in severe cases. In neglected cases, orbital cellulitis may lead to cavernous 
+sinus thrombosis, brain abscess or even death.
+Laboratory tests 
+Patient microbiology tests
+Blood cultures and cultures of samples collected can be considered (Table 10.11).
+Table 10.11 – Microbiology tests to consider when orbital cellulitis is suspected as 
+indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Microscopy (Gram stain), 
+culture and antimicrobial 
+susceptibility testing of 
+abscess material
+Microbial morphology and detection 
+and identification of bacterial and 
+fungal species for selection of 
+appropriate antimicrobial regimens
+Health care facilities 
+with clinical laboratories
+Blood cultures 
+and antimicrobial 
+susceptibility testing
+To detect bacterial and fungal 
+bloodstream infections
+Health care facilities 
+with clinical laboratories
+EDL: WHO Model List of Essential In Vitro Diagnostics.
+Other tests
+Laboratory tests (other than microbiology) are usually not helpful.
+Using microbiology surveillance data
+Routine surveillance is not helpful to inform empiric guidance.
+132The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+10. Bacterial eye infections (excluding trachoma)
+Imaging
+A CT scan of the orbits and sinuses (axial, coronal and parasagittal views, with contrast if 
+possible) should be obtained if available. The reason for doing a CT scan is to assess the 
+presence or absence of orbital involvement when the diagnosis is uncertain and the 
+presence of possible complications, for example, subperiosteal or orbital abscess, cavernous 
+sinus thrombosis and intracranial extension. 
+Antibiotic treatment
+Note
+General information is presented but treatment is not addressed in the AWaRe book.
+Patients with orbital cellulitis should be admitted to the hospital and an infectious disease 
+physician and otorhinolaryngology/ophthalmology specialists should be consulted. Most 
+patients with uncomplicated orbital cellulitis can be treated with antibiotics alone (102,103).
+Surgery for source control (e.g. drainage of purulent collections) may be needed 
+in severe and complicated cases (e.g. in cases of abscess) in combination with systemic 
+antibiotic treatment (104,105). Surgery is almost always indicated in patients with intracranial 
+extension of the infection.
+Periorbital (or preseptal) cellulitis
+Definition
+Periorbital (or preseptal) cellulitis is an infection of subcutaneous eyelid tissues anterior to 
+the orbital septum; in this case, the globe and the tissues within the bony orbit are not 
+involved.
+Epidemiology
+This is usually a mild condition that most commonly affects children. Most cases are 
+exogenous and result from adjacent infection (hordeolum, dacryocystitis, infection of the 
+periorbital sinuses, severe dental infection) or follow animal and insect bites or trauma of the 
+eyelid. Periorbital (or preseptal) cellulitis is much more common than orbital cellulitis (106).
+The most common pathogens associated with periorbital (or preseptal) cellulitis are 
+shown in Table 10.12.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book133
+PRIMARY HEALTH CARE 
+10. Bacterial eye infections (excluding trachoma)
+Table 10.12 – Pathogens most frequently associated with periorbital (or preseptal) 
+cellulitis (in descending order of frequency)
+Type of organism Pathogen
+Bacteria Staphylococcus aureus (including MRSA)
+Streptococcus pneumoniae
+Haemophilus influenzae (rare in vaccinated children (100))
+Moraxella catarrhalis
+Anaerobes (suspect if there is a history of animal or human bite or 
+if necrosis is present)
+Viruses If the infection is associated with a vesicular skin rash, suspect:
+Herpes simplex virus 
+Varicella-zoster virus
+MRSA: methicillin-resistant Staphylococcus aureus.
+Clinical presentation 
+It is very important to distinguish periorbital (or preseptal) from orbital cellulitis. Patients 
+with periorbital (or preseptal) cellulitis typically present with unilateral local signs of 
+inflammation around the affected eye but do not have restricted or painful eye movements, 
+as occurs in case of orbital cellulitis. The eyelid/s is generally swollen, red, warm and 
+tender and sometimes fever is present (≥ 38.0 °C). In severe cases, conjunctival chemosis 
+(i.e. swelling) may also occur. Vision is normal, while in case of orbital cellulitis loss of 
+vision may be present (101). In periorbital (or preseptal) cellulitis, serious complications 
+are rare (107).
+Laboratory tests 
+Patient microbiology tests
+Usually no test is required. Cultures are difficult to obtain and blood cultures when performed 
+are usually negative.
+Other tests
+Laboratory tests (other than microbiology) are usually not helpful.
+Using microbiology surveillance data
+Routine surveillance is not helpful to inform empiric guidance.
+134The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+10. Bacterial eye infections (excluding trachoma)
+Imaging
+A CT scan of the orbits and sinuses (axial, coronal, and parasagittal views, with contrast if 
+possible) could be considered. The reason for doing a CT scan is to assess the presence or 
+absence of orbital involvement when the diagnosis is uncertain and the presence of possible 
+complications is suspected, for example, subperiosteal or orbital abscess, cavernous sinus 
+thrombosis, or intracranial extension. 
+Antibiotic treatment
+Systemic antibiotic treatment is indicated and is usually given empirically based on the most 
+likely causative pathogens because cultures are difficult to obtain and blood cultures when 
+performed are usually negative (Table 10.13). Empiric treatment of MRSA may be considered 
+in certain cases based on individual risk factors (e.g. known MRSA colonization) and on the 
+local prevalence of community-acquired MRSA. In these cases, the literature suggests using 
+clindamycin or sulfamethoxazole+trimethoprim; however, no formal recommendation can 
+be made in the AWaRe book as these options are not currently listed in the EML and EMLc 
+for this indication.
+Most cases of periorbital (or preseptal) cellulitis can be managed with oral antibiotic 
+treatment; however, in severely ill patients or very young children, intravenous treatment 
+may be considered (105).
+Adults and children older than 1 year with mild periorbital (or preseptal) cellulitis 
+and no signs of systemic toxicity can generally be treated as outpatients with oral antibiotics, 
+provided close follow-up can be ensured. 
+Children younger than 1 year, patients who cannot cooperate fully for an 
+examination, who are severely ill or in case of no noticeable improvement or worsening 
+after 24 to 48 hours of oral antibiotics should generally be admitted to the hospital and 
+managed according to the recommendations for orbital cellulitis.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book135
+PRIMARY HEALTH CARE 
+10. Bacterial eye infections (excluding trachoma)
+Table 10.13 – Empiric antibiotic treatment for periorbital (or preseptal) cellulitisa
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Note
+Cloxacillin has a narrower spectrum of antibacterial activity than amoxicillin+clavulanic acid 
+and cefalexin with limited coverage of Gram-negative bacteria from the upper respiratory 
+tract that may cause periorbital (or preseptal) cellulitis (e.g. Haemophilus influenzae, Moraxella 
+catarrhalis). Therefore, when this infection is suspected, amoxicillin+clavulanic acid or cefalexin 
+are the preferred options.
+Adults Children Total treatment 
+duration
+ Amoxicillin+clavulanic 
+ acid IV: 1 g + 200 mg given 
+every 8 hours
+Oral: 500 mg + 125 mg given 
+every 8 hours
+OR
+ Cefalexin (oral): 500 mg 
+given every 8 hours
+OR
+ Cloxacillin b IV: 2 g given 
+every 6 hours
+Oral: 500 mg given every 6 
+hours
+ Amoxicillin+clavulanic acid c 
+IV: 
+First week of life: 50 mg/kg of 
+amoxicillin/dose given every 12 hours 
+Beyond first week of life: 50 mg/kg of 
+amoxicillin/dose given every 8 hours
+Oral: 80–90 mg/kg/day of amoxicillin 
+component
+Oral weight bands:
+3–< 6 kg: 250 mg of amoxicillin/dose 
+given every 12 hours
+6–< 10 kg: 375 mg of amoxicillin/dose 
+given every 12 hours
+10–< 15 kg: 500 mg of amoxicillin/dose 
+given every 12 hours
+15–< 20 kg: 750 mg of amoxicillin/dose 
+given every 12 hours
+≥ 20 kg: 500 mg of amoxicillin/dose 
+given every 8 hours or 1 g of amoxicillin/
+dose given every 12 hours
+OR
+10–14 days 
+(depending on 
+the severity)
+continues
+136The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+10. Bacterial eye infections (excluding trachoma)
+Table 10.13 continued
+Adults Children Total treatment 
+duration
+ Cefalexin (oral): 25 mg/kg/dose given 
+every 12 hours
+Oral weight bands:
+3–< 6 kg: 125 mg given every 12 hours
+6–< 10 kg: 250 mg given every 12 hours
+10–< 15 kg: 375 mg given every 12 hours
+15–< 20 kg: 500 mg given every 12 hours
+20–< 30 kg: 625 mg given every 12 hours
+≥ 30 kg: use adult dose
+OR
+ Cloxacillin b
+IV: 
+• Neonates: 25–50 mg/kg/dose given 
+every 12 hours
+• Children: 25 mg/kg/dose given every 
+6 hours
+Oral: 15 mg/kg/dose given every 6 hours
+Oral weight bands: 
+3–< 6 kg: 62.5 mg given every 6 hours
+6–< 10 kg: 125 mg given every 6 hours
+10–< 15 kg: 250 mg given every 6 hours
+15–< 20 kg: 375 mg given every 6 hours
+≥ 20 kg: 500 mg given every 6 hours
+IV: intravenous.
+Note. All dosages are for normal renal and hepatic function.
+a It should be noted that these specific recommendations are not included in the EML and EMLc (8,9). The options 
+presented are based on what is recommended for mild skin and soft tissues infections.
+b If cloxacillin is unavailable, any other IV antistaphylococcal penicillin could be used. For oral administration; 
+dicloxacillin and flucloxacillin are preferred options within the class as they have better oral bioavailability. 
+c Oral liquid formulations must be refrigerated after reconstitution as clavulanic acid is rapidly metabolized in high 
+ambient temperatures.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book137
+PRIMARY HEALTH CARE 
+10. Bacterial eye infections (excluding trachoma)
+Infectious uveitis
+Definition
+Uveitis is an infection of the uvea, which is composed of:
+• iris – the coloured ring-shaped part of the eye behind the cornea
+• ciliary body – the part that extends around the iris, has a muscular component 
+and produces the aqueous humour that keeps the eye in a pressurized state
+• choroid – a vascular layer.
+Epidemiology
+Infectious uveitis can be caused by a large number of pathogens and most cases are 
+associated with systemic infections, but it may also occur as an isolated condition. Therefore, 
+the epidemiology depends on the underlying infection. In general, certain factors can 
+increase the risk of specific infections, for example, cytomegalovirus is mostly associated 
+with uveitis in immunocompromised patients. 
+Most likely pathogens
+Table 10.14 shows the most common causative pathogens of uveitis.
+Table 10.14 – Pathogens most frequently associated with uveitisa (in alphabetical 
+order)
+Type of organism Pathogen
+Bacteria Bartonella henselae (with cat-scratch disease)
+Mycobacterium tuberculosisb
+Treponema pallidum (with neurosyphilis)
+Parasites Toxoplasma gondii
+Viruses Cytomegalovirus
+Herpes simplex virus
+Varicella-zoster virus
+a Usually in the context of infectious or autoimmune or inflammatory systemic conditions. Therefore consider 
+individual risk factors and presentation to identify the most likely causative pathogen.
+b Ocular tuberculosis usually results from haematogenous dissemination of the infection from pulmonary or extrapulmonary sites.
+138The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+10. Bacterial eye infections (excluding trachoma)
+Clinical presentation 
+The symptoms of uveitis are non-specific and depend on the portion of the uveal tract 
+that is involved. Findings also differ depending upon the location of the involvement, and 
+visual loss may occur with anterior, intermediate or posterior involvement. Anterior uveitis 
+is about four times more common than posterior uveitis (108). Patients with uveitis usually 
+have a painful red eye and decreased vision. Infectious forms of uveitis are mostly of viral 
+origin (e.g. herpes simplex virus, cytomegalovirus) or they may occur as a reactivation of 
+toxoplasmosis.
+When uveitis is suspected, patients should be seen by an ophthalmologist, if 
+available, because the list of potential conditions associated with uveitis is large and, in 
+some cases, uveitis is a potentially sight-threatening condition.
+Laboratory tests 
+Patient microbiology tests
+The need for microbiology tests should be guided by the type of eye infection suspected 
+(see Table 10.15 for tests to consider). 
+Table 10.15 – Microbiology tests to consider when uveitis is suspected as indicated 
+in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Microscopy (Gram 
+stain) and culturea
+Microbial morphology and detection 
+and identification of bacterial species 
+for selection of appropriate antibiotic 
+regimens
+Health care facilities with 
+clinical laboratories
+EDL: Model List of Essential In Vitro Diagnostics.
+Note. Nucleic acid amplification testing (i.e. polymerase chain reaction) for viral etiology (e.g. herpes simplex virus) 
+could be considered based on clinical presentation and individual risk factors.
+a Depending on the type of infection, consider conjunctival swabs, corneal scrapings or corneal biopsy, aqueous or 
+vitreous humour aspirate.
+Other tests
+Laboratory tests (other than microbiology) are usually not helpful.
+Using microbiology surveillance data
+Routine surveillance is not helpful to inform empiric guidance.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book139
+PRIMARY HEALTH CARE 
+10. Bacterial eye infections (excluding trachoma)
+Imaging
+Specialist eye examination may be considered depending on the type of infection.
+Antibiotic treatment
+Note
+General information is presented but treatment is not addressed in the AWaRe book.
+Treatment for uveitis depends on the etiology (including non-infectious causes), location 
+and clinical severity. Because of the large variety of conditions associated with uveitis, a 
+review of treatment options is beyond the scope of this chapter.
+
+--- [WHO IMCI Chart Booklet | p.4 | p.4-4 | audience=pediatric] ---
+** These temperatures are based on axillary temperature. Rectal temperature readings are approximately 0.5°C higher. 
+*** Other important complications of measles - pneumonia, stridor, diarrhoea, ear infection, and malnutrition - are classified in other tables. 
+ 
+ 
+ 
+ 
+ 
+Check stiff neck 
+ 
+►Give quinine for severe malaria (first dose) in malaria endemic area 
+►Give first dose of Ampicillin & Gentamicin 
+►Feed child with breastmilk or sugar water to prevent low blood sugar 
+►Give one dose of paracetamol in clinic for high fever (38.5°C or above). 
+►Refer URGENTLY to hospital. 
+ 
+VERY SEVERE 
+FEBRILE 
+DISEASE 
+ 
+ 
+FEVER - 
+OTHER INFECTION 
+MALARIA 
+ UNLIKELY 
+ 
+►Give one dose of paracetamol in clinic for high fever (38.5°C or 
+above) & if other infection is present, give appropriate antibiotic 
+►Advise mother when to return immediately. 
+►Follow-up in 2 days if fever persists. 
+►If fever is present every day for more than 7 days, refer for assessment. 
+ 
+4 
+ 
+ 
+SEVERE 
+COMPLICATED 
+MEASLES*** 
+ 
+►Give Vitamin A, if hasn’t received does of vitamin A during last 3 months 
+►Give first dose of Ampicillin & Gentamicin. 
+►If clouding of the cornea or pus draining from the eye, apply tetracycline eye 
+ointment. 
+►Refer URGENTLY to hospital. 
+►Advise the mother to continue feeding the child. 
+ 
+ 
+MEASLES WITH 
+EYE OR MOUTH 
+COMPLICATIONS*** 
+ 
+►Give Vitamin A if child has not received it within 3 months 
+►If pus draining from the eye, treat eye infection with tetracycline eye 
+ointment. 
+►If mouth ulcers, treat with gentian violet. 
+►Advise the mother to continue feeding the child. 
+► Follow-up in 2 days. 
+Does the child have fever? If yes... (by history or feels hot or temperature 37.5°C** or above) 
+►Treat with oral antimalarial ( Choroquine + Sulphadoxine Pyremethamin) 
+►Give one dose of paracetamol in clinic for high fever (38.5°C or 
+above). 
+►Advise mother when to return immediately. 
+►Follow-up in 2 days if fever persists. 
+ 
+ 
+ 
+MALARIA 
+ 
+ 
+ 
+DECIDE if high or low malaria risk 
+ 
+LOOK for other source of fever: 
+ 
+- Sore throat, ear infection, ARI, diarrhea or any 
+other cause of fever 
+ 
+LOOK for 
+- clouded cornea 
+- mouth ulcers 
+- eye infection 
+ 
+ 
+ Simple Measles now 
+or within last 3 
+months 
+ 
+►Give Vitamin A if child has not received it within 3 months 
+►Counsel the mother to continue feeding the child 
+►Follow-up in 2 days if no improvement 
+ 
+High Malaria 
+High or Low 
+Malaria Risk 
+ 
+Simple measles now 
+or in last 3 months 
+Eye infection or 
+small mouth ulcers 
+Clouded cornea or 
+deep mouth ulcers 
+ 
+Low Malaria 
+Yes 
+Yes 
+Yes 
+Yes 
+None 
+Yes 
+Yes 
+Yes 
+ 
+Yes 
+ 
+ 
+MALARIA AND 
+OTHER INFECTION 
+ 
+►Treat with oral antimalarial ( Choroquine + Sulphadoxine Pyremethamin 
+& if other infection is present, give appropriate antibiotic 
+►Give one dose of paracetamol in clinic for high fever (38.5°C or 
+above). 
+►Advise mother when to return immediately. 
+Yes 
+ ASK if child had measles in last 3 
+months 
+LOOK for measles (Generalized 
+rash AND cough or runny nose 
+or red eyes) if yes: 
+No 
+Yes
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.90 | p.90-90 | audience=pediatric] ---
+66
+3. YOUNG INFANTS
+Continue phototherapy until the serum bilirubin level is lower than the threshold 
+range or until the infant is well and there is no jaundice of palms and soles.
+If the bilirubin level is very high (see table) and you can safely do exchange 
+transfusion, consider doing so.
+Antibiotics
+ /L50776If infection or syphilis is suspected, treat for serious bacterial infection 
+(
+pp. 54, 67).
+Antimalarials
+ /L50776If fever is present and the infant is from a malarious area, check blood fi lms 
+f
+or malaria parasites, and give antimalarials if positive.
+ /L50776Encourage breastfeeding.
+3.12.2 Conjunctivitis 
+Sticky eyes and mild conjunctivitis
+ /L50776Treat as outpatient if child has no other serious problem.
+ /L50776Show the mother how to wash the eyes with water or breast milk and how 
+t
+o put ointment into the eyes. The mother must wash her hands before and 
+after doing so.
+ /L50776Tell the mother to wash the eyes 
+a
+nd put in eye ointment four times 
+a day for 5 days.
+ /L50776Give the mother a tube of tetrac
+ycline or chloramphenicol eye 
+ointment to treat the child. 
+Review 48 h after starting treatment 
+if the child is not improving. Severe 
+conjunctivitis (a lot of pus and/or 
+swelling of the eyelids) is often due to 
+gonococcal infection. Treat as inpatient, as there is a risk for blindness, 
+and twice-daily review is needed.
+ /L50776Wash the eyes to clear as much 
+p
+us as possible.
+ /L50776Give ceftriaxone (50 mg/kg up to 
+a m
+aximum total dose of 150 mg 
+CONJUNCTIVITIS
+Ophthalmia neonatorum. Swollen, 
+red eyelids with pus
+PB2_ch3.indd 66PB2_ch3.indd 66 5/06/13 10:05 AM5/06/13 10:05 AM
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 3.2.9.1 Neonatal Conjunctivitis (Ophthalmia Neonatorum) | p.360-361 | audience=pediatric] ---
+ICD10 CODE: P39.1
+Refers to conjunctival infection of neonates by STI organisms in the
+infected mother’s birth canal. It is a very serious condition that can lead
+to corneal ulceration and ultimately to blindness. Blindness in children
+is associated with high infant morbidity and mortality.
+Causes
+~ Commonly caused by Neisseria gonorrhoeae and
+~ Chlamydia trachomatis
+~ Other non-STI causes of neonatal conjunctivitis predisposed by difficult labour such as early rupture of membranes, vacuum extraction or other assisted vaginal delivery
+Clinical features
+~ Purulent discharge from one or both eyes within 30 days
+from birth
+~ Inflamed and swollen eyelids
+~ Complications of untreated conjuctivitis: corneal ulceration,
+perforation, scarring and blindness
+Investigations
+- Pus swab: Gram stain, Culture & Sensitivity
+294
+Uganda Clinical Guidelines 2023CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
+Management
+TREATMENT LOC
+Treatment should cover both gonorrhoea and chlamydia
+- Start cleaning with normal saline and apply tetracycline
+ointment every hour while referring for systemic treatment
+- Ceftriaxone 125 mg single dose IM plus azithromycin
+syrup 20 mg/kg orally, once daily for 3 days
+- Irrigate the eyes with saline or sterile water
+- Use gloves and wash hands thoroughly after handling
+the eyelids
+- Cover the eye with gauze while opening the eyelid as
+pus may be under pressure
+- Topical tetracycline eye ointment has NO added benefit
+in active disease
+- Treat both parents for Gonorrhoea and Chlamydia and
+screen for HIV and syphilis
+HC2
+HC3
+Prevention
+~ Screen and treat all infected mothers in antenatal care
+~ Apply prophylactic tetracycline eye ointment 1% to both
+eyes of ALL newborns at the time of delivery
+~
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 20.1.2 Conjunctivitis (“Red Eye”) | p.989-991 | audience=general] ---
+Inflammation of the conjunctiva of the eye.
+Causes
+~ Infection: Bacterial or viral
+~ Trauma: Chemicals, foreign bodies
+~ Smoke, allergy
+Clinical features
+~ Watery discharge (viral or chemicals)
+~ Pus discharge (bacteria)
+~ Cornea is clear and does not stain with fluorescein
+~ Visual acuity is normal
+~ Redness (usually both eyes but may start/be worse in one;
+usually reddest at outer edge of the eye)
+~ Swelling and itching (may be present)
+Eye Conditions20
+924
+Uganda Clinical Guidelines 2023CHAPTER 20: Eye Conditions
+Differential diagnosis
+~ Corneal ulcer (tends to be in one eye only, rednessis greatest near the cornea, pain is often great)
+Investigations
+- Clinical features are diagnostic
+- Pus swab for culture and sensitivity
+Management
+TREATMENT LOC
+Infective conjunctivitis
+- Apply chloramphenicol or gentamicin eye drops 2
+or 3 hourly for 2 days then reduce to 1 drop every 6
+hours for 5 days
+- Change treatment as indicated by results of culture
+and sensitivity where possible
+Note
+NB. Gonococcal conjunctivitis should be treated aggressively and in line with management of Sexually Transmitted Infections (see section 3.2.9)
+Allergic conjunctivitis
+- Cold compresses and facial hygiene
+- Betamethasone or hydrocortisone eye drops every
+1-2 hours until inflammation is controlled then apply
+2 times daily
+- Limit use of steroid eye drops to short durations
+HC2
+Caution
+r Do not use steroid preparations unless you are sure of the
+diagnosis as they may mask infections
+925
+Uganda Clinical Guidelines 2023CHAPTER 20: Eye Conditions
+Prevention
+~ Personal hygiene; daily face washing
+~ Avoid irritants and allergens
+~

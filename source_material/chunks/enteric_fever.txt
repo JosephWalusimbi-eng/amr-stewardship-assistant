@@ -1,0 +1,454 @@
+# TOPIC: enteric_fever
+
+--- [WHO AWaRe Antibiotic Book (2022) | 15. Enteric fever | p.201-208 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book185
+PRIMARY HEALTH CARE 
+15. Enteric fever
+Key messages
+• Most cases of enteric fever are caused by Salmonella Typhi (70–80% of cases).
+• Access to safe water and appropriate hygiene among food handlers is key to prevent the 
+infection. Vaccination should also be offered in endemic areas and during outbreaks.
+• Symptoms are often difficult to distinguish from other febrile illnesses.
+• Blood cultures should be taken in all cases requiring hospitalization.
+• Choice of empiric antibiotic treatment depends on the risk of fluoroquinolone resistance of 
+Salmonella Typhi.
+Other relevant WHO resources (please check regularly for updates)
+• Pocket book of hospital care for children: guidelines for the management of common 
+childhood illnesses, 2013 (31).
+• Typhoid vaccines: WHO position paper – March 2018 (154).
+Definition
+Enteric fever is a severe systemic illness characterized by fever and abdominal pain caused 
+by the bacterium Salmonella enterica, serotypes Typhi or Paratyphi.
+186
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+15. Enteric fever
+Enteric fever
+All dosages are for normal renal function
+Low Risk of Fluoroquinolone
+Resistance
+•A sev er e systemic illness charac terized by fev er and abdominal
+pain caused by infec tion with Salmonella enterica
+•A cquir ed thr ough ingestion of contaminated food/water
+Severity:
+•: Not critically ill with no signs of intestinal per foration,Mild
+peritonitis , sepsis or septic shock
+•: Critically ill with con/g246rmed/suspec ted intestinalSevere
+per foration, peritonitis, sepsis or septic shock
+De/g246nition
+Enteric fev er is caused by ser otypes T yphi orSalmonella enterica
+Pa rat yphi A, B or C
+Pathogen
+Diagnosis
+Clinical Presentation
+•: Usually not neededMild Cases
+•: Blood cultur es (ideally befor e star tingSevere Cases
+antibiotics)
+•B one marr ow culture is the reference standard test but is
+often not feasible
+•Note: the Widal serology is not a reliable method to diagnose
+acute illness (a positive result may be due to previous
+infection)
+Microbiology Tests
+•: Usually not neededMild Cases
+•: Co mplet e blood c ount, cr eatinine , elec tr olytes ,Severe Cases
+glucose , C-re ac tive pr otei n and / or pr ocalcitoni n
+Other LaboratoryTests
+Usually not needed
+Imaging
+•It can be difficult to distinguish enteric fever from
+other febrile illnesses
+•S ymptoms include pr otrac ted fev er (≥ 38.0 °C for >3 days )
++/- headache , loss of appetite and nausea; gastr ointestinal
+symptoms may also be pr esent (diarrhoea mor e fr equent in
+people living with HIV )
+•C onsider peritonitis if ther e is sev er e pain, diffuse r ebound
+tenderness upon sudden r elease of pr essur e on the
+abdomen and abdominal muscular tensing; peritonitis
+occurs as a r esult of intestinal bleeding and per foration
+•Encephalopath y can also occur in sev er e cases
+A ccess to safe water and adequate sanitation, health education,
+appr opriate hyg iene among food handlers , and typhoid
+vaccination
+Prevention
+•A ntibiotic tr eatment should be star ted as soon as the
+diagnosis is suspec ted; delays ar e associated with higher
+risk of complications and sev er e disease
+•:Empiric treatment should be chosen based on
+-S ev erity of pr esentation
+-L ocal pr evalence of /g248uor oquinolone r esistance among
+ser otypes T yphi or Pa rat yphiSalmonella enterica
+•F ev er usually decr eases slowly after 3-5 days of tr eatmen t
+•I f initially tr eated IV , step down fr om IV to oral antibiotics
+is suggested when the patient has clinically impr oved, is
+afebrile and is able to tolerate oral tr eatmen t
+Clinical Considerations
+Treatment
+Mild Cases: *7 days
+Se ve re Cases: *10 days
+*if clinic al improvement and the patient is afebrile for 48
+hours
+Antibiotic Treatment Duration
+Mild and Severe Cases
+Cipr o/g248o xacin 500 mg q12h ORAL
+All dosages are for normal renal function
+High Risk of Fluoroquinolone
+Resistance
+Mild Cases
+A zithr om y cin 1 g once on day 1, then 500 mg
+q24h ORAL
+Severe Cases
+Ce ftriax one 2 g q24h IV
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+187
+PRIMARY HEALTH CARE 
+15. Enteric fever
+Enteric fever
+All dosages are for normal renal function
+Low Risk of Fluoroquinolone
+Resistance
+•A sev er e systemic illness charac terized by fev er and abdominal
+pain caused by infec tion with Salmonella enterica
+•A cquir ed thr ough ingestion of contaminated food/water
+Severity:
+•: Not critically ill with no signs of intestinal per foration,Mild
+peritonitis , sepsis or septic shock
+•: Critically ill with con/g246rmed/suspec ted intestinalSevere
+per foration, peritonitis, sepsis or septic shock
+De/g246nition
+Enteric fev er is caused by ser otypes T yphi orSalmonella enterica
+Pa rat yphi A, B or C
+Pathogen
+Diagnosis
+Clinical Presentation
+•: Usually not neededMild Cases
+•: Blood cultur es (ideally befor e star tingSevere Cases
+antibiotics)
+•Note: the W idal ser ology is not a r eliable method to
+diagnose acute illness (a positiv e r esult may be due to
+pr evious infec tion)
+Microbiology Tests
+•: Usually not neededMild Cases
+•: Co mplet e blood c ount, cr eatinine , elec tr olytes ,Severe Cases
+glucose , C-re ac tive pr otei n
+Other LaboratoryTests
+Routine imaging is not needed
+Imaging
+•It can be difficult to distinguish enteric fever from
+other febrile illnesses
+•S ymptoms include pr otrac ted fev er (≥ 38.0 °C for >3 days )
++/- headache , loss of appetite and nausea; gastr ointestinal
+symptoms may also be pr esen t
+•D iarrhoea is common
+•C onsider peritonitis if ther e is sev er e pain, diffuse r ebound
+tenderness upon sudden r elease of pr essur e on the
+abdomen and abdominal guar ding; peritonitis occurs as a
+r esult of intestinal bleeding and per foration
+•Encephalopath y can also occur in sev er e cases
+A ccess to safe water and adequate sanitation, health education,
+appr opriate hyg iene among food handlers , and typhoid
+vaccination
+Prevention
+•A ntibiotic tr eatment should be star ted as soon as the
+diagnosis is suspec ted; delays ar e associated with higher
+risk of complications and sev er e disease
+•:Empiric treatment should be chosen based on
+-S ev erity of pr esentation
+-L ocal pr evalence of /g248uor oquinolone r esistance among
+ser otypes T yphi or Pa rat yphiSalmonella enterica
+•F ev er usually decr eases slowly after 3-5 days of tr eatmen t
+•I f initially tr eated IV , step down fr om IV to oral antibiotics
+is suggested when the patient has clinically impr oved, is
+afebrile and is able to tolerate oral tr eatmen t
+Clinical Considerations
+Treatment
+Mild Cases: *7 days
+Se ve re Cases: *10 days
+*if clinic al improvement and the patient is afebrile for 48
+hours
+Antibiotic Treatment Duration
+Mild and Severe Cases
+All dosages are for normal renal function
+High Risk of Fluoroquinolone
+Resistance
+Mild Cases
+Severe Cases
+Ce ftriax one 80 mg/kg/dose q24h IV
+A zithr om y cin 20 mg/kg/dose q24h ORAL
+Cipr o/g248o xacin 15 mg/kg/dose q12h ORAL
+•:Oral weight bands
+3-<6 kg 50 mg q12h
+6-<10 kg 100 mg q12h
+10-<15 kg 150 mg q12h
+15-<20 kg 200 mg q12h
+20-<30 kg 300 mg q12h
+≥30 kg 500 mg q12h
+188The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+15. Enteric fever
+Pathogen
+Enteric fever is caused by Salmonella enterica serotypes Typhi or Paratyphi A, B or C, a Gramnegative bacterium. Non-typhoidal Salmonella is not a cause of enteric fever but may cause 
+infectious gastroenteritis, bloodstream infections, meningitis or bone and joint infections. 
+Please refer to the relevant chapters if these infections are suspected. 
+Pathophysiology
+Enteric fever is acquired through ingestion of food or water contaminated with Salmonella 
+Typhi or Paratyphi or through direct contact with someone carrying the pathogen. Humans 
+are the only source of these bacteria. Once the pathogen is ingested, it invades the intestinal 
+mucosa primarily through the distal ileum. Once there, host immune defences are activated 
+to eliminate the pathogen. However, these white cells can also act as carriers of the infection 
+through the lymphatic system to the liver, spleen, bone marrow and lymph nodes, and 
+ultimately to the bloodstream. Natural infection does not provide complete protection so 
+recurrent illness is possible (155).
+Epidemiology 
+Most cases of enteric fever are caused by Salmonella Typhi (70–80% of cases). Even though 
+the absolute number of new cases of enteric fever has declined by 45% and the number 
+of deaths by 41% since the 1990s, the disease is still endemic, mostly in sub-Saharan Africa 
+and in South Asia. Based on available data, India, Pakistan and Bangladesh are the countries 
+with the highest incidence of enteric fever with > 500 cases per 100 000 population in 2017. 
+In 2017, about 14.3 million cases of enteric fever occurred worldwide. In endemic countries, 
+children are affected the most with almost 60% of cases occurring in children younger than 
+15 years. Based on the data available, when appropriately treated with antibiotics, the case 
+fatality rate for enteric fever is about 1% (156). Complications (e.g. intestinal perforation) in 
+hospitalized cases are estimated to occur in 20–30% of cases, with a higher risk in people 
+presenting for care after having had symptoms for more than 10 days (157).
+Clinical presentation
+Symptoms of enteric fever are often non-specific, making it difficult to distinguish enteric 
+fever from other febrile illnesses. As a result, misdiagnosis of cases can occur. In patients 
+with enteric fever, protracted fever (≥ 38.0 °C for more than 3 days) is the main symptom. 
+Headache is often present as well as loss of appetite and nausea. Gastrointestinal symptoms 
+may not be present, and diarrhoea is seen more frequently in children and in people with 
+HIV. The clinical presentation can vary from mild illness with a low-grade fever and malaise 
+to severe disease presenting with septic shock and peritonitis because of intestinal bleeding
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book189
+PRIMARY HEALTH CARE 
+15. Enteric fever
+and perforation. Encephalopathy can also occur in severe cases. Of note, clinical features are 
+also not useful to distinguish infections caused by Salmonella enterica serotype Typhi from 
+those caused by Salmonella enterica serotype Paratyphi.
+Laboratory tests 
+Patient microbiology tests
+In patients with suspected enteric fever, the diagnosis is largely dependent on the clinical 
+presentation and detection of the pathogen in blood cultures, even though the sensitivity is 
+low, especially when antibiotic treatment has already been started. A blood culture should 
+be taken in all possible cases with fever requiring hospitalization, ideally before 
+starting antibiotic treatment . Bone marrow cultures is the most sensitive diagnostic 
+method, but these cultures are very rarely done because they are more difficult to perform 
+and invasive. Stool cultures are usually negative in the early phases of the infection and 
+therefore they are of limited diagnostic use (Table 15.1). Widal serology is still widely used 
+in low- and middle-income countries; however, it is not a reliable method to diagnose 
+acute illness because a positive result may represent a previous infection, and in returning 
+travellers, vaccination prior to travel affects the results. Ideally the Widal serology requires 
+two samples taken 10 days apart to demonstrate a four-fold rise of anti- Salmonella Typhi 
+antibodies and this is not practical in many low-resource settings. 
+Table 15.1 – Microbiology tests to consider when enteric fever is suspected as 
+indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Setting where the test 
+should be available
+Blood culturesa 
+and antimicrobial 
+susceptibility testing
+To detect bacterial and fungal bloodstream 
+infections (sepsis)
+Health care facilities 
+with clinical 
+laboratories
+Bone marrow cultureb 
+and antimicrobial 
+susceptibility testing
+Initial step in detection and identification of 
+bacterial and fungal species for selection of 
+appropriate antimicrobial regimens
+Health care facilities 
+with clinical 
+laboratories
+Stool culturec 
+and antimicrobial 
+susceptibility testing
+Initial step in detection and identification 
+of bacterial species for selection of 
+appropriate antibiotic regimens
+Health care facilities 
+with clinical 
+laboratories
+EDL: Model List of Essential In Vitro Diagnostics.
+a Often the mainstay of diagnosis. Without antibiotic treatment, blood cultures are often positive (5–7 out of 10 
+patients) however sensitivity is low, if antibiotics have already been started.
+b The gold standard for diagnosis but it is often not feasible to do.
+c Low sensitivity and not useful in the early phase (first week) of disease when the test is often negative.
+190The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+15. Enteric fever
+Other tests
+Routine laboratory testing is not always needed but could be considered in severe cases (i.e. 
+routine haematology and biochemistry).
+Using microbiology surveillance data
+Targeted clinical microbiological surveys of enteric fever-related bloodstream infection 
+focusing on Salmonella enterica serotype Typhi and Paratyphi resistance rates may help 
+inform local and national empiric antibiotic guidance. 
+Imaging
+Routine imaging is not needed.
+Antibiotic treatment
+Antibiotic treatment options are shown in Table 15.2. In cases of enteric fever, antibiotic 
+treatment should be started promptly because delays are associated with higher risk of 
+complications and severe disease. In general, antibiotic treatment is given to shorten the 
+duration of symptoms and to reduce the risk of complications, such as intestinal perforation 
+and chronic carriage. Chronic carriers are asymptomatic people who continue to harbour 
+the pathogen for months or even years after their initial infection and can transmit the 
+infection. Fever usually decreases slowly, after around 3–5 days of effective treatment. 
+Mild cases can be treated as outpatients with oral treatment, while severe cases should be 
+treated as inpatients with systemic intravenous treatment. 
+The choice of oral antibiotic, if possible, should be based on the sensitivity 
+of the isolated pathogen. When choosing empiric treatment, the local prevalence of 
+fluoroquinolone resistance should be considered because of the increasing number of 
+resistant isolates, mostly in Asia (158). In these settings, a third-generation cephalosporin 
+or azithromycin are appropriate options because resistance to these antibiotics is still 
+low in most settings; < 5% for ceftriaxone and only sporadic cases with resistance to 
+azithromycin. Of note, antibiotics that were widely used in the 1980s and 1990s but fell 
+into disuse because of resistance or toxicity concerns (e.g. ampicillin, chloramphenicol 
+and sulfamethoxazole+trimethoprim) are again effective in some settings, mostly in Asia. 
+However, the empiric use of these older options for treatment is discouraged because it 
+could prompt a rebound of multidrug-resistant organisms. 
+In recent years, outbreaks of enteric fever caused by extensively antibiotic-resistant 
+Salmonella Typhi have been reported, for example, in Pakistan since 2016 (159). These extensively 
+antibiotic-resistant isolates are resistant to ampicillin, sulfamethoxazole+trimethoprim, 
+chloramphenicol, fluoroquinolones and third-generation cephalosporins and represent a public 
+health threat including the risk of travel/migration-related spread to other countries and regions.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book191
+PRIMARY HEALTH CARE 
+15. Enteric fever
+Step-down to oral treatment is based on improvement of symptoms and signs of 
+infection and the ability to take oral antibiotics which allows discharge of the patient home 
+when clinically appropriate.
+Table 15.2 – Empiric antibiotic treatment for enteric fever
+Risk of 
+fluoroquinolone 
+resistancea
+Adults Children Total treatment 
+duration
+Low Ciprofloxacin b 
+(oral): 500 mg given 
+every 12 hours
+ Ciprofloxacin (oral): 15 mg/
+kg/dose given every 12 hours
+Oral weight bands: 
+3–< 6 kg: 50 mg given every 
+12 hours
+6–< 10 kg: 100 mg given every 
+12 hours
+10–< 15 kg: 150 mg given 
+every 12 hours
+15–< 20 kg: 200 mg given 
+every 12 hours
+20–< 30 kg: 300 mg given 
+every 12 hours
+≥ 30 kg: use adult dose
+Mild cases: 7 days
+Severe cases: 
+10 days if the 
+patient is clinically 
+improving and 
+without a fever for 
+48 hours
+High Mild cases
+ Azithromycin c 
+(oral): 1 g given once 
+a day (on day one) 
+followed by 500 mg 
+given once a day
+Severe cases
+ Ceftriaxone d (IV): 
+2 g given once a day
+Mild cases
+ Azithromycin (oral): 
+20 mg/kg/dose given once 
+a day 
+Severe cases
+ Ceftriaxone d (IV): 80 mg/kg/ 
+dose given once a day
+IV: intravenous.
+Note. All dosages are for normal renal and hepatic function.
+a It should be noted that there is no clearly defined prevalence of resistance in a certain setting that defines low 
+versus high risk of fluoroquinolone resistance.
+b The use of fluoroquinolones (such as ciprofloxacin) can be associated with important side-effects including: (i) mental 
+health disturbances such as disorientation, agitation, nervousness, memory impairment and delirium; (ii) serious blood 
+sugar disturbances such as hypoglycaemic coma; (iii) increased risk of tendinitis and tendon rupture; (iv) worsening 
+symptoms in those with myasthenia gravis; and (v) potential irreversible neuropathy (serious nerve damage).
+c Azithromycin can cause abnormal changes in the electrical activity of the heart leading to a potentially fatal 
+irregular heart rhythm especially in patients with known risk factors such as long QT interval or arrhythmias.
+continues
+192The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+15. Enteric fever
+d In settings where ceftriaxone-resistance is increasing, azithromycin should be prioritized. Outbreaks of enteric 
+fever caused by extensively antibiotic-resistant Salmonella Typhi have been reported, for example, in Pakistan since 
+2016 (159) and in travel-related cases across the world (162–164). In general, when ceftriaxone is used, changing 
+to oral treatment could be considered when there is symptomatic improvement. If available, the choice of oral 
+options to use could be guided by results of susceptibility testing, including the possibility of using certain firstchoice options that were used in the past.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+Combination treatment
+Currently, a single antibiotic regimen is recommended. However, the combination of a thirdgeneration cephalosporin (ceftriaxone) and azithromycin has been reported to reduce the 
+duration of symptoms. This approach is suggested in some guidelines for severe cases (160,161).
+Prevention
+Access to safe water and adequate sanitation, health education, appropriate hygiene among 
+food handlers and typhoid vaccination are all effective strategies for prevention and control 
+of enteric fever. For updated information on vaccines to prevent enteric fever, please refer to 
+the 2018 WHO position paper on typhoid vaccines (154). Vaccination should be prioritized 
+in countries with the highest burden of enteric fever (especially where antibiotic resistance 
+is high) and in response to confirmed outbreaks. Single-dose typhoid conjugated vaccines 
+are also available that can be used in younger children (from the age of 6 months onwards) 
+and confer prolonged duration of protection. Recommendations on these newer vaccines 
+can also be found in the 2018 WHO position paper (154).
+Table 15.2 continued
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.1.9 Typhoid Fever (Enteric Fever) | p.190-192 | audience=general] ---
+ICD10 CODE: A01.00
+Bacterial infection characterised by fever and abdominal symptoms. It is
+spread through contaminated food and water.
+Causes
+~ Salmonella typhi and S. paratyphi A & B
+Clinical features
+~ Gradual onset of chills and malaise, headache, anorexia,
+epistaxis, backache, and constipation
+124
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+~ Usually occurring 10-15 days after infection
+~ Abdominal pain and tenderness are prominent features
+~ High fever > 38°C
+~ Delirium and stupor in advanced stages
+~ Tender splenomegaly, relative bradycardia, cough
+~ Complications may include perforation of the gut with peritonitis, gastrointestinal hemorrhage
+Differential diagnosis
+~ Severe malaria, other severe febrile illnesses
+Investigations
+¾ Blood culture (most reliable)
+¾ Stool culture
+¾ Rapid antibody test (e.g. Tubex, Typhidot) – not
+very sensitive or specific, possibly useful in epidemics
+Widal’s agglutination reaction is neither sensitive nor specific for typhoid
+diagnosis: a single positive screening does not indicate presence of infection
+Management
+TREATMENT LOC
+~ Do culture and sensitivity to confirm right treatment
+- Ciprofloxacin 500 mg every 12 hours for 10–14 days
+Child: 10-15 mg/kg per dose
+Other antibiotics
+HC3
+125
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+TREATMENT LOC
+- Chloramphenicol 500 mg 6 hourly for 10 days
+Child: 25 mg/kg IV, IM or oral for 10-14 days
+In severe, resistant forms or pregnancy
+- Ceftriaxone 1 g IV every 12 hours for 10-14 days
+Child: 50 mg/kg per dose
+Alternative in pregnancy
+- Amoxicillin 1 g every 8 hours for 10 days
+Child: 10-15 mg/kg per dose
+HC3
+HC4
+Prevention
+~ Early detection, isolation, treatment, and reporting
+~ Proper faecal disposal
+~ Use of safe clean water for drinking
+~ Personal hygiene especially hand washing
+~ Good food hygiene

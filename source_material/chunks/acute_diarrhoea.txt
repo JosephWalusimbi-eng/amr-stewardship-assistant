@@ -1,0 +1,4296 @@
+# TOPIC: acute_diarrhoea
+
+--- [WHO AWaRe Antibiotic Book (2022) | 14. Acute infectious diarrhoea/gastroenteritis | p.185-200 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book169
+PRIMARY HEALTH CARE 
+14. Acute infectious diarrhoea/
+gastroenteritis
+Note
+This chapter does not include enteric fever and Clostridioides difficile infection; please refer to 
+the respective chapters when these infections are suspected.
+Key messages
+• Antibiotics are not needed in the great majority of cases of watery diarrhoea with or 
+without a fever.
+• Most cases of infectious diarrhoea are self-limiting and are caused by viruses.
+• Antibiotics should only be used in patients with severe bloody diarrhoea (dysentery) or in 
+immunocompromised patients.
+• When an antibiotic is needed, ciprofloxacin is the first choice, but azithromycin is preferred 
+in areas with a high prevalence of ciprofloxacin resistance among specific bacteria causing 
+infectious diarrhoea (e.g. intestinal/non-invasive/diarrhoeal Salmonella, Shigella spp.).
+• Cholera should be treated with antibiotics only in the context of outbreaks to prevent 
+transmission but the most important intervention is rehydration.
+Other relevant WHO resources (please check regularly for updates)
+• Pocket book of hospital care for children: guidelines for the management of common 
+childhood illnesses, 2013 (31).
+• The treatment of diarrhoea: a manual for physicians and other senior health workers, fourth 
+revision. (145). 
+• Diarrhoeal disease – fact sheet (146).
+• Cholera vaccines: WHO position paper – August 2017 (147).
+• Global Taskforce on Cholera Control. Use of antibiotics for the treatment and control of 
+cholera (148).
+• Rotavirus vaccines: WHO position paper – July 2021 (149).
+• Schistosomiasis – health topic (150).
+170The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+14. Acute infectious diarrhoea/gastroenteritis
+Definition
+Acute diarrhoeal disease (also known as gastroenteritis) is a disease characterized by acute 
+onset (usually defined as a duration of < 14 days) of diarrhoea. Diarrhoea is defined as the 
+passage of unusually loose or watery stools occurring at least three times a day (or more 
+frequently than is normal for the individual). Consistency (how liquid/runny) rather than 
+frequency (how often) is the most important factor to consider and frequent passing of 
+formed stool is not diarrhoea. In breastfed babies, frequent loose pale-coloured stools are 
+not considered diarrhoea (145). Most cases of acute diarrhoea have an infectious origin, but 
+non-infectious causes are also possible, for example: adverse effects of medicines, including 
+antibiotics and cytotoxic chemotherapy; endocrine diseases; inflammatory bowel diseases; 
+and irritable bowel syndrome. Acute diarrhoea can be further subclassified as watery 
+diarrhoea or bloody diarrhoea (i.e. presence of visible blood in the stool).
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+171
+PRIMARY HEALTH CARE 
+14. Acute infectious diarrhoea/gastroenteritis
+Acute infectious diarrhoea/gastroenteritis
+Page 1 of 2
+New (<14 days) onset of diarrhoea (≥3 unformed/liquid stools in
+24 hrs or more than normal for individual).
+Diarrhoea can be watery or bloody (dysentery)
+De/g246nition
+Most Likely Pathogens
+This guidance excludes Clostridioides difficile infection or enteric
+fever (see separate chapters)
+Important: Non-infectious causes are also possible and
+must be considered (e.g. adverse effec ts of medicines
+including antibiotics, bowel and endocrine diseases)
+Most cases have a viral origin
+Always consider these risk factors as they may in/g248uence the
+most likely etiologic agents:
+•History of recent travel
+•Recent consumption of potentially unsafe food
+•Recent antibiotic exposure (risk of )C. difficile
+•Immunosuppression
+•Severe malnutrition
+Important:
+•Rapidly evaluate the degree of dehydration
+(especially in the elderly)
+•Signs of severe dehydration (two or more must be
+present):
+-L ethargy and/or unconsciousness
+- Sunken eyes
+-I nability to drink
+-S kin pinch goes back very slowly (≥2 seconds)
+Watery diarrhoea:
+•Most likely cause is viral (mostly norovirus and rotavirus)
+•Consider cholera in endemic settings or in the context of
+outbreaks
+Bloody diarrhoea (dysentery):
+•Most likely cause are bacteria, mostly:
+- spp.Shigella
+- spp.Campylobacter
+-D iarrhoeal non-typhoidal Salmonella
+-E nterotoxigenic Escherichia coli
+Consider parasites if symptoms do not resolve:
+•Usually parasites are responsible for persistent (14-29 days
+duration) or chronic (>30 days duration) rather than acute
+diarrhoea
+- Entamoeba histolytica
+- Giardia intestinalis
+-O ther protozoal parasites and very rarely Schistosoma
+(intestinal species)
+•Access to safe drinking-water, use of improved sanitation, hand
+washing with soap, good food hygiene, health education about
+how these infections spread
+•Vaccination against cholera in endemic areas and during
+outbreaks
+Prevention
+Diagnosis
+Usually not needed
+Consider testing if:
+•Bloody diarrhoea
+•Immunocompromised patients (to exclude parasitic
+infections)
+•Recent antibiotic use (to exclude )C. difficile
+•Suspected cholera outbreak
+Tests to consider:
+•Stool culture
+•Stool microscopy (for parasites)
+•Vibrio cholerae antigen (e.g. in outbreaks)
+•Test for (if recent antibiotic exposure)C. difficile
+Microbiology Tests
+Usually not needed but consider in severe cases (e.g. check
+electrolytes)
+Other LaboratoryTests
+Usually not needed
+Imaging
+•Diarrhoea, nausea, vomiting, bloating, abdominal pain
+and cramping; fever may be absent
+•Most cases are self-limiting in a few days
+•Patients may present with varying degrees of dehydration
+and can present with severe malnutrition (both a risk factor
+and a consequence of diarrhoea)
+Clinical Presentation
+172
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+14. Acute infectious diarrhoea/gastroenteritis
+Acute infectious diarrhoea/gastroenteritis
+Page 2 of 2
+Treatment
+Clinical Considerations
+Antibiotic Treatment
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+If symptoms do not resolve within 24-48 hours of treatment,
+consider giving metronidazole for treatment of Entamoeba
+histolytica and Giardia intestinalis
+•, including in cases withAntibiotics usually not needed
+severe dehydration
+•Consider antibiotic treatment ONLY if:
+- Signi/g246cant acute bloody diarrhoea
+-S everely immunocompromised patients
+Since treatment duration varies according to the antibiotic
+used, please refer to the corresponding antibiotic section
+for treatment duration
+Antibiotic Treatment Duration
+Important: Rehydration and electrolyte replacement
+is the main treatment for acute infectious diarrhoea
+Fluid losses can be compensated by drinking adequate
+/g248uids
+Antidiarrhoeal and antiemetic drugs are not routinely
+needed (they do not prevent dehydration or improve
+nutritional status)
+No Antibiotic Care
+Treat with antibiotics only in:
+•Patients hospitalized with severe dehydration OR
+• Regardless of degree of dehydration:
+- High purging or failure of /g246rst 4 hour course of rehydration
+therapy OR
+-C oexisting conditions (e.g. pregnancy) OR
+-C o-morbidities (e.g. severe acute malnutrition, HIV)
+All dosages are for normal renal function
+Cholera Antibiotic Treatment
+First Choice
+Cipro/g248oxacin 1 g ORAL
+Treatment duration: single dose
+Azithromycin preferred because of the decreasing
+susceptibility of cholera to tetracyclines and /g248uoroquinolones
+----------------------------------- -----------------------------------OR
+Doxycycline 300 mg single dose ORAL
+Treatment duration: 3 days
+•If single dose is not tolerated: 100 mg q12h
+Second Choice
+Azithromycin 1 g ORAL
+Treatment duration: single dose
+----------------------------------- -----------------------------------OR
+First Choice
+Cipro/g248oxacin 500 mg q12h ORAL
+Treatment duration: 3 days
+Azithromycin ORAL
+•Day 1: 500 mg q24h
+•Day 2-4: 250 mg q24h
+Treatment duration: 4 days
+Second Choice
+Azithromycin is preferred in case of high prevalence of
+cipro/g248oxacin resistance among bacteria frequently associated
+with acute infectious diarrhoea (e.g. Salmonella spp.,
+Shigella spp.)
+Ce/g246xime 400 mg q24hORAL
+Treatment duration: 3 days
+----------------------------------- -----------------------------------OR
+Sulfamethoxazole+trimethoprim 800 mg +
+160 mg q12h ORAL
+Treatment duration: 5 days
+Use only if local data suggest susceptibility
+In patients taking sulfamethoxazole-trimethoprim for
+prophylaxis, treat with a differ ent antibiotic unless
+susceptibility is con/g246rmed
+----------------------------------- -----------------------------------OR
+Ceftriaxone 1 g q24h IV/IM
+Treatment duration: 3 days
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+173
+PRIMARY HEALTH CARE 
+14. Acute infectious diarrhoea/gastroenteritis
+Acute infectious diarrhoea/gastroenteritis
+Page 1 of 2
+New (<14 days) onset of diarrhoea (≥3 unformed/liquid stools in
+24 hrs or more than normal for individual).
+Diarrhoea can be watery or bloody (dysentery)
+De/g246nition
+Important: Non-infectious causes are also possible and
+must be considered (e.g. adverse effec ts of medicines
+including antibiotics, bowel and endocrine diseases)
+Most Likely Pathogens
+Most cases have a viral origin
+Always consider these risk factors as they may in/g248uence the
+most likely etiologic agents:
+•History of recent travel
+•Recent consumption of potentially unsafe food
+•Immunosuppression
+•Severe malnutrition
+Watery diarrhoea:
+•Most likely cause is viral, mostly:
+-R otavirus
+- Norovirus
+-A denovirus
+•Consider cholera in endemic settings or in the context of
+outbreaks
+Bloody diarrhoea (dysentery):
+•Most likely cause are bacteria, mostly:
+- spp.Shigella
+- spp.Campylobacter
+-D iarrhoeal non-typhoidal Salmonella
+-E nterotoxigenic Escherichia coli
+Consider parasites if symptoms do not resolve:
+•Usually parasites are responsible for persistent (14-29 days
+duration) or chronic (>30 days duration) rather than acute
+diarrhoea
+- Entamoeba histolytica
+- Giardia intestinalis
+-O ther protozoal parasites and very rarely Schistosoma
+(intestinal species)
+Prevention
+Important:
+•Rapidly evaluate the degree of dehydration
+•Signs of severe dehydration (two or more must be
+present):
+-L ethargy and/or unconsciousness
+- Sunken eyes
+-I nability to drink
+-S kin pinch goes back very slowly (≥2 seconds)
+Diagnosis
+Usually not needed
+Consider testing if:
+•Bloody diarrhoea
+•Immunocompromised patients (to exclude parasitic
+infections)
+•Suspected cholera outbreak
+Tests to consider:
+•Stool culture
+•Stool microscopy (for parasites)
+Microbiology Tests
+Usually not needed but consider in severe cases (e.g. check
+electrolytes)
+Other LaboratoryTests
+Usually not needed
+Imaging
+•Diarrhoea, nausea, vomiting, bloating, abdominal pain
+and cramping; fever may be absent
+•Most cases are self-limiting in a few days
+•Patients may present with varying degrees of dehydration
+and can present with severe malnutrition (both a risk factor
+and a consequence of diarrhoea)
+Clinical Presentation
+This guidance excludes enteric fever (see separate chapter)
+•Access to safe drinking-water, use of improved sanitation, hand
+washing with soap, good food hygiene, health education about
+how these infections spread
+•Exclusive breastfeeding for the /g246rst 6 months of life
+•Vaccination against rotavirus and against cholera (in endemic
+areas and during outbreaks)
+174
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+14. Acute infectious diarrhoea/gastroenteritis
+Acute infectious diarrhoea/gastroenteritis
+Page 2 of 2
+Treatment
+Since treatment duration varies according to the antibiotic
+used, please refer to the corresponding antibiotic section
+for treatment duration
+Antibiotic Treatment Duration
+Important: Rehydration and electrolyte replacement
+is the main treatment for acute infectious diarrhoea
+•Low-osmolarity oral rehydration solution (ORS) is
+recommended
+•In addition to ORS, zinc tablets (10-20 mg/day) for
+10-14 days can shorten duration and severity of
+symptoms
+Antidiarrhoeal and antiemetic drugs are not routinely
+needed (they do not prevent dehydration or improve
+nutritional status)
+No Antibiotic Care
+Treat with antibiotics only in:
+•Patients hospitalized with severe dehydration OR
+• Regardless of degree of dehydration:
+- High purging or failure of /g246rst 4 hour course of rehydration
+therapy OR
+-C o-morbidities (e.g. severe acute malnutrition, HIV)
+All dosages are for normal renal function
+Cholera Antibiotic Treatment
+Clinical Considerations
+Antibiotic Treatment
+•, including in cases withAntibiotics usually not needed
+fever and/or severe dehydration
+•Consider antibiotic treatment ONLY if:
+- Signi/g246cant bloody diarrhoea
+-S everely immunocompromised patients
+First Choice
+Azithromycin preferred because of the decreasing
+susceptibility of cholera to tetracyclines and /g248uoroquinolones
+----------------------------------- -----------------------------------OR
+Cipro/g248oxacin 15 mg/kg ORAL
+Treatment duration: single dose
+Second Choice
+Azithromycin 20 mg/kg ORAL
+Treatment duration: single dose
+Doxycycline ORAL
+•<45 kg (<12 yrs): 2-4 mg/kg
+•>45 kg (>12 yrs): 300 mg
+Treatment duration: single dose
+First Choice
+Second Choice
+Azithromycin 10 mg/kg/dose q24h ORAL
+Treatment duration: 4 days
+For children with bloody diarrhoea/dysenter y ONLY
+azithromycin is preferred if suspected cipro/g248oxacin resistance
+----------------------------------- -----------------------------------OR
+Ce/g246xime 10 mg/kg/dose q24hORAL
+Treatment duration: 5 days
+----------------------------------- -----------------------------------OR
+Cipro/g248oxacin 15 mg/kg/dose q12h ORAL
+•:Oral weight bands
+3-<6 kg 50 mg q12h
+6-<10 kg 100 mg q12h
+10-<15 kg 150 mg q12h
+15-<20 kg 200 mg q12h
+20-<30 kg 300 mg q12h
+≥30 kg 500 mg q12h
+Treatment duration: 3 days
+Sulfamethoxazole+trimethoprim 20 mg/kg +
+4 mg/kg q12h ORAL
+•:Oral weight bands
+3-<6 kg 100 mg+20 mg q12h
+6-<10 kg 200 mg+40 mg q12h
+10-<30 kg 400 mg+80 mg q12h
+≥30 kg 800 mg+160 mg q12h
+Treatment duration: 5 days
+Use only if local data suggest susceptibility
+In patients taking sulfamethoxazole-trimethoprim for
+prophylaxis, treat with a differ ent antibiotic unless
+susceptibility is con/g246rmed
+----------------------------------- -----------------------------------OR
+Ceftriaxone 80 mg/kg/dose q24h IV/IM
+Treatment duration: 3 days
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+If symptoms do not resolve within 24-48 hours of treatment,
+consider giving metronidazole for treatment of Entamoeba
+histolytica and Giardia intestinalis
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book175
+PRIMARY HEALTH CARE 
+14. Acute infectious diarrhoea/gastroenteritis
+Pathophysiology
+Acute diarrhoeal diseases can be acquired through ingestion of food or water contaminated 
+with viral or bacterial pathogens (rarely protozoal or fungal pathogens) or through direct 
+contact with someone carrying the pathogen. Establishment of an enteric infection depends 
+on the capacity of the pathogen to invade the mucosa and overcome the host defences. It 
+is dependent on several factors, including the inoculum, the virulence of the organism and 
+the status of host defences. Production of enterotoxins (i.e. bacterial proteins that act on the 
+host’s intestinal cells) is a frequently encountered mechanism of disease.
+Epidemiology 
+In 2017, 6.2 billion episodes of diarrhoeal disease were estimated to have occurred 
+worldwide, including 500 000 incident cases of intestinal/non-invasive/diarrhoeal nontyphoidal Salmonella disease (44).
+Children younger than 5 years are often affected. About 1.7 billion cases of acute 
+diarrhoeal disease occur each year in this age group where it is an important cause of death 
+(about 450 000 deaths in 2016). Acute malnutrition, living in or travelling to areas with 
+limited access to safe drinking-water and adequate sanitation are the leading risk factors for 
+acute diarrhoeal diseases (146,151). 
+Most likely pathogens
+Most cases of community-acquired acute watery diarrhoeal disease have a viral origin. 
+However, bacteria and parasites can also be causes (152). For returning travellers, it is 
+important to consider travel-associated diarrhoea. Table 14.1 and Table 14.2 give the 
+pathogens most frequently associated with acute diarrhoeal disease (in children and adults 
+respectively), and Table 14.3 the pathogens associated with chronic or persistent diarrhoea.
+176The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+14. Acute infectious diarrhoea/gastroenteritis
+Table 14.1 – Pathogens most frequently associated with acute infectious diarrhoea 
+in children (in descending order of frequency)
+Setting Viruses (most 
+cases)
+Bacteria Parasites
+Low income Rotavirus
+Measles virusa
+Escherichia coli
+Shigella spp.
+Cryptosporidium spp.
+High income Norovirus
+Rotavirus
+Adenovirus
+Measles virusa
+Intestinal/non-invasive/
+diarrhoeal non-typhoidal 
+Salmonella 
+Campylobacter spp.
+–
+a Diarrhoea is the most common complication in measles.
+Table 14.2 – Pathogens most frequently associated with acute infectious diarrhoea 
+in adults (in descending order of frequency)
+Setting Viruses (most cases) Bacteria
+Low income Norovirus Campylobacter spp.
+Intestinal/non-invasive/diarrhoeal nontyphoidal Salmonella 
+Shigella spp.
+Escherichia coli
+High income Norovirus Intestinal/non-invasive/diarrhoeal nontyphoidal Salmonella 
+Campylobacter spp.
+Escherichia coli
+Shigella spp.
+Listeria monocytogenes
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book177
+PRIMARY HEALTH CARE 
+14. Acute infectious diarrhoea/gastroenteritis
+Table 14.3 – Pathogens most frequently associated with persistent (14–29 days) or 
+chronic (> 30 days) infectious diarrhoea in people living with HIVa (in descending 
+order of frequency)
+Parasites Viruses Fungi (rarely)b
+Cryptosporidium spp.
+Microsporidium spp.
+Cystoisospora belli
+Cytomegalovirus Histoplasma capsulatum
+Coccidioides spp.
+Penicillium spp.
+HIV: human immunodeficiency virus.
+a It should be noted that in these cases, patients often receive unnecessary antibiotic treatment.
+b Rarely in the context of disseminated infections in patients with low CD4 count.
+Clinical presentation
+In acute diarrhoea, the main symptom is new onset (< 14 days) of three or more unformed 
+stools a day, with or without fever. Nausea, vomiting, bloating, abdominal pain and 
+cramping may also be present. In most cases, the disease is self-limiting. Since some 
+causative pathogens can be endemic in certain settings and absent in others, it is always 
+important to consider where the patient became infected (including history of recent travel) 
+and recent consumption of potentially unsafe food (e.g. raw meat or unpasteurized milk 
+products). Recent antibiotic use (past 3 months), cytotoxic chemotherapy or the presence 
+of immunosuppression (e.g. HIV infection) also need to be investigated. 
+Five common clinical presentations can help identify cases that require specific 
+treatment and management (145).
+1. Patients with watery diarrhoea. In these patients, the most likely cause is viral, 
+mostly rotavirus and norovirus. A mild fever and vomiting may also occur. The 
+main risk is severe dehydration and management is symptomatic (e.g. fluid 
+replacement).
+2. Patients with bloody diarrhoea (dysentery or invasive diarrhoea with damage 
+to the intestinal mucosa). In these patients, the most likely cause are bacteria, 
+mostly Shigella spp., Campylobacter spp., intestinal/non-invasive/diarrheal 
+non-typhoidal Salmonella or enterotoxigenic Escherichia coli . These cases may 
+benefit from antibiotic treatment. In addition to dehydration, these infections 
+can be complicated by sepsis and malnutrition. Entamoeba histolytica can rarely 
+also cause bloody diarrhoea weeks or months after the infection; often these 
+infections are responsible for chronic rather than acute bloody diarrhoea. Other 
+protozoal parasites and very rarely Schistosoma can also cause bloody diarrhoea; 
+only Schistosoma mansoni and Schistosoma japonicum, the intestinal species.
+178The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+14. Acute infectious diarrhoea/gastroenteritis
+3. Patients with persistent diarrhoea (symptoms lasting > 14 days). In these 
+patients, a parasite is often implicated (e.g. Giardia intestinalis , Entamoeba 
+histolytica) and the main risks are malnutrition and dehydration.
+4. Diarrhoea with severe malnutrition . In these patients, malnutrition is both a 
+cause and consequence of diarrhoea.
+5. Diarrhoea with recent antibiotic exposure ( Clostridioides difficile ). This 
+condition is mostly hospital-acquired; please refer to the chapter on Clostridioides 
+difficile infection if this is suspected.
+Patients may present with varying degrees of dehydration and this should be 
+promptly assessed, especially in children and elderly people. In children, the degree of 
+dehydration can be rated on a scale of three as indicated in Table 14.4 (146).
+Table 14.4 – Classification of dehydration
+Severity of dehydration Signs
+Severe dehydration: at least two signs 
+from the list on the right must be 
+present
+• Lethargy and/or unconsciousness
+• Sunken eyes
+• Inability to drink 
+• Skin pinch goes back very slowly (≥ 2 seconds)
+Some dehydration: at least two signs 
+from the list on the right must be 
+present
+• Restlessness, irritability
+• Sunken eyes
+• Drinks eagerly, is thirsty
+No dehydration Too few signs to classify as some or severe 
+dehydration
+Source: WHO Pocket book of hospital care for children (31).
+Laboratory tests 
+Patient microbiology tests
+Routine stool testing is not needed since most cases are self-limiting and knowing the 
+causative agent would not alter management. Testing may be done for infection control 
+purposes, if there is a high risk of spreading the disease in specific settings.
+However, in certain cases and based on local availability, a stool test (e.g. stool 
+microscopy, stool culture, antigen testing and nucleic acid amplification tests) could be 
+considered (Table 14.5), but only when identifying the causative pathogen may benefit the
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book179
+PRIMARY HEALTH CARE 
+14. Acute infectious diarrhoea/gastroenteritis
+patient, for example, because specific treatment can be provided or a multidrug-resistant 
+pathogen may be detected.
+Selected cases that could benefit from stool testing include: 
+• patients with bloody diarrhoea 
+• patients with suspected cholera in the context of outbreaks
+• immunocompromised patients with acute diarrhoea
+• history of diarrhoea following antibiotic use (suspicion of Clostridioides difficile 
+infection). Please refer to the chapter on Clostridioides difficile infection if this 
+infection is suspected.
+Table 14.5 – Microbiology tests to consider in certain cases of diarrhoeal disease as 
+indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Setting where the test 
+should be available
+Stool culture and 
+antimicrobial 
+susceptibility testing
+To detect and identify bacterial 
+species for selection of 
+appropriate antibiotic regimens
+Health care facilities with 
+clinical laboratories
+Stool microscopy To detect and identify parasites 
+and their ova (eggs) or cysts
+Health care facilities with 
+clinical laboratories
+Vibrio cholerae antigena 
+(RDT)
+To detect or exclude a cholera 
+outbreak (not for use in case 
+management)
+Community settings and 
+health facilities without 
+laboratories
+EDL: Model List of Essential In Vitro Diagnostics; RDT: rapid diagnostic test.
+a Possible specimens include stool and rectal swab.
+Other tests
+Routine laboratory tests are usually not needed. However, for severe cases, electrolytes 
+should be checked if available.
+Using microbiology surveillance data
+Targeted clinical microbiological surveys of cases of acute bloody diarrhoea in the primary 
+care setting in children and adults, specifically focusing on quinolone and macrolide 
+resistance rates in Shigella and intestinal/non-invasive/diarrhoeal non-typhoidal Salmonella, 
+may be helpful to inform local empiric antibiotic guidance.
+180The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+14. Acute infectious diarrhoea/gastroenteritis
+Imaging
+Routine imaging is not needed for acute diarrhoeal disease.
+No antibiotic care
+Rehydration is the main treatment for acute diarrhoeal disease (oral or intravenous). In 
+children, treating any diarrhoea with oral rehydration therapy using a low-osmolarity oral 
+rehydration solution to prevent dehydration is recommended (145). In addition, zinc tablets 
+(10–20 mg/day) for 10–14 days are usually recommended to shorten the duration and 
+severity of symptoms (31,145). 
+In adults, an oral rehydration solution is not usually needed, and fluid losses can be 
+compensated by drinking adequate fluids. However, in severely dehydrated adult patients, 
+an oral rehydration solution can be given. Antidiarrhoeal and antiemetic medicines are not 
+routinely needed because they do not prevent dehydration and do not improve nutritional 
+status (145).
+Antibiotic treatment
+Antibiotics are not needed in most cases of acute diarrhoeal disease because they are 
+of viral origin and the illness is usually self-limiting regardless of the causative pathogen. 
+Rehydration is the main treatment for acute diarrhoeal disease (145). Even in cases with 
+severe dehydration, antibiotic treatment is not routinely needed. 
+However, in patients with significant acute bloody diarrhoea and in severely 
+immunocompromised patients, antibiotics may be given (see Table 14.6 for empiric 
+options based on the risk of fluoroquinolone resistance). Bloody diarrhoea could be 
+caused by certain strains of Escherichia coli (Shiga toxin-producing Escherichia coli also 
+known as enterohaemorrhagic Escherichia coli). In these cases (mostly in children), the use 
+of antibiotics is controversial because there is a theoretical concern that it could worsen 
+symptoms of haemolytic uraemic syndrome, characterized by haemolytic anaemia, 
+renal injury and low platelets. However as there is clear evidence of benefit in shigellosis, 
+empiric treatment with antibiotics should not be withheld because of a concern of causing 
+haemolytic uraemic syndrome.
+If symptoms do not resolve after 24–48 hours of antibiotic treatment, adding a 
+treatment course of metronidazole for possible Entamoeba histolytica infection could be 
+considered.
+In addition, antibiotic treatment should be considered in the context of cholera in 
+the following cases (see Table 14.7 for antibiotic options):
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book181
+PRIMARY HEALTH CARE 
+14. Acute infectious diarrhoea/gastroenteritis
+• suspected cholera in patients hospitalized with severe dehydration
+• regardless of degree of dehydration:
+ - high purging or failure of first 4-hour course of rehydration therapy or
+ - coexisting conditions (e.g. pregnancy) or 
+ - comorbidities (e.g. severe acute malnutrition, HIV infection) that pose elevated 
+risk in cholera illness.
+Note
+Only certain cases of diarrhoeal disease benefit from antibiotic treatment, namely patients with 
+significant acute bloody diarrhoea and/or who are severely immunocompromised.
+Table 14.6 – Empiric antibiotic treatment for selected cases of infectious acute 
+diarrhoea 
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Adults Children Total treatment 
+duration
+First 
+choice
+ Ciprofloxacin a,b 
+(oral): 500 mg given 
+every 12 hours
+ Ciprofloxacin a (oral): 
+15 mg/kg/dose given every 
+12 hours
+Oral weight bands: 
+3–< 6 kg: 50 mg given every 
+12 hours
+6–< 10 kg: 100 mg given every 
+12 hours
+10–< 15 kg: 150 mg given 
+every 12 hours
+15–< 20 kg: 200 mg given 
+every 12 hours
+20–< 30 kg: 300 mg given 
+every 12 hours
+≥ 30 kg: use adult dose
+3 days
+continues
+182The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+14. Acute infectious diarrhoea/gastroenteritis
+Table 14.6 continued
+Adults Children Total treatment 
+duration
+Second 
+choice
+Oral options
+ Azithromycin c (oral): 
+500 mg given once a 
+day (on day 1) followed 
+by 250 mg given once 
+a day for 3 days 
+OR
+ Cefixime d (oral): 
+400 mg given once 
+a day
+OR
+ Sulfamethoxazole+ 
+ trimethoprim d,e 
+(oral): 800 mg + 160 mg 
+given every 12 hours
+Parenteral option
+ Ceftriaxone d (IV/IM): 
+1 g given once a day
+Oral options
+ Azithromycin c (oral): 10 mg/
+kg/dose given once a day
+OR
+ Cefixime d (oral): 10 mg/kg/
+dose given once a day
+OR
+ Sulfamethoxazole+ 
+ trimethoprim d,e (oral): 
+20 mg/kg + 4 mg/kg given 
+every 12 hours
+Oral weight bands (mg 
+of the sulfamethoxazole/
+trimethoprim component):
+3–< 6 kg: 100 mg/20 mg given 
+every 12 hours
+6–< 10 kg: 200 mg/40 mg 
+given every 12 hours
+10–< 15 kg: 400 mg/80 mg 
+given every 12 hours
+15–< 20 kg: 400 mg/80 mg 
+given every 12 hours
+20–< 30 kg: 400 mg/80 mg 
+given every 12 hours
+≥ 30 kg: use adult dose
+Parenteral option
+ Ceftriaxone d (IV/IM): 80 mg/
+kg/dose given once a day
+ Azithromycin : 4 days 
+ Cefixime : 
+3 days (adults) 
+5 days (children)
+ Sulfamethoxazole+ 
+ trimethoprim : 5 days
+ Ceftriaxone : 3 days
+IM: intramuscular; IV: intravenous.
+Note. All dosages are for normal renal and hepatic function.
+a If symptoms do not resolve within 24–48 hours of treatment, consider Entamoeba histolytica or Giardia intestinalis 
+as possible causes and provide appropriate treatment. 
+b The use of fluoroquinolones (such as ciprofloxacin) can be associated with important side-effects including: (i) mental 
+health disturbances such as disorientation, agitation, nervousness, memory impairment and delirium; (ii) serious blood 
+sugar disturbances such as hypoglycaemic coma; (iii) increased risk of tendinitis and tendon rupture; (iv) worsening 
+symptoms in those with myasthenia gravis; and (v) potential irreversible neuropathy (serious nerve damage).
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book183
+PRIMARY HEALTH CARE 
+14. Acute infectious diarrhoea/gastroenteritis
+Table 14.6 continued
+c Azithromycin is preferred in cases of high prevalence of ciprofloxacin resistance among bacteria frequently 
+associated with acute infectious diarrhoea (e.g. Intestinal/non-invasive/diarrhoeal non-typhoidal Salmonella, Shigella 
+spp.). Of note azithromycin can cause abnormal changes in the electrical activity of the heart leading to a potentially 
+fatal irregular heart rhythm, especially in patients with known risk factors such as long QT interval or arrhythmias.
+d Cefixime, ceftriaxone and sulfamethoxazole+trimethoprim are not active against Campylobacter spp.
+e Ideally, sulfamethoxazole+trimethoprim should only be used if local data suggest susceptibility or if the isolated 
+strain is susceptible. As per WHO 2005 guidelines, this antibiotic should not be used empirically when shigellosis 
+is suspected (145). In patients taking sulfamethoxazole+trimethoprim for prophylaxis, a different antibiotic should 
+be used for treatment unless susceptibility is confirmed.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+Table 14.7 – Empiric antibiotic treatment for cholera
+Note
+For indications for antibiotic use, please refer to the technical note on the use of antibiotics for 
+the treatment and control of cholera from the Global Task Force on Cholera Control (148).
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical 
+order and they should be considered equal treatment options, unless otherwise indicated.
+Adults Children
+First choice
+ Azithromycin a (oral): 1 g, single dose
+OR
+ Doxycycline (oral): 300 mg, single 
+dose (or 100 mg given every 12 hours 
+for 3 days if single dose is not tolerated)
+First choice
+ Azithromycin a (oral): 20 mg/kg, single dose
+Second choice
+ Ciprofloxacin (oral): 1 g, single dose
+Second choice
+ Ciprofloxacin (oral): 15 mg/kg, single dose
+OR
+ Doxycycline (oral)
+• < 45 kg (< 12 years): 2 to 4 mg/kg, single dose
+• > 45 kg (> 12 years): 300 mg, single dose
+Note. All dosages are for normal renal and hepatic function.
+a Azithromycin is preferred because of the decreasing susceptibility of cholera to tetracyclines and fluoroquinolones. 
+Because of the long half-life of azithromycin, it should only be recommended for outbreak situations, where singledose treatment is especially useful.
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+184The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ PRIMARY HEALTH CARE
+14. Acute infectious diarrhoea/gastroenteritis
+Prevention
+Key measures to prevent acute diarrhoeal diseases include access to safe drinkingwater, use of improved sanitation, handwashing with soap, exclusive breastfeeding for 
+the first 6 months of life, good personal and food hygiene, health education about how 
+infections spread and vaccination against rotavirus, particularly in countries with a high 
+rate of death associated with rotavirus (146). Vaccination against cholera should also be 
+considered, especially in endemic areas, in humanitarian crises (high risk of cholera) and 
+during outbreaks. Vaccination against cholera should always be accompanied with other 
+prevention and control strategies. Vaccination against measles could also substantially 
+reduce the incidence and severity of diarrhoeal diseases and therefore every infant should 
+be immunized against measles at the recommended age. For updated information on 
+vaccination against rotavirus, cholera and measles, refer to the most recent WHO position 
+papers (147,149,153).
+
+--- [WHO IMCI Chart Booklet | p.1 | p.1-1 | audience=pediatric] ---
+TREAT THE CHILD, continued 
+ 
+Give Extra Fluid for Diarrhoea 
+and Continue Feeding 
+ 
+Plan A: Treat Diarrhoea at Home ............................ 12 
+Plan B: Treat Some Dehydration with ORS ............. 12 
+Plan C: Treat Severe Dehydration Quickly .............. 13 
+ 
+ 
+Immunize Every Sick Child, As Needed .................... 13 
+ 
+ 
+Give Follow-up Care 
+ 
+Pneumonia ................................ ............................. 14 
+Persistent Diarrhoea ................................ ............... 14 
+Dysentery ................................ ............................... 14 
+Malaria (Low or High Malaria Risk) ......................... 15 
+Fever-Malaria Unlikely (Low Malaria Risk) .............. 15 
+Measles with Eye or Mouth Complications .............. 15 
+Ear Infection ................................ ........................... 16 
+Pallor ................................ ................................ ...... 16 
+Very Low Weight ................................ .................... 16 
+ 
+ 
+COUNSEL THE MOTHER 
+ 
+Food 
+Assess the Child’s Feeding ................................ ..... 17 
+Feeding Recommendations ................................ .... 18 
+Counsel About Feeding Problems........................... 19 
+ 
+Fluid 
+Increase Fluid During Illness ................................ ... 20 
+ 
+When to Return 
+ Advise the Mother When to Return to 
+ Health Worker ................................ ......................... 20 
+ 
+Counsel the Mother About 
+Her Own Health ................................ ........................... 21 
+ 
+ 
+INTEGRATED MANAGEMENT OF CHILDHOOD ILLNESS 
+SICK CHILD 
+AGE 2 MONTHS UP TO 5 YEARS 
+ASSESS AND CLASSIFY THE SICK CHILD 
+ 
+Assess, Classify and Identify Treatment 
+ 
+Check for General Danger Signs ................................ ..... 2 
+Then Ask About Main Symptoms: 
+Does the child have cough or difficult breathing? ................ 2 
+Does the child have diarrhoea? ................................ ....... 3 
+Does the child have fever? ................................ ............. 4 
+Classify malaria ................................ ..................... 4 
+Classify measles ................................ .................... 4 
+Does the child have an ear problem? ............................... 5 
+Then Check for Malnutrition and Anaemia ....................... 6 
+Then Check the Child’s Immunization, Vitamin A 
+supplementation and Deworming Status ........................ 6 
+Assess Other Problems ................................ ................... 6 
+ 
+ 
+TREAT THE CHILD 
+ 
+Teach the Mother to Give Oral Drugs at Home 
+Oral Antibiotic................................ ............................ 7 
+Oral Antimalarial ................................ ....................... 8 
+Paracetamol ................................ .............................. 8 
+Vitamin A ................................ ................................ .. 8 
+Iron ................................ ................................ ........... 8 
+Mebendazole ................................ ............................ 8 
+ 
+Teach the Mother to Treat 
+Local Infections at Home 
+Treat Eye Infection withTetracycline Eye Ointment.... 9 
+Dry the Ear by Wicking ................................ .............. 9 
+Treat Mouth Ulcers with Gentian Violet ..................... 9 
+Soothe the Throat, Relieve the Cough with 
+a Safe Remedy ................................ ......................... 9 
+ 
+Give These Treatments in Clinic Only 
+Intramuscular Antibiotic ................................ ........... 10 
+Quinine for Severe Malaria ................................ ...... 10 
+Prevent Low Blood Sugar ................................ ........ 11 
+Treat Convulsing child with diazepam ..................... 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SICK YOUNG INFANT 
+AGE BIRTH UP TO 2 MONTHS 
+ 
+ASSESS, CLASSIFY AND TREAT THE SICK YOUNG INFANT 
+ 
+Assess, Classify and Identify Treatment 
+ 
+Check for Possible Bacterial Infection ................................ ............ 22 
+Then ask: Does the young infant have diarrhoea? .......................... 23 
+Then Check for Feeding Problem or Low Weight ........................... 24 
+Then Check the Young Infant’s Immunization Status ...................... 25 
+Assess Other Problems ................................ ................................ .. 25 
+ 
+Treat the Young Infant and Counsel the Mother 
+ 
+Oral Antibiotic ................................ ................................ ................. 26 
+Intramuscular Antibiotics ................................ ................................ 26 
+To Treat Diarrhoea, See TREAT THE CHILD Chart .................. 12-13 
+Immunize Every Sick Young Infant ................................ ................. 27 
+Treat Local Infections at Home ................................ ....................... 27 
+Correct Positioning and Attachment for Breastfeeding .................... 28 
+Home Care for Young Infant ................................ ........................... 28 
+ 
+Give Follow-up Care for the Sick Young Infant 
+ 
+Local Bacterial Infection ................................ ................................ . 29 
+Feeding Problem ................................ ................................ ............ 30 
+Low Weight ................................ ................................ .................... 30 
+Thrush ................................ ................................ ............................ 30 
+ 
+RECORDING FORMS 
+SICK YOUNG INFANT ................................ .................. 31 
+SICK CHILD ................................ ................................ .... 33 
+ 
+MALARI RISK ................................ ................................ ...................... 34 
+WEIGHT FOR AGE CHART ................................ ............ on back cover 
+WHO 
+MoH 
+Afghanistan 
+UNICEF
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.2 | p.2-2 | audience=pediatric] ---
+Triage of all sick children
+EMERGENCY SIGNS:
+If any sign is positive, call for help, assess and resuscitate, give 
+treatment(s), draw blood for emergency laboratory investigations 
+(glucose, malaria smear, Hb)
+TREAT
+Do not move neck if a cervical spine 
+injury is possible, but open the airway.
+ASSESS
+Check for 
+severe 
+malnutrition
+ANY SIGN 
+POSITIVE
+SIGNS 
+POSITIVE
+Airway and breathing
+■ Obstructed or 
+absent breathing
+ or
+■ Central cyanosis
+ or
+■ Severe respiratory 
+distress
+Circulation
+Cold skin with:
+■ Capillary refill 
+longer than 3 s
+ and
+■ Weak and fast 
+pulse
+If foreign body aspirated
+/L50776 Manage airway in choking 
+child (Chart 3)
+If no foreign body aspirated
+/L50776 Manage airway (Chart 4)
+/L50776 Give oxygen (Chart 5)
+/L50776 Make sure the child is warm
+/L50776 Stop any bleeding
+/L50776 Give oxygen (Chart 5)
+/L50776 Make sure the child is warm.
+If no severe malnutrition
+/L50776 Insert an IV line and begin 
+giving fl uids rapidly (Chart 7).
+If peripheral IV cannot be 
+inserted, insert an intraosseous 
+or external jugular line 
+(see pp. 340–342).
+If severe malnutrition:
+If lethargic or unconscious:
+/L50776 Give IV glucose (Chart 10).
+/L50776 Insert IV line and give fl uids 
+(Chart 8).
+If not lethargic or unconscious:
+/L50776 Give glucose orally or by 
+nasogastric tube.
+/L50776 Proceed immediately to full 
+assessment and treatment.
+EMERGENCY SIGNS:
+If any sign is positive: call for help, assess and resuscitate, give 
+treatment(s), draw blood for emergency laboratory investigations 
+(glucose, malaria smear, Hb)
+PRIORITY SIGNS
+These children need prompt assessment and treatment
+ASSESS TREAT
+Do not move neck if you suspect cervical 
+spine injury, but open the airway.
+Coma/
+convulsing 
+■ Coma 
+ or
+■ Convulsing 
+(now) 
+ 
+/L50776 Manage the airway (Chart 4)
+/L50776 If convulsing, give diazepam rectally 
+(Chart 9)
+/L50776 Position the unconscious child (if 
+head or neck trauma is suspected, 
+stabilize the neck fi rst) (Chart 6).
+/L50776 Give IV glucose (Chart 10).
+/L50776 Make sure the child is warm.
+If no severe malnutrition:
+/L50776 Insert an IV line and begin giving 
+fl uids rapidly following Chart 11 and 
+diarrhoea treatment plan C in hospital 
+(Chart 13, p. 131).
+If severe malnutrition:
+/L50776 Do not insert an IV line.
+/L50776 Proceed immediately to full 
+assessment and treatment (see 
+section 1.4, p. 19).
+IF COMA OR 
+CONVULSION
+DIARRHOEA
+PLUS
+two signs 
+positive
+Check for 
+severe 
+malnutrition
+Severe 
+dehydration
+(only in a child 
+with diarrhoea) 
+Diarrhoea plus 
+any two of these 
+signs:
+■ Lethargy
+■ Sunken eyes
+■ Very slow skin pinch 
+■ Unable to drink or drinks 
+poorly
+■ Tiny infant (< 2 months)
+■ Temperature very high 
+■ Trauma or other urgent surgical 
+condition
+■ Pallor (severe) 
+■ Poisoning (history of) 
+■ Pain (severe) 
+■ Respiratory distress 
+■ Restless, continuously irritable, or lethargic
+■ Referral (urgent)
+■ Malnutrition: visible severe wasting
+■ Oedema of both feet or face
+■ Burns (major)
+Note: If a child has trauma or other surgical problems, 
+get surgical help or follow surgical guidelines.
+NON-URGENT
+Proceed with assessment and further treatment according to the child’s priority.
+ANTIMICROBIAL DRUGS FOR COMMON CONDITIONS
+Please fi ll the blanks with your country’s most recent updated treatment guidelines.
+Page numbers refer to where generic guidance is found in the Pocket Book.
+Condition Drug Dose
+Dysentery (p. 144) 
+HIV treatment (p. 233) 
+ drug 2
+ drug 3
+Malaria, non severe (p. 164–5) 
+ drug 2 
+Malaria, severe (p. 158) 
+Mastoiditis (p. 182) 
+ drug 2
+Meningitis (p. 169) 
+ drug 2
+Osteomyelitis (p. 187) 
+ drug 2
+Otitis media, acute (p. 183) 
+Pneumonia, non-severe (p. 86) 
+Pneumonia, severe (p. 82) 
+ drug 2 
+Sepsis, neonatal (p. 55) 
+ drug 2 
+Sepsis, older child (p. 180) 
+ drug 2 
+Severe acute malnutrition,
+ uncomplicated (p. 207) 
+ complicated (p. 207) 
+ drug 2 
+ drug 3
+Tuberculosis (p.116-7) 
+ drug 2 
+ drug 3 
+ drug 4
+Typhoid fever (p. 181)
+ drug 2
+Urinary tract infection (p. 185)
+ drug 2
+DAILY MONITORING CHART
+Date: Hospital Record number:
+1. Child’s name: Mother’s name:
+Age: Weight on admission:
+2. Diagnoses: Main problems:
+1)
+2)
+3)
+4)
+3. Vital signs DAY 1 DAY 2 DAY 3 DAY 4
+• Consciousness level (AVPU)
+• Temperature
+• Respiratory rate
+• Pulse rate
+4. Fluid balance (record volumes and times)
+IV
+By nasogastric tube
+Oral
+Fluid output
+5. Treatments given (sign on chart when given)
+N a m e o f t r e a t m e n t : D o s e :
+1)
+2)
+3)
+4)
+6. Feeding/Nutrition
+Child breastfed
+Drink taken
+Food taken
+Feeding problems (give details)
+Weight
+7. Outcome (circle one of the following): Discharged well / Absconded / Transferred / Died
+
+--- [WHO IMCI Chart Booklet | p.3 | p.3-3 | audience=pediatric] ---
+3 
+ASSESS AND CLASSIFY 
+Does the child have diarrhoea? If yes... 
+ 
+ 
+ 
+ 
+SEVERE 
+DEHYDRATION 
+ 
+ 
+SOME 
+DEHYDRATION 
+ 
+► Give fluid for severe dehydration (Plan C). OR 
+ If child also has another severe illness: 
+ - Refer URGENTLY to hospital & tell mother to give frequent 
+sips of ORS & breastmilk on the way. 
+►If cholera exists in your area & child is 2 years or older give 
+antibiotic for cholera. 
+►Give Zinc after rehydration 
+►Give fluid and food for some dehydration (Plan B). 
+►If child also has a severe classification: 
+ - Refer URGENTLY to hospital & tell mother to give 
+frequent sips of ORS & breastmil on the way. 
+►Follow-up in 2 days if not improving 
+►Give Zinc 
+►Advise mother when to return immediately. 
+►Give fluid and food to treat diarrhoea at home (Plan A). 
+►Advise mother when to return immediately. 
+►Give Zinc 
+ 
+NO 
+DEHYDRATION 
+ 
+PERSISTENT 
+DIARRHOEA 
+ 
+►Advise the mother on feeding a child who has PERSISTENT 
+DIARRHOEA. 
+►Give Zinc, folic acid & Vitamin A 
+►If SOME DEHYDRATION hydrate, encourage feeding and refer 
+for assessment 
+►If no dehydration, follow-up in 5 days if not improving 
+ 
+ 
+DYSENTERY 
+ 
+►Treat for 5 days with Ciprofloxacin /cotrimoxazole 
+►Give Zinc 
+►Treat SOME DEHYDRATION if present 
+►Advise mother when to return immediately. 
+►Follow-up in 2 days if not improving 
+ 
+Two of the following signs: 
+- Lethargic or unconscious 
+- Sunken eyes 
+- Child unable to drink or drinks poorly 
+- Skin pinch goes back very slowly 
+Not enough signs to classify as some or 
+severe dehydration 
+ 
+Diarrhea for more than 14 days 
+Blood in stool 
+LOOK 
+ 
+If child has sunken eyes? 
+ 
+If child lethargic or unconscious 
+ 
+If skin pinch is slow or very 
+slow? 
+ 
+if child drinks poorly or eagerly/
+thirsty 
+ 
+ 
+Ask/look If child is irritable or 
+restless 
+ 
+ 
+ 
+ASK if diarrhea more than 14 
+days? 
+ 
+ 
+ 
+ASK if blood in the stool? 
+ 
+Two of the following signs: 
+- Restless, irritable 
+- Sunken eyes 
+- Child drinks eagerly, thirsty 
+- Skin pinch goes back slowly 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+No
+
+--- [WHO IMCI Chart Booklet | p.7 | p.7-7 | audience=pediatric] ---
+TREAT THE CHILD 
+CARRY OUT THE TREATMENT STEPS IDENTIFIED ON 
+THE ASSESS AND CLASSIFY CHART 
+►Give an Appropriate Oral Antibiotic 
+ 
+► FOR PNEUMONIA, ACUTE EAR INFECTION: 
+ 
+ FIRST-LINE ANTIBIOTIC: COTRIMOXAZOLE 
+ SECOND-LINE ANTIBIOTIC: AMOXACILLIN 
+ 
+►FOR DYSENTERY: 
+ Give antibiotic recommended for Shigella for 5 days. 
+ FIRST-LINE ANTIBIOTIC FOR SHIGELLA: CIPROFLOXACIN OR COTRIMOXAZOLE 
+ SECOND-LINE ANTIBIOTIC FOR SHIGELLA: METRONIDAZOLE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+►FOR CHOLERA: 
+ Give antibiotic recommended for Cholera for 3 days. Follow national recommendation if antibiogram available 
+ 
+ COTRIMOXAZOLE 
+(trimethoprim + sulphamethoxazole) 
+ط Give two times daily for 5 days 
+AMOXYCILLIN 
+ ط Give three times daily for 
+5 days 
+Erythromycin 
+Give four times daily for 5 days 
+ 
+ 
+AGE or WEIGHT 
+ADULT TABLET 
+80 mg trimethoprim 
++ 400 mg sulphamethoxazole 
+TABLET 
+ 
+250 mg 
+TABLET 
+250 mg 
+2 months up to 4 months (4 - <6 kg) 1/2 1/2 1/4 
+4 months up to 12 months (6 - <10 kg) 1 1 1/2 
+12 months up to 5 years (10 - 19 kg) 1 1 1 
+ CIPROFLOXACIN 
+ Give two times daily for 5 
+days 
+COTRIMOXAZOLE 
+(trimethoprim + 
+sulphamethoxazole) 
+ط Give two times daily for 5 days 
+METRONIDAZOLE 
+ط Give three times daily for 5 days 
+AGE or WEIGHT TABLET (250 mg) TABLET (200mg) 
+2 months up to <6 months 
+(4 - <6 kg) 
+1/4 
+1/4 See above 
+6 months up to <12 months 
+(6kg—<10kg) 
+1/2 
+ 
+12 months up to <3 years 
+ (10 - <14 kg) 
+1 
+1/2 
+3 years to 5 years 
+(14-19 kg) 
+1 
+1 
+ COTRIMOXAZOLE 
+(trimethoprim + sulphamethoxazole) 
+طGive two times daily for 3 days 
+ERYTHROMYCIN 
+ط Give four times daily for 3 days 
+AGE or WEIGHT TABLET 
+250 mg 
+2 months up to 4 months (4 - <6 kg) 
+See doses above 1/4 
+4 months up to 12 months (6 - <10 kg) 
+ 1/2 
+12 months up to 5 years (10 - 19 kg) 
+ 1 
+ 
+ TEACH THE MOTHER TO 
+GIVE ORAL DRUGS AT HOME 
+ 
+ Follow the instructions below for every oral drug to be given at home. 
+ Also follow the instructions listed with each drug’s dosage table. 
+ 
+ 
+► Determine the appropriate drugs and dosage for the child’s age or 
+weight. 
+ 
+► Tell the mother the reason for giving the drug to the child. 
+ 
+► Explain carefully how to give the drug 
+ 
+► Check the mother’s understanding before she leaves the clinic. 
+ 
+► Explain that all the oral drug tablets or syrups must be used to finish 
+the course of treatment, even if the child gets better. 
+ 
+The health worker dispensing medication should: 
+ 
+► Demonstrate how to measure a dose 
+ 
+► Watch the mother practise measuring a dose by herself 
+ 
+► Ask the mother to give the first dose to her child 
+ 
+► Label and package the drug 
+ 
+► If more than one drug is given, collect, count and package each drug 
+separately 
+ 
+ 
+7 
+ANTIBIOTICS 
+TREAT 
+ 
+ 
+►FOR STREP THROAT: 
+ 
+AMOXICILLIN 
+ERYTHROMYCIN
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.8 | p.8-8 | audience=pediatric] ---
+vi
+ 4.3.2 Lung abscess 89
+ 4.3.3 Pneumothorax 90
+4.4 Cough or cold 90
+4.5 Conditions presenting with wheeze 91
+ 4.5.1 Bronchiolitis 94
+ 4.5.2 Asthma 96
+ 4.5.3 Wheeze with cough or cold 101
+4.6 Conditions presenting with stridor 102
+ 4.6.1 Viral croup 102
+ 4.6.2 Diphtheria 105
+ 4.6.3 Epiglottitis 107
+ 4.6.4 Anaphylaxis 108
+4.7 Conditions presenting with chronic cough 109
+ 4.7.1 Pertussis 111
+ 4.7.2 Tuberculosis 115
+ 4.7.3 Foreign body inhalation 119
+4.8 Heart failure 120
+4.9 Rheumatic heart disease 122
+5. DIARRHOEA 125
+5.1 Child presenting with diarrhoea 126
+5.2 Acute diarrhoea 127
+ 5.2.1 Severe dehydration 129
+ 5.2.2 Some dehydration 132
+ 5.2.3 No dehydration 134
+5.3 Persistent diarrhoea 137
+ 5.3.1 Severe persistent diarrhoea 137
+ 5.3.2 Persistent diarrhoea (non-severe) 142
+5.4 Dysentery 143
+6. FEVER 149
+6.1 Child presenting with fever 150
+ 6.1.1 Fever lasting 7 days or less 150
+ 6.1.2 Fever lasting longer than 7 days 153
+HOSPITAL CARE FOR CHILDREN
+PB2_Prelims.indd viPB2_Prelims.indd vi 5/06/13 10:00 AM5/06/13 10:00 AM
+
+--- [WHO IMCI Chart Booklet | p.12 | p.12-12 | audience=pediatric] ---
+GIVE EXTRA FLUID FOR DIARRHOEA AND CONTINUE FEEDING 
+ 
+ (See FOOD advice on COUNSEL THE MOTHER chart) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ►Plan A: Treat Diarrhoea at Home 
+ 
+Consider the following four principles: 
+ 
+1. GIVE EXTRA FLUID UNTIL DIARRHEA STOPS 
+ 
+► TELL THE MOTHER: 
+- Breastfeed as much & as often as the child will take 
+- If child exclusively breastfeeds or is less than 6 months old, give ORS or clean water 
+after breastmilk as much as child will take 
+- If the child is not exclusively breastfed, give ORS solution, soup, rice water, yoghurt 
+drinks, or clean water. 
+ - Give frequent small sips from a cup. 
+ - If the child vomits, wait 10 minutes. Then continue, but more slowly. 
+ - Continue giving extra fluid until the diarrhoea stops. 
+ - Offer the child a drink after each loose stool 
+ 
+ 
+►TEACH THE MOTHER HOW TO MIX AND GIVE ORS & GIVE HER 2 PACKETS OF ORS 
+TO USE AT HOME. Tell her to give as much as the child will take after breastfeeding 
+ 
+2. CONTINUE FEEDING 
+ 
+ 3. GIVE ZINC 
+ 
+4. WHEN TO RETURN 
+ 
+12 
+ ►Plan B: Treat Some Dehydration with ORS 
+ 
+Hydrate child with ORS while in clinic over 4-hour period 
+ 
+- AMOUNT OF ORS TO GIVE DURING FIRST 4 HOURS. 
+* Use the child’s age only when you do not know the weight. The approximate amount of ORS required (in ml) can 
+also be calculated by multiplying the child’s weight (in kg) times 75. 
+ 
+- If the child wants more ORS than shown, give more. 
+- For infants under 6 months who are not breastfed, also give 100-200 ml clean water during this 
+period. 
+ 
+► SHOW THE MOTHER HOW TO GIVE ORS SOLUTION. 
+- Give frequent small sips from a cup. 
+- If the child vomits, wait 10 minutes. Then continue, but more slowly. 
+- Continue breastfeeding whenever the child wants. 
+ 
+► AFTER 4 HOURS: 
+- Reassess the child and classify the child for dehydration. 
+- Select Plan A, B or C according to the new classification. 
+- Begin feeding the child in clinic. 
+ 
+► IF THE MOTHER MUST LEAVE BEFORE COMPLETING TREATMENT: 
+- Show her how to prepare ORS solution at home. 
+- Show her how much ORS to give to finish 4-hour treatment at home. 
+- Give her enough ORS packets to complete rehydration. Also give her 2 packets 
+as recommended in Plan A and explain Plan A. 
+ 
+ 1. GIVE EXTRA FLUID 
+ 2. CONTINUE FEEDING 
+ 3. GIVE ZINC 
+ 4. WHEN TO RETURN 
+AGE* Up to 4 months 4 months up to 
+12 months 
+12 months up to 
+2 years 
+2 years up to 
+5 years 
+WEIGHT < 6 kg 6 - < 10 kg 10 - < 12 kg 12 - 19 kg 
+In ml 200 - 400 400 - 700 700 - 900 900 - 1400 
+See Plan A for recommended fluids 
+and 
+See COUNSEL THE MOTHER chart }
+
+--- [WHO IMCI Chart Booklet | p.13 | p.13-13 | audience=pediatric] ---
+13 
+PLAN A, PLAN B 
+PLAN C 
+GIVE EXTRA FLUID FOR DIARRHOEA AND CONTINUE FEEDING 
+ 
+(See FOOD advice on COUNSEL THE MOTHER chart) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+► Plan C: Treat Severe Dehydration Quickly 
+ 
+►FOLLOW THE ARROWS. IF ANSWER IS “YES”, GO ACROSS. IF “NO”, GO DOWN. 
+ 
+· Start IV fluid immediately. If the child can drink, give ORS by mouth while the drip is set up. Give 100 ml/kg 
+Ringer’s Lactate Solution (or, if not available, normal saline), divided as follows: 
+* Repeat once if radial pulse is still very weak or not detectable. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- Reassess the child every 1- 2 hours. If hydration status is not improving, give the IV drip more rapidly. 
+- Also give ORS (about 5 ml/kg/hour) as soon as the child can drink: usually after 3-4 hours (infants) or 1-2 
+hours (children). 
+- Reassess an infant after 6 hours and a child after 3 hours. Classify dehydration. Then choose the appropriate 
+plan (A, B, or C) to continue treatment. 
+AGE First give 
+30 ml/kg in: 
+Then give 
+70 ml/kg in: 
+Infants 
+ (under 12 months) 1 hour* 5 hours 
+Children 
+(12 months up to 5 years) 30 minutes* 2 1/2 hours 
+- Refer URGENTLY to hospital for IV treatment. 
+- If the child can drink, provide the mother with ORS solution and show her how to give frequent sips during 
+the trip. 
+- Start rehydration by tube (or mouth) with ORS solution: give 20 ml/kg/hour for 6 hours (total of 120 ml/kg). 
+- Reassess the child every 1-2 hours: 
+- If there is repeated vomiting or increasing abdominal distension, give the fluid more slowly. 
+- If hydration status is not improving after 3 hours, send the child for IV therapy. 
+- After 6 hours, reassess the child. Classify dehydration. Then choose the appropriate plan (A, B, or C) to 
+continue treatment. 
+NOTE: 
+- If possible, observe the child at least 6 hours after rehydration to be sure the mother can maintain hydration 
+giving the child ORS solution by mouth. 
+YES 
+NO 
+Is IV treatment 
+available nearby 
+(within 30 minutes)? YES 
+Are you trained to 
+use a naso-gastric 
+(NG) tube for 
+rehydration? 
+Can the child drink? 
+Refer URGENTLY to 
+hospital for IV or NG 
+treatment 
+NO 
+NO 
+NO 
+YES 
+START HERE 
+Can you give 
+intravenous (IV) fluid 
+immediately?
+
+--- [WHO IMCI Chart Booklet | p.14 | p.14-14 | audience=pediatric] ---
+14
+GIVE FOLLOW-UP CARE 
+ 
+The purpose of follow-up care is to assess 
+- If the treatment given was effective 
+- Whether the child develops a new illness and requires assessment and treatment for this new problem—use the ASSESS AND CLASSIFY chart 
+- Whether the child needs referral. Use the boxes that match the child’s previous diagnoses. 
+ 
+ 
+ 
+► PNEUMONIA 
+ 
+After 2 days: 
+-Check the child for general danger signs 
+-And reassess cough or difficulty breathing by using the ASSESS & CLASSIFY Chart: 
+- Ask is the child breathing slower 
+- Is there less fever 
+- Is the child eating better 
+ 
+-Follow the treatment plans below: 
+ 
+- If chest indrawing or a general danger sign, give a dose of second-line antibiotic or intramuscular 
+ampicillin & gentamycin. Then refer URGENTLY to hospital. 
+- If breathing rate, fever and eating are the same, change to the second-line antibiotic and advise 
+the mother to return in 2 days. Refer if this child had measles within the last 3 months. 
+- If child has slower breathing, less fever, or is eating better, complete the 5 days of antibiotic. 
+► PERSISTENT DIARRHOEA 
+ 
+After 5 days: 
+ 
+Ask: 
+- Has the diarrhoea stopped? 
+- How many loose stools is the child having each day? 
+ 
+Treatment: 
+ 
+- If the diarrhoea has not stopped (child is still having 3 or more loose stools per day), do a full 
+reassessment of the child. Give any treatment needed. Then refer to hospital. 
+- If the diarrhoea has stopped (child having less than 3 loose stools per day), tell the mother to 
+follow the usual feeding recommendations for the child’s age. 
+► DYSENTERY 
+ 
+After 2 days: 
+ 
+Assess the child for diarrhoea. > See ASSESS & CLASSIFY chart. 
+Ask: 
+- Are there fewer stools? 
+- Is there less blood in the stool? 
+- Is there less fever? 
+- Is there less abdominal pain? 
+- Is the child eating better? 
+ 
+Treatment: 
+ 
+- If the child is dehydrated, treat dehydration. 
+- If number of stools, amount of blood in stools, fever, abdominal pain, or eating is the 
+same or worse: 
+Change to second-line oral antibiotic recommended for Shigella in your area. 
+Give it for 5 days. Advise the mother to return in 2 days. 
+ 
+Exception: refer to hospital if the child is 
+- is less than 12 months old, or 
+- was dehydrated on the first visit, or 
+- had measles within the last 3 months 
+ 
+- If fewer stools, less blood in the stools, less fever, less abdominal pain, and eating better, 
+continue giving the same antibiotic until finished.
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.14 | p.14-14 | audience=pediatric] ---
+xii
+ A1.5 Insertion of a chest drain 348
+ A1.6 Supra-pubic aspiration 350
+ A1.7 Measuring blood glucose 350
+Annex 2. Drug dosages and regimens 353
+Annex 3. Equipment sizes 375
+Annex 4. Intravenous fl uids 377
+ A4.1 Choice of intravenous fl uids 378
+Annex 5. Assessing nutritional status 379
+ A5.1 Calculating a child’s weight-for-age 379
+ A5.2 Calculating a child’s weight-for-length or height 386
+Annex 6. Job aids and charts 403
+INDEX 405
+CHARTS
+Chart 1. Stages in the management of a sick child admitted to 
+hospital: key elements xxii
+Chart 2. Triage of all sick children 5
+Chart 3. How to manage a choking infant or child 7
+Chart 4. How to manage the airways in a child with obstructed 
+breathing (or who has just stopped breathing) 9
+Chart 5. How to give oxygen 11
+Chart 6. How to position an unconscious child 12
+Chart 7. How to give intravenous fl uids rapidly to a child in shock 
+without severe malnutrition 13
+Chart 8. How to give intravenous fl uids to a child in shock with 
+severe malnutrition 14
+Chart 9. How to give diazepam rectally 15
+Chart 10. How to give glucose intravenously 16
+Chart 11. How to treat severe dehydration in an emergency after 
+initial management of shock 17
+Chart 12. Neonatal resuscitation 47
+Chart 13. Diarrhoea treatment plan C: Treat severe dehydration quickly 130
+Chart 14. Diarrhoea treatment plan B: Treat some dehydration with 
+oral rehydration salts 135
+Chart 15. Diarrhoea treatment plan A: Treat diarrhoea at home 138
+Chart 16. Feeding recommendations during sickness and health 302
+HOSPITAL CARE FOR CHILDREN
+PB2_Prelims.indd xiiPB2_Prelims.indd xii 5/06/13 10:00 AM5/06/13 10:00 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.15 | p.15-15 | audience=pediatric] ---
+xiii
+TABLES
+Table 1. Differential diagnosis in a child presenting with 
+an airways or severe breathing problem 21
+Table 2. Differential diagnosis in a child presenting with shock 22
+Table 3. Differential diagnosis in a child presenting with lethargy, 
+unconsciousness or convulsions 24
+Table 4. Differential diagnosis in a young infant (< 2 months) 
+presenting with lethargy, unconsciousness or convulsions 25
+Table 5. Poisoning: amount of activated charcoal per dose 28
+Table 6. Differential diagnosis in a child presenting with cough or 
+difficulty in breathing 77
+Table 7. Classification of the severity of pneumonia 81
+Table 8. Differential diagnosis in a child presenting with wheeze 93
+Table 9. Differential diagnosis in a child presenting with stridor 103
+Table 10. Differential diagnosis in a child presenting with 
+chronic cough 110
+Table 11. Differential diagnosis in a child presenting with diarrhoea 127
+Table 12. Classification of the severity of dehydration in children 
+with diarrhoea 128
+Table 13. Administration of intravenous fl uids to a severely 
+dehydrated child 130
+Table 14. First diet for persistent diarrhoea: a starch-based, 
+reduced-milk (low-lactose) diet 141
+Table 15. Second diet for persistent diarrhoea: a reduced-starch 
+(cereal) no-milk (lactose-free) diet 141 
+Table 16. Differential diagnosis of fever without localizing signs 151
+Table 17. Differential diagnosis of fever with localized signs 152
+Table 18. Differential diagnosis of fever with rash 153
+Table 19. Additional differential diagnosis of fever lasting longer 
+than 7 days 155
+Table 20 WHO criteria for the diagnosis of rheumatic fever 
+(based on the revised Jones criteria) 194
+Table 21. Time frame for the management of a child with 
+severe acute malnutrition 201
+Table 22. Volumes of F-75 per feed for malnourished children 
+(approximately 130 ml/kg per day) 211
+Table 23. WHO paediatric clinical staging system for HIV infection 231
+Table 24. Classes of antiretroviral drugs recommended for use 
+in children 234
+CO NTENTS
+PB2_Prelims.indd xiiiPB2_Prelims.indd xiii 5/06/13 10:00 AM5/06/13 10:00 AM
+
+--- [WHO IMCI Chart Booklet | p.23 | p.23-23 | audience=pediatric] ---
+ASK: Does the young infant have diarrhoea? 
+ 
+ 
+ 
+ 
+ 
+- Is the infant: 
+ Lethargic or unconscious? 
+ Restless and irritable? 
+ 
+- Look for sunken eyes 
+ 
+- Does skin pinch of abdomen return 
+ -Very slowly (longer than 2 seconds)? 
+ -Slowly? 
+ 
+- Ask for how long 
+ 
+- Ask if blood is in the stool 
+►If infant does not have POSSIBLE 
+SERIOUS BACTERIAL INFECTION: 
+- Give fluid for severe dehydration 
+(Plan C). 
+OR 
+►If infant also has POSSIBLE 
+SERIOUS BACTERIAL INFECTION: 
+- Refer URGENTLY to hospital with 
+mother giving frequent sips of 
+ORS on the way. Advise mother to 
+continue breastfeeding. 
+Two of the following signs: 
+ 
+- Lethargic or unconscious 
+- Sunken eyes 
+- Skin pinch goes back very 
+slowly. 
+ 
+ 
+ 
+ 
+ 
+ 
+SEVERE 
+DEHYDRATION 
+ 
+Two of the following signs: 
+ 
+- Restless, irritable 
+- Sunken eyes 
+- Skin pinch goes back 
+slowly. 
+ 
+ 
+ 
+ 
+ 
+ 
+SOME 
+DEHYDRATION 
+ 
+► Give fluid and food for some 
+dehydration (Plan B). 
+► If infant also has POSSIBLE 
+SERIOUS BACTERIAL INFECTION: 
+- Refer URGENTLY to hospital 
+with mother giving frequent sips 
+of ORS on the way. 
+ Advise mother to continue 
+breastfeeding. 
+- Not enough signs to 
+classify as dehydration 
+ 
+ 
+NO DEHYDRATION 
+ 
+►Give fluids to treat diarrhoea at home 
+(Plan A). 
+ 
+- Diarrhoea lasting 14 
+days or more 
+ 
+ 
+ 
+SEVERE 
+PERSISTENT 
+DIARRHOEA 
+► If the young infant is dehydrated, 
+treat dehydration before referral 
+unless the infant has also POSSIBLE 
+SERIOUS BACTERIAL INFECTION. 
+► Refer to hospital. 
+- Blood in the stool 
+ 
+ 
+ 
+BLOOD 
+IN STOOL 
+►Advise the mother to keep the 
+young infant worm on the way to 
+hospital. 
+►Refer urgently to hospital. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+* These thresholds are based on axillary temperature . The thresholds for rectal temperature readings are approximately 0.5°C higher. 
+ 
+** If referral is not possible, see Integrated Management of Childhood Illness, Treat the Child, Annex: “Where Referral Is Not Possible.” 
+23 
+ BACTERIAL INFECTION 
+DIARRHOEA 
+ASSESS AND CLASSIFY 
+ 
+Classify 
+DIARRHOEA 
+ for 
+DEHYDRATION 
+ If diarrhoea 14 
+days or more 
+ If blood in stool
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.30 | p.30-30 | audience=pediatric] ---
+6
+1. TRIAGE
+CHART 2. TRIAGE OF ALL SICK CHILDREN
+Chart 2. Triage of all sick children
+Emergency signs:
+If any sign is positive: call for help, assess and resuscitate, give 
+treatment(s), draw blood for emergency laboratory investigations 
+(glucose, malaria smear, Hb)
+PRIORITY SIGNS
+These children need prompt assessment and treatment
+ASSESS TREAT
+Do not move neck if you suspect cervical 
+s
+pine injury, but open the airway.
+Coma/
+convulsing 
+■ Coma 
+ or
+■ Convulsing 
+(n
+ow) 
+ 
+/L50776 Manage the airway (Chart 4)
+/L50776 If convulsing, give diazepam rectally 
+(C
+hart 9)
+/L50776 Position the unconscious child (if 
+h
+ead or neck trauma is suspected, 
+stabilize the neck fi rst) (Chart 6).
+/L50776 Give IV glucose (Chart 10).
+/L50776 Make sure the child is warm.
+If
+ no severe malnutrition:
+/L50776 Insert an IV line and begin giving 
+fl
+ uids rapidly following Chart 11 and 
+diarrhoea treatment plan C in hospital 
+(Chart 13, p. 131).
+If severe malnutrition:
+/L50776 Do not insert an IV line.
+/L50776 Proceed immediately to full 
+a
+ssessment and treatment (see 
+section 1.4, p. 19).
+IF COMA OR 
+CONVULSION
+DIARRHOEA
+PLUS
+two signs 
+positive
+Check for 
+severe 
+malnutrition
+Severe 
+dehydration
+(only in a child 
+with diarrhoea) 
+Diarrhoea plus 
+any two of these 
+signs:
+■ Lethargy
+■ Sunken eyes
+■ Very slow skin pinch 
+■ Unable to drink or drinks 
+poo
+rly
+■ Tiny infant (< 2 months)
+■ Temperature very high 
+■ Trauma or other urgent surgical 
+co
+ndition
+■ Pallor (severe) 
+■ Poisoning (history of) 
+■ Pain (severe) 
+■ Respiratory distress 
+■ Restless, continuously irritable, or lethargic
+■ Referral (urgent)
+■ Malnutrition: visible severe wasting
+■ Oedema of both feet or face
+■ Burns (major)
+Note: If a child has trauma or other surgical problems, 
+get surgical help or follow surgical guidelines.
+NON-URGENT
+Proceed with assessment and further treatment according to the child’s priority.
+PB2_ch1.indd 6PB2_ch1.indd 6 5/06/13 10:03 AM5/06/13 10:03 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.37 | p.37-37 | audience=pediatric] ---
+13
+1. TRIAGE
+Chart 7. How to give intravenous fl uids to a child in 
+shock without severe malnutrition
+/L50776 Check that the child is not severely malnourished, as the fl uid volume 
+a
+nd rate are different. (Shock with severe malnutrition, see Chart 8.)
+/L50776 Insert an IV line (and draw blood for emergency laboratory 
+inve
+stigations). 
+/L50776 Attach Ringer’s lactate or normal saline; make sure the infusion is 
+r
+unning well. 
+/L50776 Infuse 20 ml/kg as rapidly as possible.
+Age (weight) Volume of Ringer’s lactate or normal saline 
+solution (20 ml/kg)
+2 months (< 4 kg) 50 ml
+2–< 4 months (4–< 6 kg) 100 ml
+4–< 12 months (6–< 10 kg) 150 ml
+1–< 3 years (10–< 14 kg) 250 ml
+3–< 5 years (14–19 kg) 350 ml
+Reassess the child after the appropriate volume has run in. 
+Reassess 
+after fi rst 
+infusion:
+• If no improvement, repeat 10–20 ml/kg as rapidly as 
+possible.
+• If bleeding, give blood at 20 ml/kg over 30 min, and 
+observe closely.
+Reassess 
+after 
+second 
+infusion:
+• If no improvement with signs of dehydration (as in profuse 
+diarrhoea or cholera), repeat 20 ml/kg of Ringer’s lactate 
+or normal saline.
+• If no improvement, with suspected septic shock, repeat 
+20 ml/kg and consider adrenaline or dopamine if available 
+(see Annex 2, p. 353).
+• If no improvement, see disease-specific treatment 
+guidelines. You should have established a provisional 
+diagnosis by now.
+After improvement at any stage (pulse volume increases, heart rate slows, 
+blood pressure increases by 10% or normalizes, faster capillary refill < 2 s), 
+go to Chart 11, p. 17.
+Note: In children with suspected malaria or anaemia with shock, rapid fl uid 
+infusion must be administered cautiously, or blood transfusion should be 
+given in severe anaemia instead.
+CHART 7. HOW TO GIVE INTRAVENOUS FLUIDS RAPIDLY TO A CHILD IN SHOCK 
+PB2_ch1.indd 13PB2_ch1.indd 13 5/06/13 10:03 AM5/06/13 10:03 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.41 | p.41-41 | audience=pediatric] ---
+17
+1. TRIAGE
+Chart 11. How to treat severe dehydration in an 
+emergency after initial management of shock
+For children with severe dehydration but without shock, refer to diarrhoea 
+treatment plan C, p. 131.
+If the child is in shock, fi rst follow the instructions in Charts 7 and 8 (pp. 13 
+and 14). Switch to the chart below when the child’s pulse becomes slower 
+or capillary refill is faster.
+/L50776 Give 70 ml/kg of Ringer’s lactate (Hartmann’s) solution (or, if not 
+a
+vailable, normal saline) over 5 h to infants (aged < 12 months) and over 
+2.5 h to children (aged 12 months to 5 years).
+Total volume IV fl uid (volume per hour)
+Weight Age < 12 months 
+Give over 5 h
+Age 12 months to 5 years 
+Give over 2.5 h
+< 4 kg 200 ml (40 ml/h) –
+4–6 kg 350 ml (70 ml/h) –
+6–10 kg 550 ml (110 ml/h) 550 ml (220 ml/h)
+10–14 kg 850 ml (170 ml/h) 850 ml (340 ml/h)
+14–19 kg – 1200 ml (480 ml/h)
+Reassess the child every 1–2 h. If the hydration status is not improving, 
+give the IV drip more rapidly.
+Also give oral rehydration salt (ORS) solution (about 5 ml/kg per h) as soon 
+as the child can drink, usually after 3–4 h (in infants) or 1–2 h (in children).
+Weight Volume of ORS solution per hour
+< 4 kg 15 ml
+4–6 kg 25 ml
+6–10 kg 40 ml
+10–14 kg 60 ml
+14–19 kg 85 ml
+Reassess after 6 h for infants and after 3 h for children. Classify 
+dehydration. Then choose the appropriate plan A, B or C (pp. 138, 135, 131) 
+to continue treatment.
+If possible, observe the child for at least 6 h after rehydration to be sure 
+that the mother can maintain hydration by giving the child ORS solution by 
+mouth.
+CHART 11. HOW TO TREAT SEVERE DEHYDRATION IN AN EMERGENCY
+PB2_ch1.indd 17PB2_ch1.indd 17 5/06/13 10:03 AM5/06/13 10:03 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.43 | p.43-43 | audience=pediatric] ---
+19
+1. TRIAGE
+ ■Assess for priority signs
+W
+hile assessing the child for emergency signs, you will have noted several 
+possible priority signs:
+ Is there any respiratory distress (not severe)?
+ Is the child lethargic or continuously irritable or restless?
+This was noted when you assessed for coma. 
+Note the other priority signs (see p. 6).
+1.4 Emergency treatment for a child with 
+severe malnutrition 
+During triage, all children with severe malnutrition will be identified as having 
+priority signs, which means that they require prompt assessment and treatment. 
+A few children with severe malnutrition will be found during triage assessment 
+to have emergency signs . 
+Those with emergency signs for ‘airway and breathing’ or ‘coma or convulsions’ 
+should receive emergency treatment accordingly (see charts on pp. 5–17). 
+ • Those with signs of severe dehydration but not in shock should not be rehydrated with IV fl uids, because severe dehydration is difficult to diagnose in 
+severe malnutrition and is often misdiagnosed. Giving IV fl uids puts these 
+children at risk of over-hydration and death from heart failure. Therefore, 
+these children should be rehydrated orally with the special rehydration solution for severe malnutrition (ReSoMal). See Chapter 7 (p. 204).
+ • In severe malnutrition, individual emergency signs of shock may be present even when there is no shock. Malnourished children with many signs 
+of shock: lethargy, reduced level of consciousness, cold skin, prolonged 
+capillary refill and fast weak pulse, should receive additional fl uids for 
+shock as above. 
+ • Treatment of a malnourished child for shock differs from that for a wellnourished child, because shock from dehydration and sepsis are likely to 
+coexist, and these are difficult to differentiate on clinical grounds alone, and 
+because children with severe malnutrition may not cope with large amounts 
+of water and salt. The amount of fl uid given should be guided by the child’s 
+response. Avoid over-hydration. Monitor the pulse and breathing at the start 
+and every 5–10 min to check whether they are improving. Note that the type 
+of IV fl uid differs for severe malnutrition, and the infusion rate is slower.
+All severely malnourished children require prompt assessment and treatment 
+to deal with ser ious pr oblems such as hy poglycaemia, hy pother mia, sever e 
+EMERGENCY TREATMENT FOR A CHILD WITH SEVERE MALNUTRITION
+PB2_ch1.indd 19PB2_ch1.indd 19 5/06/13 10:03 AM5/06/13 10:03 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.46 | p.46-46 | audience=pediatric] ---
+22
+1. TRIAGE
+ • Known dengue outbreak
+ • Known meningitis outbreak
+ •F e v e r
+ • Able to feed
+Examination
+ •C o n s c i o u s n e s s l e v e l
+ • Any bleeding sites
+ • Cold or warm extremities
+ • Neck veins (elevated jugular venous pressure)
+ • Pulse volume and rate
+ • Blood pressure
+ • Liver size increased
+ •P e t a e c h i a e
+ •P u r p u r a
+CHILD PRESENTING WITH SHOCK
+Table 2. Differential diagnosis in a child presenting with shock
+Children with shock are lethargic, have fast breathing, cold skin, prolonged 
+capillary refill, fast weak pulse and may have low blood pressure as a late sign. 
+To help make a specific diagnosis of the cause of shock, look for the signs below.
+Diagnosis or underlying cause In favour
+Bleeding shock –H i s t o r y o f t r a u m a
+ –B l e e d i n g s i t e
+Dengue shock syndrome – Known dengue outbreak or season
+ – History of high fever
+ –P u r p u r a
+Cardiac shock – History of heart disease or heart murmur
+ – Enlarged neck veins and liver
+ – Crepitations in both lung fi elds
+Septic shock – History of febrile illness
+ – Very ill child
+ – Skin may be warm but blood pressure low, 
+or skin may be cold
+ – Purpura may be present or history of 
+meningococcal outbreak
+Shock associated with severe 
+dehydration
+ – History of profuse diarrhoea
+ – Known cholera outbreak
+PB2_ch1.indd 22PB2_ch1.indd 22 5/06/13 10:04 AM5/06/13 10:04 AM
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 1.1.3 Dehydration | p.74-74 | audience=general] ---
+A condition brought about by the loss of significant quantities of fluids
+and salts from the body.
+Causes
+~ Vomiting and/or diarrhoea
+~ Decreased fluid intake
+~ Excessive loss of fluids, e.g. due to polyuria in diabetes,
+excessive sweating as in high fever, burns
+Clinical features
+~ Apathy, sunken eyes/fontanel, loss of skin turgor (especially
+in children)
+~ Hypotension, tachycardia, deep (acidotic) breathing, dry mucosae, poor or no urine output.
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 1.1.3.1 Dehydration in Children under 5 years | p.74-78 | audience=pediatric] ---
+Assess degree of dehydration following the table below:
+Clinical features of dehydration in children
+Signs
+Degree of Dehydration
+None Some Severe
+General
+condition
+Well, alert Restless, irritable Lethargic, drowsy or
+unconscious
+Eyes Not sunken Sunken Sunken
+Fontanel Not sunken Sunken Sunken
+Ability to
+drink
+Drinks
+normally
+Drinks eagerly,
+thirsty
+Drinks poorly or not
+able to drink
+Skin pinch Goes back
+immediately
+Goes back slowly;
+<2 seconds
+Goes back very slowly;
+>2 seconds
+Treatment Plan A Plan B Plan C
+8
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+Management
+Plan A (No dehydration and for prevention)
+TREATMENT LOC
+- Counsel the mother on the 4 rules of home treatment:
+extra fluids (ORS), continue feeding, zinc supplementation, when to return
+- Give extra fluids: as much as the child will take
+- If child exclusively breastfed, give ORS or safe
+clean water in addition to breast milk
+- If child not exclusively breastfed, give one or more
+of: ORS, soup, rice-water, yoghurt, clean water
+- In addition to the usual fluid intake, give ORS after
+each loose stool or episode of vomiting Child <2
+years: 50-100 ml
+Child 2-5 years: 100-200 ml
+- Give the mother 2 packets to use at home
+- Giving ORS is especially important if the child
+has been treated with Plan B or Plan C during
+current visit
+- Give frequent small sips from a cup
+- Advice the mother to continue or increase breastfeeding.
+If child vomits, wait 10 minutes, then give more slowly
+- In a child with high fever or respiratory distress,
+give plenty of fluids to counter the increased fluid
+losses in these conditions
+- Continue giving extra fluid as well as ORS until
+- the diarrhoea or other cause of dehydration stops
+- If diarrhoea, give Zinc supplementation Child <6 months:
+10 mg once a day for 10 days Child >6 months: 20 mg
+once a day for 10 days
+HC2
+9
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+Plan B (Some dehydration)
+TREATMENT LOC
+- Give ORS in the following approximate amounts during
+the first 4 hours
+Age (Months) <4 4–12 13–24 25–60
+Weight (Kg) <6 6–9.9 10–11.9 12–19
+Ors (Ml) 200–400 400–700 700–900 900–1400
+- Only use child’s age if weight is not known
+- You can also calculate the approximate amount
+of ORS to give a child in the first 4 hours as
+weight (kg) x 75 ml
+- Show the mother how to give the ORS
+- Give frequent small sips from a cup
+- If the child wants more than is shown in the table,
+give more as required
+- If the child vomits, wait 10 minutes, then continue
+- more slowly
+- For infants <6 months who are not breastfed, also give
+100-200 ml of clean water during the first 4 hours
+- Reassess patient frequently (every 30-60 minutes) for
+classification of dehydration and selection of Treatment Plan
+After 4 hours
+- Reassess the patient
+- Reclassify the degree of dehydration
+- Select the appropriate Treatment Plan A, B or C
+- Begin feeding the child in the clinic
+HC2
+10
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+TREATMENT LOC
+If mother must leave before completing the child’s treatment
+- Show her how to prepare ORS at home and how much
+ORS to give to finish the 4-hour treatment
+- Give her enough packets to complete this and 2
+more to complete Plan A at home
+- Counsel mother on the 4 rules of home treatment: extra
+fluids, continue feeding, zinc, when to return
+Plan C (Severe dehydration)
+TREATMENT LOC
+If you are unable to give IV fluids and this therapy is not
+available nearby (within 30 minutes) but a nasogastric
+tube (NGT) is available or the child can drink
+- Start rehydration with ORS by NGT or by mouth: Give
+20 ml/kg/hour for 6 hours (total = 120 ml/ kg)
+- Reassess the child every 1-2 hours
+- If there is repeated vomiting or increasing
+abdominal distension, give more slowly
+- If hydration status is not improving within 3hours,
+refer the child urgently for IV therapy
+- After 6 hours, reassess the child
+- Classify the degree of dehydration
+- Select appropriate Plan A, B, or C to continue treatment
+HC2
+11
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+TREATMENT LOC
+If you are unable to give IV fluids but IV treatment is
+available nearby (i.e. within 30 minutes)
+- Refer urgently for IV treatment
+If the child can drink:
+- Provide mother with ORS and show her how to give
+frequent sips during the trip to the referral facility
+HC2
+If you are able to give IV fluids
+- Set up an IV line immediately
+- If child can drink, give ORS while the drip is set
+up
+- Give 100 ml/kg of Ringer’s Lactate
+- Or half-strength Darrow’s solution in glucose
+2.5% or sodium chloride 0.9%
+- Divide the IV fluid as follows:
+- Reassess patient frequently (every 30-60 minutes) to
+re-classify dehydration and treatment plan
+If the patient is not improving
+- Give the IV fluids more rapidly
+HC3
+As soon as patient can drink, usually after 3-4 hours in
+infants or 1-2 hours in children
+- Also give ORS 5 ml/kg/hour
+- Continue to reassess patient frequently; classify degree
+of dehydration; and select appropriate Plan A, B, or C
+to continue treatment.
+Note
+If possible, observe child for at least 6 hours after rehydration to ensure
+that the mother can correctly use ORS to maintain hydration.
+12
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 1.1.3.2 Dehydration in Older Children and Adults | p.79-81 | audience=pediatric] ---
+Assess degree of dehydration following the table below.
+CLINICAL FEATURE DEGREE OF DEHYDRATION
+MILD MODERATE SEVERE
+General appearance Thirsty, alert Thirsty, alert Generally conscious, anxious,
+clammy, cold
+extremities, cyanosis, wrinkly skin
+of fingers, muscle
+cramps, dizzy if
+standing
+Pulse Normal Rapid Rapid, thready,
+sometimes absent
+Respiration Normal Deep, may
+be rapid
+Deep and rapid
+Systolic BP Normal Normal Low, may be
+immeasurable
+Skin pinch Rturns
+rapidly
+Rturns
+slowly
+Returns very slowly (>2 seconds)
+Eyes Normal Sunken Very sunken
+Tears Present Absent Absent
+Mucous
+membranes
+Moist Dry Very dry
+Urine output Normal Reduced,
+dark urine
+Anuria, empty
+bladder
+Note
+At least 2 of these signs must be present
+13
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+Management
+TREATMENT LOC
+Mild dehydration
+- Give oral ORS 25 ml/kg in the first 4 hours
+- Increase or maintain until clinical improvement
+Moderate dehydration
+- Give oral ORS 50 mg/kg in the first 4 hours
+Severe dehydration
+- Ringer’s lactate (or Normal Saline 0.9%) IV, 50 ml/kg
+in the first 4 hours
+- Give IV fluids rapidly until radial pulse can be felt,
+- then adjust rate
+- Re-evaluate vitals after 4 hours
+Volumes that are given over the first 24 hours in adults are
+shown in the table below
+HC2
+HC3
+Time period Volume of iv fluid
+First hour 1 L
+Next 3 hours 2 L
+Next 20 hours 3 L
+- After 4 hours, evaluate rehydration in terms of clinical signs (NOT
+in terms of volumes of fluid given)
+- As soon as signs of dehydration have disappeared (but not before),
+start fluid maintenance therapy, alternating ORS and water (to avoid
+hypernatraemia) as much as the patient wants
+Continue for as long as the cause of the original dehydration persists.
+14
+Uganda Clinical Guidelines 2023CHAPTER 1: Emergencies and Trauma
+Notes
+- Volumes shown are guidelines only. If necessary, volumes can
+be increased or initial high rate of administration maintained
+until clinical improvement occurs
+- In addition to ORS, other fluids such as soup, fruit juice and safe
+clean water may be given
+- Initially, adults can take up to 750 ml ORS/hour.
+- If sodium lactate compound IV infusion (Ringer’s Lactate) is
+not available, use half-strength Darrow’s solution in glucose
+2.5% or sodium chloride infusion 0.9%. However, both of
+these are less effective
+- Continued nutrition is important, and food should be
+continued during treatment for dehydration.
+Caution
+- Avoid artificially sweetened juices.
+Prevention (for all age groups)
+~ Encourage prompt use of ORS at home if the personis
+vomiting and/or having diarrhoea.
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.149 | p.149-149 | audience=pediatric] ---
+125
+5. DIARRHOEA
+CHAPTER 5
+Diarrhoea
+This chapter gives treatment guidelines on the management of acute diarrhoea 
+(with severe, some or no dehydration), persistent diarrhoea and dysentery in 
+children aged 1 week to 5 years. Assessment of severely malnourished children 
+is described in sections 7.2 and 7.4.3 (pp. 198 and 203). The three essential elements in the management of all children with diarrhoea are rehydration therapy, 
+zinc supplementation and counselling for continued feeding and prevention .
+In diarrhoea, there is excess loss of water, electrolytes (sodium, potassium, and 
+bicarbonate) and zinc in liquid stools. Dehydration occurs when these losses 
+are not adequately replaced and there are deficits of water and electrolytes. 
+The degree of dehydration is graded according to symptoms and signs that 
+reflect the amount of fl uid lost; see sections 2.3 (p. 43) and 5.2 (p. 127). The 
+rehydration regimen is selected according to the degree of dehydration. All 
+children with diarrhoea should receive zinc supplements.
+During diarrhoea, decreased food intake and nutrient absorption and increased 
+nutrient requirements often combine to cause weight loss and failure to grow. 
+Malnutrition can make diarrhoea more severe, more prolonged and more 
+frequent than in well-nourished children. This vicious circle can be broken by 
+giving nutrient-rich foods during and continuing after the diarrhoea episode, 
+when the child is well.
+5.1 Child presenting with diarrhoea 126
+5.2 Acute diarrhoea 127
+ 5.2.1 Severe dehydration 129
+ 5.2.2 Some dehydration 132
+ 5.2.3 No dehydration 134
+5.3 Persistent diarrhoea 137
+ 5.3.1 Severe persistent diarrhoea 137
+ 5.3.2 Persistent diarrhoea (non-severe) 142
+5.4 Dysentery 143
+PB2_ch5.indd 125PB2_ch5.indd 125 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.150 | p.150-150 | audience=pediatric] ---
+126
+5. DIARRHOEA
+Antibiotics should not be used except for children with bloody diarrhoea 
+(probable shigellosis), suspected cholera with severe dehydration and other 
+serious non-intestinal infections such as pneumonia and urinary tract infection. 
+Antiprotozoal drugs are rarely indicated. ‘Antidiarrhoeal’ drugs and anti-emetics 
+should not be given to young children with acute or persistent diarrhoea or 
+dysentery: they do not prevent dehydration or improve nutritional status, and 
+some have dangerous, sometimes fatal, side-effects.
+5.1 Child presenting with diarrhoea 
+History
+A careful feeding history is essential in the management of a child with diarrhoea. Inquiries should also be made about:
+ ■frequency of stools
+ ■number of days of diarrhoea
+ ■blood in stools
+ ■report of a cholera outbreak in the area
+ ■recent antibiotic or other drug treatment
+ ■attacks of crying with pallor in an infant.
+Examination
+Look for:
+ ■signs of some dehydration or severe dehydration: 
+ –
+restlessness or irritability
+ – lethargy or reduced level of consciousness
+ –s u n k e n e y e s
+ – skin pinch returns slowly or very slowly
+ – thirsty or drinks eagerly, or drinking poorly or not able to drink
+ ■blood in stools
+ ■signs of severe malnutrition
+ ■abdominal mass
+ ■abdominal distension.
+T
+here is no need for routine stool microscopy or culture in children with nonbloody diarrhoea.
+CHILD PRESENTING WITH DIARRHOEA
+PB2_ch5.indd 126PB2_ch5.indd 126 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.151 | p.151-151 | audience=pediatric] ---
+127
+5. DIARRHOEA
+Table 11. Differential diagnosis in a child presenting with diarrhoea
+Diagnosis In favour
+Acute (watery) diarrhoea – More than three loose stools per day
+ – No blood in stools
+Cholera – Profuse watery diarrhoea with severe 
+dehydration during cholera outbreak
+ – Positive stool culture for Vibrio cholerae 
+O1 or O139
+Dysentery – Blood mixed with the stools (seen or 
+reported)
+Persistent diarrhoea – Diarrhoea lasting ≥ 14 days
+Diarrhoea with severe 
+malnutrition
+ – Any diarrhoea with signs of severe acute 
+malnutrition (see section 7.4 (p. 200)
+Diarrhoea associated with 
+recent antibiotic use
+ – Recent course of broad-spectrum oral 
+antibiotics
+Intussusception – Blood and mucus in stools
+ – Abdominal mass 
+ – Attacks of crying with pallor in infant or 
+young child
+5.2 Acute diarrhoea 
+Assessing dehydration
+For all children with diarrhoea, their 
+hydration status should be classified 
+as severe dehydration, some dehydration or no dehydration (Table 
+12) and appropriate treatment given. 
+In a child with diarrhoea, assess the 
+general condition, look for sunken 
+eyes, make a skin pinch, and offer the 
+child fl uid to see if he or she is thirsty 
+or drinking poorly. 
+ACUTE DIARRHOEA
+Sunken eyes
+PB2_ch5.indd 127PB2_ch5.indd 127 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.152 | p.152-152 | audience=pediatric] ---
+128
+5. DIARRHOEA
+Pinching the child’s 
+abdomen to test for 
+decreased skin turgor
+Table 12. Classification of the severity of dehydration in children with diarrhoea
+Classification Signs or symptoms Treatment
+Severe 
+dehydration
+Two or more of the 
+following signs:
+■ lethargy or 
+u
+nconsciousness
+■ sunken eyes
+■ unable to drink or 
+dr
+inks poorly
+■ skin pinch goes back 
+v
+ery slowly ( ≥ 2 s)
+/L50776 Give fl uids for severe 
+d
+ehydration (see diarrhoea 
+treatment plan C in hospital, 
+p. 131)
+Some 
+dehydration
+Two or more of the 
+following signs:
+■ restlessness, 
+ir
+ritability
+■ sunken eyes
+■ drinks eagerly, thirsty
+■ skin pinch goes back 
+slow
+ly
+/L50776 Give fl uid and food for some 
+d
+ehydration (see diarrhoea 
+treatment plan B, p. 135)
+/L50776 After rehydration, advise mother 
+o
+n home treatment and when 
+to return immediately (see 
+pp. 133–4)
+/L50776 Follow up in 5 days if not 
+impr
+oving.
+No 
+dehydration
+Not enough signs to 
+classify as some or 
+severe dehydration
+/L50776 Give fl uid and food to treat 
+d
+iarrhoea at home (see 
+diarrhoea treatment plan A, 
+p. 138)
+/L50776 Advise mother on when to 
+r
+eturn immediately (see p. 133) 
+/L50776 Follow up in 5 days if not 
+impr
+oving.
+ACUTE DIARRHOEA
+PB2_ch5.indd 128PB2_ch5.indd 128 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.153 | p.153-153 | audience=pediatric] ---
+129
+5. DIARRHOEA
+5.2.1 Severe dehydration
+Children with severe dehydration require rapid IV rehydration with close monitoring, followed by oral rehydration and zinc once the child starts to improve 
+sufficiently. In areas where there is a cholera outbreak, give an antibiotic 
+effective against cholera (p. 130).
+Diagnosis
+Severe dehydration should be diagnosed if any two signs or symptoms of severe 
+dehydration are present in a child with diarrhoea (see Table 12).
+Treatment
+Children with severe dehydration should be given rapid IV rehydration followed 
+by oral rehydration therapy.
+ /L50776Start IV fl uids immediately. While the drip is being set up, give ORS solution 
+i
+f the child can drink.
+Note: The best IV fl uid solutions for rehydration are isotonic solutions: Ringer’s 
+lactate solution (called Hartmann’s solution for Injection) and normal saline 
+solution (0.9% NaCl). Do not use 5% glucose (dextrose) solution or 0.18% saline 
+with 5% dextrose solution, as they increase the risk for hyponatraemia, which 
+can cause cerebral oedema. 
+ /L50776Give 100 ml/kg of the chosen solution, divided as shown in Table 13.
+Slow return of skin pinch 
+in severe dehydration
+SEVERE DEHYDRATION
+PB2_ch5.indd 129PB2_ch5.indd 129 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.154 | p.154-154 | audience=pediatric] ---
+130
+5. DIARRHOEA
+Table 13. Administration of intravenous fl uids to a severely dehydrated child
+Age (months) First, give 30 ml/kg in: Then, give 70 ml/kg in:
+< 12 1 ha 5 h
+≥ 12 30 mina 2.5 h
+a Repeat if the radial pulse is still very weak or not detectable.
+For more information, see treatment plan C in hospital, p. 131, which includes 
+guidelines for giving ORS solution by nasogastric tube or by mouth when IV 
+therapy is not possible. 
+Cholera
+ ■Suspect cholera in children > 2 years old who have acute watery diarrhoea 
+a
+nd signs of severe dehydration or shock, if cholera is present in the area. 
+ /L50776Assess and treat dehydration as for other acute diarrhoea.
+ /L50776Give an oral antibiotic to which strains of V. cholerae in the area are known 
+to be sensitive. Possible choices are: erythromycin, ciprofloxacin and cotrimoxazole (for dosages, see Annex 2, p. 353).
+ /L50776Prescribe zinc supplementation as soon as vomiting stops (pp. 133–4).
+Monitoring
+Reassess the child every 15–30 min until a strong radial pulse is present. Thereafter, 
+reassess the child by checking skin pinch, level of consciousness and ability to drink 
+at least every hour, in order to confirm that hydration is improving. Sunken eyes 
+recover more slowly than other signs and are less useful for monitoring.
+When the full amount of IV fl uid has been given, reassess the child’s hydration status 
+fully, using Chart 7 (p. 13).
+ • If signs of severe dehydration are still present , repeat the IV fl uid infusion 
+outlined earlier. Persistent severe dehydration after IV rehydration is unusual; 
+it usually occurs only in children who pass large watery stools frequently 
+during the rehydration period.
+ • If the child is improving but still shows signs of some dehydration, discontinue 
+IV treatment and give ORS solution for 4 h (see section 5.2.2 and treatment 
+plan B, p. 135). If the child is usually breastfed, encourage the mother to 
+continue breastfeeding frequently.
+ • If there are no signs of dehydration , follow the guidelines in section 5.1.3 
+and treatment plan A, p. 138. When appropriate, encourage the mother to 
+continue breastfeeding frequently. Observe the child for at least 6 h before 
+SEVERE DEHYDRATION
+PB2_ch5.indd 130PB2_ch5.indd 130 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.155 | p.155-155 | audience=pediatric] ---
+131
+5. DIARRHOEA
+Chart 13. Diarrhoea treatment plan C: 
+Treat severe dehydration quickly
+➞ Follow the arrows. If the answer is YES , go across. If NO , go down.
+CHART 13. DIARRHOEA TREATMENT PLAN C
+ /L50776Start IV fl uid immediately. If the child can drink, give 
+O
+RS by mouth while the drip is being set up. Give 
+100 ml/kg Ringer’s lactate solution (or, if not available, normal saline), divided as follows:
+Age First give 30 
+ml/kg in:
+Then give 70 
+ml/kg in:
+Infants 
+(< 12 months) 1 ha 5 h
+Children 
+(12 months to 5 years) 30 mina 2.5 h
+a Repeat once if radial pulse is still weak or not detectable
+ ■Reassess the child every 15–30 min. If hydration 
+s
+tatus is not improving, give the IV drip more rapidly. 
+Also watch for over-hydration.
+ /L50776Also give ORS (about 5 ml/kg per h) as soon as the 
+c
+hild can drink: usually after 3–4 h (infants) and 
+1–2 h (children).
+ ■Reassess an infant after 6 h and a child after 3 h. 
+Cl
+assify dehydration. Then choose the appropriate 
+plan (A, B or C) to continue treatment.
+ /L50776Refer ur gently to hospital for IV treatment.
+ /L50776If the child can drink, give the mother ORS solution, 
+a
+nd show her how to give frequent sips during the trip.
+ /L50776Start rehydration by tube (or mouth) with ORS solut
+ion: give 20 ml/kg per h for 6 h (total, 120 ml/kg).
+ ■Reassess the child every 1–2 h:
+ –I f there is repeated vomiting or increasing abdominal distension, give the fl uid more slowly.
+ – If hydration status is not improving after 3 h, send 
+the child for IV therapy.
+ ■After 6 h, reassess the child and classify dehydrat
+ion. Then, choose the appropriate plan (A, B or C) 
+to continue treatment.
+Note: If possible, observe the child for at least 6 h after 
+rehydration to be sure the mother can maintain hydration by 
+giving the child ORS solution by mouth.
+Refer urgently 
+to hospital 
+for IV or 
+nasogastric 
+treatment.
+START HERE
+Can you give 
+intravenous 
+(IV) fl uid 
+immediately?
+Can the child 
+drink?
+Are you 
+trained to use 
+a nasogastric 
+tube for 
+rehydration?
+Is IV treatment 
+available 
+nearby within 
+30 min?
+YES
+NO 
+NO 
+NO 
+YES
+YES
+NO 
+PB2_ch5.indd 131PB2_ch5.indd 131 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.156 | p.156-156 | audience=pediatric] ---
+132
+5. DIARRHOEA
+discharge, to confirm that the mother is able to maintain the child’s hydration by giving ORS solution.
+All children should start to receive some ORS solution (about 5 ml/kg per h) by cup 
+when they can drink without difficulty (usually within 3–4 h for infants and 1–2 h 
+for older children). ORS provides additional base and potassium, which may not be 
+adequately supplied by IV fl uid.
+When severe dehydration is corrected, prescribe zinc (pp. 133–4).
+5.2.2 Some dehydration 
+In general, children with some dehydration should be given ORS solution for 
+the fi rst 4 h at a clinic, while the child is monitored and the mother is taught 
+how to prepare and give ORS solution. 
+Diagnosis
+If the child has two or more of the following signs, he or she has some dehydration:
+ ■restlessness or irritability
+ ■thirsty and drinks eagerly
+ ■sunken eyes
+ ■skin pinch goes back slowly.
+N
+ote that if a child has only one of the above signs and one of the signs of 
+severe dehydration (e.g. restlessness or irritable and drinking poorly), then the 
+child also has some dehydration. 
+Treatment
+ /L50776In the fi rst 4 h, give the child ORS solution according to the child’s weight 
+(
+or age if the weight is not known), as shown in Chart 14. If the child wants 
+more to drink, give more. 
+ /L50776Show the mother how to give the child ORS solution: a teaspoonful every 
+1–
+2 min if the child is < 2 years; frequent sips from a cup for an older child.
+ /L50776Check regularly to see whether there are problems. 
+ –
+If the child vomits, wait 10 min; then, resume ORS solution more slowly 
+(e.g. a spoonful every 2–3 min).
+ – If the child’s eyelids become puffy, stop ORS solution, reduce the fl uid 
+intake and continue with breast milk. Weigh the child, and monitor urine 
+output. 
+SOME DEHYDRATION
+PB2_ch5.indd 132PB2_ch5.indd 132 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.157 | p.157-157 | audience=pediatric] ---
+133
+5. DIARRHOEA
+ /L50776Advise breastfeeding mothers to continue to breastfeed whenever the 
+c
+hild wants. 
+ /L50776Check blood glucose or electrolytes if possible in a child who is restless 
+o
+r irritable and convulsing, in case hypoglycaemia or hypernatraemia is 
+present. Manage the child accordingly; if blood glucose measurement is 
+not possible, give IV glucose or oral sugar. 
+ /L50776If the mother cannot stay for 4 h, show her how to prepare ORS solution 
+a
+nd give her enough ORS packets to complete rehydration at home plus 
+enough for 2 more days.
+ /L50776Reassess the child after 4 h, checking for signs of dehydration listed earlier. 
+Note
+: Reassess the child before 4 h if he or she is not taking the ORS solution 
+or seems to be getting worse. 
+ •If there is no dehydration, teach the mother the four rules of home treatment:
+(i) Give extra fl uid. 
+(ii) Give zinc supplements for 10–14 days.
+(iii) Continue feeding (see Chapter 10, p. 294).
+(iv) Return if the child develops any of the following signs:
+– drinking poorly or unable to drink or breastfeed
+– develops a general danger sign
+– becomes sicker
+– develops a fever
+– has blood mixed with the stools or more than a few drops on the 
+outside of the stool
+ •If the child still has some dehydration , repeat treatment with ORS solution 
+for another 4 h, as above, and start to offer food, milk or juice and breastfeed frequently. 
+ •If there are signs of severe dehydration , see section 5.2.1 (p. 129) for treatment.
+Treatment plans B and A on pp. 135 and 138 give further details. 
+Give zinc supplements
+Zinc is an important micronutrient for a child’s overall health and development 
+b
+ut is lost in greater quantities during diarrhoea. Replacement helps the child’s 
+recovery, reduces the duration and severity of the episode, and lowers the 
+incidence of diarrhoea in the following 2–3 months. 
+SOME DEHYDRATION
+PB2_ch5.indd 133PB2_ch5.indd 133 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.158 | p.158-158 | audience=pediatric] ---
+134
+5. DIARRHOEA
+ /L50776Give zinc and advise the mother how much to give:
+≤ 6 m
+onths: half tablet (10 mg) per day for 10–14 days
+≥ 6 months: one tablet (20 mg) per day for 10–14 days
+Feeding
+Continuation of nutritious feeding is an important element in the management 
+of diarrhoea. 
+ /L50776In the initial 4-h rehydration period, do not give any food except breast milk. 
+B
+reastfed children should continue to breastfeed frequently throughout the 
+episode of diarrhoea. If they cannot suck from the breast, consider giving 
+expressed breast milk either orally from a cup or by nasogastric tube. 
+ /L50776After 4 h, if the child still has some dehydration and ORS continues to be 
+g
+iven, give food every 3–4 h. 
+ /L50776All children > 6 months should be given some food before being sent home. 
+I
+f the child is not normally breastfed, explore the feasibility of relactation (i.e. 
+restarting breastfeeding after it was stopped, see p. 297) or give the usual 
+breast milk substitute. If the child is ≥ 6 months or already taking solid food, 
+give freshly prepared foods – cooked, mashed or ground. The following are 
+recommended:
+ • cereal or another starchy food mixed with pulses, vegetables and meat or 
+fi sh, if possible, with 1–2 teaspoons of vegetable oil added to each serving
+ • local complementary foods recommended by the IMCI in that area (see 
+section 10.1.2, p. 299) 
+ • fresh fruit juice or mashed banana to provide potassium.
+ /L50776Encourage the child to eat by offering food at least six times a day. Give the 
+s
+ame foods after the diarrhoea stops, and give an extra meal a day for 2 
+weeks. 
+5.2.3 No dehydration
+Children with diarrhoea but no dehydration should receive extra fl uids at home 
+to prevent dehydration. They should continue to receive an appropriate diet for 
+their age, including continued breastfeeding.
+Diagnosis
+Diarrhoea with no dehydration should be diagnosed if the child does not have 
+two or more signs that characterize some or severe dehydration, as described 
+above (see Table 12, p. 128).
+NO DEHYDRATION
+PB2_ch5.indd 134PB2_ch5.indd 134 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.159 | p.159-159 | audience=pediatric] ---
+135
+5. DIARRHOEA
+Chart 14. Diarrhoea treatment plan B: Treat some 
+dehydration with oral rehydration salts
+GIVE THE RECOMMENDED AMOUNT OF ORS IN THE CLINIC OVER 4 H
+ /L50776Determine amount of ORS to give during fi rst 4 h:
+Agea ≤ 4 months 4 to ≤ 12 months 12 months 
+to ≤ 2 years
+2 years 
+to ≤ 5 years
+Weight
+< 6 kg 6–< 10 kg 10–< 12 kg 12–19 kg
+200–400 ml 400–700 ml 700–900 ml 900–1400 ml
+a Use the child’s age only when you do not know the weight. The approximate amount of 
+ORS required (in ml) can also be calculated by multiplying the child’s weight (in kg) by 
+75.
+If the child wants more ORS than shown, give more.
+ /L50776Show the mother how to give ORS solution.
+ –
+Give frequent small sips from a cup.
+ – If the child vomits, wait 10 min, then continue, but more slowly.
+ – Continue breastfeeding whenever the child wants.
+ ■After 4 h:
+ –
+Reassess the child and classify him or her for dehydration.
+ – Select the appropriate plan to continue treatment.
+ – Begin feeding the child in the clinic.
+ /L50776If the mother must leave before completing treatment:
+ –
+Show her how to prepare ORS solution at home.
+ – Show her how much ORS to give to fi nish the 4-h treatment at home.
+ – Give her enough ORS packets to complete rehydration. Also give her 
+two packets as recommended in plan A.
+ – Explain the four rules of home treatment:
+ 
+1. Give extra fl uid. 
+2. Give zinc supplements.
+3. Continue feeding.
+4. Know when to return to the clinic.
+CHART 14. DIARRHOEA TREATMENT PLAN B
+See diarrhoea 
+treatment plan A (p. 138)
+and mother’s card (p. 322)
+PB2_ch5.indd 135PB2_ch5.indd 135 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.160 | p.160-160 | audience=pediatric] ---
+136
+5. DIARRHOEA
+Treatment
+ /L50776Treat the child as an outpatient.
+ /L50776Counsel the mother on the four rules of home treatment:
+ – Give extra fl uid.
+ – Give zinc supplements.
+ – Continue feeding. 
+ – Know when to return to the clinic.
+See treatment plan A (Chart 15 on p. 138).
+ /L50776Give extra fl uid, as follows:
+ –
+If the child is being breastfed, advise the mother to breastfeed frequently 
+and for longer at each feed. If the child is exclusively breastfed, give ORS 
+solution or clean water in addition to breast milk. After the diarrhoea stops, 
+exclusive breastfeeding should be resumed, if appropriate to the child’s age. 
+ – In non-exclusively breastfed children, give one or more of the following: 
+ •O R S s o l u t i o n 
+ • food-based fl uids (such as soup, rice water and yoghurt drinks)
+ • clean water.
+To prevent dehydration, advise the mother to give as much extra fl uids as the 
+child will take: 
+ • for children < 2 years, about 50–100 ml after each loose stool 
+ •f o r c h i l d r e n ≥ 2 years, about 100–200 ml after each loose stool. 
+Tell the mother to give small sips from a cup. If the child vomits, wait 10 min, 
+and then give more slowly. She should continue giving extra fl uid until the 
+diarrhoea stops.
+Teach the mother how to mix and give ORS solution, and give her two packets 
+of ORS to take home.
+ /L50776Give zinc supplements
+ –
+Tell the mother how much zinc to give:
+ •≤ 6 months: half tablet (10 mg) per day
+ •≥ 6 months: one tablet (20 mg) per day for 10–14 days
+ – Show the mother how to give the zinc supplement: 
+ • For infants, dissolve the tablet in a small amount of clean water, 
+expressed milk or ORS. 
+NO DEHYDRATION
+PB2_ch5.indd 136PB2_ch5.indd 136 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.161 | p.161-161 | audience=pediatric] ---
+137
+5. DIARRHOEA
+ • Older children can chew the tablet or drink it dissolved.
+ – Remind the mother to give the zinc supplement for the full 10–14 days.
+ /L50776Continue feeding: see nutrition counselling in Chapters 10 (p. 293) and 12 
+(
+p. 323).
+ /L50776Advise the mother on when to return (see below).
+Follow-up
+ /L50776Advise the mother to return immediately to the clinic if the child becomes 
+s
+icker, is unable to drink or breastfeed, drinks poorly, develops a fever or 
+has blood in the stool. If the child shows none of these signs but is still not 
+improving, advise the mother to return for follow-up after 5 days.
+Also explain that the same treatment should be given in the future as soon as 
+diarrhoea develops. See treatment plan A, (Chart 15, p. 138).
+5.3 Persistent diarrhoea 
+Persistent diarrhoea is diarrhoea, with or without blood, that begins acutely 
+and lasts for ≥ 14 days. When there is some or severe dehydration, persistent 
+diarrhoea is classified as ‘severe’. 
+The following guidelines are for children with persistent diarrhoea who are not 
+severely malnourished. Severely malnouri shed children with severe persistent 
+diarrhoea require hospitalization and specific treatment, as described in Chapter 
+7 (section 7.5.4, p. 219).
+In areas where HIV infection is highly prevalent , suspect HIV infection if there 
+are other suggestive clinical signs, and assess the child for HIV infection and 
+do an appropriate HIV test (see Chapter 8, p. 225). Perform stool microscopy 
+for parasites such as Isospora and Cryptosporidium .
+5.3.1 Severe persistent diarrhoea 
+Diagnosis
+ ■Infants or children with diarrhoea lasting ≥ 1 4 days with signs of dehydration (see Table 12, p. 128) have severe persistent diarrhoea and require 
+hospital treatment.
+ ■Assess the child for signs of dehydration
+Treatment 
+ /L50776Give fl uids according to treatment plan B or C, as appropriate ( see pp. 135 
+and 131).
+PERSISTENT DIARRHOEA
+PB2_ch5.indd 137PB2_ch5.indd 137 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.162 | p.162-162 | audience=pediatric] ---
+138
+5. DIARRHOEA
+Chart 15. Diarrhoea treatment plan A: 
+Treat diarrhoea at home
+COUNSEL THE MOTHER ON THE FOUR RULES OF HOME TREATMENT: 
+GIVE EXTRA FLUID. GIVE ZINC SUPPLEMENTS. CONTINUE FEEDING. 
+KNOW WHEN TO RETURN TO THE CLINIC. 
+1. Give as much extra fl uid as the child will take.
+ /L50776Tell the mother to:
+ –
+Breastfeed frequently and for longer at each feed.
+ – If the child is exclusively breastfed, give ORS or clean water in addition 
+to breast milk
+ – If the child is not exclusively breastfed, give one or more of the following: 
+ORS solution, food-based fl uids (such as soup, rice water and yoghurt 
+drinks) or clean water.
+It is especially important to give ORS at home when:
+ – the child has been treated according to plan B or plan C during this visit.
+ – the child cannot return to a clinic if the diarrhoea gets worse.
+ /L50776Teach the mother how to mix and give ORS. Give the mother two packets 
+o
+f ORS to use at home. 
+ /L50776Show the mother how much fl uid to give in addition to the usual fl uid intake:
+≤ 2 y
+ears: 50–100 ml after each loose stool
+≥ 2 years: 100–200 ml after each loose stool
+Tell the mother to:
+ – Give frequent small sips from a cup.
+ – If the child vomits, wait 10 min. Then continue, but more slowly.
+ – Continue giving extra fl uid until the diarrhoea stops.
+2. Give zinc supplements.
+ /L50776Tell the mother how much zinc to give:
+≤ 6 m
+onths: half tablet (10 mg) per day for 10–14 days
+≥ 6 months: one tablet (20 mg) per day for 10–14 days
+ /L50776Show the mother how to give zinc supplement:
+ –
+For infants, dissolve the tablet in a small amount of clean water, expressed milk or ORS in a small cup or spoon.
+ – Older children can chew the tablet or drink it dissolved in a small amount 
+of clean water in a cup or spoon.
+ /L50776REMIND THE MOTHER TO GIVE THE ZINC SUPPLEMENT FOR THE FULL 
+10
+–14 DAYS.
+3. Continue feeding.
+4. Know when to return to the clinic.
+CHART 15. DIARRHOEA TREATMENT PLAN A: 
+See mother’s card (p. 322)
+PB2_ch5.indd 138PB2_ch5.indd 138 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.163 | p.163-163 | audience=pediatric] ---
+139
+5. DIARRHOEA
+ORS solution is effective for most children with persistent diarrhoea. A few 
+children, however, may have impaired glucose absorption, and ORS solution 
+may not be as effective. When these children are given ORS, their stool volume 
+increases markedly, thirst increases, signs of dehydration develop or worsen, 
+and the stools contain a large amount of unabsorbed glucose. These children 
+require IV rehydration until ORS solution can be taken without causing the 
+diarrhoea to worsen.
+Routine treatment of persistent diarrhoea with antibiotics is not effective and 
+should not be done. Some children, however, have non-intestinal or intestinal 
+infections that require specific antibiotic therapy.
+ ■Examine every child with persistent diarrhoea for non-intestinal infections 
+s
+uch as pneumonia, sepsis, urinary tract infection, oral thrush and otitis 
+media, and treat appropriately.
+ /L50776Give micronutrients and vitamins as shown in the box on p. 141.
+ /L50776Treat persistent diarrhoea with blood in the stools with an oral antibiotic 
+e
+ffective for Shigella , as described in section 5.4, p. 143.
+ /L50776Give oral metronidazole at 10 mg/kg three times a day for 5 days only if:
+ –
+microscopic examination of fresh faeces reveals trophozoites of Entamoeba histolytica within red blood cells; or
+ – trophozoites or cysts of giardia are seen in the faeces, or 
+ – two different antibiotics that are usually effective for Shigella locally have 
+been given without clinical improvement.
+ – if stool examination is not possible, when diarrhoea persists for > 1 month.
+Feeding
+Careful attention to feeding is essential for all children with persistent diarrhoea. 
+Breastfeeding should be continued for as often and as long as the child wants. 
+Other food should be withheld for 4–6 h only for children with dehydration who 
+are being rehydrated following treatment plan B or C.
+Hospital diet
+Children treated in hospital require special diets until their diarrhoea lessens 
+a
+nd they are gaining weight. The goal is to give a daily intake of at least 110 
+calories/kg. 
+Infants aged < 6 months
+ • Encourage exclusive breastfeeding. Help mothers who are not breastfeeding 
+exclusively to do so.
+SEVERE PERSISTENT DIARRHOEA
+PB2_ch5.indd 139PB2_ch5.indd 139 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.164 | p.164-164 | audience=pediatric] ---
+140
+5. DIARRHOEA
+ • If the child is not breastfeeding, give a breast milk substitute that is low in 
+lactose, such as yoghurt, or is lactose-free. Use a spoon or cup; do not use 
+a feeding bottle. Once the child improves, help the mother to re-establish 
+lactation.
+ • If the mother is not breastfeeding because she is HIV-positive, she should 
+receive appropriate counselling about the correct use of breast milk substitutes.
+Children aged ≥ 6 months
+Feeding should be restarted as soon as the child can eat. Food should be given 
+six times a day to achieve a total intake of at least 110 calories/kg per day. 
+Many children will eat poorly, however, until any serious infection has been 
+treated for 24–48 h. These children may require nasogastric feeding initially.
+Two recommended diets 
+Tables 14 and 15 show two diets recommended for children and infants aged 
+> 
+6 months with severe persistent diarrhoea. If there are signs of dietary failure 
+(see below) or if the child is not improving after 7 days of treatment, the fi rst 
+diet should be stopped and the second diet given for 7 days. 
+Successful treatment with either diet is characterized by:
+ ■adequate food intake
+ ■weight gain
+ ■fewer diarrhoeal stools
+ ■absence of fever.
+T
+he most important criterion is weight gain. Weight should increase for at least 
+three successive days before weight gain can be assumed.
+Give additional fresh fruit and well-cooked vegetables to children who are 
+responding well. After 7 days of treatment with the effective diet, they should 
+resume an appropriate diet for their age, including milk, which provides at least 
+110 calories/kg per day. Children may then return home but must be followed up 
+regularly to ensure continued weight gain and compliance with feeding advice.
+Dietary failure is indicated by: 
+ ■an increase in stool frequency (usually to > 10 water y stools a day), often with 
+a r
+eturn of signs of dehydration (usually shortly after a new diet is begun), or
+ ■failure to establish daily weight gain within 7 days.
+SEVERE PERSISTENT DIARRHOEA
+PB2_ch5.indd 140PB2_ch5.indd 140 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.165 | p.165-165 | audience=pediatric] ---
+141
+5. DIARRHOEA
+Table 14. First diet for persistent diarrhoea: a starch-based, reduced-milk 
+(low-lactose) diet
+The diet should contain at least 70 calories/100 g, provide milk or yoghurt as a 
+source of animal protein, but no more than 3.7 g lactose/kg per day and should 
+provide at least 10% of calories as protein. The following example provides 83 
+calories/100 g, 3.7 g lactose/kg per day and 11% of calories as protein:
+■ full-fat dried milk (or whole liquid milk: 85 ml) 11 g
+■ rice 15 g
+■ vegetable oil 3.5 g
+■ cane sugar 3.0 g
+■ water to make up 200 ml
+T
+able 15. Second diet for persistent diarrhoea: a reduced-starch (cereal) 
+no-milk (lactose-free) diet
+The diet should contain at least 70 calories/100 g and provide at least 10% 
+of calories as protein (egg or chicken). The following example provides 75 
+calories/100 g:
+■ whole egg 64 g
+■ rice 3 g
+■ vegetable oil 4 g
+■ glucose 3 g
+■ water to make up 200 ml
+F
+inely ground, cooked chicken (12 g) can be used in place of egg to give a diet 
+providing 70 calories/100 g
+Supplementary multivitamins and minerals
+Give all children with persistent diarrhoea daily supplementary 
+multivitamins and minerals for 2 weeks. These should provide as broad 
+a range of vitamins and minerals as possible, including at least two 
+recommended daily allowances of folate, vitamin A, zinc, magnesium and 
+copper.
+As a guide, one recommended daily allowance for a child aged 1 year is:
+■ folate, 50 µg
+■ zinc, 10 mg 
+■ vitamin A, 400 µg 
+■ iron, 10 mg 
+■ copper, 1 mg 
+■ magnesium, 80 mg 
+SEVERE PERSISTENT DIARRHOEA
+PB2_ch5.indd 141PB2_ch5.indd 141 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.166 | p.166-166 | audience=pediatric] ---
+142
+5. DIARRHOEA
+Monitoring
+Nurses should check the following daily:
+ •b o d y w e i g h t
+ •t e m p e r a t u r e
+ • food taken
+ • number of diarrhoeal stools.
+5.3.2 Persistent diarrhoea (non-severe)
+Children with non-severe persistent diarrhoea do not require hospital treatment 
+but need special feeding and extra fl uids at home.
+Diagnosis
+Children with diarrhoea lasting ≥ 14 days but with no signs of dehydration or 
+severe malnutrition
+Treatment
+ /L50776Treat the child as an outpatient.
+ /L50776Give supplementary multivitamins and minerals as shown in the box on 
+p.
+ 141.
+Prevent dehydration
+ /L50776Give fl uids according to treatment plan A, p. 138. ORS solution is effective 
+f
+or most children with persistent diarrhoea. In a few , however , glucose 
+absorption is impaired, and when they are given ORS solution their stool 
+volume increases markedly, thirst increases, signs of dehydration develop 
+or worsen, and the stools contain a large amount of unabsorbed glucose. 
+These children require admission to hospital for IV rehydration until ORS 
+solution can be taken without aggravating the diarrhoea. 
+Identify and treat specific infections
+ /L50776Do not routinely treat with antibiotics, as they are not effective; however, 
+gi
+ve antibiotic treatment to children with specific non-intestinal or intestinal 
+infections. Until these infections are treated correctly, persistent diarrhoea 
+will not improve. 
+ /L50776Non-intestinal infections . E xamine every child with persistent diarrhoea for 
+non-intestinal infections, such as pneumonia, sepsis, urinary tract infection, 
+oral thrush and otitis media. Treat each specific disease. 
+ /L50776Intestinal infections. T reat persistent diarrhoea with blood in the stools with 
+an oral antibiotic that is effective for Shigella , as described in section 5.3.1. 
+PERSISTENT DIARRHOEA (NON-SEVERE)
+PB2_ch5.indd 142PB2_ch5.indd 142 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.167 | p.167-167 | audience=pediatric] ---
+143
+5. DIARRHOEA
+Feeding
+Careful attention to feeding is essential for all children with persistent diarrhoea. These children may have difficulty in digesting animal milk other than 
+breast milk. 
+ ■Advise the mother to reduce the amount of animal milk in the child’s diet 
+tem
+porarily. 
+ ■Continue breastfeeding and give appropriate complementary foods:
+ –
+If still breastfeeding, give more frequent, longer breastfeeds, day and 
+night.
+ – If taking other animal milk, explore the feasibility of replacing animal milk 
+with fermented milk products (e.g. yoghurt), which contain less lactose 
+and are better tolerated. 
+ – If replacement of animal milk is not possible, limit animal milk to 50 ml/kg 
+per day. Mix the milk with the child’s cereal, but do not dilute it. 
+ – Give other foods appropriate for the child’s age to ensure an adequate 
+caloric intake. Infants aged > 4 months whose only food has been animal 
+milk should begin to take solid foods. 
+ – Give frequent small meals, at least six times a day. 
+Supplementary micronutrients, including zinc
+See box, p. 141.
+Follow-up
+ /L50776Ask the mother to bring the child back for reassessment after 5 days, or 
+e
+arlier if the diarrhoea worsens or other problems develop. 
+ /L50776Fully reassess children who have not gained weight or whose diarrhoea has 
+n
+ot improved in order to identify the cause, such as dehydration or infection, 
+which requires immediate attention or admission to hospital. 
+Those who have gained weight and who have three or fewer loose stools per 
+day may resume a normal diet for their age.
+5.4 Dysentery 
+Dysentery is diarrhoea presenting with frequent loose stools mixed with blood 
+(not just a few smears on the surface). Most episodes are due to Shigella , and 
+nearly all require antibiotic treatment. Shigellosis can lead to life-threatening 
+complications, including intestinal perforation, toxic megacolon and haemolytic 
+uraemic syndrome. 
+DYSENTERY
+PB2_ch5.indd 143PB2_ch5.indd 143 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.168 | p.168-168 | audience=pediatric] ---
+144
+5. DIARRHOEA
+Diagnosis
+The diagnostic signs of dysentery are frequent loose stools mixed with visible 
+red blood. Other fi ndings on examination may include:
+ ■abdominal pain
+ ■fever
+ ■convulsions
+ ■lethargy
+ ■dehydration (see section 5.2, p. 127)
+ ■rectal prolapse.
+Treatment
+Most children can be treated at home.
+ /L50776Admit to hospital:
+ –
+young infants (< 2 months old)
+ – severely ill children, who look lethargic, have abdominal distension and 
+tenderness or convulsions
+ – children with any another condition requiring hospital treatment.
+ /L50776Give an oral antibiotic (for 5 days) to which most local strains of S higella 
+are sensitive.
+ – Give ciprofloxacin at 15 mg/kg twice a day for 3 days if antibiotic sensitivity is unknown. If local antimicrobial sensitivity is known, follow 
+local guidelines.
+ – Give ceftriaxone IV or IM at 50–80 mg/kg per day for 3 days to severely 
+ill children or as second-line treatment.
+ /L50776Give zinc supplements as for children with watery diarrhoea.
+Note
+: There is widespread Shigella resistance to ampicillin, co-trimoxazole, 
+chloramphenicol, nalidixic acid, tetracycline, gentamicin and fi rst- and secondgeneration cephalosporin, which are no longer effective. There is also already 
+reported resistance to ciprofloxacin in some countries.
+Follow-up
+Follow up children after 2 days, and look for signs of improvement, such as no 
+fever, fewer stools with less blood, improved appetite.
+DYSENTERY
+PB2_ch5.indd 144PB2_ch5.indd 144 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.169 | p.169-169 | audience=pediatric] ---
+145
+5. DIARRHOEA
+ • If there is no improvement after 2 full days of treatment: 
+ /L50776check for other conditions (see Chapter 2),
+ /L50776stop the fi rst antibiotic, and give a second-line antibiotic or a known eff
+ective against Shigella in the area (see Annex 2 for dosages).
+ • If the two antibiotics that are usually effective against Shigella in the area 
+have each been given for 2 days, with no sign of clinical improvement, check 
+for other conditions (consult a standard paediatric textbook).
+ – If amoebiasis is possible, give metronidazole at 10 mg/kg three times 
+a day for 5 days.
+ /L50776Admit the child if there is an indication requiring hospital treatment. 
+Infants and young children 
+Consider surgical causes of blood in the stools (for example, intussusception; 
+s
+ee section 9.4, p. 281), and refer to a surgeon, if appropriate. Dysentery is 
+unusual in neonates and young infants; therefore, consider life-threatening 
+bacterial sepsis
+ /L50776For suspected sepsis give IM or IV ceftriaxone at 100 mg/kg once daily 
+f
+or 5 days. 
+Severely malnourished children 
+See Chapter 7 for the general management of severely malnourished children. 
+ /L50776Treat for S higella fi rst and then for amoebiasis on clinical grounds if laboratory examination is not possible. 
+ /L50776If microscopic examination of fresh stools in a reliable laboratory is possible, 
+c
+heck for trophozoites of Entamoeba histolytica in red blood cells and treat 
+for amoebiasis, if present. Also examine stools for trophozoites of Giardia 
+lamblia and treat if present. 
+Supportive care
+Supportive care includes the prevention or correction of dehydration and continued feeding. For guidelines on supportive care of severe acutely malnourished 
+children with bloody diarrhoea, see also Chapter 7 (p. 197).
+Never give drugs for symptomatic relief of abdominal or rectal pain or to reduce 
+the frequency of stools, as these drugs can increase the severity of the illness.
+Treatment of dehydration
+ /L50776Assess the child for signs of dehydration and give fl uids according to treatm
+ent plan A, B or C (pp. 138, 135, 131), as appropriate.
+DYSENTERY
+PB2_ch5.indd 145PB2_ch5.indd 145 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.170 | p.170-170 | audience=pediatric] ---
+146
+5. DIARRHOEA
+Nutritional management
+Ensuring a good diet is important, as dysentery has a marked adverse effect on 
+n
+utritional status. Feeding is often difficult because of lack of appetite; return 
+of appetite is an important sign of improvement.
+ /L50776Breastfeeding should be continued throughout the course of the illness, 
+m
+ore frequently than normal, if possible, because the infant may not take 
+the usual amount per feed.
+ /L50776Children aged 6 months or more should receive their normal foods. Encoura
+ge the child to eat, and allow the child to select preferred foods. 
+Complications
+ •Dehydration . Dehydration is the commonest complication of dysentery, and 
+children should be assessed and managed for dehydration irrespective of 
+any other complication. Give fl uids according to treatment plan A, B or C, 
+as appropriate.
+ •Potassium depletion. Potassium depletion can be prevented by giving ORS 
+solution (when indicated) or potassium-rich foods such as bananas, coconut 
+water or dark-green leafy vegetables.
+ •High fever. If the child has high fever ( ≥ 39 °C or ≥ 102.2 °F) that appears to 
+be causing distress, give paracetamol and consider severe bacterial infection. 
+ •Rectal prolapse. Gently push back the rectal prolapse using a surgical glove 
+or a wet cloth. Alternatively, prepare a warm solution of saturated magnesium 
+sulfate, and apply compresses with this solution to reduce the prolapse by 
+decreasing oedema. 
+ •Convulsions. A single convulsion is the commonest fi nding. If they are prolonged or repeated, give diazepam (see chart 9, p. 15). Avoid giving rectal 
+diazepam. Always check for hypoglycaemia. 
+ •Haemolytic uraemic syndrome. Where laboratory tests are not possible, 
+suspect haemolytic uraemic syndrome in patients with easy bruising, pallor, 
+altered consciousness and low or no urine output.
+ •Toxic megacolon. Toxic megacolon usually presents with fever, abdominal 
+distension, pain and tenderness with loss of bowel sounds, tachycardia 
+and dehydration. Give IV fl uids for dehydration, pass a nasogastric tube, 
+and start antibiotics.
+Further details of treatment can be found in standard paediatric textbooks.
+DYSENTERY
+PB2_ch5.indd 146PB2_ch5.indd 146 5/06/13 10:06 AM5/06/13 10:06 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.227 | p.227-227 | audience=pediatric] ---
+203
+7. MALNUTRITION
+Treatment
+All children with hypothermia should be treated routinely for hypoglycaemia 
+and infection. 
+ /L50776Feed the child immediately and then every 2 h unless they have abdominal 
+d
+istension; if dehydrated, rehydrate fi rst.
+ /L50776Re-warm the child: Make sure the child is clothed (especially the head); cover 
+w
+ith a warmed blanket and place a heater (not pointing directly at the child) 
+or lamp nearby, or put the child on the mother’s bare chest or abdomen 
+(skin-to-skin) and cover them with a warmed blanket and/or warm clothing.
+ /L50776Keep the child away from draughts. 
+ /L50776Give appropriate IV or IM antibiotics (see p. 207). 
+Monitoring
+ • Take the child’s rectal temperature every 2 h until it rises to > 36.5 °C. Take 
+it every 30 min if a heater is being used.
+ • Ensure that the child is covered at all times, especially at night. Keep the head 
+covered, preferably with a warm bonnet, to reduce heat loss.
+ • Check for hypoglycaemia whenever hypothermia is found. 
+Prevention
+ /L50776Feed immediately and then every 2–3 h, day and night.
+ /L50776Place the bed in a warm, draught-free part of the ward, and keep the child 
+co
+vered.
+ /L50776Use the Kangaroo technique for infants (see p. 59), cover with a blanket and 
+l
+et the mother sleep with child to keep the child warm.
+ /L50776Avoid exposing the child to cold (e.g. after bathing or during medical 
+ex
+aminations).
+ /L50776Change wet nappies, clothes and bedding to keep the child and the bed dry. 
+D
+ry carefully after bathing, but do not bathe if very ill.
+ /L50776Use a heater or incandescent lamp with caution.
+ /L50776Do not use a hot water bottle or fl uorescent lamp.
+7.4.3 Dehydration 
+Diagnosis
+Dehydration tends to be overdiagnosed and its severity overestimated in 
+children with severe acute malnutrition because it is difficult to determine 
+DEHYDRATION
+PB2_ch7.indd 203PB2_ch7.indd 203 5/06/13 10:07 AM5/06/13 10:07 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.228 | p.228-228 | audience=pediatric] ---
+204
+7. MALNUTRITION
+dehydration accurately from clinical signs alone. Assume that all children with 
+water y diarrhoea or reduced urine output have some dehydration. It is impor tant 
+to note that poor circulatory volume or perfusion can co-exist with oedema.
+Treatment
+Do not use the IV route for rehydration, except in cases of shock (see p. 14). 
+Rehydrate slowly, either orally or by nasogastric tube, using oral rehydration 
+solution for malnourished children (5–10ml/kg per h up to a maximum of 12 
+hours). The standard WHO ORS solution for general use has a high sodium 
+and low potassium content, which is not suitable for severely malnourished 
+children. Instead, give special rehydration solution for malnutrition, ReSoMal.
+ /L50776Give the R eSoMal rehydration fl uid orally or by nasogastric tube, more 
+slowly than you would when rehydrating a well-nourished child:
+ – Give 5 ml/kg every 30 min for the fi rst 2 h.
+ – Then give 5–10 ml/kg per h for the next 4–10 h on alternate hours, with 
+F-75 formula. The exact amount depends on how much the child wants, 
+the volume of stool loss and whether the child is vomiting.
+ /L50776If not available then give ha lf strength standard WHO oral rehydration solution with added potassium and glucose as per the ReSoMal recipe below, 
+unless the child has cholera or profuse watery diarrhoea. 
+ /L50776If rehydration is still required at 1 0 h, give starter F- 75 ( see recipes on 
+p
+p. 212–3) instead of ReSoMal, at the same times. Use the same volume of 
+starter F-75 as of ReSoMal.
+ /L50776If in shock or severe dehydration but cannot be rehydrated orally or by 
+n
+asogastric tube, give IV fl uids, either Ringer’s lactate solution with 5% 
+dextrose or half-strength Darrow’s solution with 5% dextrose. If neither is 
+available, 0.45% saline with 5% dex trose should be used (see Char t 8, p. 14)
+Monitoring
+During rehydration, respiration and pulse rate should fall and urine start to be 
+passed. The return of tears, a moist mouth, less sunken eyes and fontanelle, 
+and improved skin turgor are also signs that rehydration is proceeding, but 
+many severely malnourished children will not show these changes even when 
+fully rehydrated. Monitor weight gain. 
+Monitor the progress of rehydration every 30 min for 2 h, then every hour for 
+the next 4–10 h. Be alert for signs of overhydration, which is very dangerous 
+and may lead to heart failure. Check for:
+ • weight gain to ensure that it is not quick and excessive.
+DEHYDRATION
+PB2_ch7.indd 204PB2_ch7.indd 204 5/06/13 10:07 AM5/06/13 10:07 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.243 | p.243-243 | audience=pediatric] ---
+219
+7. MALNUTRITION
+7.5.4 Continuing diarrhoea 
+Treatment
+Giardiasis
+Where possible, examine the stools by microscopy. 
+ /L50776If cysts or trophozoites of Gi ardia lamblia are found, give metronidazole (7.5 
+mg/kg every 8 h for 7 days). Treat with metronidazole if stool microscopy 
+cannot be undertaken or if there is only clinical suspicion of giardiasis.
+Lactose intolerance
+Diarrhoea is only rarely due to lactose intolerance. Intolerance should be diagn
+osed only if copious watery diarrhoea occurs promptly after milk-based feeds 
+are begun and if the diarrhoea clearly improves when milk intake is reduced or 
+stopped. Starter F-75 is a low-lactose feed. In exceptional cases:
+ /L50776replace milk feeds with yoghurt or a lactose-free infant formula
+ /L50776reintroduce milk feeds gradually in the rehabilitation phase.
+Osmotic diarrhoea
+Osmotic diarrhoea may be suspected if the diarrhoea worsens substantially 
+w
+ith hyperosmolar F-75 and ceases when the sugar content and osmolarity 
+are reduced. In these cases:
+ /L50776Use cereal-based starter F-75 (see recipe, p. 212) or, if necessary, a comm
+ercially available isotonic starter F-75.
+ /L50776Introduce catch-up F-100 or ready-to-use therapeutic food gradually.
+7.5.5 Tuberculosis 
+If TB is strongly suspected:
+ • Perform a Mantoux test ( Note: false-negative results are frequent ).
+ • Take a chest X-ray, if possible.
+If these are positive or TB is strongly suspected, treat according to national TB 
+guidelines (see section 4.7.2, p. 115).
+7.6 Discharge and follow-up
+7.6.1 Transfer to outpatient care
+Children admitted to hospital with complicated severe acute malnutrition can 
+be transferred to outpatient care during the rehabilitation phase. Social factors, 
+such as loss of earnings for the mother and care for other children, should also 
+be taken into account, as should the fact that those without complications can 
+DISCHARGE AND FOLLOW-UP
+PB2_ch7.indd 219PB2_ch7.indd 219 5/06/13 10:07 AM5/06/13 10:07 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.431 | p.431-431 | audience=pediatric] ---
+407
+INDEX
+ some dehydration 132
+ no dehydration 134
+ severe dehydration 17, 129
+Dengue, 22, 188
+ severe 188
+ shock syndrome 189
+ shock treatment 190
+Dengue haemorrhagic fever 23, 153
+Dexamethasone 61, 103, 170, 172, 
+ 361
+Dextran 190
+Dextrostix 350
+Diabetic ketoacidosis 25
+Diarrhoea 6, 125
+ acute watery 127
+ persistent 127, 137, 142
+ in severe acute malnutrition 219
+Diarrhoea treatment, plan A 138
+ Plan B 135
+ Plan C 131
+Diazepam 15, 361
+Diets, low lactose 141
+ free lactose 141, 219
+Digoxin 362
+Diphtheria 21, 79, 103, 105
+ antitoxin 105
+ toxoid 107
+Diuretics 121
+Dobutamine 362
+Dopamine 180, 362
+DPT 114, 325–6
+Drug dosages, children 353–373
+ neonates 69–72
+Dysentery 127, 143
+E
+Ear infections 182
+ acute 183
+ chronic 184
+ wicking 183
+Efavirenz 233–4, 236, 372 
+Electrolyte imbalance 206
+Electrolyte/mineral solution 205, 212
+Emergency signs 2, 3, 5
+Empyema 78, 88
+Emtricitabine 234, 236, 240
+Encephalitis 25, 167, 177
+Encephalopathy 25, 232
+Endocarditis, infective 121, 123, 155
+Endotracheal tube sizes 259
+Envenoming 34, 37, 38
+Epiglottitis, acute 103, 107
+Epilepticus, status 15
+Equipment, paediatric sizes 375
+Erythromycin 112, 114, 362
+Ethambutol 116, 172, 370
+Eye problems 176, 217
+F
+F-75 refeeding 209, 212–13
+F-100 refeeding 212–13 
+Failure to thrive 78, 109, 110, 216
+Fentanyl 307, 363
+Ferrous sulfate 364
+Fever 15, 58, 83, 149
+ lasting 7 days or less 150, 151
+ lasting > 7 days 153, 155
+ management 305
+ with localized signs 152
+ with rash 153
+ without localized signs 151
+ relapsing fever 153
+Flucloxacillin 363
+Fluconazole 363
+Fluid management 57, 190, 261, 304
+Fluid overload 191
+Folate 141, 161, 166, 364
+Follow-up care 327
+Food intake chart 403
+Foreign body inhalation 5, 21, 102, 
+ 119
+PB2_Index.indd 407PB2_Index.indd 407 5/06/13 10:15 AM5/06/13 10:15 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.437 | p.437-437 | audience=pediatric] ---
+Triage of all sick children
+EMERGENCY SIGNS:
+If any sign is positive, call for help, assess and resuscitate, give 
+treatment(s), draw blood for emergency laboratory investigations 
+(glucose, malaria smear, Hb)
+TREAT
+Do not move neck if a cervical spine 
+injury is possible, but open the airway.
+ASSESS
+Check for 
+severe 
+malnutrition
+ANY SIGN 
+POSITIVE
+SIGNS 
+POSITIVE
+Airway and breathing
+■ Obstructed or 
+absent breathing
+ or
+■ Central cyanosis
+ or
+■ Severe respiratory 
+distress
+Circulation
+Cold skin with:
+■ Capillary refill 
+longer than 3 s
+ and
+■ Weak and fast 
+pulse
+If foreign body aspirated
+/L50776 Manage airway in choking 
+child (Chart 3)
+If no foreign body aspirated
+/L50776 Manage airway (Chart 4)
+/L50776 Give oxygen (Chart 5)
+/L50776 Make sure the child is warm
+/L50776 Stop any bleeding
+/L50776 Give oxygen (Chart 5)
+/L50776 Make sure the child is warm.
+If no severe malnutrition
+/L50776 Insert an IV line and begin 
+giving fl uids rapidly (Chart 7).
+If peripheral IV cannot be 
+inserted, insert an intraosseous 
+or external jugular line 
+(see pp. 340–342).
+If severe malnutrition:
+If lethargic or unconscious:
+/L50776 Give IV glucose (Chart 10).
+/L50776 Insert IV line and give fl uids 
+(Chart 8).
+If not lethargic or unconscious:
+/L50776 Give glucose orally or by 
+nasogastric tube.
+/L50776 Proceed immediately to full 
+assessment and treatment.
+EMERGENCY SIGNS:
+If any sign is positive: call for help, assess and resuscitate, give 
+treatment(s), draw blood for emergency laboratory investigations 
+(glucose, malaria smear, Hb)
+PRIORITY SIGNS
+These children need prompt assessment and treatment
+ASSESS TREAT
+Do not move neck if you suspect cervical 
+spine injury, but open the airway.
+Coma/
+convulsing 
+■ Coma 
+ or
+■ Convulsing 
+(now) 
+ 
+/L50776 Manage the airway (Chart 4)
+/L50776 If convulsing, give diazepam rectally 
+(Chart 9)
+/L50776 Position the unconscious child (if 
+head or neck trauma is suspected, 
+stabilize the neck fi rst) (Chart 6).
+/L50776 Give IV glucose (Chart 10).
+/L50776 Make sure the child is warm.
+If no severe malnutrition:
+/L50776 Insert an IV line and begin giving 
+fl uids rapidly following Chart 11 and 
+diarrhoea treatment plan C in hospital 
+(Chart 13, p. 131).
+If severe malnutrition:
+/L50776 Do not insert an IV line.
+/L50776 Proceed immediately to full 
+assessment and treatment (see 
+section 1.4, p. 19).
+IF COMA OR 
+CONVULSION
+DIARRHOEA
+PLUS
+two signs 
+positive
+Check for 
+severe 
+malnutrition
+Severe 
+dehydration
+(only in a child 
+with diarrhoea) 
+Diarrhoea plus 
+any two of these 
+signs:
+■ Lethargy
+■ Sunken eyes
+■ Very slow skin pinch 
+■ Unable to drink or drinks 
+poorly
+■ Tiny infant (< 2 months)
+■ Temperature very high 
+■ Trauma or other urgent surgical 
+condition
+■ Pallor (severe) 
+■ Poisoning (history of) 
+■ Pain (severe) 
+■ Respiratory distress 
+■ Restless, continuously irritable, or lethargic
+■ Referral (urgent)
+■ Malnutrition: visible severe wasting
+■ Oedema of both feet or face
+■ Burns (major)
+Note: If a child has trauma or other surgical problems, 
+get surgical help or follow surgical guidelines.
+NON-URGENT
+Proceed with assessment and further treatment according to the child’s priority.
+ANTIMICROBIAL DRUGS FOR COMMON CONDITIONS
+Please fi ll the blanks with your country’s most recent updated treatment guidelines.
+Page numbers refer to where generic guidance is found in the Pocket Book.
+Condition Drug Dose
+Dysentery (p. 144) 
+HIV treatment (p. 233) 
+ drug 2
+ drug 3
+Malaria, non severe (p. 164–5) 
+ drug 2 
+Malaria, severe (p. 158) 
+Mastoiditis (p. 182) 
+ drug 2
+Meningitis (p. 169) 
+ drug 2
+Osteomyelitis (p. 187) 
+ drug 2
+Otitis media, acute (p. 183) 
+Pneumonia, non-severe (p. 86) 
+Pneumonia, severe (p. 82) 
+ drug 2 
+Sepsis, neonatal (p. 55) 
+ drug 2 
+Sepsis, older child (p. 180) 
+ drug 2 
+Severe acute malnutrition,
+ uncomplicated (p. 207) 
+ complicated (p. 207) 
+ drug 2 
+ drug 3
+Tuberculosis (p.116-7) 
+ drug 2 
+ drug 3 
+ drug 4
+Typhoid fever (p. 181)
+ drug 2
+Urinary tract infection (p. 185)
+ drug 2
+DAILY MONITORING CHART
+Date: Hospital Record number:
+1. Child’s name: Mother’s name:
+Age: Weight on admission:
+2. Diagnoses: Main problems:
+1)
+2)
+3)
+4)
+3. Vital signs DAY 1 DAY 2 DAY 3 DAY 4
+• Consciousness level (AVPU)
+• Temperature
+• Respiratory rate
+• Pulse rate
+4. Fluid balance (record volumes and times)
+IV
+By nasogastric tube
+Oral
+Fluid output
+5. Treatments given (sign on chart when given)
+N a m e o f t r e a t m e n t : D o s e :
+1)
+2)
+3)
+4)
+6. Feeding/Nutrition
+Child breastfed
+Drink taken
+Food taken
+Feeding problems (give details)
+Weight
+7. Outcome (circle one of the following): Discharged well / Absconded / Transferred / Died
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 6.1.5 Diarrhoea | p.469-471 | audience=general] ---
+Occurrence of 3 or more loose watery stools in 24 hrs. Acute diarrhoea:
+3 loose, watery stools within 24 hours Dysentery: bloody diarrhoea,
+visible blood and mucus Persistent diarrhoea: episodes of diarrhoea
+lasting more than 14 days
+Causes
+~ Viruses: Rotavirus, Norovirus , adenovirus, measles, hepatitis A virus , hepatitis E virus, Ebola
+~ Bacteria: Vibrio cholera, E.coli , Salmonella, shigella, campylobacter
+~ Protozoa: giardiasis, malaria, cryptosporia
+~ Heliminthes e.g. strongyloidiasis, schistosomiasis
+~ Infectious diseases, e.g. measles, malaria, and other fever-
+causing conditions
+~ Malnutrition e.g. kwashiorkor
+~ Drugs e.g., prolonged use of purgatives and broad-spectrum antibiotics
+~ Unhygienic feeding methods
+~ Malabsorption syndrome
+~ Lactose intolerance
+CHAPTER 6: Gastrointestinal and Hepatic Diseases
+403
+Uganda Clinical Guidelines 2023
+~ HIV associated-diarrhoea
+~ Irritable bowel syndrome
+~ Metabolic: diabetes, thyroid disease
+~ Travellers’ diarrhoea
+~ Inflammatory bowel disease (persistent diarrhoea usually
+bloody)
+Clinical features
+~ Loose watery stools
+~ Abdominal cramps
+~ Dehydration - thirst, sunken eyes, loss of skin elasticity, low
+urine output
+~ Signs of malnutrition if diarrhoea persists for > 14 days
+~ Blood in stool (in dysentery)
+Investigations
+- Stool: Microscopy, C&S
+- Other investigations may be necessary according to history and
+physical examination
+Red flags
+- Fever
+- Extremes of age
+- History of travel from a known endemic area
+- Dysentery
+- Shock, failure to feed, mental confusion
+TREATMENT LOC
+- Prevent or correct dehydration with ORS or IV
+fluids according to treatment plans A, B or C (see
+section 1.1.3)
+- Find and treat the cause if indicated
+- Avoid inappropriate use of antibiotics e.g.
+metronidazole, ciprofloxacin
+HC2
+HC4
+CHAPTER 6: Gastrointestinal and Hepatic Diseases
+404
+Uganda Clinical Guidelines 2023
+TREATMENT LOC
+- Routinely use zinc supplementation, at a dosage of
+20 milligrams per day for children older than six
+months for 10–14 days
+- Prevent or treat undernutrition and micronutrient
+deficiencies
+Persistent or chronic diarrhoea:
+- Adults only: As above plus codeine phosphate
+30 mg every 8-12 hours as required
+- Child: vitamin A
+- 6-11 months: 100,000 IU; 1-6 years:
+200,000 IU
+HC2
+HC4
+Prevention
+~ Vaccination: measles, rotavirus, polio, hepatitis A virus
+~ Notify in case of suspected epidemics e.g. cholera, hepatitis A or E virus infections, Ebola
+~ Encourage handwashing, use of clean drinking water, and
+proper waste disposal
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 6.2.1 Amoebiasis | p.471-473 | audience=general] ---
+A common parasitic infection of the gastrointestinal system acquired
+through oral-faecal transmission.
+Causes
+~ Protozoan Entamoeba histolytica
+Clinical features
+It may present as:
+CHAPTER 6: Gastrointestinal and Hepatic Diseases
+405
+Uganda Clinical Guidelines 2023
+Amoebic dysentery
+~ Persistent mucoid/bloody diarrhoea
+~ Abdominal pain, tenesmus
+~ Chronic carriers are symptomless
+Amoebic abscess (as a result of spread via the blood stream):
+~ Liver abscess: swelling/pain in the right sub-costal area,
+fever, chills, sweating, weight loss
+~ Brain: presenting as space-occupying lesion
+~ Lungs: cough and blood stained sputum
+~ Amoeboma: swelling anywhere in the abdomen, especially
+ascending colon
+~ Anal ulceration: may occur by direct extension from the
+intestinal infection
+Differential diagnosis
+~ Bacillary dysentery
+~ Any other cause of bloody diarrhoea
+~ Cancer of the liver
+~ Other causes of swelling in the liver
+~ Carcinoma colon
+Investigations
+- Stool: Microscopy for cysts and motile organisms
+- Ultrasound
+TREATMENT LOC
+- Correct any dehydration (section 1.1.3)
+- Metronidazole 800 mg every 8 hours for 10 days
+Child: 10 mg/kg per dose
+- Or tinidazole 2 g daily for 5 days
+Child: 50 mg/kg per dose
+HC2
+H
+CHAPTER 6: Gastrointestinal and Hepatic Diseases
+406
+Uganda Clinical Guidelines 2023
+TREATMENT LOC
+Caution
+- Metronidazole/tinidazole: do not use in 1st trimester of
+pregnancy; avoid alcohol during treatment and for 48 hours
+thereafter
+- Metronidazole: Take after food
+Prevention
+~ Educate the public on personal and food hygiene (washing
+hands before eating), proper faecal disposal
+~ Ensure proper management of carriers and patients
+~ Promote use of clean drinking water
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 6.2.2 Bacillary Dysentery (Shigellosis) | p.473-475 | audience=general] ---
+An acute bacterial disease involving the large and small intestine, characterised by bloody mucoid diarrhoea.
+Bacillary dysentery is a notifiable disease.
+Cause
+~ Shigella dysenteriae, Shigella flexneri, Shigella sonnei, all
+spread by faecal-oral route
+Clinical features
+~ Mucoid bloody diarrhoea
+~ Fever
+~ Nausea, vomiting, abdominal cramps
+~ Tenesmus (sensation of desire to defecate without production of significant amounts of faeces)
+~ Toxaemia (sometimes)
+~ S. flexneri infection may be complicated with Reiter’s syndrome – urethritis, conjutivitis and arthritis
+CHAPTER 6: Gastrointestinal and Hepatic Diseases
+407
+Uganda Clinical Guidelines 2023
+Differential diagnosis
+~ Amoebic dysentery
+~ Other causes of bloody diarrhoea
+Investigations
+- Stool: For C&S, microscopy
+- Mobile vibrios under microscope
+Management
+Up to 90% of patients with cholera only require prompt oral rehydration.
+Only severely dehydrated patients need IV fluids and antimicrobials
+TREATMENT LOC
+- Start rehydration with ORS at HC1/2 and refer for
+isolation
+- Give oral (ORS) or IV fluids (Ringer’s lactate) according
+to degree of dehydration (see section 1.1.3)
+- Give glucose IV for hypoglycemia
+- Give maintenance fluid; at least 4-5 litres/day
+- Doxycycline 300 mg single dose (children 4 mg/
+kg single dose)
+Or erythromycin 25-50 mg/kg every 6 hours for
+3 days in children under 12 years
+- Or ciprofloxacin 1 g single dose or 20 mg/kg 12
+hourly for 3 days
+HC2
+HC3
+Caution
+- Ciprofloxacin, doxycycline: usually contraindicated in
+pregnancy and children < 8 years but single dose in cholera
+should not provoke adverse effect
+- Alternative: erythromycin 500 mg every 6 hours for 5 days
+CHAPTER 6: Gastrointestinal and Hepatic Diseases
+408
+Uganda Clinical Guidelines 2023
+Prevention
+Educate the patient/public to:
+~ Rehydrate with plenty of fluids
+~ Continue breastfeeding or weaning
+~ Personal and food hygiene, e.g. washing hands before preparing and eating food and after using the toilet
+~ Using and drinking clean safe water
+~ Proper human faeces disposal
+~ Prompt isolation, treatment, and reporting of cases
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 6.2.4 Giardiasis | p.475-476 | audience=general] ---
+A protozoan infection of the upper small intestine transmitted by faecal-oral route.
+Cause
+~ Giardia lamblia (a flagellated protozoan)
+Clinical features
+~ Often asymptomatic
+~ Prolonged diarrhoea, steatorrhoea
+~ Abdominal cramps, bloating
+~ Fatigue, weight loss
+~ Malabsorption of fats and fat-soluble vitamins
+~ Severe giardiasis may cause reactive arthritis, damage to
+duodenal, and jejunal mucosa
+Differential diagnosis
+~ Other causes of prolonged diarrhoea
+~ Other causes of malabsorption
+Investigations
+- Stool: For cysts and trophozoites
+CHAPTER 6: Gastrointestinal and Hepatic Diseases
+409
+Uganda Clinical Guidelines 2023
+TREATMENT LOC
+Metronidazole 2 g after food daily for 3 days
+Child: 30 mg/kg (max: 1.2 g) per dose
+- Or tinidazole 2 g single dose
+Child: 50 mg/kg
+HC2
+H
+Caution
+- Metronidazole, tinidazole: Avoid in first trimester, avoid alcohol
+during treatment and for 48 hours after
+- Metronidazole: Take after food
+Prevention
+~ Provide health education on
+- Personal and food hygiene e.g. washing hands before
+handling or eating food and after using toilets
+- Proper disposal of human faeces
+- Use of safe clean drinking water
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 17.2.3 Check for Diarrhoea/Dehydration | p.877-881 | audience=general] ---
+Ask
+~ If child has
+diarrhoea
+~ If yes, ask for
+how long it has
+been present
+If yes, Look and feel
+~ Infant’s movements
+- Does the infant move on
+his/her own?
+- Does the infant move
+when stimulated but then
+stops?
+- Does the infant not move
+at all?
+- Is the infant restless and
+irritable?
+- Check the eyes. Are they
+sunken?
+812
+Uganda Clinical Guidelines 2023CHAPTER 17: Childhood Illness
+- Pinch the skin of the
+abdomen. Does it go
+back
+- Very slowly? (takes >2
+seconds)
+- Slowly? (up to 2 seconds)
+Classify and treat the dehydration and diarrhoea as in the table below
+CLINICAL FEATURES CLASSIFY AS MANAGEMENT
+For dehydration (see also section 1.1.3.1)
+Two of these signs:
+~ Movement
+only
+when
+Severe
+Dehydration
+If infant has no other severe classification:
+- Give fluid for severe dehydration (Plan C) OR
+stimulated or no
+movement at all
+~ Sunken
+eyes
+~ Skin
+pinch
+goes
+back very
+slowly.
+If infant also has another
+severe classification:
+- Refer URGENTLY to
+hospital with mother
+giving frequent sips of
+ORS on the way
+- Advise the mother to
+continue breastfeeding
+Two of these signs:
+~ Restless,
+irritable
+Some Dehydration
+- Give Plan B (Give fluid
+and breast milk for some
+dehydration)
+- Advise mother when to
+return immediately
+813
+Uganda Clinical Guidelines 2023CHAPTER 17: Childhood Illness
+CLINICAL FEATURES CLASSIFY AS MANAGEMENT
+~ Sunken
+eyes
+~ Skin
+pinch
+returns
+slowly
+(up to 2
+seconds)
+- FOLLOW UP in 2 days:
+- If better, praise
+the mother
+and advice
+to continue
+breastfeeding
+- If not better,
+reassess and
+treat accordingly
+If infant also has another
+severe classification:
+- Refer URGENTLY to
+hospital with mother
+giving frequent sips of
+ORS on the way
+- Advise the mother to
+continue breastfeeding
+814
+Uganda Clinical Guidelines 2023CHAPTER 17: Childhood Illness
+CLINICAL FEATURES CLASSIFY AS MANAGEMENT
+~ Not enough
+signs to
+classify
+~ as some or
+severe
+~ dehydration
+No Dehydration - Give fluids to treat diarrhoea at home and continue
+breast feeding (Plan A)
+- Advise mother when to return immediately
+- FOLLOW UP in two days
+- If better, praise the mother and advice to
+continue breastfeeding
+- If not better, reassess and treat
+accordingly
+If diarrhoea of > 14 days
+~ Diarrhoea
+lasting 14
+days or more
+Severe Persistent
+Diarrhoea
+- Refer to hospital
+- Treat dehydration before referral
+Note
+- What is diarrhoea in a young infant?
+- A young infant has diarrhoea if the stools have changed from usual pattern and are many
+and watery (more water than faecal matter).
+- The normally frequent or semi-solid stools of a breastfed baby are not diarrhoea.
+815
+Uganda Clinical Guidelines 2023CHAPTER 17: Childhood Illness
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 17.3.3 Child Has Diarrhoea | p.896-900 | audience=pediatric] ---
+Ask
+~ Does the
+child have
+diarrhoea?
+~ If yes, for
+how long
+child has had
+this
+~ Using appropriate local
+terms, ask if
+there is blood
+in the stool
+Look and feel
+- Look at the child’s general condition. Is the child:
+- Lethargic or unconscious?
+- Restless and irritable?
+- Look for sunken eyes
+- Offer the child fluid. Is the child:
+- Unable to drink or drinks poorly?
+- Thirsty, drinks eagerly?
+- Pinch the skin of the abdomen. Does it go back:
+- Very slowly? (>2 seconds)
+- Slowly?
+831
+Uganda Clinical Guidelines 2023CHAPTER 17: Childhood Illness
+Classify and treat as below
+CLINICAL FEATURES CLASSIFY AS MANAGEMENT
+Any 2 of these
+signs:
+~ Lethargic or
+unconscious
+~ Sunken
+eyes
+Severe Dehydration
+- If child has no other severe classification, give
+dehydration Plan C (see
+section 1.1.3)
+- If child also has another
+severe classification:
+- Give pre-referral
+treatment and
+refer urgently
+with mother
+giving frequent
+sips of ORS on
+the way
+CLINICAL FEATURES CLASSIFY AS MANAGEMENT
+~ Unable
+to drink
+or drinks
+poorly
+~ Skin
+pinch
+returns
+very
+slowly
+(>2 seconds)
+- Advise mother
+to continue
+breastfeeding
+- If child is 2 years or older
+and there is cholera in
+your area:
+- Give 1st dose of erythromycin 125 mg (if child <
+2 years) or 250 mg (child
+2-5 years) every 6 hours
+for 3 days
+- Educate mother on hygiene and sanitation
+Any 2 of these
+signs:
+~ Restless,
+irritable
+Some Dehydration
+- Give fluid, zinc supplements, and food if possible
+See Dehydration Plan B
+(see section 1.1.3)
+- If child also has a severe
+classification:
+832
+Uganda Clinical Guidelines 2023CHAPTER 17: Childhood Illness
+CLINICAL FEATURES CLASSIFY AS MANAGEMENT
+~ Sunken
+eyes
+Thirsty,
+drinks
+eagerly
+~ Skin
+pinch
+returns
+slowly
+- Refer
+URGENTLY to
+hospital with
+mother
+- Giving frequent
+sips of ORS on
+the way
+- Advise the mother
+to continue
+breastfeeding f
+Advise mother
+when to return
+immediately
+- FOLLOW UP in 5 days
+- If better
+(diarrhoea
+stopped, less than
+3 loose stools
+- per day, praise
+mother and
+advise her on
+feeding)
+- If not better (> 3
+loose stools per
+day), reasses, treat
+dehydration and
+refer
+- Educate mother on hygiene and sanitation
+~ Not
+enough
+signs to
+classify as
+some or
+severe
+dehydration
+No Dehydration
+- Give fluid, zinc supplements, and food to treat
+diarrhoea at home (Plan
+A) (see section 1.1.3)
+- Advise mother when to
+return immediately
+833
+Uganda Clinical Guidelines 2023CHAPTER 17: Childhood Illness
+CLINICAL FEATURES CLASSIFY AS MANAGEMENT
+- FOLLOW UP in 5 days
+- If better (diarrhoea
+stopped, less than
+3 loose stools per
+day, praise mother
+and advise her on
+feeding)
+- If not better (> 3
+loose stools per
+day), reasses, treat
+dehydration and
+refer
+- Continue with breast feeding
+- Educate mother on hygiene
+and sanitation
+~ Blood in
+stool
+Dysentery - Give ciprofloxacin 15 mg/
+kg for 3 days for Shigella
+- FOLLOW UP in 3 days
+- If better (fewer
+stools, less blood
+in stool, less fever,
+less abdominal
+pain, better feeding)
+praise the mother,
+complete the
+ciprofloxacin and
+advise on feeding
+- If not better, refer
+Dehydration
+present
+Severe
+Persistent
+Diarrhoea
+- Give vitamin A
+- Treat dehydration before
+referral (unless child has
+another severe classification)
+- Refer to hospital
+834
+Uganda Clinical Guidelines 2023CHAPTER 17: Childhood Illness
+CLINICAL FEA-
+TURES
+CLASSIFY
+AS
+MANAGEMENT
+If diarrhoea for 14 days or more:
+No dehydration
+Persistent
+Diarrhoea
+- Advise mother on feeding child
+with PERSISTENT DIARRHOEA
+- Give vitamin A; multivitamins and
+minerals (including zinc) for 14 days
+- FOLLOW UP in five days
+- If better (diarrhoea
+stopped, less than 3 loose
+stools per day, praise
+mother and advise her on
+feeding)
+- If not better (> 3 loose
+stools per day), reasses,
+treat dehydration and refer
+- If symptoms are the same
+or worse, start treating
+dehydration if present and
+refer to hospital
+Note:
+- The current recommendation for treatment of diarrhoea is
+oral rehydration salts (ORS) and zinc salts (Zn sulphate, Zn
+gluconate or Zn acetate).
+- Give zinc for 10 days: Child < 6 months: 10 mg per day;
+Child > 6 months: 20 mg per day

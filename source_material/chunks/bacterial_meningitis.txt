@@ -1,0 +1,1987 @@
+# TOPIC: bacterial_meningitis
+
+--- [WHO AWaRe Antibiotic Book (2022) | 26. Bacterial meningitis | p.361-377 | audience=general] ---
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book345
+HOSPITAL FACILITY 
+26. Bacterial meningitis
+Key messages
+• Bacterial meningitis is a severe potentially life-threatening infection.
+• Given the severity of this condition, meningitis is always considered of bacterial origin until 
+proven otherwise.
+• The first dose of antibiotic should never be delayed (ideally given within 1 hour of 
+presentation to care) and lumbar puncture and/or imaging should not delay starting 
+treatment.
+• The types of causative pathogens varies depending on the age and immune status of the 
+patient.
+Other relevant WHO resources (please check regularly for updates)
+• Defeating meningitis by 2030: a global road map (274).
+• Meningitis – health topic (275).
+• Managing meningitis epidemics in Africa: a quick reference guide for health authorities and 
+health-care workers (257).
+• Meningococcal vaccines: WHO position paper – November 2011 (276).
+• Meningococcal A conjugate vaccine: updated guidance, February 2015 (236).
+• Pneumococcal conjugate vaccines in infants and children under 5 years of age: WHO 
+position paper –February 2019 (35).
+• Haemophilus influenzae type b (Hib) vaccination position paper – July 2013: Introduction 
+(36).
+• WHO recommendations for routine immunization – summary tables (277).
+Definition
+Meningitis is an acute inflammation of the meninges, the membranes lining the brain and 
+spinal cord. It can be infectious or non-infectious in origin (e.g. associated with autoimmune 
+disease) and can be associated with high morbidity and mortality, even if treated promptly.
+346
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+26. Bacterial meningitis
+Bacterial meningitis
+Page 1 of 2
+Diagnosis
+Clinical Presentation
+•A cute onset (<48 h) of :
+-F ev er (≥ 38.0 °C ) and/or
+- Headache and/or confusion and/or
+- Neck stiffness
+•A ll thr ee signs and symptoms ar e pr esent in only ar ound
+half of patients but 95% of patients usually ha ve at least
+tw o and the absence of all thr ee symptoms signi/g246cantly
+r educes the pr obability of meningitis
+•Haemorrhagic rash may be pr esent (especially in case of
+meningococcal infec tion)
+Ideally before starting antibiotic treatment:
+•M icr oscopy and cultur e of cer ebr ospinal /g248uid ( CSF)
+•C r yptococcal antigen in CSF and blood (patients with HIV )
+•Blood cultur es
+•Note: if lumbar puncture not possible immediately start
+antibiotics after blood cultures. Testing should not delay
+giving antibiotics
+Microbiology Tests
+•C er ebr ospinal /g248uid ( CSF) examination (leukoc yte coun t
+and diffe re ntial leukoc yte count, pr otein and glucose)
+•C omplete blood coun t
+•Blood glucose
+•CRP and/or pr ocalcitonin
+•Blood lac tate
+CSF /g246ndings suggestive of bacterial etiology:
+•H igh opening pr essur e (normal range 80-200 mm H₂O or
+8-20 cm H₂O)
+•T urbid aspec t
+•E levated white blood cell count (often sev eral hundr ed to
+sev eral thousand WBC/mm³ or >0.1 to >1 X 10⁹/L)
+•E levated % of neutr ophils (>80%)
+•E levated pr otein (>45 mg/dL or >0.45 g/L)
+•L ow glucose (<40 mg/dL or <2.2 mmol/L)
+•CSF/Serum glucose ratio ≤0.4
+Other LaboratoryTests
+C onsider doing a head CT scan befor e doing the lumbar
+punc tur e in patients with focal neur ological signs ,
+decr eased lev el of consciousness/coma or a histor y of
+central ner v ous system disease or re cent seizures (<1 week)
+Imaging
+•A cute in/g248ammation of the meninges , the membranes lining
+the brain and spinal co rd
+•T he cause can be infec tious or non-infec tious (e .g . associate d
+with autoimmunity)
+De/g246nition
+•V accination against meningococcal , pneumococcal and
+Haemophilus in/g248uenzae type b disease
+•P ost -e xposur e antibiotic pr oph ylaxis with cipr o/g248o xacin or
+cef triax one for close contac ts (only for meningococcal
+meningitis)
+•h ttps://w ww .who .int/health-topics/meningitis#tab=tab_3
+Prevention
+Non-immunocompromised patients:
+•Streptococcus pneumoniae
+•Neisseria meningitidis
+Immunocompromised patients or >50 years:
+•Streptococcus pneumoniae
+•Neisseria meningitidis
+•( consider also in pr egnant w omen)Listeria monocytogenes
+Consider in speci/g246c situations:
+•V iral infec tions (especially Ente ro viruses , Herpesviridae and
+Arboviruses)
+• (mostly in endemic settings and/orMycobacterium tuberculosis
+in patients living with HIV )
+•C r yptococcal meningitis and cer ebral to x oplasmosis in sev er ely
+immunocompr omised patients (HIV )
+•C er ebral malaria (in patients living or trav elling to endemic
+settings)
+• or Gram-negativ e bac teria, includingStaphylococcus aureus
+multidrug-r esistant strains after neur osurgical inte rv entions or
+(for Gram-negativ e bac teria) in the contex t of Strongyloides
+h yperinfec tion syndr ome
+Most Likely Pathogens
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+347
+HOSPITAL FACILITY 
+26. Bacterial meningitis
+Bacterial meningitis
+Page 2 of 2
+Amoxicillin 2 g q4h IV
+Second Choice
+----------------------------------- -----------------------------------OR
+Ampicillin 2 g q4h IV
+----------------------------------- -----------------------------------OR
+Benzylpenicillin 4 million IU (2.4 g) q4h IV
+----------------------------------- -----------------------------------OR
+Chloramphenicol 1 g q6h IV
+Use chloramphenicol only when no other option is available
+because of toxicity
+Important:
+•Due to the severity of this condition all suspected
+cases of meningitis should be treated as soon as
+possible as bacterial meningitis until this has been
+excluded/viral cause has been clearly identi/g246ed
+•Listeria is not covered by ceftriaxone or cefotaxime
+therefore when is suspected, ampicillin shouldListeria
+be used
+Treatment
+Clinical Considerations
+•:Empiric treatment is based on
+-A ge of the patient
+-I mmune status of the patient
+-L ocal prevalence of isolates resistant toS. pneumoniae
+third-generation cephalosporins (rare but can occur
+especially in patients with prolonged or multiple
+exposures to β-lac tam antibiotics in the previous three
+months)
+•If a pathogen is isolated and its susceptibilities are known,
+review and modify antibiotics accordingly
+Antibiotic Treatment
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Consider second choice options only when /g246rst choice options
+are not available
+•Recommended (noonly in high-income settings
+evidence of bene/g246t in other settings)
+•Give with the /g246rst dose of antibiotic to attenuate the
+in/g248ammatory response and reduce the risk of neurological
+complications and death
+•Continue only if is con/g246rmedS. pneumoniae
+Use of Corticosteroids
+Dexamethasone 0.15 mg/kg q6h
+Unknown pathogen:10 days
+Con/g246rmed pneumococcal meningitis:10-14 days
+Con/g246rmed meningococcal meningitis:5-7 days
+Con/g246rmed meningitis:Listeria 21 days
+Antibiotic Treatment Duration
+Ceftriaxone 2 g q12h IV
+----------------------------------- -----------------------------------OR
+Cefotaxime 2 g q6h IV
+First Choice
+Add Ampicillin (or IV amoxicillin) to ceftriaxone/cefotaxime if
+risk factors for Listeria monocytogenes are present (e.g.
+patients ≥50 years, pr egnancy)
+348
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+26. Bacterial meningitis
+Bacterial meningitis
+Page 1 of 2
+Diagnosis
+Clinical Presentation
+Neonates:
+•S ymptoms ar e usually non-speci/g246c; often a combination
+of fe ve r, poor feeding , lethargy , dr owsiness, vomiting ,
+irritabilit y, seizur es or a full fontanelle
+•Neck stiffness is ve ry uncommon
+Older children:
+•A cute onset (<48 h) of :
+-F ev er (≥ 38.0 °C ) and /or
+- Headache and/or confusion and/or
+- Neck stiffness
+•Haemorrhagic rash may be pr esent (especially in case of
+meningococcal infec tion)
+Ideally before starting antibiotic treatment:
+•M icr oscopy and cultur e of cer ebr ospinal /g248uid ( CSF)
+•C r yptococcal antigen in CSF and blood (patients with HIV )
+•Blood cultur es
+•Note: testing should not delay giving antibiotics
+Microbiology Tests
+•C er ebr ospinal /g248uid ( CSF) examination (leukoc yte coun t
+and diffe re ntial leukoc yte count, pr otein and glucose
+CSF /g246ndings suggestive of bacterial etiology:
+•H igh opening pr essur e (normal range , 80-200 mm H₂O or
+8-20 cm H₂O)
+•T urbid aspec t
+•E levated white blood cell count (often sev eral hundr ed to
+sev eral thousand WBC/mm³)
+•E levated % of neutr ophils (>80%)
+•E levated pr otein (>45 mg/dL or >0.45 g/L)
+•CSF/Serum glucose ratio ≤0.4
+Other LaboratoryTests
+C onsider doing a head CT scan befor e doing the lumbar
+punc tur e in patients with focal neur ological signs ,
+decr eased lev el of consciousness/coma or a histor y of
+central ner v ous system disease or re cent seizures (<1 week)
+Imaging
+•A cute in/g248ammation of the meninges , the membranes lining
+the brain and spinal co rd
+•T he cause can be infec tious or non-infec tious in origin (e .g .
+associated with autoimmunity)
+De/g246nition
+•V accination against meningococcal , pneumococcal and
+Haemophilus in/g248uenzae type b disease
+•P ost -e xposur e antibiotic pr oph ylaxis with cipr o/g248o xacin or
+cef triax one for close contac ts (only for meningococcal
+meningitis)
+•h ttps://w ww .who .int/health-topics/meningitis#tab=tab_3
+Prevention
+Neonates (0-1 month):
+•( Gr oup B Str eptococcus)Streptococcus agalactiae
+•Escherichia coli
+•Listeria monocytogenes
+•Streptococcus pneumoniae
+Children/adolescents:
+•Streptococcus pneumoniae
+•Neisseria meningitidis
+•t ype bHaemophilus in/g248uenzae
+•I nv asiv e non-typhoidal (HIV/sick le cell disease)Salmonella
+•T yphi (rar e)Salmonella
+Consider in speci/g246c situations:
+•V iral infec tions (especially Ente ro viruses , Herpesviridae and
+Arboviruses) and non-infec tious causes
+• (mostly in endemic settings and/orMycobacterium tuberculosis
+in patients living with HIV )
+•C r yptococcal meningitis and cer ebral to x oplasmosis in sev er ely
+immunocompr omised patients
+•C er ebral malaria (in patients living or trav elling to endemic
+settings)
+• or Gram-negativ e bac teria, includingStaphylococcus aureus
+multidrug-r esistant strains after neur osurgical inte rv entions
+Most Likely Pathogens
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+349
+HOSPITAL FACILITY 
+26. Bacterial meningitis
+Bacterial meningitis
+Page 2 of 2
+Important: due to the severity of this condition all
+suspected cases of meningitis should be treated as
+soon as possible as bacterial meningitis until this has
+been excluded/viral cause has been clearly identi/g246ed
+Treatment
+Clinical Considerations
+•:Empiric treatment is based on
+-A ge of the patient
+-I mmune status of the patient
+-L ocal prevalence of isolates resistant toS. pneumoniae
+third-generation cephalosporins (rare but can occur
+especially in patients with prolonged or multiple
+exposures to β-lac tam antibiotics in the previous three
+months)
+•If a pathogen is isolated and its susceptibilities are known,
+review and modify antibiotics accordingly
+•Recommended (noonly in high-income settings
+evidence of bene/g246t in other settings)
+•Give with the /g246rst dose of antibiotic to attenuate the
+in/g248ammatory response and reduce the risk of neurological
+complications and death
+•Continue only if is con/g246rmedS. pneumoniae
+•Steroids are not recommended in neonatal meningitis
+Use of Corticosteroids
+Dexamethasone 0.15 mg/kg q6h
+Neonates (< 1 Month)
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+First Choice
+Ampicillin IV
+•1st week of life: 50 mg/kg/dose q12h
+•>1st week of life: 50 mg/kg/dose q8h
+Gentamicin IV
+•1st week of life: 5 mg/kg q24h
+•>1st week of life: 7.5 mg/kg q24h
+---------------------- ----------------------COMBINED WITH
+----------------------------------- -----------------------------------OR
+Cefotaxime IV
+•1st week of life:5 0m g/kg/doseq12h
+•>1st week of life:5 0m g/kg/doseq6h
+----------------------------- -----------------------------OR
+---------------------- ----------------------COMBINED WITH
+Gentamicin IV
+•1st week of life: 5 mg/kg q24h
+•>1st week of life: 7.5 mg/kg q24h
+Ceftriaxone 100 mg/kg q24h IV
+Meropenem 40 mg/kg/dose q8h IV
+Second Choice
+Consider only if resistant Gram-negative organisms are
+suspected
+Unknown pathogen: in older children &i n10 days 3 weeks
+neonates
+Con/g246rmed pneumococcal meningitis:10-14 days
+Con/g246rmed meningococcal meningitis:5-7 days
+Con/g246rmed meningitis:Listeria 21 days
+Antibiotic Treatment Duration
+Children
+All dosages are for normal renal function
+Antibiotics are listed in alphabetical order and should be
+considered equal treatment options unless otherwise indicated
+Consider second choice options only when /g246rst choice options
+are not available
+Ceftriaxone 100 mg/kg q24h IV
+----------------------------------- -----------------------------------OR
+Cefotaxime 50 mg/kg/dose q8h IV
+First Choice
+Amoxicillin 50 mg/kg/dose q8h IV
+Second Choice
+----------------------------------- -----------------------------------OR
+Ampicillin 50 mg/kg/dose q8h IV
+----------------------------------- -----------------------------------OR
+Benzylpenicillin 60 mg (100 000 IU)/kg/dose
+q6h IV
+----------------------------------- -----------------------------------OR
+Chloramphenicol 25 mg/kg/dose q6h IV
+Use chloramphenicol only when no other option is available
+because of toxicity
+350The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+26. Bacterial meningitis
+Pathophysiology
+The pathogens that cause meningitis can colonize the upper respiratory tract and from 
+there invade the bloodstream and get access to the central nervous system through the 
+ventricular choroid plexus or can access the meninges by local spread. Because the central 
+nervous system lacks effective immune defences, organisms can multiply rapidly, cause 
+direct tissue injury to the meninges and produce an inflammatory response that contributes 
+to neurological symptoms.
+Epidemiology
+Meningitis is found worldwide and can affect individuals of all ages, although some 
+differences exist across geographic regions. Mortality is highest in children younger than 
+5 years. Outbreaks of meningococcal meningitis mostly occurring during cooler and drier 
+seasons are a serious threat, especially in the so-called meningitis belt, an area in the peri-
+Sahelian African region stretching from Senegal in the west to Ethiopia in the east. Although 
+deaths from meningitis decreased overall by about 20% between 1990 and 2016 (from an 
+estimated 403 000 deaths to about 318 000 a year), the burden of bacterial meningitis is still 
+high, especially in low- and middle-income countries despite an increase in immunization 
+programmes (278). According to data from the Global Burden of Disease study, in 2017, 
+there were around 5 million new cases of meningitis (considering all ages and both sexes 
+combined) (44). Almost half of the cases were of viral origin (2.4 million cases). In the same 
+year, the number of new cases of acute pneumococcal (about 440 000) and meningococcal 
+(about 400 000) meningitis were similar, while Haemophilus influenzae accounted for an 
+estimated 262 000 new cases (44).
+Tuberculous meningitis is more common in settings with a high prevalence of TB, 
+especially among patients living with HIV. In settings where TB is endemic, children and 
+young adults are more at risk of TB meningitis (dissemination of primary infection from the 
+lungs to the central nervous system), while in setting with a low prevalence of TB, adults are 
+most at risk (reactivation of a latent TB infection) (279).
+The incidence and mortality of meningitis are higher in countries with limited 
+resources. In 2016, > 90% of new cases of meningitis and > 80% of deaths (about 270 000 
+deaths) occurred in countries with a low to middle socioeconomic index, as defined by the 
+Global Burden of Disease study group (278). In 2016, the highest mortality was reported for 
+central and western sub-Saharan African regions, about 110 000 deaths. Nevertheless, of 
+the 10 countries with the highest absolute number of meningitis deaths in 2016, four were 
+located outside of the meningitis belt (Afghanistan, China, India and Pakistan). About 7% of 
+new meningitis cases and 4% of deaths in 2016 occurred in countries with a high or middleto-high socioeconomic index (278).
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book351
+HOSPITAL FACILITY 
+26. Bacterial meningitis
+Most likely pathogens
+Viral meningitis (usually benign and mainly caused by enteroviruses and arboviruses) 
+and non-infectious causes (e.g. autoimmune or neoplastic diseases or as a side-effect of 
+certain medicines) can mimic the signs and symptoms of bacterial meningitis. Therefore, 
+it is important to consider these causes in the differential diagnosis. The most frequently 
+implicated bacteria (beyond the neonatal age) are Streptococcus pneumoniae , Neisseria 
+meningitidis and Haemophilus influenzae (serotype b and non-typeable strains). The most 
+likely causative bacteria may differ across age groups (e.g. meningitis due to Haemophilus 
+influenzae mainly affects children) and in patients with immune system deficiencies, for 
+example, increased risk of Listeria monocytogenes, increased risk of meningitis caused by 
+encapsulated bacteria such as Neisseria meningitidis and Streptococcus pneumoniae in 
+patients with asplenia or hyposplenia (Table 26.1). 
+Tuberculous meningitis should also be considered in the differential diagnosis 
+in patients living in or coming from areas where TB is endemic, especially if the onset of 
+disease is not acute.
+In patients with severe immunosuppression (e.g. with advanced HIV disease), 
+cryptococcal meningitis and cerebral toxoplasmosis should also be considered, although 
+the clinical presentation of these two infections is usually less acute than bacterial 
+meningitis. In patients living in or visiting areas where malaria is endemic, cerebral malaria 
+should also be included in the differential diagnosis. Although most cases of meningitis 
+are community-acquired, the infection can also be health care-associated (e.g. after 
+neurosurgical interventions and after lumbar puncture). In that case, the most likely 
+pathogens are Staphylococcus aureus or aerobic Gram-negative bacilli, including multidrugresistant strains. For prevention of health care-associated meningitis refer to the WHO global 
+guidance on prevention of surgical site infections (280).
+352The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+26. Bacterial meningitisTable 26.1 – Pathogens most frequently associated with bacterial meningitis (in descending order of frequency)
+Neonates 
+(0–1 month)
+Children and 
+adolescents
+Nonimmunocompromised 
+adults
+Immunocompromised 
+adults or all adults > 
+50 years
+Other
+Streptococcus 
+agalactiae 
+(group B 
+Streptococcus)
+Escherichia coli
+Listeria 
+monocytogenes
+Streptococcus 
+pneumoniae
+Streptococcus 
+pneumoniae
+Neisseria 
+meningitidis
+Haemophilus 
+influenzae type b 
+and non-typeable 
+strains
+Mycobacterium 
+tuberculosisa
+Invasive 
+non-typhoidal 
+Salmonellab
+Rare
+Salmonella Typhi
+Streptococcus 
+pneumoniae
+Neisseria meningitidis
+Streptococcus 
+pneumoniae
+Neisseria meningitidis
+In addition to the 
+above also consider:
+Listeria monocytogenesc
+Mycobacterium 
+tuberculosisa
+Streptococcus suisd
+Mycobacterium tuberculosisa 
+Staphylococcus aureus or Gramnegative bacteriae (including multidrugresistant strains after neurosurgical 
+interventions)
+Non-bacterial causes of meningitis
+Viral infections (especially Enteroviruses, 
+Herpesviridae and Arboviruses)
+Cryptococcal meningitis and 
+cerebral toxoplasmosis in severely 
+immunocompromised patients (e.g. 
+with HIV)
+Cerebral malaria (in patients living in or 
+travelling to endemic settings)
+HIV: human immunodeficiency virus.
+a Mostly in settings where tuberculosis is endemic and/or in patients positive for HIV.
+b Mainly in sub-Saharan Africa in children living with HIV and/or sickle cell disease.
+c Pregnant women also have an increased risk of Listeria monocytogenes infection.
+d Consider if exposure to pigs.
+e Gram-negative bacterial meningitis can also occur as a consequence of Strongyloides hyperinfection syndrome, which is a rare but fatal condition that can occur in 
+immunocompromised people infected with Strongyloides stercoralis.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book353
+HOSPITAL FACILITY 
+26. Bacterial meningitis
+Meningitis caused by antibiotic-resistant 
+pathogens
+Data on the proportion of penicillin- and third-generation cephalosporin-resistant 
+Streptococcus pneumoniae isolates causing meningitis are scarce in most countries with 
+a high incidence of bacterial meningitis; however, whenever available, these data should 
+guide empiric antibiotic treatment. Currently, because of the potential risk of penicillinresistance in Streptococcus pneumoniae isolates and because meningitis is a very serious 
+and potentially fatal disease, a third-generation cephalosporin is recommended for 
+empiric treatment. Isolates with intermediate or complete resistance to ceftriaxone have 
+rarely been described (mainly in patients with prolonged or multiple exposures to betalactam antibiotics in the previous 3 months) and some experts suggest adding intravenous 
+vancomycin or rifampicin empirically to provide effective treatment for these isolates. 
+Meningitis caused by multidrug-resistant Gram-negative bacteria has also been reported. 
+Clinical presentation 
+In adults, meningitis should be suspected in the case of acute onset (< 48 hours) of:
+• fever (≥ 38.0 °C) AND/OR
+• headache and/or change in mental status and/or confusion AND/OR
+• neck stiffness.
+Clinical factors to consider in diagnosing meningitis are shown in Box 26.1.
+Box 26.1 – Clinical considerations
+• All three of the classic signs and symptoms (fever, confusion and/or headache, and neck 
+stiffness) are present in only around half of patients with bacterial meningitis. 
+• However, 95% of adult patients usually have at least two of these symptoms and the 
+absence of all three symptoms significantly reduces the probability of meningitis (281). 
+A haemorrhagic rash may also be present, especially in cases of meningitis caused 
+by Neisseria meningitidis although such a rash is not specific for meningococcal infection. 
+Notably with Streptococcus pneumoniae, foci of infection outside the central nervous system, 
+such as otitis media, sinusitis, pneumonia and endocarditis, are also often observed.
+Because bacterial meningitis is a serious illness and clinical and epidemiological 
+features alone cannot always reliably differentiate bacterial and viral origin, all severe cases
+354The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+26. Bacterial meningitis
+should be treated as if they were bacterial until this has been excluded or a viral cause has 
+been clearly identified.
+For the diagnosis of meningitis in children and neonates, refer to the latest edition 
+of the WHO Pocket book of hospital care for children (31). In neonates, the clinical presentation 
+is less typical and symptoms are usually non-specific. Neonates often present with a 
+combination of fever, poor feeding, lethargy, drowsiness, vomiting, irritability, seizures or a 
+full fontanelle. Neck stiffness is very uncommon. 
+Laboratory tests
+Patient microbiology tests
+Whenever possible, certain microbiology tests should be considered (Table 26.2); ideally 
+samples should be obtained before antibiotic treatment is started. The rationale for these 
+tests is to establish the diagnosis and identify the pathogen as this affects treatment.
+Table 26.2 – Microbiology tests to consider for the diagnosis of meningitis as 
+indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test should 
+be available
+Blood culturesa 
+and antimicrobial 
+susceptibility testing
+To detect bacterial and fungal 
+bloodstream infections
+Health care facilities with 
+clinical laboratories
+CSF microscopy 
+(Gram stain)
+To assess microbial 
+morphology, number of white 
+blood cells and red blood cells
+Health care facilities with 
+clinical laboratories
+CSF culture and 
+antimicrobial 
+susceptibility testing
+Initial step to detect and 
+identify bacterial and fungal 
+species for selection of 
+appropriate antimicrobial 
+regimens
+Health care facilities with 
+clinical laboratories
+Cryptococcal 
+antigen test (CSF , 
+blood)
+To screen and diagnose 
+cryptococcal meningitis in 
+people living with advanced 
+HIV disease
+Health care facilities with 
+clinical laboratories and also in 
+primary care settings
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book355
+HOSPITAL FACILITY 
+26. Bacterial meningitis
+Table 26.2 continued
+Diagnostic test Purpose of the test Settings where the test should 
+be available
+Mycobacterium 
+tuberculosis DNA 
+(CSF)
+To diagnose active tuberculosis 
+and simultaneously or 
+sequentially detect rifampicin 
+resistance
+Health care facilities with 
+clinical laboratories
+CSF: cerebrospinal fluid; EDL: Model List of Essential In Vitro Diagnostics; HIV: human immunodeficiency virus.
+a If blood is taken before starting antibiotic treatment, blood cultures are often positive in cases of bacterial 
+meningitis (up to 75% of cases) (281,282).
+Other tests
+In the presence of compatible signs and symptoms, a definitive diagnosis of bacterial 
+meningitis requires examination of cerebrospinal fluid. Therefore, whenever possible and if 
+no contraindications are present (such as increased bleeding risk, risk of herniation or a skin 
+infection at the site of the puncture), a lumbar puncture should be done before starting 
+antibiotic treatment. However, doing a lumbar puncture should never delay giving antibiotic 
+treatment when bacterial meningitis is suspected; if available at least blood cultures should 
+be taken before starting treatment. In settings where CT scanning is available, certain 
+patients may benefit from a scan of the head before the lumbar puncture because of the 
+risk of cerebral herniation after removing cerebrospinal fluid at the lumbar level if elevated 
+intracranial pressure is suspected. CT scanning should never delay the start of antibiotic 
+treatment. If available, imaging is indicated in patients with focal neurological signs, decreased 
+level of consciousness or coma or a history of central nervous system disease or recent onset 
+of seizures (< 1 week) or severe immunosuppression (e.g. advanced HIV disease).
+Laboratory tests to consider when meningitis is suspected are given in Table 26.3. In 
+the specific context of epidemics, also consult the WHO meningitis epidemics guidelines (257).
+In bacterial meningitis, the characteristics of cerebrospinal fluid vary widely (and 
+may be normal or only slightly altered in neonates); however, certain findings suggest a 
+probable bacterial cause. In particular, the following characteristics of the cerebrospinal fluid 
+suggest bacterial meningitis:
+• high opening pressure during lumbar puncture (reference range, 80–200 mm 
+H2O or 8–20 cm H2O)
+• turbid appearance of cerebrospinal fluid 
+• elevated cerebrospinal fluid white blood cell count (often more than several 
+hundred to several thousand cells/mm3 or > 0.1 to > 1 × 109/L)
+356The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+26. Bacterial meningitis
+• elevated cerebrospinal fluid percentage of neutrophils (> 80%)
+• elevated cerebrospinal fluid protein (> 45 mg/dL or > 0.45 g/L)
+• low cerebrospinal fluid glucose (< 40 mg/dL or < 2.2 mmol/L)
+• low cerebrospinal fluid to plasma glucose ratio (≤ 0.4).
+Table 26.3 – Laboratory tests that could be considered for the diagnosis of 
+meningitis as indicated in the WHO EDL (6)
+Diagnostic test Purpose of the test Settings where the test 
+should be available
+Basic CSF profile (CSF 
+leukocyte count, CSF 
+differential leukocyte 
+count and CSF protein 
+and glucose)
+To aid in the diagnosis of 
+bacterial, mycobacterial, 
+fungal and viral meningitis
+Health care facilities with 
+clinical laboratories
+Complete blood count To detect a wide range 
+of disorders, including 
+infections
+Health care facilities with 
+clinical laboratories
+Blood glucose To diagnose hyperglycaemia/
+hypoglycaemia
+Health care facilities with 
+clinical laboratories but also 
+in primary care settings
+C-reactive protein To detect inflammation 
+as an indicator of various 
+conditions (e.g. sepsis)
+Health care facilities with 
+clinical laboratories
+Procalcitonin To guide antibiotic therapy or 
+discontinuation in sepsis
+Only in tertiary health care 
+facilities
+Whole blood lactate To assess metabolic acidosis, 
+sepsis and dehydration
+Community settings and 
+health facilities without 
+laboratories
+CSF: cerebrospinal fluid; EDL: Model List of Essential In Vitro Diagnostics.
+Using microbiology surveillance data 
+Targeted periodic clinical surveillance, including risk factors, resistance of key pathogens 
+and outcomes, may be helpful to inform empiric guidance at a national level.
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book357
+HOSPITAL FACILITY 
+26. Bacterial meningitis
+Tuberculosis meningitis
+TB meningitis should always be considered in the differential diagnosis in high-risk patients 
+and in settings where TB is endemic. TB meningitis can have an acute presentation and, 
+similar to bacterial meningitis, its diagnosis cannot be made or excluded only on the basis 
+of clinical presentation. Since TB meningitis is a serious disease, prompt diagnosis and 
+treatment are essential (119). 
+Use of corticosteroids
+The rationale for the use dexamethasone in cases of meningitis is to reduce the 
+inflammatory response and the risk of neurological sequelae (e.g. hearing loss) and death. 
+The use of adjunctive steroids is suggested only in high-income settings, where it has a 
+proven benefit. Current evidence has failed to show any significant benefit both in terms 
+of mortality and sequelae in patients in low-income countries (283–285). In high-income 
+countries, dexamethasone can be given before or at the time of the first antibiotic dose if 
+bacterial meningitis is suspected and continued if Streptococcus pneumoniae is confirmed. 
+The recommended dose is 0.15 mg/kg of dexamethasone every 6 hours. Steroids are not 
+recommended in neonatal meningitis. 
+Antibiotic treatment
+Antibiotic treatment should be started as soon as possible when bacterial meningitis is 
+suspected (Table 26.4). The first dose of antibiotic treatment should not be delayed until 
+the results of the lumbar puncture are available. The choice of empiric antibiotic treatment 
+should take into account the age of the patient, presence of immunosuppression and local 
+prevalence of Streptococcus pneumoniae isolates resistant to third-generation cephalosporins. 
+The patient risk of Listeria meningitis should also be taken into account (e.g. pregnant women, 
+patients who are immunocompromised or patients > 50 years of age) because ceftriaxone 
+(and cefotaxime) do not cover this pathogen and ampicillin should be used in these cases.
+As a general rule, empiric treatment in children other than neonates (< 1 month) 
+and in adults should always cover all three of the main causative pathogens ( Haemophilus 
+influenzae, Neisseria meningitidis and Streptococcus pneumoniae). 
+If a pathogen is isolated and its susceptibilities are known, antibiotics should be 
+reviewed and modified accordingly. When no pathogen is identified, the duration of 
+antibiotic treatment should be guided by available laboratory results and clinical response.
+Step-down to oral treatment is less commonly used in meningitis management, 
+where the treatment is mainly parenteral where possible to maximize penetration into the 
+cerebrospinal fluid.
+358The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+26. Bacterial meningitisTable 26.4 – Empiric antibiotic treatment for bacterial meningitis
+Important
+Where more than one antibiotic is recommended for an infection, they are listed in alphabetical order and they should be considered equal 
+treatment options, unless otherwise indicated.
+Adults Children (not 
+neonates)
+Neonates (< 1 month) Total treatment 
+duration
+First 
+choice
+ Cefotaxime (IV): 
+2 g given every 
+6 hours
+OR
+ Ceftriaxone (IV): 
+2 g given every 
+12 hours
+ Cefotaxime (IV): 
+50 mg/kg/dose given 
+every 8 hours
+OR
+ Ceftriaxone (IV): 
+100 mg/kg given once 
+a day
+ Ampicillin (IV): 
+50 mg/kg/dose given every 12 hours (first week of life)
+50 mg/kg/dose given every 8 hours (> first week of life)
+AND Gentamicin (IV):
+5 mg/kg given once a day (first week of life) 
+7.5 mg/kg given once a day (> first week of life)
+OR 
+ Cefotaxime (IV):
+50 mg/kg/dose given every 12 hours (first week of life)
+50 mg/kg/dose given every 6 hours (> first week of life) 
+AND Gentamicin (IV): 
+5 mg/kg given once a day (first week of life) 
+7.5 mg/kg given once a day (> first week of life)
+OR
+ Ceftriaxone (IV): 100 mg/kg given once a day
+AND Gentamicin (IV): 
+5 mg/kg given once a day (first week of life)
+7.5 mg/kg given once a day (> first week of life)
+Unknown pathogen 
+10 days (adults and 
+children) 
+3 weeks (neonates) 
+Confirmed 
+pneumococcal 
+meningitis 
+10–14 days
+Confirmed 
+meningococcal 
+meningitis
+5–7 days 
+In epidemics, 
+specific WHO 
+recommendations on 
+duration apply (257) 
+Confirmed Listeria 
+meningitis
+21 days
+continues
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book359
+HOSPITAL FACILITY 
+26. Bacterial meningitis
+Table 26.4 continued
+Adults Children (not 
+neonates)
+Neonates (< 1 month) Total treatment 
+duration
+Second 
+choicea
+ Amoxicillin b OR
+ Ampicillin b (IV): 
+2 g given every 
+4 hours
+OR
+ Benzylpenicillin 
+(IV): 4 million IU (2.4 g) 
+given every 4 hours
+OR
+ Chloramphenicol c 
+(IV): 1 g given every 
+6 hours
+ Amoxicillin (IV): 
+50 mg/kg/dose given 
+every 8 hours
+OR
+ Ampicillin (IV): 
+50 mg/kg/dose given 
+every 8 hours
+OR
+ Benzylpenicillin (IV): 
+100 000 IU/kg/dose 
+(60 mg/kg/dose) given 
+every 6 hours
+OR
+ Chloramphenicol c 
+(IV: 25 mg/kg/dose 
+given every 6 hours
+ Meropenem (IV): 40 mg/kg/dose given every 8 hours Same as above
+IU: international units; IV: intravenous.
+Note: All dosages are for normal renal and hepatic function.
+a In adults and in children beyond neonatal age, consider second choice options only when first choice options are not available. In neonates, consider meropenem 
+(second choice) only where resistant Gram-negative organisms are the suspected causative agents.
+b Ampicillin (or IV amoxicillin) in adults should be added to ceftriaxone/cefotaxime if risk factors for Listeria monocytogenes are present (e.g. patients ≥ 50 years, pregnant women).
+c Chloramphenicol should only be used when no other option is available because of toxicity (the most serious adverse event is bone marrow depression).
+Legend: ACCESS antibiotics are indicated in green, WATCH antibiotics in orange and RESERVE antibiotics in red.
+360The WHO AWaRe (Access, Watch, Reserve) antibiotic book
+ HOSPITAL FACILITY
+26. Bacterial meningitis
+Prevention
+Vaccination and post-exposure prophylaxis
+Primary prevention of bacterial meningitis relies on vaccination and antibiotic prophylaxis 
+for close contacts of cases. Vaccination is a successful intervention to prevent bacterial 
+meningitis. Available vaccines are active against meningococcal, pneumococcal and 
+Haemophilus influenzae type b disease. Vaccines are never 100% effective and they do not 
+protect against all strains of a bacterial pathogen. Duration of protection is also variable. As 
+a result, even vaccinated people can develop bacterial meningitis. WHO recommendations 
+for routine immunizations and the WHO roadmap towards defeating meningitis by 2030 are 
+available online (274,277).
+Meningococcal vaccination
+Appropriate large-scale meningococcal vaccination programmes should be in place in 
+countries with a high (> 10 cases per 100 000 population/year) or intermediate (2–10 
+cases per 100 000 population/year) incidence of meningococcal disease or with frequent 
+epidemics. In countries in the meningitis belt, all individuals aged 1–29 years (including 
+pregnant women) should be vaccinated with the meningococcal A conjugate vaccine 
+(236,276).
+In countries with a low incidence of meningococcal disease (< 2 cases per 100 
+000 population/year), vaccination is recommended only for defined high-risk groups such 
+as children and young adults or individuals with immunodeficiency. The choice of the 
+recommended vaccine depends on the local prevalence of the different meningococcal 
+serogroups (276). 
+Pneumococcal vaccination
+The inclusion of pneumococcal conjugate vaccines in childhood immunization programmes 
+worldwide is recommended (35).
+Haemophilus influenzae type b vaccination
+The inclusion of Haemophilus influenzae type b conjugate vaccines in childhood 
+immunization programmes worldwide is recommended (36).
+The WHO AWaRe (Access, Watch, Reserve) antibiotic book361
+HOSPITAL FACILITY 
+26. Bacterial meningitis
+Post-exposure antibiotic prophylaxis in case of meningococcal 
+meningitis
+Post-exposure antibiotic prophylaxis should be considered in the following situations (275):
+• outside of the African meningitis belt for all close contacts within the household 
+• in the African meningitis belt for close contacts in non-epidemic situations.
+Ciprofloxacin (usually 500 mg oral, single dose) is the antibiotic of choice, and 
+ceftriaxone can be used as an alternative (usually 250 mg intramuscular single dose in adults 
+and 125 mg intramuscular single dose in children).
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.9 | p.9-9 | audience=pediatric] ---
+vii
+6.2 Malaria 156
+ 6.2.1 Severe malaria 156
+ 6.2.2 Uncomplicated malaria 163
+6.3 Meningitis 167
+ 6.3.1 Bacterial meningitis 167
+ 6.3.2 Meningococcal epidemics 170
+ 6.3.3 Tuberculous meningitis 171
+ 6.3.4 Cryptococcal meningitis 172
+6.4 Measles 174
+ 6.4.1 Severe complicated measles 175
+ 6.4.2 Non-severe measles 178
+6.5 Septicaemia 179
+6.6 Typhoid fever 180
+6.7 Ear infections 182
+ 6.7.1 Mastoiditis 182
+ 6.7.2 Acute otitis media 183
+ 6.7.3 Chronic otitis media 184
+6.8 Urinary tract infection 184
+6.9 Septic arthritis or osteomyelitis 186
+6.10 Dengue 188
+ 6.10.1 Severe dengue 188
+6.11 Rheumatic fever 193
+7. SEVERE ACUTE MALNUTRITION 197
+7.1 Severe acute malnutrition 198
+7.2 Initial assessment of a child with severe acute malnutrition 198
+7.3 Organization of care 200
+7.4 General management 200
+ 7.4.1 Hypoglycaemia 201
+ 7.4.2 Hypothermia 202
+ 7.4.3 Dehydration 203
+ 7.4.4 Electrolyte imbalance 206
+ 7.4.5 Infection 207
+ 7.4.6 Micronutrient deficiencies 208
+CO NTENTS
+PB2_Prelims.indd viiPB2_Prelims.indd vii 5/06/13 10:00 AM5/06/13 10:00 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.49 | p.49-49 | audience=pediatric] ---
+25
+1. TRIAGECHILD PRESENTING WITH LETHARGY, UNCONSCIOUSNESS OR CONVULSIONS
+Table 3. Continued
+Diagnosis or underlying cause In favour
+Acute glomerulonephritis with 
+encephalopathy
+ – Raised blood pressure
+ – Peripheral or facial oedema
+ – Blood and/or protein in urine
+ – Decreased or no urine
+Diabetic ketoacidosis – High blood sugar
+ – History of polydipsia and polyuria
+ – Acidotic (deep, laboured) breathing
+a The differential diagnosis of meningitis may include encephalitis, cerebral abscess or tuberculous meningitis. Consult a standard textbook of paediatrics for further guidance. 
+b A lumbar puncture should not be done if there are signs of raised intracranial pressure (see 
+section 6.3, p. 167 and A1.4, p. 346). A positive lumbar puncture may show cloudy cerebrospinal 
+fl uid (CSF) on direct visual inspection, or CSF examination shows an abnormal number of white 
+cells (usually > 100 polymorphonuclear cells per ml in bacterial meningitis). Confirmation is 
+given by a low CSF glucose (< 1.5 mmol/litre), high CSF protein (> 0.4 g/litre), organisms 
+identified by Gram staining or a positive culture.
+Table 4. Differential diagnosis in a young infant (< 2 months) presenting with 
+lethargy, unconsciousness or convulsions
+Diagnosis or underlying cause In favour
+Birth asphyxia
+Hypoxic ischaemic encephalopathy 
+Birth trauma
+ – Onset in fi rst 3 days of life
+ – History of difficult delivery
+Intracranial haemorrhage – Onset in fi rst 3 days of life in a lowbirth-weight or preterm infant
+Haemolytic disease of the 
+newborn, kernicterus
+ – Onset in fi rst 3 days of life 
+ –J a u n d i c e
+ –P a l l o r
+ – Serious bacterial infection
+ – No vitamin K given
+Neonatal tetanus – Onset at age 3–14 days
+ – Irritability
+ – Difficulty in breastfeeding
+ –T r i s m u s
+ –M u s c l e s p a s m s
+ –C o n v u l s i o n s
+PB2_ch1.indd 25PB2_ch1.indd 25 5/06/13 10:04 AM5/06/13 10:04 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.79 | p.79-79 | audience=pediatric] ---
+55
+3. YOUNG INFANTS
+ /L50776For newborns with any signs of serious bacterial infection or sepsis, give 
+ampi
+cillin (or penicillin) and gentamicin as fi rst-line antibiotic treatment (for 
+dosages see pp. 69–72)
+ /L50776If at greater risk of staphylococcus infection ( extensive skin pustules, 
+ab
+scess or omphalitis in addition to signs of sepsis), give IV cloxacillin 
+and gentamicin.
+ /L50776The most serious bacterial infections in newborns should be treated with 
+a
+ntibiotics for at least 7–10 days.
+ /L50776If an infant is not improving within 2–3 days, change the antibiotic treatment 
+o
+r refer the infant for further management.
+Other treatment
+ /L50776If the infant is drowsy or unconscious, ensure that hypoglycaemia is not 
+p
+resent (see p. 53); if it is, give 2 ml/kg 10% glucose IV.
+ /L50776Treat convulsions with phenobarbital (see p. 53).
+ /L50776For management of pus draining from eyes, see p. 66.
+ /L50776If the child is from a malarious area and has fever, take a blood fi lm to check 
+f
+or malaria. Neonatal malaria is very rare. If confirmed, treat with artesunate 
+or quinine (see p. 158).
+ /L50776For supportive care, see p. 56.
+3.9 Meningitis
+Clinical signs 
+Suspect meningitis if signs of serious bacterial infection (see section 3.8) are 
+present, particularly if any one of the following is present: 
+The infant is:
+ ■drowsy, lethargic or unconscious
+ ■convulsing
+ ■has a bulging fontanelle
+ ■irritable
+ ■has a high-pitched cry.
+I
+t is important to attempt lumbar puncture once the infant has been stabilized, 
+ideally within 2 h of initiating antibiotic treatment, because it serves to confirm 
+the diagnosis. 
+MENINGITIS
+PB2_ch3.indd 55PB2_ch3.indd 55 5/06/13 10:05 AM5/06/13 10:05 AM
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.1.5 Meningitis | p.173-177 | audience=general] ---
+ICD10 CODES: A39.0 (MENINGOCOCCAL), G00, G01, G02
+Meningitis is acute inflammation of the meninges (the membranes covering the brain). Bacterial meningitis is a notifiable disease.
+Causative organisms
+Most commonly bacterial: Streptococcus pneumoniae, Haemophilus
+influenzae type b (mainly in young children), Neisseria meningitidis,
+Enteric bacilli
+~ Viral (HSV, enteroviruses, HIV, VZV etc)
+~ Cryptococcus neoformans (in the immune-suppressed)
+~ Mycobacterium tuberculosis
+Clinical features
+~ Rapid onset of fever
+~ Severe headache and neck stiffness or pain
+~ PhotophobiaHaemorrhagic rash (N.meningitidis infection)
+~ Convulsions, altered mental state, confusion, coma
+~ In mycobacterial and cryptococcal meningitis, the clinical
+presentation can be sub-acute , over a period of several
+days or 1-2 weeks
+107
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+Differential diagnosis
+~ Brain abscess
+~ Space-occupying lesions in the brain
+~ Drug reactions or intoxications
+Investigations
+- CSF: usually cloudy if bacterial, clear if viral. Analyse for white
+cell count and type, protein, sugar, Indian-ink staining (for Cryptococcus), gram stain, culture and sensitivity
+- Blood: For serological studies and full blood count
+- Blood: for culture and sensitivity
+- Chest X-ray and ultrasound to look for possible primary site
+Management
+Because of the potential severity of the disease, refer all patients to hospital
+after pre-referral dose of antibiotic. Carry out lumbar puncture promptly
+and initiate empirical antibiotic regimen
+Treatment depends on whether the causative organisms are already identified or not.
+TREATMENT LOC
+General measures
+- IV fluids
+- Control of temperature
+- Nutrition support (NGT if necessary)
+Causative organisms not yet identified
+- Start initial appropriate empirical broad spectrum therapy
+- Ceftriaxone 2 g IV or IM every 12 hours for 10-
+14 days
+HC4
+108
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+TREATMENT LOC
+- Child: 100 mg/kg daily dose given as above
+- Change to cheaper effective antibiotic if and
+when C&S results become available
+If ceftriaxone not available/not improving
+- Use chloramphenicol 1 g IV every 6 hours for up to 14
+days (use IM if IV not possible)
+Child: 25 mg/kg per dose
+Once clinical improvement occurs
+- Change to 500-750 mg orally every 6 hours to
+complete the course;
+Child: 25 mg/kg per dose
+Causative organisms identified
+Streptococcus pneumoniae (10-14 day course; up to
+21 days in severe case)
+- Benzylpenicillin 3-4 MU IV or IM every 4 hours
+Child: 100,000 IU/kg per dose
+- Or ceftriaxone 2 g IV or IM every 12 hours
+Child: 100 mg/kg daily dose
+H
+Haemophilus influenzae (10 day course)
+- Ceftriaxone 2 g IV or IM every 12 hours
+Child: 100 mg/kg per dose
+- Only if the isolate is reported to be susceptible to the
+particular drug
+- Change to chloramphenicol 1 g IV every 6 hours
+Child: 25 mg/kg per dose
+- Or ampicillin 2-3 g IV every 4-6 hours
+Child: 50 mg/kg per dose
+H
+109
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+TREATMENT LOC
+Neisseria meningitidis (up to 14 day course)
+- Benzylpenicillin IV 5-6 MU every 6 hours
+Child: 100,000-150,000 IU/kg every 6 hours
+- Or Ceftriaxone 2 g IV or IM every 12 hours
+Child: 100 mg/kg daily dose
+- Or Chloramphenicol 1 g IV every 6 hours (IM if IV not
+possible)
+Child: 25 mg/kg IV per dose
+Once clinical improvement occurs
+- Change to chloramphenical 500-750 mg orally
+every 6 hours to complete the course
+Child: 25 mg/kg per dose
+Note: Consider prophylaxis of close contacts (especially
+children < 5 years):
+- Adults and children >12 years: Ciprofloxacin 500 mg
+single dose
+Child <12 yrs: 10 mg/kg single dose
+- Alternative (e.g. in pregnancy): ceftriaxone 250 mg IM
+single dose
+Child < 12 yrs: 150 mg IM single dose
+H
+Listeria monocytogenes (at least 3 weeks course)
+- Common cause of meningitis in neonates and immunosuppressed adults
+Benzylpenicillin 3 MU IV or IM every 4 hours
+- Or ampicillin 3 g IV every 6 hours
+Notes
+- Both medicines are equally effective
+- Therapy may need to be prolonged for up to 6 weeks
+in some patients
+H
+110
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+Prevention
+~ Avoid overcrowding
+~ Improve sanitation and nutrition
+~ Prompt treatment of primary infection (e.g. in respiratory
+tract)
+~ Immunisation as per national schedules
+~ Mass immunisation if N. Meningitis epidemic
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.173 | p.173-173 | audience=pediatric] ---
+149
+6. FEVER
+CHAPTER 6
+F ever
+This chapter gives treatment guidelines for the management of the most important conditions for which children aged between 2 months and 5 years present 
+with fever. Management of febrile conditions in young infants (< 2 months) is 
+described in Chapter 3, p. 45.
+6.1 Child presenting with fever 150
+ 6.1.1 Fever lasting 7 days or less 150
+ 6.1.2 Fever lasting longer than 7 days 153
+6.2 Malaria 156
+ 6.2.1 Severe malaria 156
+ 6.2.2 Uncomplicated malaria 163
+6.3 Meningitis 167
+ 6.3.1 Bacterial meningitis 167
+ 6.3.2 Meningococcal epidemics 170
+ 6.3.3 Tuberculous meningitis 171
+ 6.3.4 Cryptococcal meningitis 172
+6.4 Measles 174
+ 6.4.1 Severe complicated measles 175
+ 6.4.2 Non-severe measles 178
+6.5 Septicaemia 179
+6.6 Typhoid fever 180
+6.7 Ear infections 182
+ 6.7.1 Mastoiditis 182
+ 6.7.2 Acute otitis media 183
+ 6.7.3 Chronic otitis media 184
+6.8 Urinary tract infection 184
+6.9 Septic arthritis or osteomyelitis 186
+6.10 Dengue 188
+ 6.10.1 Severe dengue 188
+6.11 Rheumatic fever 193
+PB2_ch6.indd 149PB2_ch6.indd 149 5/06/13 10:07 AM5/06/13 10:07 AM
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.1.5.1 Neonatal Meningitis | p.177-178 | audience=pediatric] ---
+Bacterial infection of the meninges in the first month of life.
+~ Organisms causing neonatal meningitis are similar to those
+causing neonatal septicaemia and pneumonia, i.e. S.pneumoniae, group A & B streptococci, and enteric Gram-negative bacilli.
+Meningitis due to group B streptococci: These organisms often colonise the vagina and rectum of pregnant women, can be transmitted to
+babies during labour, and cause infection. Meningitis and septicaemia
+during the 1st week after birth may be particularly severe.
+~ Clinical presentation is aspecific with temperature disturbances, lethargy, irritability, vomiting, feeding problems,
+convulsions, apnoea, bulging fontanel
+Management
+TREATMENT LOC
+Refer to hospital after initial dose of antibiotics Supportive
+care
+- Keep baby warm
+- For high temperature control environment (undress), avoid
+paracetamol
+H
+111
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+TREATMENT LOC
+- Prevent hypoglycaemia (breastfeeding if tolerated/possible,
+NGT or IV glucose)
+- Ensure hydration/nutrition
+- Give oxygen if needed (SpO2 <92%)
+Empirical regimen (for 21 days)
+- Ampicillin IV
+Neonate < 7 days: 50-100 mg/kg every 12 hours
+Neonate > 7 days: 50-100 mg/kg every 8 hours
+- Plus Gentamicin 2.5 mg/kg IV every 12 hours Need for
+blood culture
+If group B streptococci
+- Benzylpenicillin 100,000-150,000 IU/kg IV every 4-6 hours
+- Neonates <7 days: 50,000-100,000 IU/kg IV every 8 hours
+- Plus gentamicin 2.5 mg/kg IV every 12 hours
+- Continue treatment for a total of 3 weeks
+H
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.1.5.2 Cryptococcal Meningitis | p.178-178 | audience=general] ---
+Fungal meningitis caused by Crypotococcus neoformans and usually
+occurs in severely immunosuppressed patients (e.g. advanced HIV,
+usually CD4 < 100).
+~ It commonly presents with headache, fever, malaise developing over 1 or 2 weeks, progressing into confusion, photophobia, stiff neck
+- Diagnosis is through identification of the microorganism in the
+CSF with Indian Ink stain, antigen in CSF or culture
+Management
+TREATMENT LOC
+- Refer to hospital H
+112
+Uganda Clinical Guidelines 2023CHAPTER 2: Infectious Diseases
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.1.5.3 TB Meningitis | p.179-179 | audience=general] ---
+Meningitis caused by M. tuberculosis. Onset may be gradual with fatigue,
+fever, vomiting, weight loss, irritability, headache, progressing to confusion,
+focal neurological deficits, meningeal irritation, till coma.
+- For diagnosis: check CSF (raised protein, lymphocytosis), look
+for possible primary TB site
+Management
+TREATMENT LOC
+- Refer to hospital
+- Treat as per pulmonary TB but continuation phase is
+10 months instead of 4 (2RHZE/10RH)
+- See section 5.3 for more details
+H
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.184 | p.184-184 | audience=pediatric] ---
+160
+6. FEVER
+ - Exclude other treatable causes of coma (e.g. hypoglycaemia, bacterial meningitis). Always exclude hypoglycaemia by checking blood glucose; if this is not 
+possible, treat for hypoglycaemia (see p. 161). Perform a lumbar puncture if 
+there are no contraindications. If you cannot do a lumbar puncture to exclude 
+meningitis, give antibiotics for bacterial meningitis (see section 6.3, p. 167). 
+ - Monitor all other vital signs (temperature, respiratory rate, heart rate, blood 
+pressure and urine output).
+ - Manage convulsions if present.
+Convulsions
+Convulsions are common before and after the onset of coma. They may be very 
+s
+ubtle, such as intermittent nystagmus, twitching of a limb, a single digit or a 
+corner of the mouth, or an irregular breathing pattern. 
+ /L50776Give anticonvulsant treatment with rectal diazepam or slow IV injection 
+(
+see Chart 9, p. 15). 
+ - Check blood glucose to exclude hypoglycaemia, and correct with IV glucose 
+if present; if blood glucose cannot be measured, treat for hypoglycaemia 
+(see p. 161). 
+ /L50776If there are repeated convulsions, give phenobarbital (see Chart 9, p. 15). 
+ /L50776If temperature is ≥ 3 9 °C, give a dose of paracetamol.
+Shock
+Some children may already be in shock, with cold extremities (clammy skin), 
+w
+eak rapid pulse, capillary refill longer than 3 s and low blood pressure. These 
+features may indicate complicating septicaemia, although dehydration may also 
+contribute to the hypotension. 
+ - Correct hypovolaemia as appropriate.
+ - Take blood for culture
+ - Do urinalysis.
+ /L50776Give both antimalarial and antibiotic treatment for septicaemia (see section 
+6
+.5, p. 179).
+Severe anaemia
+Severe anaemia is indicated by severe palmar pallor, often with a fast pulse 
+r
+ate, difficult breathing, confusion or restlessness. Signs of heart failure such 
+as gallop rhythm, enlarged liver and, rarely, pulmonary oedema (fast breathing, 
+fi ne basal crackles on auscultation) may be present
+SEVERE MALARIA
+PB2_ch6.indd 160PB2_ch6.indd 160 5/06/13 10:07 AM5/06/13 10:07 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.191 | p.191-191 | audience=pediatric] ---
+167
+6. FEVER
+6.3 Meningitis 
+Early diagnosis is essential for effective treatment. This section refers to 
+children and infants > 2 months. For diagnosis and treatment of meningitis in 
+young infants, see section 3.9, p. 55.
+6.3.1 Bacterial meningitis 
+Bacterial meningitis is a serious illness that is responsible for considerable 
+morbidity and mortality. No single clinical feature emerges as sufficiently distinctive to make a robust diagnosis, but a history of fever and seizures with the 
+presence of meningeal signs and altered consciousness are common features 
+of meningitis. The possibility of viral encephalitis or tuberculous meningitis 
+must be considered as differential diagnoses in children with meningeal signs. 
+Diagnosis
+Look for a history of:
+ ■convulsions
+ ■vomiting
+ ■inability to drink or breastfeed
+ ■a headache or pain in back of neck
+ ■irritability
+ ■a recent head injury
+On
+ examination, look for:
+ ■altered level of consciousness
+ ■neck stiffness
+ ■repeated convulsions
+ ■bulging fontanelle in infants
+ ■non-blanching petaechial rash or purpur
+a
+ ■lethargy
+ ■irritability
+ ■evidence of head trauma suggesting possible recent skull fracture.
+A
+lso look for any of the following signs of raised intracranial pressure:
+ ■decreased consciousness level
+ ■unequal pupils 
+MENINGITIS
+Looking and feeling for stiff neck 
+in a child
+PB2_ch6.indd 167PB2_ch6.indd 167 5/06/13 10:07 AM5/06/13 10:07 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.192 | p.192-192 | audience=pediatric] ---
+168
+6. FEVER
+Unequal pupil size: sign of 
+raised intracranial pressure
+Opisthotonus and rigid posture: 
+sign of meningeal irritation and 
+raised intracranial pressure
+ ■rigid posture or posturing
+ ■focal paralysis in any of the limbs 
+ ■irregular breathing
+Laboratory investigations
+ ■Confirm the diagnosis with a lumbar puncture and examination of the CSF. 
+I
+f the CSF is cloudy, assume meningitis and start treatment while waiting 
+for laboratory confirmation. 
+ ■Microscopy should indicate the presence of meningitis in the majority of 
+c
+ases with a white cell (polymorph) count < 100/mm 3. Confirmation can be 
+obtained from CSF glucose (low: < 1.5 mmol/litre or a ratio of CSF to serum 
+glucose of ≤ 0.4), CSF protein (high: > 0.4 g/litre) and Gram staining and 
+culture of CSF, where possible.
+ ■Blood culture if available.
+BACTERIAL MENINGITIS
+PB2_ch6.indd 168PB2_ch6.indd 168 5/06/13 10:07 AM5/06/13 10:07 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.193 | p.193-193 | audience=pediatric] ---
+169
+6. FEVER
+Precaution: If there are signs of increased intracranial pressure, the potential 
+value of the information from a lumbar puncture should be carefully weighed 
+against the risk of the procedure. If in doubt, it might be better to star t treatment 
+for suspected meningitis and delay performing a lumbar puncture (see p. 346).
+Treatment 
+Start treatment with antibiotics immediately before the results of laboratory 
+CSF examination if meningitis is clinically suspected or the CSF is obviously 
+cloudy. If the child has signs of meningitis and a lumbar puncture is not possible, treat immediately.
+Antibiotic treatment
+ /L50776Give antibiotic treatment as soon as possible. Choose one of the following 
+reg
+imens:
+1. Ceftriaxone: 50 mg/kg per dose IM or IV every 12 h; or 100 mg/kg once 
+daily for 7–10 days administered by deep IM injection or as a slow IV 
+injection over 30–60 min.
+or
+2. Cefotaxime: 50 mg/kg per dose IM or IV every 6 h for 7–10 days. 
+or
+3. When there is no known significant resistance to chloramphenicol and 
+β-lactam antibiotics among bacteria that cause meningitis, follow national 
+guidelines or choose either of the following two regimens:
+ - Chloramphenicol: 25 mg/kg IM or IV every 6 h plus ampicillin: 50 mg/
+kg IM or IV every 6 h for 10 days
+or
+ - Chloramphenicol: 25 mg/kg IM or IV every 6 h plus benzylpenicillin: 
+60 mg/kg (100 000 U/kg) every 6 h IM or IV for 10 days. 
+ /L50776Review therapy when CSF results are available. 
+I
+f the diagnosis is confirmed, continue with parenteral antibiotics to complete 
+treatment as above. Once the child has improved, continue with daily injections of third-generation cephalosporins to complete treatment, or , if on 
+chloramphenicol, give orally, unless there is concern about oral absorption 
+(e.g. in severely malnourished children or in those with diarrhoea), in which 
+cases the full treatment should be given parenterally. 
+If there is a poor response to treatment: 
+BACTERIAL MENINGITIS
+PB2_ch6.indd 169PB2_ch6.indd 169 5/06/13 10:07 AM5/06/13 10:07 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.194 | p.194-194 | audience=pediatric] ---
+170
+6. FEVER
+ – Consider the presence of common complications, such as subdural effusions (persistent fever plus focal neurological signs or reduced level of 
+consciousness) or a cerebral abscess. If these are suspected, refer the 
+child to a hospital with specialized facilities for further management (see 
+a standard paediatrics textbook for details of treatment).
+ – Look for other sites of infection that may be the cause of fever, such as 
+cellulitis at injection sites, arthritis or osteomyelitis. 
+Repeat the lumbar puncture after 3–5 days if fever is still present and the 
+child’s overall condition is not improving, and look for evidence of improvement (e.g. fall in leukocyte count and rise in glucose level).
+Steroid treatment
+Steroids offer some benefit in certain cases of bacterial meningitis ( H. influenza, tuberculous and pneumococcal) by reducing the degree of inflammation 
+and improving outcome. The recommended dexamethasone dose in bacterial 
+meningitis is 0.15 mg/kg every 6 h for 2–4 days. Steroids should be given within 
+10–20 min before or during administration of antibiotics. There is insufficient 
+evidence to recommend routine use of steroids in all children with bacterial 
+meningitis in developing countries, except in tuberculous meningitis. 
+Do not use steroids in:
+ - n e w b o r n s 
+ - suspected cerebral malaria 
+ - suspected viral encephalitis 
+Antimalarial treatment
+In malarious areas, take a blood smear or do a rapid diagnostic test to check 
+f
+or malaria, as severe malaria should be considered a differential diagnosis 
+or co-existing condition. 
+ /L50776Treat with an appropriate antimalarial drug if malaria is diagnosed. If for 
+a
+ny reason a blood smear cannot be taken, treat presumptively for malaria.
+6.3.2 Meningococcal epidemics
+During a confirmed epidemic of meningococcal meningitis, lumbar punctures 
+need not be performed for all children who have petaechial or purpuric signs, 
+which are characteristic of meningococcal infection.
+ - For children aged 0–23 months, treatment should be adapted according to 
+the patient’s age, and an effort should be made to exclude any other cause 
+of meningitis. 
+MENINGOCOCCAL EPIDEMICS
+PB2_ch6.indd 170PB2_ch6.indd 170 5/06/13 10:07 AM5/06/13 10:07 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.195 | p.195-195 | audience=pediatric] ---
+171
+6. FEVER
+ - F o r c h i l d r e n a g e d ≥ 2–5 years, Neisseria meningitidis is the most likely 
+pathogen and presumptive treatment is justified.
+ /L50776Give ceftriaxone at 100 mg/kg/day IM or IV once daily for 5 days to children 
+a
+ged 2 months to 5 years or for at least 7 days to children aged 0–2 months. 
+or
+ /L50776Give oily chloramphenicol (100 mg/kg IM as a single dose up to a maximum 
+o
+f 3 g). If no improvement after 24 h, give a second dose of 100 mg/kg, or 
+change to ceftriaxone as above. The oily chloramphenicol suspension is 
+thick and may be difficult to push through the needle. If this problem is 
+encountered, the dose can be divided into two and an injection given into 
+each buttock of the child.
+6.3.3 Tuberculous meningitis
+Tuberculous meningitis may have an acute or chronic presentation, with the 
+duration of presenting symptoms varying from 1 day to 9 months. It may present 
+with cranial nerve deficits, or it may have a more indolent course involving 
+headache, meningismus and altered mental status. The initial symptoms are 
+usually nonspecific, including headache, vomiting, photophobia and fever. 
+Consult up-to-date international and national guidelines for further details if 
+tuberculous meningitis is suspected. Consider tuberculous meningitis if any 
+of the following is present:
+ - Fever has persisted for 14 days.
+ - Fever has persisted for > 7 days, and a family member has TB.
+ - A chest X-ray suggests TB.
+ - The patient is unconscious and remains so despite treatment for bacterial 
+meningitis.
+ - The patient is known to have HIV infection or is exposed to HIV.
+ - The CSF has a moderately high white blood cell count (typically < 500 
+white cells per ml, mostly lymphocytes), elevated protein (0.8–4 g/l) and 
+low glucose (< 1.5 mmol/litre), or this pattern persists despite adequate 
+treatment for bacterial meningitis. 
+Occasionally, when the diagnosis is not clear, a trial of treatment for tuberculous 
+meningitis is added to treatment for bacterial meningitis. Consult national TB 
+programme guidelines. 
+Treatment: The optimal treatment regimen comprises:
+ /L50776Four-drug regimen (HRZE) for 2 months, followed by a two-drug regimen 
+(
+HR) for 10 months, the total duration of treatment being 12 months. 
+TUBERCULOUS MENINGITIS
+PB2_ch6.indd 171PB2_ch6.indd 171 5/06/13 10:07 AM5/06/13 10:07 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.196 | p.196-196 | audience=pediatric] ---
+172
+6. FEVER
+ – Isoniazid (H): 10 mg/kg (range, 10–15 mg/kg); maximum dose, 300 
+mg/day
+ – Rifampicin (R): 15 mg/kg (range, 10–20 mg/kg); maximum dose, 600 
+mg/kg per day
+ – Pyrazinamide (Z): 35 mg/kg (range, 30–40 mg/kg)
+ – Ethambutol (E): 20 mg/kg (range, 15–25 mg/kg)
+ /L50776Dexamethasone (0.6 mg/kg per day for 2–3 weeks, reducing the dose over 
+a f
+urther 2–3 weeks) should be given in all cases of tuberculous meningitis.
+ /L50776Children with proven or suspected tuberculous meningitis caused by MDR 
+b
+acilli can be treated with a fl uoroquinolone and other second-line drugs 
+in the context of a well-functioning MDR TB control programme and within 
+an appropriate MDR TB regimen. The decision to treat should be taken by a 
+clinician experienced in managing paediatric TB.
+Note: Streptomycin is not advised for children as it may cause otoxicity and 
+nephrotoxicity, and the injections are painful.
+6.3.4 Cryptococcal meningitis
+Consider cryptococcal meningitis in older children known or suspected to be 
+HIV-positive with immunosuppression. Children will present with meningitis 
+with altered mental status. 
+ - Perform a lumbar puncture. The opening pressure may be elevated, but CSF 
+cell count, glucose and protein may be virtually normal.
+ - Analyse CSF with India ink preparation, or, if available, do a rapid CSF cryptococcal antigen latex agglutination test or lateral fl ow assay. 
+Treatment: A combination of amphotericin and fl uconazole (see p. 246).
+Supportive care
+Examine all children with convulsions for hyperpyrexia and check blood 
+glucose. Control fever if high ( ≥ 39 °C or ≥ 102.2 °F) with paracetamol, and 
+treat hypoglycaemia.
+ /L50776Convulsions: If convulsions occur, give anticonvulsant treatment with intravenous or rectal diazepam (see Chart 9, p. 15). Treat repeated convulsions 
+with a preventive anticonvulsant, such as phenytoin or phenobarbitone. 
+ /L50776Hypoglycaemia: Moni tor blood glucose regularly, especially in children who 
+are convulsing or not feeding well.
+ – If hypoglycaemia is present, give 5 ml/kg of 10% glucose (dextrose) 
+CRYPTOCOCCAL MENINGITIS
+PB2_ch6.indd 172PB2_ch6.indd 172 5/06/13 10:07 AM5/06/13 10:07 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.197 | p.197-197 | audience=pediatric] ---
+173
+6. FEVER
+solution IV or intraosseusly rapidly (see Chart 10, p. 16). Recheck the 
+blood glucose after 30 min. If the level is low (< 2.5 mmol/litre or < 45 mg/
+dl), repeat the glucose (5 ml/kg). If blood glucose cannot be measured, 
+treat all children who are fi tting or have reduced consciousness for 
+hypoglycaemia. 
+ – Prevent further hypoglycaemia by oral feeding (see above). If the child 
+is not feeding, prevent hypoglycaemia by adding 10 ml of 50% glucose 
+to 90 ml of Ringer’ s lactate or normal saline infusion. Do not exceed 
+maintenance fl uid requirements for the child’s weight (see section 10.2, 
+p. 304). If the child develops signs of fl uid overload, stop the infusion 
+and feed by nasogastric tube. 
+ /L50776Unconscious child: In an unconscious child, ensure that the airway is open 
+a
+t all times and that the patient is breathing adequately.
+ - Maintain clear airway.
+ - Nurse the child in the recovery position to avoid aspiration of fl uids.
+ - Turn the patient every 2 h.
+ - Do not allow the child to lie in a wet bed.
+ - Pay attention to pressure points.
+ /L50776Oxygen treatment: G ive oxygen if the child has convulsions or associated 
+severe pneumonia with hypoxia (oxygen saturation ≤ 90% by pulse 
+oximetry), or, if the child has cyanosis, severe lower chest wall indrawing, 
+respiratory rate > 70/min. Aim to keep oxygen saturation > 90% (see section 10.7, p. 312).
+ /L50776Fluid and nutritional management: A lthough children with bacterial meningitis are at risk for developing brain oedema due to a syndrome of inappropriate 
+antidiuretic hormone secretion or fl uid overload, under-hydration may also 
+lead to cerebral hypoperfusion. Correct dehydration if present. Some children 
+with meningitis require only 50–75% of their normal daily fl uid requirement 
+IV in the fi rst 2 days to maintain normal fl uid balance; more will cause oedema 
+(see p. 304). Avoid fl uid overload, ensure an accurate record of intake and 
+output, and examine frequently for signs of fl uid overload (eyelid oedema, 
+enlarged liver, crackles at lung bases or fullness of neck veins). 
+Give due attention to acute nutritional support and rehabilitation (see p. 294). 
+Feed the child as soon as it is safe. Breastfeed every 3 h, if possible, or give 
+milk feeds of 15 ml/kg if the child can swallow. If there is a risk of aspiration, 
+it is safer to continue with IV fl uids; otherwise, feed by nasogastric tube (see 
+Chart 10, p. 16). Continue to monitor blood glucose, and treat accordingly (as 
+above) if < 2.5 mmol/litre or < 45 mg/dl.
+CRYPTOCOCCAL MENINGITIS
+PB2_ch6.indd 173PB2_ch6.indd 173 5/06/13 10:07 AM5/06/13 10:07 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.203 | p.203-203 | audience=pediatric] ---
+179
+6. FEVER
+6.5 Septicaemia
+Septicaemia should be considered in a child with acute fever who is severely ill, 
+when no other cause is found. Septicaemia can also occur as a complication of 
+meningitis, pneumonia, urinary tract infection or any other bacterial infection. 
+The common causative agents include Streptococcus , Haemophilus influenza, 
+Staphylococcus aureus and enteric Gram-negative bacilli (which are common 
+in severe malnutrition), such as Escherichia coli and Klebsiella . Non-typhoidal 
+Salmonella is a common cause in malarious areas. Where meningococcal 
+disease is common, a clinical diagnosis of meningococcal septicaemia can 
+be made if petaechiae or purpura (haemorrhagic skin lesions) are present.
+Diagnosis
+The child’s history helps determine the likely source of sepsis. Always fully 
+undress the child and examine carefully for signs of local infection before 
+deciding that there is no other cause. 
+On examination, look for:
+ ■fever with no obvious focus of infection
+ ■negative blood fi lm for malaria 
+ ■no stiff neck or other specific sign of meningitis, or negative lumbar puncture 
+fo
+r meningitis 
+ ■confusion or lethargy
+ ■signs of systemic upset (e.g. inability to drink or breastfeed, convulsions, 
+l
+ethargy or vomiting everything, tachypnoea)
+ ■Purpura may be present.
+Investigations
+The investigations will depend on presentation but may include: 
+ ■full blood count
+ ■urinalysis (including urine culture)
+ ■blood culture 
+ ■chest X-rays. 
+I
+n some severe cases, a child may present with signs of septic shock: cold 
+hands with poor peripheral perfusion and increased capillary refill time (> 3 s), 
+fast, weak pulse volume, hypotension and decreased mental status.
+SEPTICAEMIA
+PB2_ch6.indd 179PB2_ch6.indd 179 5/06/13 10:07 AM5/06/13 10:07 AM
+
+--- [WHO Pocket Book of Hospital Care for Children (2nd ed.) | p.206 | p.206-206 | audience=pediatric] ---
+182
+6. FEVER
+Mastoiditis: a tender swelling behind 
+the ear which pushes the ear forward
+If there are signs of gastrointestinal per foration, pass an IV line and nasogastric 
+tube, start appropriate fl uids, and obtain urgent surgical attention.
+6.7 Ear infections 
+6.7.1 Mastoiditis 
+Mastoiditis is a bacterial infection of the mastoid bone behind the ear. Without 
+treatment it can lead to meningitis and brain abscess. 
+Diagnosis
+Key diagnostic features are:
+ ■high fever
+ ■tender swelling behind the ear.
+Treatment
+ /L50776Give IV or IM cloxacillin or fl uclo
+xacillin at 50 mg/kg every 6 
+h or ceftriaxone until the child 
+improves, for a total course of 
+10 days.
+ /L50776If there is no response to treatm
+ent within 48 h or the child’ s 
+condition deteriorates, refer the 
+child to a surgical specialist to consider incision and drainage of mastoid 
+abscesses or mastoidectomy. 
+ /L50776If there are signs of meningitis or brain abscess, give antibiotic treatment 
+a
+s outlined in section 6.3 (p. 169), and, if possible, refer to a specialist 
+hospital immediately.
+Supportive care
+ /L50776If the child has a high fever ( ≥ 3 9 °C or ≥ 102.2 °F) that is causing distress 
+or discomfort, give paracetamol.
+Monitoring
+The child should be checked by a nurse at least every 6 h and by a doctor at 
+least once a day. If the child responds poorly to treatment, such as decreasing 
+level of consciousness, seizure or locali zing neurological signs, consider the 
+possibility of meningitis or brain abscess (see section 6.3, p. 167). 
+EAR INFECTIONS
+PB2_ch6.indd 182PB2_ch6.indd 182 5/06/13 10:07 AM5/06/13 10:07 AM
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 3.1.10.2 Cryptococcal Meningitis | p.321-326 | audience=general] ---
+Crytococcal meningitis is an opportunistic infection caused by a fungus
+Cryptococcus neoformans.
+~ In Uganda, cryptococcal meningitis (CM) associated mortality is up to 39%. Patients with a CD4 cell count of <100
+are at the highest risk, so early screening and management
+is critical.
+~ Screening In ART-Naive Patients
+~ Screen routinely for Cryptococcal Meningitis with the cryptococcal antigen (CrAg) test (a bedside finger prick test):
+- All ART naive individuals with CD4 <100 cells/µL
+- Patients on ART with viral load (VL >1000 copies/ml) or
+clinical (stage 3 or 4 disease) failure
+~ If serum CrAg negative and no signs of meningitis: start
+ART immediately (or switch regimen)
+~ If CrAg positive and/or signs or symptoms of meningitis
+(headache, presence of seizures, altered consciousness,
+photophobia, neck stiffness, and a positive Kernigs’ sign)
+- Perform lumbar puncture and test for CSF CrAg (culture if
+possible)
+~ If CSF CrAg positive, diagnose and treat for Cryptococcal
+Meningitis
+~ If CSF CrAg negative but blood CrAg positive, give pre
+emptive treatment for asymptomatic cryptococcal disease
+or non CNS cryptococcal disease
+255
+Uganda Clinical Guidelines 2023CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
+ART naive patient with CD4 <100
+or suspected treatment failure
+Do serum CRAG test
+YES
+NO
+YES NO
+NO
+YES
+NO
+the serum CRAG
+test positive
+Can you do a lumbar
+puncture (LP) at site?
+Screen for signs
+and symptoms of
+meningitis
+Start Fluconazole
+1200 mg
+Do LP and CSF
+analysis CRAG test
+Is CSF CRAG
+positive?
+Refer to facility
+where LP can
+be done
+Start ART 4–6 weeks after
+initiating treatment for
+Cryptococcal Meningitis
+Treat as Cryptococcal MeningitisStart Fluconazole
+• 400 mg BD for 2 weeks
+• Then 400 mg OD for 8 weeks
+• Then 200 mg OD for 14 weeks
+Start ART 2 weeks after starting
+Fluconazole
+Start ART
+immediately
+Screen for signs
+and symptoms of
+meningitis
+Does patient have
+signs and symptoms
+of meningitis
+256
+Uganda Clinical Guidelines 2023CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
+ART timing with CCM
+Art Naive
+Wait
+for 4-6
+weeks
+Wait
+for 4-6
+weeks
+Wait
+for 4-6
+weeks
+Wait
+for 4-6
+weeks
+Start 1st line
+ART regimen as
+per guidelines
+restart 1st, 2nd
+or 3rd line ART
+regimen*
+restart 1st, 2nd
+or 3rd line ART
+regimen*
+Continue 1st,
+2nd or 3rd line
+ART regimen*
+restart 1st, 2nd
+or 3rd line ART
+regimen*
+Do not
+start ART at
+admission
+ART experienced reportedly
+not adherent or uncertain
+of adherence
+ART experienced reportedly
+adherent on ART > 6 months
+ART experienced reportedly
+adherent on ART < 14 days-6
+months very recent ART introduction or re-introduction
+ART experienced reportedly
+adherent on ART < 14 days-6
+months Recent ART introduction
+or re-introduction
+Continue ART at
+Admission**
+Stop ART at
+Admission
+Stop ART at
+Admission
+Stop ART at
+Admission
+Decision on which ART regimen to restart should be made according
+to patient’s history, ART guidelines, HIV viral and genotypic resistance
+testing if possible. If it is considered likely that the patient has developed
+resistance to 1stline ARVs, then restart with 2ndline containing boosted
+PI or DTG is possible. ** Unless documented to have a suppressed viral
+load at time of admission or within the month prior to admission, in
+which case continue ART
+257
+Uganda Clinical Guidelines 2023CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
+Management of CCM
+P h a s e D r u g Comments LOC
+Newly Diagnosed Patient
+Induction
+Phase
+(2 weeks)
+Recommended:
+• Amphotericin B
+liposomal single
+high dose (10mg/
+kg) + Flucytosine
+(100mg/kg/day in
+four divided doses) + Fluconazole
+1200mg/ day for
+14 days OR
+• Amphotericin
+B deoxycholate
+(1mg/kg/day)
++ Flucytosine
+(100mg/kg/
+day in four divided
+doses) for 1 week,
+followed by 1 week
+of fluconazole
+(1200 mg/day for
+adults, 12 mg/kg/
+day for children
+and adolescents).
+OR
+Preventing Amphotericin
+toxicity:
+To prevent nephrotoxicity
+and hypokalemia, for patients on amphotericin
+deoxycholate do the following:
+•Pre-hydration with 1L normal saline before starting
+the daily Amphotericin
+B dose.
+• Monitor serum potassium
+and creatinine levels at
+initiation and at least twice
+weekly to detect changes
+in renal function.
+• Routine administration
+of 40 mEq/day (mixed in
+500ml NS over 4 hours)
+of potassium chloride or 1
+tablet of 600mg twice daily while on amphotericin B
+can decrease the incidence
+of Amphotericin B-related
+hypokalemia.
+H
+RR
+H4
+H
+RR
+258
+Uganda Clinical Guidelines 2023CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
+Management of CCM
+P h a s e D r u g Comments LOC
+Induction
+Phase
+(2 weeks)
+• Fluconazole
+(1200 mg daily for adults, 12
+mg/kg/day for
+children and
+adolescents) +
+Flucytosine
+(100 mg/kg/
+day, divided
+into four doses
+per day. OR
+• Amphotericin
+B deoxycholate
+(1mg/kg/day) +
+high-dose Fluconazole
+1200mg/day.
+• For electrolyte supplementation, two tablets daily of
+Magnesium Chloride 310
+mg or slow Magnesium Chloride 535mg or Magnesium
+trisilicate 250mg while on
+amphotericin B
+• Consider alternate day Amphotericin B if creatinine is
+>3mg/dl.
+• To monitor for flucytosine
+(5FC) toxicity, CBC with differential counts at least twice
+weekly is recommended
+H4
+H
+R
+Consolidation
+p h a s e
+(8 weeks)
+Fluconazole
+800mg/day
+(or 6-12mg/kg/
+day in children
+and adolescents)
+Initiate ART 4–6 weeks after
+starting CM treatment and
+there is clinical response to
+antifungal therapy.
+H4
+259
+Uganda Clinical Guidelines 2023CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
+P h a s e D r u g Comments LOC
+Maintenance
+Phase (18
+months)
+Fluconazole
+200mg/day
+(or 6 mg/kg/day
+up to 200mg
+in children and
+adolescents)
+Criteria to stop after a minimum
+of 18 months of maintenance
+phase:
+Adults: VL<1,000 copies/mm3
+& CD4 ≥ 200 or CD4 ≥200 (if
+viral load not available) after
+12 and 18 months
+Children: If CD4>25% or viral
+suppressed
+H4
+Relapse disease
+Presents with a recurrence of symptoms of Meningitis and
+have a positive cerebrospinal fluid culture following a prior
+confirmed diagnosis of Cryptococcal Meningitis.
+Evaluate for drug resistance: Send CSF to Central Public Health
+Laboratory (CPHL) for culture and sensitivity testing, if there
+are no drug resistance results, re-initiate the induction therapy
+for two weeks and complete other phases of treatment.
+Adequate control of elevated CSF pressure
+• Control of increased intracranial pressure improves survival
+by 25% in persons with Cryptococcal Meningitis.
+• All patients with a CSF Pressure >250mm H2O will need a
+therapeutic LP the following day to reduce the CSF pressure
+to <200 mm.
+• In the absence of a manometer, one may use an IV giving
+set to create an improvised manometer measuring the height
+with a meter stick.
+Removing 20-30mL of CSF (even in the absence of a manometer)
+may be adequate to decrease CSF pressure. Most patients
+will need 2-3LPs during the induction phase.
+260
+Uganda Clinical Guidelines 2023CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 2.1.5.1 meningitis, 2.1.8.1 | p.863-867 | audience=general] ---
+tetanus)
+- Give ampicillin 50 mg/kg IM
+every 12 hours plus gentamicin
+5 mg/kg every 24 hours (4
+mg/kg if preterm)
+- Refer baby to hospital
+- If referral not possible continue
+treatment for 7 days
+- Keep baby warm
+- Clean infected umbilicus and
+pustules and apply Gentian
+Violet
+- If risk of staphylococcus infection, give cloxacillin 50 mg/
+Kg IV/IM every 6 hours and
+gentamicin 5-7 mg/Kg every
+24 hours
+If danger signs present, treat as below
+798
+Uganda Clinical Guidelines 2023CHAPTER 17: Childhood Illness
+SIGNS CLASSIFY MANAGE BY/ADVISE ON
+~ Feeding well
+(suckling
+effectively >8
+times in 24
+hours)
+~ Weight
+>2,500 g or
+small baby
+but eating
+and gaining
+weight well
+~ No danger
+signs
+~ No special
+treatment
+needs
+Well Baby - Continue exclusive breastfeeding on demand
+- Ensure warmth, cord care, hygiene, other baby care f Routine visit at
+age 3-7 days
+- Next immunization at 6 weeks f When to return if danger signs f Record
+on home-based record
+- If first visit (baby not delivered in health facilities) give
+- Vitamin K 1 mg IM
+- Tetracycline eye ointment
+~ Receiving
+other foods/
+drinks or given pacifier
+Feeding
+Problem
+- Stop other food/drinks
+- Feed more frequently, day and night. Reassure mother she has enough milk
+If no danger signs present, classify and treat as below
+799
+Uganda Clinical Guidelines 2023CHAPTER 17: Childhood Illness
+SIGNS CLASSIFY MANAGE BY/ADVISE ON
+~ Breastfeeding
+<8 times/ 24
+hours
+~ Not well
+attached/ not
+suckling well
+- Ensure correct positioning/ attachment
+- If thrush: teach how to treat at home (apply gentian violet paint 4 times
+daily for 7 days with clean hands, use a soft cloth)
+~ Thrush
+~ Poor weight
+gain
+Feeding
+Problem
+- FOLLOW UP visit in 2 days, re-check weight
+- If no improvement: Refer for breastfeeding counselling
+~ Thrush
+~ Poor weight
+gain
+Feeding
+Problem
+- FOLLOW UP visit in 2 days, re-check weight
+- If no improvement: Refer for breastfeeding counselling
+~ Preterm Small Baby - Provide as close to continuous Kangaroo mother care as possible to
+prevent hypothermia
+- Give special support to breastfeed small baby/twins
+~ Preterm
+~ Low birth
+weight
+(LBW)
+1,500–
+2,500g
+- Teach mother how to care for a small baby
+- Teach alternative feeding method (cup feeding)
+800
+Uganda Clinical Guidelines 2023CHAPTER 17: Childhood Illness
+SIGNS CLASSIFY MANAGE BY/ADVISE ON
+~ Twin - Assess daily (if admitted) or every 2 days (if outpatient) until
+feeding and growing well
+- If twins, discharge them only when both are fit to go home
+~ Very Low
+Birth
+weight <
+1,500 g
+~ Very
+preterm (<
+32 weeks)
+Very Small
+Baby
+- Refer urgently to hospital for special care
+- Ensure extra warmth during referral
+~ Mother
+very ill/
+receiving
+special
+treatments
+~ Mother
+transferred
+Mother
+Unable to
+Take Care
+of Baby
+- Help mother to express breastmilk (to maintain lactation)
+- Consider other feeding methods until mother can breastfeed
+- Ensure warmth using other methods
+- Cord care and hygiene
+- Monitor daily
+801
+Uganda Clinical Guidelines 2023CHAPTER 17: Childhood Illness

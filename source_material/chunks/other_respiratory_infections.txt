@@ -1,0 +1,193 @@
+# TOPIC: other_respiratory_infections
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 5.2.4 Acute Epiglottitis | p.415-416 | audience=general] ---
+An acute inflammation of the epiglottis, a rare but serious disease of
+young children. Airway obstruction is always severe, and intubation or
+tracheostomy is often needed. It is rare since routine childhood mmunization with Hib vaccine was introduced.
+Cause
+~ Bacterial infection, commonly Haemophilus influenzae
+Clinical features
+~ Rapid onset of high fever
+~ Typical: “tripod or sniffing” position, preferring to sit, leaning forward with an open mouth, appears anxious
+~ Sore throat, difficulty swallowing, drooling, respiratory distress
+~ Stridor and maybe cough
+~ Appears critically ill (weak, grunting, crying, drowsy, does
+not smile, anxious gaze, pallor, cyanosis)
+~ Asphyxia leading to quick death
+Differential diagnosis
+~ Laryngeal cause of stridor e.g., laryngotracheobronchitis
+Caution
+- Avoid tongue depression examination as this may cause
+complete airway blockage and sudden death
+- Do not force child to lie down as it may precipitate airway
+obstruction
+349
+Uganda Clinical Guidelines 2023CHAPTER 5: Respiratory Diseases
+TREATMENT LOC
+- Admit and treat as an emergency – intubation or tracheostomy may often be needed
+- Avoid examination or procedures that agitate child as
+this may worsen symptoms. Avoid IM medication
+- Insert IV line and provide IV hydration
+- Ceftriaxone 50 mg/kg once daily for 7-10 days
+H
+Prevention
+~ Hib vaccine is part of the pentavalent DPT/HepB/Hib vaccine used in routine immunisation of children
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 5.2.6 Laryngitis | p.418-419 | audience=general] ---
+Inflammation of the larynx which may involve surrounding structures,
+e.g., pharynx and trachea
+Cause
+~ Viruses: Para-influenza group, influenza − by far the most
+common cause. Usually acute (up to 3 weeks)
+~ Excessive use of the voice, allergic reactions, inhalation of
+irritating substances, e.g., cigarette smoke, gastroesophageal reflux. Often chronic symptoms (>3 weeks)
+Clinical features
+~ Onset similar to any upper respiratory tract infection
+~ Fever usually mild
+~ Hoarseness
+Differential diagnosis
+~ Diphtheria, whooping cough
+~ Laryngotracheobronchitis, epiglottitis
+~ Bacterial tracheitis
+~ Foreign body aspiration
+~ Asthma
+~ Airway compression by extrinsic mass (e.g., tumours, haemangioma, cysts)
+Investigations
+- Blood: Complete blood count
+- X-ray: Chest
+- Laryngeal swab for C&S
+352
+Uganda Clinical Guidelines 2023CHAPTER 5: Respiratory Diseases
+TREATMENT LOC
+The cause is usually viral for which there is no specific treatment and no need for antibiotics f Give analgesics
+- Use steam inhalations 2-3 times daily
+- Rest the voice
+- For chronic laryngitis: identify and treat the cause
+HC2
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 5.2.7 Acute Laryngotracheobronchitis (Croup) | p.419-421 | audience=general] ---
+ICD10 CODE: J05.0
+An acute inflammation of larynx, trachea and bronchi primarily in children < 3 years, usually viral.
+Cause
+~ Measles virus
+~ Influenza and Parainfluenza type 1 viruses
+~ Rarely - superinfection with bacteria e.g. H. influenzae
+Note: Secondary bacterial infection is rare, therefore antibiotics are
+rarely needed
+Clinical features
+Early phase (mild croup)
+~ Barking cough, hoarse voice or cry
+~ Inspiratory stridor (abnormal high-pitched sound)
+~ Common cold
+Late phase (severe croup)
+~ Severe dyspnoea and stridor at rest
+~ Cyanosis (blue colour of child - especially extremities and
+mouth)
+~ Asphyxia (suffocation)
+353
+Uganda Clinical Guidelines 2023CHAPTER 5: Respiratory Diseases
+TREATMENT LOC
+Mild croup
+- Isolate patient, ensure plenty of rest
+- Keep well hydrated with oral fluids
+- Use oral rehydration solution
+- Give analgesics
+- Single dose steroid:
+- Prednisolone 1-2 mg/kg single dose
+- or Dexamethasone 0.15 mg/kg single dose
+If condition is severe
+- Admit the patient f Ensure close supervision
+- Give humidified oxygen 30-40%
+- Keep well hydrated with IV fluids
+- Use Darrow’s solution ½ strength in glucose
+2.5%
+- Steroids: hydrocortisone slow IV or IM
+Child <1 year: 25 mg
+Child 1-5 years: 50 mg
+Child 6-12 years: 100 mg
+- Or dexamethasone 300 micrograms/kg IM
+- Repeat steroid dose after 6 hours if necessary
+- If not controlled, nebulise adrenaline 0.4 mg/kg (max
+5 mg) diluted with normal saline, repeat after 30 min
+if necessary
+HC2
+HC3
+HC4
+H
+Caution
+- Avoid throat examination. Gagging can cause acute
+obstruction
+354
+Uganda Clinical Guidelines 2023CHAPTER 5: Respiratory Diseases
+TREATMENT LOC
+If severe respiratory distress develops
+- Carry out nasotracheal intubation or tracheostomy if
+necessary
+- Admit to ICU or HDU
+RR
+Suspect bacterial infection if child does not improve or appears critically ill
+- Treat as epiglottitis (see section 5.2.4)
+Note
+- Avoid cough mixtures in children < 6 years
+Prevention
+~ Avoid contact with infected persons
+~ Isolate infected persons
+
+--- [Uganda Clinical Guidelines 2023 (4th ed.) | 5.2.8 Pertussis (Whooping Cough) | p.421-423 | audience=general] ---
+An acute bacterial respiratory infection characterised by an inspiratory
+whoop following paroxysmal cough. It is highly contagious with an
+incubation period of 7-10 days. It is a notifiable disease.
+Cause
+~ Bordetella pertussis, spread by droplet infection
+Clinical features
+Stage 1: Coryzal (catarrhal: 1-2 weeks)
+~ Most infectious stage
+~ Running nose, mild cough, slight fever
+Stage 2: Paroxysmal (1-6 weeks)
+~ More severe and frequent repetitive cough ending in a
+whoop, vomiting, conjuctival haemorrhage
+~ Fever may be present; patient becomes increasingly tired
+355
+Uganda Clinical Guidelines 2023CHAPTER 5: Respiratory Diseases
+~ In infants <6 months: paroxyms lead to apnoea, cyanosis
+(coughing bouts and whoops may be absent)
+Stage 3: Convalescent
+~ Paroxysmal symptoms reduce over weeks or months
+~ Cough may persist
+Complications may include
+~ Respiratory: pneumonia (new onset fever a symptom), atelectasis, emphysema, bronchiectasis, otitis media
+~ Nervous system: convulsions, coma, intracranial haemorrhage
+~ Others: malnutrition, dehydration, inguinal hernia, rectal
+prolapse
+Differential diagnosis
+~ Chlamydial and bacterial respiratory tract infection
+~ Foreign body in the trachea
+Investigations
+- Clinical diagnosis
+- Blood: complete blood count
+- Chest X-ray
+Management
+TREATMENT LOC
+- Maintain nutrition and fluids
+- Give oxygen and perform suction if the child is cyanotic
+- For the unimmunised or partly immunised, give DPT (three
+doses) as per routine immunisation schedule
+- Isolate the patient (avoid contact with other infants) until
+after 5 days of antibiotic treatment
+- Treatment should be initiated within 3 weeks from onset
+of cough: Erythromycin 500 mg every 6 hours for 7 days
+Child: 10-15 mg/kg every 6 hours
+HC4
+356
+Uganda Clinical Guidelines 2023CHAPTER 5: Respiratory Diseases
+TREATMENT LOC
+Note
+- Cough mixtures, sedatives, mucolytics, and
+antihistamines are USELESS in pertussis and should
+NOT be given
+Prevention
+~ Educate parents on the importance of following the routine
+childhood immunisation schedule:
+~ Ensure good nutrition
+~ Avoid overcrowding
+~ Booster doses of vaccine in exposed infants

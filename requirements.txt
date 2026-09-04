@@ -1,0 +1,4 @@
+llama-cpp-python>=0.2.90
+pypdf>=4.0.0
+rank-bm25>=0.2.2
+streamlit>=1.30.0
