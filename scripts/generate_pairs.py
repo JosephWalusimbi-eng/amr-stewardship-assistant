@@ -171,11 +171,22 @@ Do NOT convert, scale, round, or combine numbers. Do not compute a total daily
 dose from a per-dose figure. Do not extrapolate to a weight, age or route the
 lines do not cover.
 
-If the question would need something the lines do not give -- a paediatric dose
-when only adult lines are present, a route that is not stated, a duration that
-is absent -- write the example as a refusal: state precisely what the source
-does give, state what it does not, and decline to extrapolate. That is a
-valuable training example, not a failure, and this category needs them.
+NAME THE INDICATION. Each source line carries "(indication: ...)" -- the
+clinical question that dose answers. Every answer must state it, because the
+same drug has different doses for different indications: benzylpenicillin is
+3-4 MU for pneumococcal meningitis and 5-6 MU for meningococcal. "Benzylpenicillin
+5-6 MU IV every 6 hours" is not an answer; "for meningococcal meningitis,
+benzylpenicillin 5-6 MU IV every 6 hours" is. Use the indication attached to the
+line you took the number from, and never mix a dose from one indication with the
+name of another.
+
+REFUSE ONLY WHEN THE SOURCE GENUINELY CANNOT ANSWER. A weight that falls INSIDE
+a stated band is answerable -- if the lines give 3-6 kg and 6-10 kg bands, a 4 kg
+child takes the 3-6 kg dose, and refusing that is wrong. Refuse when the value
+sits outside every band, when the route or duration is simply absent, or when
+the question is about an indication the lines do not cover. Then state precisely
+what the source does give, state what it does not, and decline to extrapolate --
+a genuine refusal is a valuable training example, an unnecessary one is not.
 
 State route and total duration whenever the lines support it. Vary the question
 shape: a direct dose question, a weight-band question, a "how long" question, a
@@ -346,7 +357,15 @@ def dose_chunk(drug, recs, rng, k=6):
     """
     picked = rng.sample(recs, min(k, len(recs)))
     picked.sort(key=lambda r: (r["doc"], r["page"]))
-    body = "\n".join("[%s p.%d] %s" % (r["doc_label"], r["page"], r["text"]) for r in picked)
+    # The indication travels WITH the dose, in a form the gate can parse back
+    # out. Benzylpenicillin is 3-4 MU for pneumococcal meningitis and 5-6 MU for
+    # meningococcal; a line offered without its indication invites an answer
+    # that is numerically correct and clinically wrong.
+    body = "\n".join(
+        "[%s p.%s] (indication: %s) %s"
+        % (r["doc_label"], r.get("printed_page") or r["page"],
+           r.get("indication") or "not recorded", r["text"])
+        for r in picked)
     pages = [r["page"] for r in picked]
     docs = sorted({r["doc_label"] for r in picked})
     return {
@@ -632,6 +651,11 @@ def main():
                     help="consecutive call failures before aborting the category")
     ap.add_argument("--drug-cap-fraction", type=float, default=0.08,
                     help="max share of a category that may be about one drug")
+    ap.add_argument("--drugs", default="",
+                    help="restrict dosing_duration targets to these drug keys, "
+                         "comma separated -- used to force the hard "
+                         "multi-indication cases into a test batch rather than "
+                         "hoping a random sample includes them")
     ap.add_argument("--max-stalled-calls", type=int, default=8,
                     help="calls yielding no accepted pair before aborting the category")
     args = ap.parse_args()
@@ -663,6 +687,12 @@ def main():
     drug_to_chunks, chunk_to_drugs = build_drug_index(manifest, guards)
     tier_rows, tier_header = load_tier_rows(guards)
     dose_lines, doses_verified = load_dose_lines()
+    if args.drugs:
+        want = {d.strip() for d in args.drugs.split(",") if d.strip()}
+        missing = want - set(dose_lines)
+        if missing:
+            print("no clean dose lines for: %s" % ", ".join(sorted(missing)), file=sys.stderr)
+        dose_lines = {k: v for k, v in dose_lines.items() if k in want}
     if dose_lines:
         print("dose lines: %d drugs with attributed, unflagged lines (verified=%s)"
               % (len(dose_lines), doses_verified))

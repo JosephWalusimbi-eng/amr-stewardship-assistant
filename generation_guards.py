@@ -75,6 +75,34 @@ SPECTRUM_CLAIM = re.compile(
 # Tier words, used to tell a group-level statement from a drug-level one.
 TIER_WORD = re.compile(r"\b(Access|Watch|Reserve)\b", re.I)
 
+# Organism names as guidelines write them, against the adjectival forms
+# clinicians actually use. Without this bridge an answer saying "meningococcal
+# meningitis" would be judged not to match a source line headed "Neisseria
+# meningitidis", and correct pairs would be thrown away.
+ORGANISM_ADJECTIVES = {
+    "streptococcus pneumoniae": "pneumococc",
+    "neisseria meningitidis": "meningococc",
+    "neisseria gonorrhoeae": "gonococc",
+    "haemophilus influenzae": "haemophilus",
+    "staphylococcus aureus": "staphylococc",
+    "streptococcus pyogenes": "streptococc",
+    "listeria monocytogenes": "listeri",
+    "escherichia coli": "coliform",
+    "clostridioides difficile": "difficile",
+    "salmonella typhi": "typhoid",
+}
+GENERIC_DISEASE_WORDS = {
+    # shared by every entry in a section, so they discriminate nothing
+    "meningitis", "meningitidis", "pneumonia", "infection", "infections",
+    "disease", "syndrome", "sepsis", "septicaemia", "fever",
+}
+INDICATION_STOPWORDS = {
+    "course", "cases", "adult", "adults", "child", "children", "severe", "mild",
+    "acute", "chronic", "first", "second", "third", "choice", "empiric",
+    "empirical", "regimen", "treatment", "single", "daily", "hours", "weeks",
+    "identified", "causative", "organisms", "patients", "including", "before",
+}
+
 # A dose or a duration: every number a Category 4 answer is allowed to state.
 DOSE_TOKEN = re.compile(
     r"\b\d[\d,.]*\s*(?:-\s*\d[\d,.]*\s*)?"
@@ -115,6 +143,21 @@ class Guards:
     def drug_in_text(self, drug_key, text):
         return drug_key in self.drug_names(text)
 
+    @staticmethod
+    def is_age_reference(answer, match):
+        """True if this number is somebody's age, not a dose or a duration.
+
+        "infants up to 2 months old" is a patient description restated from the
+        question, not a treatment duration, and demanding it appear in a dose
+        line throws away correct paediatric pairs -- the commonest question
+        shape in this category.
+        """
+        before = answer[max(0, match.start() - 40):match.start()].lower()
+        after = answer[match.end():match.end() + 18].lower()
+        return bool(re.search(r"\b(?:aged?|age of|older than|younger than|under|over|"
+                              r"up to|infants?|neonates?|children|child|babies|baby)\s*$", before)
+                    or re.match(r"\s*(?:old\b|of age\b|-old\b)", after))
+
     def unsupported_doses(self, answer, passage):
         """Dose tokens in the answer that do not occur in the attached lines.
 
@@ -127,10 +170,105 @@ class Guards:
         hay = re.sub(r"[\s,]", "", passage).lower()
         bad = []
         for m in DOSE_TOKEN.finditer(answer):
+            if self.is_age_reference(answer, m):
+                continue
             tok = re.sub(r"[\s,]", "", m.group(0)).lower()
             if tok not in hay:
                 bad.append(m.group(0).strip())
         return sorted(set(bad))
+
+    @staticmethod
+    def source_lines(passage):
+        """[(indication, line_text)] parsed back out of a dose-line passage."""
+        out = []
+        for line in passage.split("\n"):
+            m = re.match(r"\[[^\]]*\]\s*\(indication:\s*(.*?)\)\s*(.*)$", line.strip())
+            if m:
+                out.append((m.group(1).strip(), m.group(2).strip()))
+        return out
+
+    @staticmethod
+    def discriminators(indication):
+        """Terms that distinguish THIS indication from its neighbours.
+
+        Species epithets are useless here: "meningitidis" shares nine leading
+        characters with "meningitis", so prefix-matching let an answer about
+        pneumococcal meningitis satisfy a Neisseria meningitidis source line.
+        The genus and the clinical adjective are distinctive; the disease word
+        shared by every entry in the section is not.
+        """
+        s = (indication or "").lower()
+        out = set()
+        for binom, adj in ORGANISM_ADJECTIVES.items():
+            if binom in s:
+                out.add(adj)
+                out.add(binom.split()[0])          # genus, e.g. "neisseria"
+        if out:
+            return out
+        for w in re.findall(r"[a-z]{5,}", s):
+            if w not in INDICATION_STOPWORDS and w not in GENERIC_DISEASE_WORDS:
+                out.add(w)
+        return out
+
+    @staticmethod
+    def indication_terms(indication):
+        """Words an answer could legitimately use to name this indication.
+
+        Guidelines name the organism ("Neisseria meningitidis"); clinicians name
+        the disease ("meningococcal meningitis"). Matching only the literal
+        string would reject correct answers, so the adjectival forms are mapped
+        explicitly rather than guessed.
+        """
+        s = (indication or "").lower()
+        terms = set()
+        for binom, adj in ORGANISM_ADJECTIVES.items():
+            if binom in s:
+                terms.add(adj)
+                terms.update(binom.split())
+        for w in re.findall(r"[a-z]{5,}", s):
+            if w not in INDICATION_STOPWORDS:
+                terms.add(w)
+        return {t[:7] for t in terms if len(t) >= 5}
+
+    def indication_mismatch(self, answer, passage):
+        """Doses stated for a condition other than the one their source line is for.
+
+        For each number in the answer, find which source lines carry it; if none
+        of those lines' indications is named anywhere in the answer, the answer
+        has taken a real dose and attached it to the wrong clinical question.
+        That is the failure the dose gate cannot see, because the number is
+        genuinely in the source.
+        """
+        lines = self.source_lines(passage)
+        if not lines:
+            return []
+        low = answer.lower()
+        distinct = {ind for ind, _t in lines if ind and ind.lower() != "not recorded"}
+        if len(distinct) < 2:
+            # Only one indication in play: naming it adds nothing to check
+            # against, and the dose gate already covers the numbers.
+            return []
+
+        claimed = {ind for ind in distinct
+                   if any(t in low for t in self.discriminators(ind))}
+        problems = []
+        for m in DOSE_TOKEN.finditer(answer):
+            if self.is_age_reference(answer, m):
+                continue
+            tok = re.sub(r"[\s,]", "", m.group(0)).lower()
+            owners = {ind for ind, text in lines
+                      if tok in re.sub(r"[\s,]", "", text).lower()}
+            owners = {o for o in owners if o and o.lower() != "not recorded"}
+            if not owners:
+                continue
+            if not claimed:
+                problems.append("%s stated with no indication named (source: %s)"
+                                % (m.group(0).strip(), sorted(owners)[0][:55]))
+            elif not (owners & claimed):
+                problems.append("%s belongs to '%s' but the answer names '%s'"
+                                % (m.group(0).strip(), sorted(owners)[0][:45],
+                                   sorted(claimed)[0][:45]))
+        return problems
 
     def true_tier(self, drug_key):
         """AWaRe tier(s) for a drug: a string, a {route: tier} dict, or None."""
@@ -192,6 +330,11 @@ class Guards:
                 bad = self.unsupported_doses(answer, passage)
                 if bad:
                     reasons.append("dose_not_in_source_lines:%s" % ",".join(bad[:4]))
+                else:
+                    # Only meaningful once the numbers themselves check out.
+                    mism = self.indication_mismatch(answer, passage)
+                    if mism:
+                        reasons.append("dose_stated_for_wrong_indication:%s" % "; ".join(mism[:2]))
 
         # (2) AVAILABILITY CLAIMS.
         # Only an attached EMHSLU passage can support one, and only for a drug
