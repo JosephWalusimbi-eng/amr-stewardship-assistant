@@ -238,8 +238,8 @@ def build():
       '<code>scripts/scenario_pool_data.py</code> &middot; quotes verified by '
       '<code>scripts/scenario_pool.py</code> &middot; gates in '
       '<code>c2_exception_guard.py</code>, probed by '
-      '<code>.scratch/probe_c2_exception_smuggle.py</code> and '
-      '<code>.scratch/probe_c1c2_discrimination.py</code></p></footer>')
+      '<code>scripts/probes/probe_c2_exception_smuggle.py</code> and '
+      '<code>scripts/probes/probe_c1c2_discrimination.py</code></p></footer>')
     A("</div>")
     return "\n".join(out)
 

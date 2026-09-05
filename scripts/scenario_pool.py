@@ -97,11 +97,45 @@ LEXICAL_NEGATIONS = {
 }
 
 
+# A negator distributes over a coordinated LIST: "no malnutrition, measles,
+# cardiac disease or anaemia" rules out all four, and that form is unavoidable
+# here because BRO-05 names six comorbidities in one criterion, so a Category 2
+# bronchitis vignette must rule out all six at once. Ending the negator's scope
+# at the first comma -- which is what stopped "no cough -- a Centor score of 4"
+# from over-reaching -- makes every item after the first read as present, and the
+# gate then rejects a correct answer. Scope therefore crosses a comma only while
+# the crossed text is still bare list items: letters and spaces, no article, no
+# number, no verb of assertion. "a Centor score of 4" fails all three tests.
+_LIST_ITEM = re.compile(r"^\s*(?:(?:or|and|nor)\s+)?[a-z][a-z\s'-]*$", re.I)
+_ASSERTS = re.compile(
+    r"\b(?:is|are|was|were|has|have|had|shows?|showing|present|noted|seen|"
+    r"reports?|reported|develops?|developed|complains?|with|plus)\b", re.I)
+
+
+def _negated_across_list(before):
+    """True if `before` ends inside a list still governed by an earlier negator."""
+    last = None
+    for m in re.finditer(NEGATORS, before, re.I):
+        last = m
+    if last is None:
+        return False
+    tail = before[last.end():]
+    if "," not in tail or len(tail) > 90:
+        return False
+    if re.search(r"[.;()\[\]–—-]", tail):
+        return False
+    pieces = [p for p in tail.split(",") if p.strip()]
+    return bool(pieces) and all(_LIST_ITEM.match(p) and not _ASSERTS.search(p)
+                                for p in pieces)
+
+
 def _negated(text, start, end):
     """True if this cue occurrence sits inside a negation."""
-    before = text[max(0, start - 55):start]
+    before = text[max(0, start - 90):start]
     after = text[end:end + 30]
     if re.search(NEGATORS + r"[^.;,()\[\]–—-]{0,18}$", before, re.I):
+        return True
+    if _negated_across_list(before):
         return True
     if re.match(r"[^.;]{0,20}\b(?:is|are|was|were)\s+(?:absent|normal|not\b)", after, re.I):
         return True
@@ -190,6 +224,71 @@ def entries(presentation, kind=None):
             if e["presentation"] == presentation and (kind is None or e["kind"] == kind)]
 
 
+# --- boundary variants --------------------------------------------------------
+# Two presentations have more than one boundary, because two corpus sources draw
+# it in different places. The ruling on both was to keep BOTH rather than pick a
+# winner, generate from each, and tag every pair with the source whose criteria
+# it followed -- so the disagreement is recorded in the dataset itself and can be
+# reported, rather than resolved by fiat and lost.
+AWARE = "who_aware_book_2022"
+UCG = "uganda_clinical_guidelines_2023"
+
+
+def entry_source(e):
+    doc = e.get("doc") or ""
+    if "AWaRe" in doc and "Uganda" in doc:
+        return "both"
+    if "AWaRe" in doc:
+        return AWARE
+    if "Uganda" in doc:
+        return UCG
+    return "unknown"
+
+
+def variants(presentation):
+    """The distinct boundaries drawn for this presentation, one per source.
+
+    A variant is what a single generated pair is written against: one default,
+    one set of exception criteria, and the substitute and escalation material
+    that goes with them. `cross_source` marks a variant whose two halves come
+    from different documents -- acute bronchitis, where AWaRe states the default
+    and names no exception at all, and UCG 5.2.2 names the only exception in the
+    corpus. Such a pair is still generated; it is tagged so the paper can say how
+    many pairs rest on a criterion the other source does not recognise.
+    """
+    exc = entries(presentation, "exception")
+    by_src = {}
+    for e in exc:
+        by_src.setdefault(entry_source(e), []).append(e)
+    defaults = entries(presentation, "default")
+    out = []
+    for src, es in sorted(by_src.items()):
+        # The default is preferably from the same document as the criteria; if
+        # that document states none, the other source's default is used and the
+        # variant is flagged cross-source.
+        own = [d for d in defaults if entry_source(d) == src]
+        cross = not own
+        out.append(dict(
+            presentation=presentation,
+            criteria_source=src,
+            cross_source=cross,
+            default_ids=[d["id"] for d in (own or defaults)],
+            default_source=entry_source((own or defaults)[0]) if defaults else None,
+            exception_ids=[e["id"] for e in es],
+            substitute_ids=[e["id"] for e in entries(presentation, "substitute")],
+            escalation_ids=[e["id"] for e in entries(presentation, "escalation")],
+            non_criterion_ids=[e["id"] for e in entries(presentation, "non_criterion")],
+            first_choice_ids=[e["id"] for e in entries(presentation, "first_choice")],
+            chunk_ids=sorted({e["chunk_id"] for e in es}
+                             | {d["chunk_id"] for d in (own or defaults)}),
+        ))
+    return out
+
+
+def all_variants():
+    return [v for p in presentations() for v in variants(p)]
+
+
 def verify():
     """Every quote must occur in the chunk it names. Returns a list of failures.
 
@@ -218,7 +317,7 @@ def verify():
     return bad
 
 
-def satisfied_criteria(presentation, vignette):
+def satisfied_criteria(presentation, vignette, source=None):
     """Which exception criteria this vignette actually satisfies.
 
     A criterion is a set of LIMBS -- each cue alternation is one limb, and the
@@ -239,6 +338,14 @@ def satisfied_criteria(presentation, vignette):
     """
     hits = []
     for e in entries(presentation, "exception"):
+        # When a pair was generated against one source's boundary, it is judged
+        # against that source's criteria only. A COPD vignette at 38.5 C crosses
+        # UCG's threshold (temp >38) and does not cross AWaRe's (severe /
+        # hospitalised); which of those is the right answer depends entirely on
+        # which boundary the pair was written for, so the tag has to be honoured
+        # or the discrimination check is measuring the wrong thing.
+        if source and entry_source(e) not in (source, "both"):
+            continue
         fired = []
         for pat in e.get("cues", ()):
             if cue_present(vignette, pat):
@@ -260,10 +367,12 @@ def stated_bounds(text):
     return out
 
 
-def pool_bounds(presentation):
-    """(kind, value) pairs the corpus actually states for this presentation."""
+def pool_bounds(presentation, source=None):
+    """(kind, value) pairs the corpus states as CRITERIA for this presentation."""
     out = set()
     for e in entries(presentation, "exception"):
+        if source and entry_source(e) not in (source, "both"):
+            continue
         b = e.get("bound")
         if b:
             out.add((b["kind"], float(b["value"])))

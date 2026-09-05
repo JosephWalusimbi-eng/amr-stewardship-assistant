@@ -12,7 +12,7 @@ threshold is invisible to every gate built so far:
     lower bar for every future patient in the same breath.
 
 That is the exception-criteria smuggle, and it has four shapes, all seen in
-`.scratch/probe_c2_exception_smuggle.py`:
+`scripts/probes/probe_c2_exception_smuggle.py`:
 
   (a) conditional hand-off with no drug named  -- "if the sputum turns purulent,
       begin the first-choice agent for 5 days"
@@ -143,7 +143,28 @@ class BoundaryGuards:
             out.append(span.strip()[:100])
         return out
 
-    def unsourced_bounds(self, answer, presentation):
+    def other_source_bounds(self, presentation, source):
+        """Bounds the OTHER source states for this presentation.
+
+        Where two sources draw the boundary differently, an answer that cites the
+        other source's threshold is a different defect from one that invents a
+        number: it is real, it is in the corpus, and it is attached to the wrong
+        variant. Reporting the two separately keeps the conflict visible instead
+        of collapsing it into "unsourced", which would make the disagreement look
+        like a hallucination in the rejection log.
+        """
+        if not source:
+            return set()
+        out = set()
+        for e in sp.entries(presentation, "exception"):
+            if sp.entry_source(e) in (source, "both"):
+                continue
+            b = e.get("bound")
+            if b:
+                out.add((b["kind"], float(b["value"])))
+        return out
+
+    def unsourced_bounds(self, answer, presentation, source=None):
         """Shape (d): a criterion stated with a number the source never states.
 
         Only sentences that are BOTH criterion-framed and antibiotic-referring
@@ -153,7 +174,8 @@ class BoundaryGuards:
         table would reject correct data -- the mistake the duration gate already
         made once by treating "infants up to 2 months" as a treatment course.
         """
-        allowed = self.source_bounds(presentation)
+        allowed = self.source_bounds(presentation, source)
+        other = self.other_source_bounds(presentation, source)
         out = []
         for s in _sentences(answer):
             if not CRITERION_MARKER.search(s):
@@ -161,7 +183,12 @@ class BoundaryGuards:
             if not (self.antibiotics_in(s) or GENERIC_ANTIBIOTIC_REF.search(s)):
                 continue
             for kind, val in sorted(sp.stated_bounds(s)):
-                if (kind, val) not in allowed:
+                if (kind, val) in allowed:
+                    continue
+                if (kind, val) in other:
+                    out.append("%s=%g is the OTHER source's threshold for %s, not this pair's"
+                               % (kind, val, presentation))
+                else:
                     out.append("%s=%g not stated for %s (source has %s)"
                                % (kind, val, presentation,
                                   ", ".join("%s=%g" % kv for kv in sorted(allowed)) or "no bound"))
@@ -169,7 +196,7 @@ class BoundaryGuards:
 
     _bound_cache = {}
 
-    def source_bounds(self, presentation):
+    def source_bounds(self, presentation, source=None):
         """Every (kind, value) the verified quotes for this presentation state.
 
         Deliberately the union over ALL kinds of statement, not just exception
@@ -180,20 +207,29 @@ class BoundaryGuards:
         all for this presentation -- and that is the one that catches a bound
         loosened to a value the corpus never mentions.
         """
-        if presentation in self._bound_cache:
-            return self._bound_cache[presentation]
+        key = (presentation, source)
+        if key in self._bound_cache:
+            return self._bound_cache[key]
         allowed = set()
         for e in sp.entries(presentation):
+            # The CRITERIA are source-specific -- that is the whole point of
+            # tagging a pair with the boundary it was written against. Everything
+            # else is not: the only dosed symptomatic management for COPD comes
+            # from UCG 5.1.2, and a pair written against AWaRe's threshold still
+            # needs it, so a substitute or escalation number stays allowed
+            # whichever source stated it.
+            if e["kind"] == "exception" and source and sp.entry_source(e) not in (source, "both"):
+                continue
             for field in ("quote", "note"):
                 allowed |= sp.stated_bounds(e.get(field) or "")
             b = e.get("bound")
             if b:
                 allowed.add((b["kind"], float(b["value"])))
-        self._bound_cache[presentation] = allowed
+        self._bound_cache[key] = allowed
         return allowed
 
     # -- the discrimination property -----------------------------------------
-    def boundary_side(self, presentation, vignette):
+    def boundary_side(self, presentation, vignette, source=None):
         """Which side of the exception boundary this vignette falls on.
 
         Returns (side, evidence). side is "exception" if any named criterion is
@@ -207,7 +243,7 @@ class BoundaryGuards:
         named criterion is genuinely uncomplicated -- "systemically very unwell"
         (AOM-02) is a judgement no cue list enumerates.
         """
-        hits = sp.satisfied_criteria(presentation, vignette or "")
+        hits = sp.satisfied_criteria(presentation, vignette or "", source=source)
         return ("exception" if hits else "default"), hits
 
     # -- composed ------------------------------------------------------------
@@ -218,6 +254,7 @@ class BoundaryGuards:
         if cat not in ("no_antibiotic_indicated", "antibiotic_indicated"):
             return reasons
 
+        src = record.get("criteria_source")
         if cat == "no_antibiotic_indicated":
             named = self.recommends_antibiotic(answer)
             if named:
@@ -229,17 +266,17 @@ class BoundaryGuards:
             if claim:
                 reasons.append("c2_asserts_antibiotic_indicated:%s" % claim[0])
             if pres:
-                bad = self.unsourced_bounds(answer, pres)
+                bad = self.unsourced_bounds(answer, pres, src)
                 if bad:
                     reasons.append("c2_exception_bound_not_in_source:%s" % "; ".join(bad[:2]))
-                side, hits = self.boundary_side(pres, question)
+                side, hits = self.boundary_side(pres, question, src)
                 if side == "exception":
                     reasons.append("c2_vignette_satisfies_exception:%s"
                                    % ",".join("%s(%s)" % (i, f[0]) for i, f in hits))
 
         else:  # antibiotic_indicated
             if pres:
-                side, hits = self.boundary_side(pres, question)
+                side, hits = self.boundary_side(pres, question, src)
                 if side != "exception":
                     reasons.append("c1_vignette_satisfies_no_named_exception:%s" % pres)
         return reasons
