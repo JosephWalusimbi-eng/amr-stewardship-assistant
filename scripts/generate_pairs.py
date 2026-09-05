@@ -128,6 +128,15 @@ Use ONLY the classification table below for tier assignments.
 state its group. Vary the drug: do NOT keep returning to amoxicillin and the other
 few obvious ones. Work across the classification table, including less familiar
 agents.
+
+CITE THE ROW. Whenever you state a tier, quote the ATC code from the row you took
+it from -- "Mecillinam is in the Access group (ATC J01CA11)". The code is checked
+against the classification: it must be the code for the drug you are naming, and
+its tier must be the tier you assert. This is not a formatting rule. A tier you
+cannot cite a code for is a tier you are recalling rather than reading, and
+recalled tiers in this category have been wrong often enough that they are
+rejected. If the row for a drug is not in the extract above, do not invent a code
+-- say the material provided does not cover that drug.
 If a drug's tier differs by route (fosfomycin, minocycline), the answer MUST give both
 routes rather than one tier.
 If a drug is not in the table at all (isoniazid, ethambutol, pyrazinamide, dapsone,
@@ -308,7 +317,7 @@ def load_tier_rows(guards):
     return rows, header
 
 
-def tier_excerpt(targets, tier_rows, header):
+def tier_excerpt(targets, tier_rows, header, classified=frozenset()):
     """The classification rows for this call's drugs, and nothing else."""
     if not targets:
         return ""
@@ -322,12 +331,24 @@ def tier_excerpt(targets, tier_rows, header):
         else:
             missing.append(d)
     body = "\n".join(out)
-    if missing:
-        body += ("\n\nNOT PRESENT in the AWaRe classification at all: %s. For these the "
-                 "correct answer is that AWaRe does not classify the agent -- do not "
-                 "guess a tier." % ", ".join(missing))
+    # Split "genuinely unclassified" from "simply not in this excerpt". Only the
+    # first licenses "AWaRe does not classify this". A 550-pair run produced 13
+    # answers asserting that rifampicin, sisomicin, daptomycin and tinidazole are
+    # unclassified -- all four have tiers -- because the model read absence from
+    # its own excerpt as absence from the classification.
+    truly_absent = [d for d in missing if not classified or d not in classified]
+    if truly_absent:
+        body += ("\n\nNOT IN THE AWaRe CLASSIFICATION AT ALL: %s. AWaRe does not classify "
+                 "anti-TB and antileprosy agents; for these the correct answer is that "
+                 "AWaRe does not classify the agent -- do not guess a tier."
+                 % ", ".join(truly_absent))
     return ("\nAWaRe CLASSIFICATION -- the authoritative rows for this call "
-            "(tier is the 4th column):\n" + body + "\n")
+            "(tier is the 4th column):\n" + body + "\n"
+            "\nThese rows are an EXTRACT, not the whole classification. If you write "
+            "about a drug whose row is not shown above, say that the material provided "
+            "does not cover it. Do NOT say that AWaRe does not classify it: absence "
+            "from this extract is not absence from the classification, and stating "
+            "otherwise about a drug that does have a tier is a factual error.\n")
 
 
 def load_dose_lines():
@@ -743,7 +764,21 @@ def main():
         # No chunk over 2.5% of the category -- but one call emits
         # pairs_per_call records from a single chunk, so a cap below that can
         # never be honoured and silently did nothing.
-        cap = max(args.pairs_per_call, int(target * 0.025))
+        #
+        # DELIBERATE EXCEPTION, aware_classification only. See section 5 of
+        # amr_dataset_generation_prompts.md for the reasoning and the decision.
+        # Chunk-level diversity is a proxy for source diversity, and for this
+        # category the authoritative source legitimately IS one table: the WHO
+        # AWaRe classification. Only 32 chunks are eligible, so a 2.5% cap
+        # (13 pairs each) puts an arithmetic ceiling of 416 on a 550 target and
+        # stalls near 320 in practice -- the constraint and the target cannot
+        # both hold. Diversity here is properly measured over DRUGS, which the
+        # per-drug cap below enforces directly. This is not a global loosening:
+        # every other category keeps the chunk cap.
+        if category == "aware_classification":
+            cap = None
+        else:
+            cap = max(args.pairs_per_call, int(target * 0.025))
         # No single drug over this share of the category, so coverage spreads
         # across the classification table instead of pooling on amoxicillin.
         drug_cap = max(1, int(target * args.drug_cap_fraction))
@@ -763,7 +798,8 @@ def main():
         while len(done) < target:
             before = len(done)
             candidates = [c for c in pool
-                          if c is None or seen_chunks[c["chunk_id"]] < cap]
+                          if c is None or cap is None
+                          or seen_chunks[c["chunk_id"]] < cap]
             if not candidates:
                 print("   every chunk hit the 2.5%% cap at %d records -- stopping this "
                       "category" % len(done), file=sys.stderr)
@@ -773,7 +809,7 @@ def main():
                                         chunk_to_drugs, chunks_by_id, formulary_ids,
                                         seen_drugs, drug_cap, n, dose_lines, classified_drugs)
             chunk = chunks[0]
-            excerpt = tier_excerpt(targets, tier_rows, tier_header) or tier_table
+            excerpt = tier_excerpt(targets, tier_rows, tier_header, classified_drugs) or tier_table
             prompt = build_user_prompt(category, chunks, n, excerpt, targets)
 
             if args.dry_run:

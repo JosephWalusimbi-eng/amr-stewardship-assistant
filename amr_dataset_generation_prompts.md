@@ -297,11 +297,48 @@ The validator blocks any Category 7d answer containing a day-count pattern
 Distribution constraints the validator checks:
 
 - indicated : not-indicated within 50:50 – 60:40.
-- No single `chunk_id` accounts for more than 2.5% of a category.
+- No single `chunk_id` accounts for more than 2.5% of a category —
+  **except `aware_classification`, see the exception below.**
 - Register split within ±3 points of: health_worker 68%, patient 15%, farmer 10%,
   mixed-register Category 7 making up the rest.
 - `context_mode`: grounded 30% ±5.
 - Paediatric `audience` ≥ 20% of Categories 1, 2 and 4 combined.
+
+### Exception: `aware_classification` uses drug diversity, not chunk diversity
+
+**Decided 2026-09-04, deliberately and for this category only.**
+
+The 2.5% chunk cap exists to stop a category resting on a handful of source
+passages. For `aware_classification` it measures the wrong thing. The
+authoritative source for an AWaRe tier legitimately *is* one document — the WHO
+AWaRe classification 2023 — so chunk-level concentration is expected rather than
+a defect, and chunk identity carries no information about whether the category
+covers the antibiotic space well.
+
+It is also arithmetically unsatisfiable here. Only **32 chunks** are eligible for
+this category. At a 550-pair target the cap is 13 pairs per chunk, giving a hard
+ceiling of **32 × 13 = 416** — below the target — and in practice the candidate
+pool collapses as chunks saturate, stalling three separate runs at 323, 320 and
+326 pairs. The target and the constraint cannot both be satisfied.
+
+So for `aware_classification`:
+
+- the **chunk cap does not apply**;
+- diversity is enforced on **drug identity** instead, via the per-drug cap
+  (`--drug-cap-fraction`, default 0.08; runs at scale use 0.02, i.e. no single
+  drug exceeds 2% of the category). 264 drugs are reachable from the pool, so
+  this is a real constraint, not a formality;
+- every other category keeps the chunk cap unchanged.
+
+**Rejected alternative:** splitting the AWaRe table into more, smaller chunks
+would have satisfied the 2.5% rule arithmetically while leaving the actual source
+concentration identical. That is compliance with the letter of the rule against
+its purpose, and it was rejected on those grounds.
+
+**Consequence to accept honestly:** if the realised count still falls short of
+550 once the arithmetic wall is removed, the limit is how many antibiotics the
+model can classify correctly from a real excerpt. Take the smaller number and
+record it. Do not relax a correctness guard to reach a target.
 
 ---
 

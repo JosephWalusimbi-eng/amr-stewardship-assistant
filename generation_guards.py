@@ -103,6 +103,28 @@ INDICATION_STOPWORDS = {
     "identified", "causative", "organisms", "patients", "including", "before",
 }
 
+# A claim that AWaRe does not classify a drug AT ALL, as opposed to the honest
+# local statement that the material provided does not cover it. The qualifiers
+# ("provided", "above", "in this extract") mark the local form and are excluded,
+# because saying the extract does not contain a drug is true and wanted.
+#
+# A 550-pair run produced 13 answers asserting that rifampicin, sisomicin,
+# daptomycin and tinidazole are unclassified. All four have tiers. The model was
+# generalising from the absence of a row in its own excerpt, which is exactly
+# what a focused-retrieval prompt invites unless it is told not to.
+NONCLASSIFICATION_GLOBAL = re.compile(
+    r"AWaRe\s+(?:classification\s+)?does\s+not\s+(?:classify|specify|include|list|cover|assign)|"
+    r"(?:is\s+)?not\s+classified\s+(?:by|under|in)\s+AWaRe|"
+r"AWaRe[^.]{0,40}does\s+not\s+specify\s+a\s+(?:category|tier|group)|"
+    r"not\s+(?:in|included\s+in|listed\s+in|part\s+of)\s+the\s+AWaRe\s+classification"
+    r"(?!\s+(?:provided|above|shown|given|extract|rows|here|in\s+this))",
+    re.I)
+
+# An ATC code as printed in the classification rows, e.g. J01CA11. Category 3
+# answers must cite the one belonging to the row they used, which is a claim that
+# can be checked -- unlike "I read the table", which cannot.
+ATC_CODE = re.compile(r"(?<![A-Za-z0-9])([A-Z][0-9]{2}[A-Z]{2}[0-9]{2})(?![A-Za-z0-9])")
+
 # A dose or a duration: every number a Category 4 answer is allowed to state.
 DOSE_TOKEN = re.compile(
     r"\b\d[\d,.]*\s*(?:-\s*\d[\d,.]*\s*)?"
@@ -113,6 +135,75 @@ DOSE_TOKEN = re.compile(
 class Guards:
     def __init__(self):
         self.v = Validator()
+        self._build_atc_index()
+        self._build_component_index()
+        from c2_exception_guard import BoundaryGuards
+        self.boundary = BoundaryGuards(self.v)
+
+    def _build_atc_index(self):
+        """ATC code -> the drugs and tiers that code actually belongs to.
+
+        Requiring an answer to quote a code only proves it copied something
+        code-shaped from the excerpt. Resolving the code back to its row is what
+        makes the citation checkable: it catches an answer citing a real code
+        that belongs to a different drug, or to a row whose tier contradicts the
+        one asserted. A field that is present but unverified is the same bug
+        shape as the facility-level column standing in for an indication.
+        """
+        self.atc = {}
+        for v in self.v.aware["antibiotics"].values():
+            code = (v.get("atc") or "").strip().upper()
+            if not ATC_CODE.fullmatch(code):
+                continue          # "to be assigned" and similar placeholders
+            entry = self.atc.setdefault(code, {"drugs": set(), "tiers": set()})
+            entry["drugs"].add(norm_drug(re.sub(r"_(IV|oral)$", "", v["antibiotic"])))
+            if v.get("category"):
+                entry["tiers"].add(v["category"])
+
+    def _build_component_index(self):
+        """Combination name -> its component drugs, when each is itself known.
+
+        "rifampicin-clofazimine-dapsone" matches the EMHSLU combination, which
+        carries no AWaRe tier, and the bare "rifampicin" inside it is masked out
+        by longest-match-first. That let an answer claim AWaRe does not classify
+        it, while rifampicin on its own is Watch.
+        """
+        known = {norm_drug(re.sub(r"_(IV|oral)$", "", n)) for n in self.v.known_drugs}
+        self.components = {}
+        for n in self.v.known_drugs:
+            base = re.sub(r"_(IV|oral)$", "", n)
+            parts = [norm_drug(x) for x in re.split(r"[+/\-]| and ", base) if x.strip()]
+            parts = [x for x in parts if x and x in known and x != norm_drug(base)]
+            if len(parts) > 1:
+                self.components[norm_drug(base)] = parts
+
+    def expand_components(self, keys):
+        """Drug keys plus, for combinations, the components they are made of."""
+        out = set(keys)
+        for k in list(keys):
+            out.update(self.components.get(k, ()))
+        return out
+
+    def atc_citation_problems(self, answer):
+        """Cited codes that do not support what the answer actually says."""
+        named = self.drug_names(answer)
+        stated = {t.capitalize() for t in TIER_WORD.findall(answer)}
+        problems = []
+        for m in ATC_CODE.finditer(answer):
+            code = m.group(1).upper()
+            entry = self.atc.get(code)
+            if not entry:
+                problems.append("%s is not an ATC code in the classification" % code)
+                continue
+            if named and not (entry["drugs"] & named):
+                problems.append("%s belongs to %s, not to the drug named"
+                                % (code, "/".join(sorted(entry["drugs"]))))
+                continue
+            if stated and entry["tiers"] and not (entry["tiers"] & stated):
+                problems.append("%s is %s but the answer says %s"
+                                % (code, "/".join(sorted(entry["tiers"])),
+                                   "/".join(sorted(stated))))
+        return problems
 
     # -- helpers ------------------------------------------------------------
     def drug_names(self, text):
@@ -288,8 +379,9 @@ class Guards:
         # batch produced the bare "The passage provided does not cover
         # spiramycin." -- a refusal with no reasoning is not a training example,
         # and in that case the drug was in fact classified.
-        if len(answer.strip()) < 80:
-            reasons.append("answer_too_short:%d_chars" % len(answer.strip()))
+        stripped = answer.strip()
+        if len(stripped) < 80 and not (self.drug_names(stripped) and TIER_WORD.search(stripped)):
+            reasons.append("answer_lacks_substance:%d_chars" % len(stripped))
         mode = record.get("context_mode")
         passage = self.passage_text(chunks)
         formulary = self.formulary_text(chunks)
@@ -387,9 +479,37 @@ class Guards:
                 if key in self.drug_names(window):
                     near.add(tm.group(0).capitalize())
             claimed = near or stated
-            if claimed and not (wanted & claimed):
+            # Every route, not any of them. Fosfomycin is Reserve IV and Watch
+            # oral; an answer naming only "Reserve" is clinically incomplete and
+            # a set-intersection test lets it through.
+            if claimed and not wanted.issubset(claimed):
                 reasons.append("tier_contradicts_classification:%s_stated_%s_expected_%s"
                                % (key, "/".join(sorted(claimed)), "/".join(sorted(wanted))))
+
+        # (3a) CITED ATC CODE MUST SUPPORT THE ANSWER.
+        # A tier assertion has to quote the code from the row it used, and that
+        # code is then resolved back to its drug and tier. Copying any code from
+        # the excerpt is not enough.
+        if record.get("category") == "aware_classification":
+            stated_tiers = {t.capitalize() for t in TIER_WORD.findall(answer)}
+            drug_named = bool(a_drugs | q_drugs)
+            cited = ATC_CODE.findall(answer)
+            if stated_tiers and drug_named and not says_noncoverage and not cited:
+                reasons.append("tier_asserted_without_atc_citation")
+            bad_cite = self.atc_citation_problems(answer)
+            if bad_cite:
+                reasons.append("atc_citation_does_not_support_answer:%s" % "; ".join(bad_cite[:2]))
+
+        # (3b) FALSE NON-CLASSIFICATION.
+        # Saying "the extract does not cover X" is honest and wanted. Saying
+        # "AWaRe does not classify X" about a drug that has a tier is a factual
+        # error, and a damaging one to train on: it teaches the model to deny
+        # classification for real antibiotics.
+        if NONCLASSIFICATION_GLOBAL.search(answer):
+            candidates = self.expand_components(q_drugs | a_drugs)
+            wrongly = sorted(d for d in candidates if self.true_tier(d) is not None)
+            if wrongly:
+                reasons.append("false_nonclassification_claim:%s" % ",".join(wrongly[:3]))
 
         # (4) DRUG-LEVEL PROPERTY CLAIMS.
         # A spectrum or resistance-potential statement is allowed as a property
@@ -406,6 +526,15 @@ class Guards:
             if unsupported:
                 reasons.append("drug_level_property_claim_unsourced:%s" % ",".join(unsupported))
                 break
+
+        # (5) THE CATEGORY 1/2 BOUNDARY.
+        # Categories 1 and 2 are two sides of one exception boundary, so they are
+        # gated together against the reviewed scenario pool: no conditional
+        # hand-off of a prescribing rule, no criterion stated with a threshold the
+        # source does not contain, and the vignette must actually fall on the side
+        # its category claims. See c2_exception_guard for why a drug-name gate
+        # cannot see any of that.
+        reasons.extend(self.boundary.screen(record, question, answer))
 
         return reasons
 
