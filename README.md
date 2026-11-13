@@ -1,4 +1,4 @@
-# OneAMR — Offline Antimicrobial Stewardship Assistant for Uganda
+# OneAMR: Offline Antimicrobial Stewardship Assistant for Uganda
 
 An on-device assistant that helps **health workers, patients, and farmers** use antibiotics responsibly. It runs a 3B-parameter language model entirely offline through [llama.cpp](https://github.com/ggerganov/llama.cpp) and grounds every answer in WHO and Ugandan clinical guidance retrieved from a local index.
 
