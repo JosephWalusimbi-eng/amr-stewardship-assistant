@@ -149,14 +149,6 @@ See [`REPORT.md`](REPORT.md) for the full rationale and alternatives considered.
 
 OneAMR is a decision-support and education tool, **not** a substitute for clinical judgement, a prescriber's examination, or a veterinarian's advice. Verify doses and durations against current national guidelines before acting.
 
-## Team
-
-B.Eng Electronics and Computer Engineering students, Soroti University, Uganda.
-
-- Joseph Walusimbi (team lead)
-- Joshua Benjamin Ssentongo
-- Jacinta Achieng Oketch
-
 ## License
 
 Licensed under the GNU General Public License v3.0. See [`LICENSE`](LICENSE).
