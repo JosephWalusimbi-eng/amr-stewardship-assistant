@@ -40,3 +40,6 @@ how to run.txt
 # until the clinical hand-check is done)
 raw/
 dataset/
+
+# Paper drafts and notes are kept local
+paper/
